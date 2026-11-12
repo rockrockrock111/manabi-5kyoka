@@ -36,5 +36,695 @@
     "answer": 0,
     "explanation": "分配法則で掛け合わせる。",
     "difficulty": "basic"
+  },
+  {
+    "id": "math-g2-u01-001",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "(3x＋3)＋(3x−1) をまとめた式のxの係数は？",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "同類項をまとめると6x＋2。xの係数は6。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3+3"
+    }
+  },
+  {
+    "id": "math-g2-u01-002",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "4x²y÷(4xy) の値で、x＝4としたときの値は？（y≠0）",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "共通のxyを約分し(4/4)x。x＝4より4。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4*4/4"
+    }
+  },
+  {
+    "id": "math-g2-u01-003",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "x＋y＝5、xy＝5のとき、2x＋2y＋3xyの値は？",
+    "options": [
+      "24",
+      "27",
+      "25",
+      "26"
+    ],
+    "answer": 2,
+    "explanation": "2(x＋y)＋3xyに置き換え、2×5＋3×5＝25。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*5+3*5"
+    }
+  },
+  {
+    "id": "math-g2-u01-004",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "(6x−2y)−(2x＋3y) をまとめた式のyの係数は？",
+    "options": [
+      "-3",
+      "-5",
+      "-4",
+      "-6"
+    ],
+    "answer": 1,
+    "explanation": "後ろの括弧を外すと−2x−3y。yの係数は−2−3＝-5。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-2-3"
+    }
+  },
+  {
+    "id": "math-g2-u01-005",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "等式y＝3x＋7をxについて解く。y＝16のときのxは？",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "x＝(y−7)/3。yを代入してx＝3。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(16-7)/3"
+    }
+  },
+  {
+    "id": "math-g2-u01-006",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "(8x＋4)＋(3x−1) をまとめた式のxの係数は？",
+    "options": [
+      "12",
+      "10",
+      "13",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "同類項をまとめると11x＋3。xの係数は11。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "8+3"
+    }
+  },
+  {
+    "id": "math-g2-u01-007",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "9x²y÷(5xy) の値で、x＝5としたときの値は？（y≠0）",
+    "options": [
+      "8",
+      "11",
+      "9",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "共通のxyを約分し(9/5)x。x＝5より9。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "9*5/5"
+    }
+  },
+  {
+    "id": "math-g2-u01-008",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "x＋y＝10、xy＝2のとき、2x＋2y＋3xyの値は？",
+    "options": [
+      "28",
+      "26",
+      "27",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "2(x＋y)＋3xyに置き換え、2×10＋3×2＝26。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*10+3*2"
+    }
+  },
+  {
+    "id": "math-g2-u01-009",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "(11x−3y)−(2x＋3y) をまとめた式のyの係数は？",
+    "options": [
+      "-6",
+      "-5",
+      "-7",
+      "-4"
+    ],
+    "answer": 0,
+    "explanation": "後ろの括弧を外すと−2x−3y。yの係数は−3−3＝-6。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-3-3"
+    }
+  },
+  {
+    "id": "math-g2-u01-010",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "等式y＝4x＋12をxについて解く。y＝24のときのxは？",
+    "options": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "x＝(y−12)/4。yを代入してx＝3。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(24-12)/4"
+    }
+  },
+  {
+    "id": "math-g2-u01-011",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "(13x＋5)＋(3x−1) をまとめた式のxの係数は？",
+    "options": [
+      "15",
+      "18",
+      "16",
+      "17"
+    ],
+    "answer": 2,
+    "explanation": "同類項をまとめると16x＋4。xの係数は16。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "13+3"
+    }
+  },
+  {
+    "id": "math-g2-u01-012",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "14x²y÷(2xy) の値で、x＝2としたときの値は？（y≠0）",
+    "options": [
+      "16",
+      "14",
+      "15",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "共通のxyを約分し(14/2)x。x＝2より14。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "14*2/2"
+    }
+  },
+  {
+    "id": "math-g2-u01-013",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "x＋y＝15、xy＝3のとき、2x＋2y＋3xyの値は？",
+    "options": [
+      "39",
+      "40",
+      "38",
+      "41"
+    ],
+    "answer": 0,
+    "explanation": "2(x＋y)＋3xyに置き換え、2×15＋3×3＝39。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*15+3*3"
+    }
+  },
+  {
+    "id": "math-g2-u01-014",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "(16x−4y)−(2x＋3y) をまとめた式のyの係数は？",
+    "options": [
+      "-6",
+      "-8",
+      "-5",
+      "-7"
+    ],
+    "answer": 3,
+    "explanation": "後ろの括弧を外すと−2x−3y。yの係数は−4−3＝-7。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-4-3"
+    }
+  },
+  {
+    "id": "math-g2-u01-015",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "等式y＝5x＋17をxについて解く。y＝32のときのxは？",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "x＝(y−17)/5。yを代入してx＝3。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(32-17)/5"
+    }
+  },
+  {
+    "id": "math-g2-u01-016",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "(18x＋2)＋(3x−1) をまとめた式のxの係数は？",
+    "options": [
+      "23",
+      "21",
+      "22",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "同類項をまとめると21x＋1。xの係数は21。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "18+3"
+    }
+  },
+  {
+    "id": "math-g2-u01-017",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "19x²y÷(3xy) の値で、x＝3としたときの値は？（y≠0）",
+    "options": [
+      "19",
+      "20",
+      "18",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "共通のxyを約分し(19/3)x。x＝3より19。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "19*3/3"
+    }
+  },
+  {
+    "id": "math-g2-u01-018",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "x＋y＝20、xy＝4のとき、2x＋2y＋3xyの値は？",
+    "options": [
+      "53",
+      "51",
+      "54",
+      "52"
+    ],
+    "answer": 3,
+    "explanation": "2(x＋y)＋3xyに置き換え、2×20＋3×4＝52。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*20+3*4"
+    }
+  },
+  {
+    "id": "math-g2-u01-019",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "(21x−5y)−(2x＋3y) をまとめた式のyの係数は？",
+    "options": [
+      "-9",
+      "-6",
+      "-8",
+      "-7"
+    ],
+    "answer": 2,
+    "explanation": "後ろの括弧を外すと−2x−3y。yの係数は−5−3＝-8。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-5-3"
+    }
+  },
+  {
+    "id": "math-g2-u01-020",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "basic",
+    "question": "等式y＝2x＋22をxについて解く。y＝28のときのxは？",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "x＝(y−22)/2。yを代入してx＝3。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(28-22)/2"
+    }
+  },
+  {
+    "id": "math-g2-u01-021",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "standard",
+    "question": "x＝3、y＝−3のとき、23(x−y)−2(x＋y)の値は？",
+    "options": [
+      "138",
+      "139",
+      "137",
+      "140"
+    ],
+    "answer": 0,
+    "explanation": "先に括弧内を計算し、23×6−2×0＝138。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "23*(3+3)-2*(3-3)"
+    }
+  },
+  {
+    "id": "math-g2-u01-022",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "standard",
+    "question": "x＝4、y＝4のとき、(6x＋3y)÷3−(x−y)の値は？",
+    "options": [
+      "13",
+      "11",
+      "14",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "式を整理するとx＋2y。代入して12。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(6*4+3*4)/3-(4-4)"
+    }
+  },
+  {
+    "id": "math-g2-u01-023",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "standard",
+    "question": "連続する3整数の最小をnとする。n＝5のとき、それらの和から3nを引くと？",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "和は3n＋3。そこから3nを引くと3。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(5+(5+1)+(5+2))-3*5"
+    }
+  },
+  {
+    "id": "math-g2-u01-024",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "standard",
+    "question": "等式3x＋2y＝26をyについて解く。x＝−2のときyは？",
+    "options": [
+      "18",
+      "16",
+      "17",
+      "15"
+    ],
+    "answer": 1,
+    "explanation": "y＝(26−3x)/2に代入し16。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(26+3*2)/2"
+    }
+  },
+  {
+    "id": "math-g2-u01-025",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "standard",
+    "question": "距離s＝vt、v＝27、t＝3のとき、tを2倍にしvを半分にした距離は？",
+    "options": [
+      "81",
+      "82",
+      "80",
+      "83"
+    ],
+    "answer": 0,
+    "explanation": "半分×2倍で積は元と同じ81。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(27/2)*(2*3)"
+    }
+  },
+  {
+    "id": "math-g2-u01-026",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "standard",
+    "question": "x＝8、y＝−4のとき、28(x−y)−2(x＋y)の値は？",
+    "options": [
+      "329",
+      "327",
+      "330",
+      "328"
+    ],
+    "answer": 3,
+    "explanation": "先に括弧内を計算し、28×12−2×4＝328。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "28*(8+4)-2*(8-4)"
+    }
+  },
+  {
+    "id": "math-g2-u01-027",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "standard",
+    "question": "x＝9、y＝5のとき、(6x＋3y)÷3−(x−y)の値は？",
+    "options": [
+      "18",
+      "21",
+      "19",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "式を整理するとx＋2y。代入して19。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(6*9+3*5)/3-(9-5)"
+    }
+  },
+  {
+    "id": "math-g2-u01-028",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "standard",
+    "question": "連続する3整数の最小をnとする。n＝10のとき、それらの和から3nを引くと？",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "和は3n＋3。そこから3nを引くと3。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(10+(10+1)+(10+2))-3*10"
+    }
+  },
+  {
+    "id": "math-g2-u01-029",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "standard",
+    "question": "等式3x＋2y＝31をyについて解く。x＝−3のときyは？",
+    "options": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "answer": 0,
+    "explanation": "y＝(31−3x)/2に代入し20。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(31+3*3)/2"
+    }
+  },
+  {
+    "id": "math-g2-u01-030",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "式の計算",
+    "difficulty": "standard",
+    "question": "距離s＝vt、v＝32、t＝4のとき、tを2倍にしvを半分にした距離は？",
+    "options": [
+      "129",
+      "127",
+      "130",
+      "128"
+    ],
+    "answer": 3,
+    "explanation": "半分×2倍で積は元と同じ128。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(32/2)*(2*4)"
+    }
   }
 ]

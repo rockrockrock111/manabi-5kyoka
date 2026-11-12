@@ -36,5 +36,385 @@
     "answer": 1,
     "explanation": "道管は水や無機養分を運ぶ。",
     "difficulty": "basic"
+  },
+  {
+    "id": "science-g1-u01-001",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "説明「植物細胞で光合成を行う緑色のつくり」に最もよく当てはまる用語は？",
+    "options": [
+      "葉緑体",
+      "気孔",
+      "道管",
+      "柱頭"
+    ],
+    "answer": 0,
+    "explanation": "葉緑体とは、植物細胞で光合成を行う緑色のつくり。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-002",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "光が当たった葉でデンプンが作られることに直接関わるのは？",
+    "options": [
+      "細胞壁だけ",
+      "根毛だけ",
+      "花粉だけ",
+      "葉緑体"
+    ],
+    "answer": 3,
+    "explanation": "葉緑体が光エネルギーを使う光合成の場となる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-003",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "説明「葉などにあり気体や水蒸気が出入りする小さな穴」に最もよく当てはまる用語は？",
+    "options": [
+      "師管",
+      "胚珠",
+      "気孔",
+      "蒸散"
+    ],
+    "answer": 2,
+    "explanation": "気孔とは、葉などにあり気体や水蒸気が出入りする小さな穴。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-004",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "葉から出る水蒸気が主に通るつくりは？",
+    "options": [
+      "種皮",
+      "気孔",
+      "花弁",
+      "胚珠"
+    ],
+    "answer": 1,
+    "explanation": "多くの陸上植物では気孔が蒸散の主な出口。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-005",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "説明「植物体から水が水蒸気として出ていく現象」に最もよく当てはまる用語は？",
+    "options": [
+      "蒸散",
+      "道管",
+      "根毛",
+      "子房"
+    ],
+    "answer": 0,
+    "explanation": "蒸散とは、植物体から水が水蒸気として出ていく現象。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-006",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "葉のある枝を袋に入れると内側に水滴が付いた。関係する現象は？",
+    "options": [
+      "受粉",
+      "発芽",
+      "消化",
+      "蒸散"
+    ],
+    "answer": 3,
+    "explanation": "葉から出た水蒸気が冷えて水滴になる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-007",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "説明「根から吸収した水や無機養分を主に運ぶ管」に最もよく当てはまる用語は？",
+    "options": [
+      "柱頭",
+      "葉脈",
+      "道管",
+      "師管"
+    ],
+    "answer": 2,
+    "explanation": "道管とは、根から吸収した水や無機養分を主に運ぶ管。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-008",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "色水を吸わせた茎で水の通り道を観察した。主に染まる管は？",
+    "options": [
+      "花粉管",
+      "道管",
+      "師管",
+      "気孔"
+    ],
+    "answer": 1,
+    "explanation": "道管が水とそれに溶けた物質の通路。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-009",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "説明「光合成でできた養分などを運ぶ管」に最もよく当てはまる用語は？",
+    "options": [
+      "師管",
+      "根毛",
+      "胚珠",
+      "葉緑体"
+    ],
+    "answer": 0,
+    "explanation": "師管とは、光合成でできた養分などを運ぶ管。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-010",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "葉で作られた有機物を他の部分へ運ぶ管は？",
+    "options": [
+      "道管",
+      "気孔",
+      "根毛",
+      "師管"
+    ],
+    "answer": 3,
+    "explanation": "師管が有機物の移動に関わる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-011",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "説明「根の表面にある細い毛状のつくり」に最もよく当てはまる用語は？",
+    "options": [
+      "子房",
+      "気孔",
+      "根毛",
+      "柱頭"
+    ],
+    "answer": 2,
+    "explanation": "根毛とは、根の表面にある細い毛状のつくり。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-012",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "根に細い毛が多いことの利点は？",
+    "options": [
+      "種子が直接できる",
+      "土に接する面積が増える",
+      "水が一切入らない",
+      "光を遮って必ず枯れる"
+    ],
+    "answer": 1,
+    "explanation": "表面積が増し、水や無機養分を吸収しやすい。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-013",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "説明「めしべの先端で花粉を受け取る部分」に最もよく当てはまる用語は？",
+    "options": [
+      "柱頭",
+      "胚珠",
+      "葉脈",
+      "蒸散"
+    ],
+    "answer": 0,
+    "explanation": "柱頭とは、めしべの先端で花粉を受け取る部分。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-014",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "受粉で花粉が付くところは？",
+    "options": [
+      "子葉",
+      "根端",
+      "葉脈",
+      "柱頭"
+    ],
+    "answer": 3,
+    "explanation": "花粉が柱頭に付くことを受粉という。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-015",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "説明「被子植物で受精後に種子になる部分」に最もよく当てはまる用語は？",
+    "options": [
+      "葉緑体",
+      "道管",
+      "胚珠",
+      "子房"
+    ],
+    "answer": 2,
+    "explanation": "胚珠とは、被子植物で受精後に種子になる部分。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-016",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "被子植物の花で、受精後に種子になるのは？",
+    "options": [
+      "がく",
+      "胚珠",
+      "子房全体",
+      "花弁"
+    ],
+    "answer": 1,
+    "explanation": "胚珠が種子、子房が果実になる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-017",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "説明「めしべの基部で胚珠を包む部分」に最もよく当てはまる用語は？",
+    "options": [
+      "子房",
+      "葉脈",
+      "気孔",
+      "師管"
+    ],
+    "answer": 0,
+    "explanation": "子房とは、めしべの基部で胚珠を包む部分。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-018",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "被子植物で受精後に果実になる部分は？",
+    "options": [
+      "胚珠だけ",
+      "花粉",
+      "根毛",
+      "子房"
+    ],
+    "answer": 3,
+    "explanation": "胚珠を包む子房が発達して果実になる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-019",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "説明「葉に見られる維管束の筋」に最もよく当てはまる用語は？",
+    "options": [
+      "蒸散",
+      "根毛",
+      "葉脈",
+      "葉緑体"
+    ],
+    "answer": 2,
+    "explanation": "葉脈とは、葉に見られる維管束の筋。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u01-020",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "植物のつくり",
+    "difficulty": "basic",
+    "question": "単子葉類に多い葉脈の特徴は？",
+    "options": [
+      "葉脈が全て根になる",
+      "平行脈",
+      "必ず網状脈",
+      "葉脈が全くない"
+    ],
+    "answer": 1,
+    "explanation": "単子葉類には平行に走る葉脈が多い。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
   }
 ]

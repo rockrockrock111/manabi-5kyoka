@@ -1,0 +1,572 @@
+[
+  {
+    "id": "english-g2-u06-001",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Ken gave Aya a book. 物を受け取ったのは？",
+    "options": [
+      "Aya",
+      "Ken",
+      "誰も受け取っていない",
+      "本文には書かれていない"
+    ],
+    "answer": 0,
+    "explanation": "give＋人＋物の順。gave直後の人が受け手。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-002",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Ken gave Aya a book. 与えた物は？",
+    "options": [
+      "a bike",
+      "a desk",
+      "a clock",
+      "a book"
+    ],
+    "answer": 3,
+    "explanation": "give＋人＋物。最後のa bookが与えた物。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-003",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Ken gave a book ___ Aya. 空所は？",
+    "options": [
+      "on",
+      "by",
+      "to",
+      "at"
+    ],
+    "answer": 2,
+    "explanation": "give 人 物はgive 物 to 人に書き換えられる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-004",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Ken calls Aya a good friend. 「a good friend」は誰の説明か？",
+    "options": [
+      "誰の説明でもない",
+      "Aya",
+      "Ken",
+      "友達以外の第三者"
+    ],
+    "answer": 1,
+    "explanation": "call＋目的語＋補語。「a good friend」は目的語の人がどんな人かを説明する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-005",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "standard",
+    "question": "Ken bought a book for Aya. 同じ意味の文は？",
+    "options": [
+      "Ken bought Aya a book.",
+      "Aya bought Ken a book.",
+      "Ken bought Aya to a book.",
+      "A book bought Aya Ken."
+    ],
+    "answer": 0,
+    "explanation": "buy 物 for 人はbuy 人 物と表せる。買った人と受け手を入れ替えない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-006",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "standard",
+    "question": "Ken showed Aya a book. Aya showed it to Ken later. 初めに見せた人は？",
+    "options": [
+      "Aya",
+      "it",
+      "本文にはない",
+      "Ken"
+    ],
+    "answer": 3,
+    "explanation": "最初の文の主語が初めに見せた人。later以降は後の出来事。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-007",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Mina gave Riku a pen. 物を受け取ったのは？",
+    "options": [
+      "誰も受け取っていない",
+      "本文には書かれていない",
+      "Riku",
+      "Mina"
+    ],
+    "answer": 2,
+    "explanation": "give＋人＋物の順。gave直後の人が受け手。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-008",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Mina gave Riku a pen. 与えた物は？",
+    "options": [
+      "a clock",
+      "a pen",
+      "a bike",
+      "a desk"
+    ],
+    "answer": 1,
+    "explanation": "give＋人＋物。最後のa penが与えた物。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-009",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Mina gave a pen ___ Riku. 空所は？",
+    "options": [
+      "to",
+      "at",
+      "on",
+      "by"
+    ],
+    "answer": 0,
+    "explanation": "give 人 物はgive 物 to 人に書き換えられる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-010",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Mina calls Riku a good friend. 「a good friend」は誰の説明か？",
+    "options": [
+      "Mina",
+      "友達以外の第三者",
+      "誰の説明でもない",
+      "Riku"
+    ],
+    "answer": 3,
+    "explanation": "call＋目的語＋補語。「a good friend」は目的語の人がどんな人かを説明する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-011",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "standard",
+    "question": "Mina bought a pen for Riku. 同じ意味の文は？",
+    "options": [
+      "Mina bought Riku to a pen.",
+      "A pen bought Riku Mina.",
+      "Mina bought Riku a pen.",
+      "Riku bought Mina a pen."
+    ],
+    "answer": 2,
+    "explanation": "buy 物 for 人はbuy 人 物と表せる。買った人と受け手を入れ替えない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-012",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "standard",
+    "question": "Mina showed Riku a pen. Riku showed it to Mina later. 初めに見せた人は？",
+    "options": [
+      "本文にはない",
+      "Mina",
+      "Riku",
+      "it"
+    ],
+    "answer": 1,
+    "explanation": "最初の文の主語が初めに見せた人。later以降は後の出来事。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-013",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Emi gave Taro a map. 物を受け取ったのは？",
+    "options": [
+      "Taro",
+      "Emi",
+      "誰も受け取っていない",
+      "本文には書かれていない"
+    ],
+    "answer": 0,
+    "explanation": "give＋人＋物の順。gave直後の人が受け手。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-014",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Emi gave Taro a map. 与えた物は？",
+    "options": [
+      "a bike",
+      "a desk",
+      "a clock",
+      "a map"
+    ],
+    "answer": 3,
+    "explanation": "give＋人＋物。最後のa mapが与えた物。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-015",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Emi gave a map ___ Taro. 空所は？",
+    "options": [
+      "on",
+      "by",
+      "to",
+      "at"
+    ],
+    "answer": 2,
+    "explanation": "give 人 物はgive 物 to 人に書き換えられる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-016",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Emi calls Taro a good friend. 「a good friend」は誰の説明か？",
+    "options": [
+      "誰の説明でもない",
+      "Taro",
+      "Emi",
+      "友達以外の第三者"
+    ],
+    "answer": 1,
+    "explanation": "call＋目的語＋補語。「a good friend」は目的語の人がどんな人かを説明する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-017",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "standard",
+    "question": "Emi bought a map for Taro. 同じ意味の文は？",
+    "options": [
+      "Emi bought Taro a map.",
+      "Taro bought Emi a map.",
+      "Emi bought Taro to a map.",
+      "A map bought Taro Emi."
+    ],
+    "answer": 0,
+    "explanation": "buy 物 for 人はbuy 人 物と表せる。買った人と受け手を入れ替えない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-018",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "standard",
+    "question": "Emi showed Taro a map. Taro showed it to Emi later. 初めに見せた人は？",
+    "options": [
+      "Taro",
+      "it",
+      "本文にはない",
+      "Emi"
+    ],
+    "answer": 3,
+    "explanation": "最初の文の主語が初めに見せた人。later以降は後の出来事。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-019",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Riku gave Ken a picture. 物を受け取ったのは？",
+    "options": [
+      "誰も受け取っていない",
+      "本文には書かれていない",
+      "Ken",
+      "Riku"
+    ],
+    "answer": 2,
+    "explanation": "give＋人＋物の順。gave直後の人が受け手。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-020",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Riku gave Ken a picture. 与えた物は？",
+    "options": [
+      "a clock",
+      "a picture",
+      "a bike",
+      "a desk"
+    ],
+    "answer": 1,
+    "explanation": "give＋人＋物。最後のa pictureが与えた物。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-021",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Riku gave a picture ___ Ken. 空所は？",
+    "options": [
+      "to",
+      "at",
+      "on",
+      "by"
+    ],
+    "answer": 0,
+    "explanation": "give 人 物はgive 物 to 人に書き換えられる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-022",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Riku calls Ken a good friend. 「a good friend」は誰の説明か？",
+    "options": [
+      "Riku",
+      "友達以外の第三者",
+      "誰の説明でもない",
+      "Ken"
+    ],
+    "answer": 3,
+    "explanation": "call＋目的語＋補語。「a good friend」は目的語の人がどんな人かを説明する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-023",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "standard",
+    "question": "Riku bought a picture for Ken. 同じ意味の文は？",
+    "options": [
+      "Riku bought Ken to a picture.",
+      "A picture bought Ken Riku.",
+      "Riku bought Ken a picture.",
+      "Ken bought Riku a picture."
+    ],
+    "answer": 2,
+    "explanation": "buy 物 for 人はbuy 人 物と表せる。買った人と受け手を入れ替えない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-024",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "standard",
+    "question": "Riku showed Ken a picture. Ken showed it to Riku later. 初めに見せた人は？",
+    "options": [
+      "本文にはない",
+      "Riku",
+      "Ken",
+      "it"
+    ],
+    "answer": 1,
+    "explanation": "最初の文の主語が初めに見せた人。later以降は後の出来事。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-025",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Aya gave Emi a card. 物を受け取ったのは？",
+    "options": [
+      "Emi",
+      "Aya",
+      "誰も受け取っていない",
+      "本文には書かれていない"
+    ],
+    "answer": 0,
+    "explanation": "give＋人＋物の順。gave直後の人が受け手。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-026",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Aya gave Emi a card. 与えた物は？",
+    "options": [
+      "a bike",
+      "a desk",
+      "a clock",
+      "a card"
+    ],
+    "answer": 3,
+    "explanation": "give＋人＋物。最後のa cardが与えた物。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-027",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Aya gave a card ___ Emi. 空所は？",
+    "options": [
+      "on",
+      "by",
+      "to",
+      "at"
+    ],
+    "answer": 2,
+    "explanation": "give 人 物はgive 物 to 人に書き換えられる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-028",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "basic",
+    "question": "Aya calls Emi a good friend. 「a good friend」は誰の説明か？",
+    "options": [
+      "誰の説明でもない",
+      "Emi",
+      "Aya",
+      "友達以外の第三者"
+    ],
+    "answer": 1,
+    "explanation": "call＋目的語＋補語。「a good friend」は目的語の人がどんな人かを説明する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-029",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "standard",
+    "question": "Aya bought a card for Emi. 同じ意味の文は？",
+    "options": [
+      "Aya bought Emi a card.",
+      "Emi bought Aya a card.",
+      "Aya bought Emi to a card.",
+      "A card bought Emi Aya."
+    ],
+    "answer": 0,
+    "explanation": "buy 物 for 人はbuy 人 物と表せる。買った人と受け手を入れ替えない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u06-030",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "文型と目的語",
+    "difficulty": "standard",
+    "question": "Aya showed Emi a card. Emi showed it to Aya later. 初めに見せた人は？",
+    "options": [
+      "Emi",
+      "it",
+      "本文にはない",
+      "Aya"
+    ],
+    "answer": 3,
+    "explanation": "最初の文の主語が初めに見せた人。later以降は後の出来事。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  }
+]

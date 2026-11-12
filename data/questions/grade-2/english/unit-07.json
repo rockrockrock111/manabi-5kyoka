@@ -1,0 +1,572 @@
+[
+  {
+    "id": "english-g2-u07-001",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Ken will go to the library on Monday. The visit starts at three. Ken will bring a dictionary. The visit is free.\nどこへ行く予定？",
+    "options": [
+      "library",
+      "airport",
+      "hospital",
+      "stadium"
+    ],
+    "answer": 0,
+    "explanation": "go to the libraryが行き先。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-002",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Ken will go to the library on Monday. The visit starts at three. Ken will bring a dictionary. The visit is free.\n何曜日の予定？",
+    "options": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Monday"
+    ],
+    "answer": 3,
+    "explanation": "on Mondayが曜日。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-003",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Ken will go to the library on Monday. The visit starts at three. Ken will bring a dictionary. The visit is free.\n何を持って行く？",
+    "options": [
+      "a boat",
+      "a chair",
+      "a dictionary",
+      "a drum"
+    ],
+    "answer": 2,
+    "explanation": "will bring a dictionaryが根拠。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-004",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Ken will go to the library on Monday. The visit starts at three. Ken will bring a dictionary. The visit is free.\n参加費についてわかることは？",
+    "options": [
+      "料金は書かれていない",
+      "無料",
+      "必ず100円",
+      "必ず1000円"
+    ],
+    "answer": 1,
+    "explanation": "The visit is free. が根拠。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-005",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "standard",
+    "question": "Ken needs a dictionary, but does not have one. Ken will borrow one before going to the library.\n出かける前にする予定は？",
+    "options": [
+      "必要な物を借りる",
+      "必要な物を捨てる",
+      "行き先を変更する",
+      "必ず新品を買う"
+    ],
+    "answer": 0,
+    "explanation": "will borrow one before goingが根拠。oneは前に出た必要な物を指す。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-006",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "standard",
+    "question": "Ken needs a dictionary, but does not have one. Ken will borrow one before going to the library.\noneが指す物は？",
+    "options": [
+      "the library",
+      "Ken",
+      "before",
+      "a dictionary"
+    ],
+    "answer": 3,
+    "explanation": "前に述べた同種の物a dictionaryをoneで受けている。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-007",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Aya will go to the museum on Tuesday. The visit starts at four. Aya will bring a notebook. The visit is free.\nどこへ行く予定？",
+    "options": [
+      "hospital",
+      "stadium",
+      "museum",
+      "airport"
+    ],
+    "answer": 2,
+    "explanation": "go to the museumが行き先。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-008",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Aya will go to the museum on Tuesday. The visit starts at four. Aya will bring a notebook. The visit is free.\n何曜日の予定？",
+    "options": [
+      "Thursday",
+      "Tuesday",
+      "Monday",
+      "Wednesday"
+    ],
+    "answer": 1,
+    "explanation": "on Tuesdayが曜日。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-009",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Aya will go to the museum on Tuesday. The visit starts at four. Aya will bring a notebook. The visit is free.\n何を持って行く？",
+    "options": [
+      "a notebook",
+      "a drum",
+      "a boat",
+      "a chair"
+    ],
+    "answer": 0,
+    "explanation": "will bring a notebookが根拠。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-010",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Aya will go to the museum on Tuesday. The visit starts at four. Aya will bring a notebook. The visit is free.\n参加費についてわかることは？",
+    "options": [
+      "必ず100円",
+      "必ず1000円",
+      "料金は書かれていない",
+      "無料"
+    ],
+    "answer": 3,
+    "explanation": "The visit is free. が根拠。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-011",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "standard",
+    "question": "Aya needs a notebook, but does not have one. Aya will borrow one before going to the museum.\n出かける前にする予定は？",
+    "options": [
+      "行き先を変更する",
+      "必ず新品を買う",
+      "必要な物を借りる",
+      "必要な物を捨てる"
+    ],
+    "answer": 2,
+    "explanation": "will borrow one before goingが根拠。oneは前に出た必要な物を指す。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-012",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "standard",
+    "question": "Aya needs a notebook, but does not have one. Aya will borrow one before going to the museum.\noneが指す物は？",
+    "options": [
+      "before",
+      "a notebook",
+      "the museum",
+      "Aya"
+    ],
+    "answer": 1,
+    "explanation": "前に述べた同種の物a notebookをoneで受けている。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-013",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Mina will go to the park on Wednesday. The visit starts at two. Mina will bring a camera. The visit is free.\nどこへ行く予定？",
+    "options": [
+      "park",
+      "airport",
+      "hospital",
+      "stadium"
+    ],
+    "answer": 0,
+    "explanation": "go to the parkが行き先。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-014",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Mina will go to the park on Wednesday. The visit starts at two. Mina will bring a camera. The visit is free.\n何曜日の予定？",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Thursday",
+      "Wednesday"
+    ],
+    "answer": 3,
+    "explanation": "on Wednesdayが曜日。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-015",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Mina will go to the park on Wednesday. The visit starts at two. Mina will bring a camera. The visit is free.\n何を持って行く？",
+    "options": [
+      "a boat",
+      "a chair",
+      "a camera",
+      "a drum"
+    ],
+    "answer": 2,
+    "explanation": "will bring a cameraが根拠。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-016",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Mina will go to the park on Wednesday. The visit starts at two. Mina will bring a camera. The visit is free.\n参加費についてわかることは？",
+    "options": [
+      "料金は書かれていない",
+      "無料",
+      "必ず100円",
+      "必ず1000円"
+    ],
+    "answer": 1,
+    "explanation": "The visit is free. が根拠。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-017",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "standard",
+    "question": "Mina needs a camera, but does not have one. Mina will borrow one before going to the park.\n出かける前にする予定は？",
+    "options": [
+      "必要な物を借りる",
+      "必要な物を捨てる",
+      "行き先を変更する",
+      "必ず新品を買う"
+    ],
+    "answer": 0,
+    "explanation": "will borrow one before goingが根拠。oneは前に出た必要な物を指す。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-018",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "standard",
+    "question": "Mina needs a camera, but does not have one. Mina will borrow one before going to the park.\noneが指す物は？",
+    "options": [
+      "the park",
+      "Mina",
+      "before",
+      "a camera"
+    ],
+    "answer": 3,
+    "explanation": "前に述べた同種の物a cameraをoneで受けている。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-019",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Riku will go to the station on Thursday. The visit starts at five. Riku will bring a map. The visit is free.\nどこへ行く予定？",
+    "options": [
+      "hospital",
+      "stadium",
+      "station",
+      "airport"
+    ],
+    "answer": 2,
+    "explanation": "go to the stationが行き先。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-020",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Riku will go to the station on Thursday. The visit starts at five. Riku will bring a map. The visit is free.\n何曜日の予定？",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Monday",
+      "Tuesday"
+    ],
+    "answer": 1,
+    "explanation": "on Thursdayが曜日。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-021",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Riku will go to the station on Thursday. The visit starts at five. Riku will bring a map. The visit is free.\n何を持って行く？",
+    "options": [
+      "a map",
+      "a drum",
+      "a boat",
+      "a chair"
+    ],
+    "answer": 0,
+    "explanation": "will bring a mapが根拠。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-022",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Riku will go to the station on Thursday. The visit starts at five. Riku will bring a map. The visit is free.\n参加費についてわかることは？",
+    "options": [
+      "必ず100円",
+      "必ず1000円",
+      "料金は書かれていない",
+      "無料"
+    ],
+    "answer": 3,
+    "explanation": "The visit is free. が根拠。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-023",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "standard",
+    "question": "Riku needs a map, but does not have one. Riku will borrow one before going to the station.\n出かける前にする予定は？",
+    "options": [
+      "行き先を変更する",
+      "必ず新品を買う",
+      "必要な物を借りる",
+      "必要な物を捨てる"
+    ],
+    "answer": 2,
+    "explanation": "will borrow one before goingが根拠。oneは前に出た必要な物を指す。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-024",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "standard",
+    "question": "Riku needs a map, but does not have one. Riku will borrow one before going to the station.\noneが指す物は？",
+    "options": [
+      "before",
+      "a map",
+      "the station",
+      "Riku"
+    ],
+    "answer": 1,
+    "explanation": "前に述べた同種の物a mapをoneで受けている。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-025",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Emi will go to the school on Friday. The visit starts at one. Emi will bring a pencil. The visit is free.\nどこへ行く予定？",
+    "options": [
+      "school",
+      "airport",
+      "hospital",
+      "stadium"
+    ],
+    "answer": 0,
+    "explanation": "go to the schoolが行き先。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-026",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Emi will go to the school on Friday. The visit starts at one. Emi will bring a pencil. The visit is free.\n何曜日の予定？",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "answer": 3,
+    "explanation": "on Fridayが曜日。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-027",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Emi will go to the school on Friday. The visit starts at one. Emi will bring a pencil. The visit is free.\n何を持って行く？",
+    "options": [
+      "a boat",
+      "a chair",
+      "a pencil",
+      "a drum"
+    ],
+    "answer": 2,
+    "explanation": "will bring a pencilが根拠。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-028",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "basic",
+    "question": "Emi will go to the school on Friday. The visit starts at one. Emi will bring a pencil. The visit is free.\n参加費についてわかることは？",
+    "options": [
+      "料金は書かれていない",
+      "無料",
+      "必ず100円",
+      "必ず1000円"
+    ],
+    "answer": 1,
+    "explanation": "The visit is free. が根拠。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-029",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "standard",
+    "question": "Emi needs a pencil, but does not have one. Emi will borrow one before going to the school.\n出かける前にする予定は？",
+    "options": [
+      "必要な物を借りる",
+      "必要な物を捨てる",
+      "行き先を変更する",
+      "必ず新品を買う"
+    ],
+    "answer": 0,
+    "explanation": "will borrow one before goingが根拠。oneは前に出た必要な物を指す。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  },
+  {
+    "id": "english-g2-u07-030",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "読解と情報整理",
+    "difficulty": "standard",
+    "question": "Emi needs a pencil, but does not have one. Emi will borrow one before going to the school.\noneが指す物は？",
+    "options": [
+      "the school",
+      "Emi",
+      "before",
+      "a pencil"
+    ],
+    "answer": 3,
+    "explanation": "前に述べた同種の物a pencilをoneで受けている。",
+    "prereq": [
+      "英語|1|短い英文の読解"
+    ]
+  }
+]

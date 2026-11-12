@@ -553,5 +553,235 @@
     "prereq": [
       "数学|1|平面図形"
     ]
+  },
+  {
+    "id": "math-g1-u06-026",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "standard",
+    "question": "半径4cm、高さ9cmの円錐の体積は何π cm³？",
+    "options": [
+      "49",
+      "47",
+      "50",
+      "48"
+    ],
+    "answer": 3,
+    "explanation": "底面積πr²×高さ÷3＝16π×9÷3＝48π。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4**2*9/3"
+    }
+  },
+  {
+    "id": "math-g1-u06-027",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "standard",
+    "question": "半径5cm、高さ4cmの円柱の表面積は何π cm²？",
+    "options": [
+      "89",
+      "92",
+      "90",
+      "91"
+    ],
+    "answer": 2,
+    "explanation": "上下の底面2πr²と側面2πrhを足して90π。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*5**2+2*5*4"
+    }
+  },
+  {
+    "id": "math-g1-u06-028",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "standard",
+    "question": "一辺6cmの立方体の体積は、一辺12cmの立方体の体積の何分の1？（分母）",
+    "options": [
+      "10",
+      "8",
+      "9",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "辺の長さが2倍なら体積は2³＝8倍。元は8分の1。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(6*2)**3/6**3"
+    }
+  },
+  {
+    "id": "math-g1-u06-029",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "standard",
+    "question": "底面積21cm²、高さ7cmの角柱と同じ底面積・高さの角錐の体積の比は3対いくつ？",
+    "options": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "同じ底面積と高さの錐体は柱体の体積の1/3。比は3対1。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "1"
+    }
+  },
+  {
+    "id": "math-g1-u06-030",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "standard",
+    "question": "半径8cmの球の表面積は何π cm²？",
+    "options": [
+      "257",
+      "255",
+      "258",
+      "256"
+    ],
+    "answer": 3,
+    "explanation": "球の表面積は4πr²。4×64π＝256π。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4*8**2"
+    }
+  },
+  {
+    "id": "math-g1-u06-031",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "standard",
+    "question": "半径9cm、高さ6cmの円錐の体積は何π cm³？",
+    "options": [
+      "161",
+      "164",
+      "162",
+      "163"
+    ],
+    "answer": 2,
+    "explanation": "底面積πr²×高さ÷3＝81π×6÷3＝162π。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "9**2*6/3"
+    }
+  },
+  {
+    "id": "math-g1-u06-032",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "standard",
+    "question": "半径10cm、高さ3cmの円柱の表面積は何π cm²？",
+    "options": [
+      "262",
+      "260",
+      "261",
+      "259"
+    ],
+    "answer": 1,
+    "explanation": "上下の底面2πr²と側面2πrhを足して260π。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*10**2+2*10*3"
+    }
+  },
+  {
+    "id": "math-g1-u06-033",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "standard",
+    "question": "一辺11cmの立方体の体積は、一辺22cmの立方体の体積の何分の1？（分母）",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "辺の長さが2倍なら体積は2³＝8倍。元は8分の1。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(11*2)**3/11**3"
+    }
+  },
+  {
+    "id": "math-g1-u06-034",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "standard",
+    "question": "底面積24cm²、高さ12cmの角柱と同じ底面積・高さの角錐の体積の比は3対いくつ？",
+    "options": [
+      "2",
+      "0",
+      "3",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "同じ底面積と高さの錐体は柱体の体積の1/3。比は3対1。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "1"
+    }
+  },
+  {
+    "id": "math-g1-u06-035",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "standard",
+    "question": "半径13cmの球の表面積は何π cm²？",
+    "options": [
+      "675",
+      "678",
+      "676",
+      "677"
+    ],
+    "answer": 2,
+    "explanation": "球の表面積は4πr²。4×169π＝676π。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4*13**2"
+    }
   }
 ]

@@ -36,5 +36,575 @@
     "answer": 2,
     "explanation": "good-better-best。",
     "difficulty": "basic"
+  },
+  {
+    "id": "english-g2-u03-001",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "空所は？ Ken is ___ than Riku.",
+    "options": [
+      "taller",
+      "tall",
+      "tallest",
+      "most tall"
+    ],
+    "answer": 0,
+    "explanation": "2つを比べ、thanを使うときは比較級taller。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-002",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "空所は？ Ken is the ___ of the three.",
+    "options": [
+      "tall",
+      "taller",
+      "more tall",
+      "tallest"
+    ],
+    "answer": 3,
+    "explanation": "3つの中で一番はthe＋最上級。tallの最上級はtallest。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-003",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "「Ken is as ___ as Riku.」の空所は？",
+    "options": [
+      "tallest",
+      "most tall",
+      "tall",
+      "taller"
+    ],
+    "answer": 2,
+    "explanation": "as ... asの間は形容詞の原級tall。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-004",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "「Ken is taller than Riku.」で比較の基準になるのは？",
+    "options": [
+      "three",
+      "Riku",
+      "Ken",
+      "Taro"
+    ],
+    "answer": 1,
+    "explanation": "thanの後ろのRikuを基準にしてKenを比べている。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-005",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "standard",
+    "question": "Ken is taller than Riku. Riku is taller than Taro. この3つで最もtallなのは？",
+    "options": [
+      "Ken",
+      "Riku",
+      "Taro",
+      "すべて同じ"
+    ],
+    "answer": 0,
+    "explanation": "比較の関係はKen、Riku、Taroの順。最上位はKen。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-006",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "standard",
+    "question": "Ken is not as tall as Riku. この文からいえることは？",
+    "options": [
+      "Kenの方がtall",
+      "同じくらいtall",
+      "必ず3つを比較している",
+      "Rikuの方がtall"
+    ],
+    "answer": 3,
+    "explanation": "not as tall asは「〜ほどtallでない」。Rikuの方がtall。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-007",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "空所は？ Aya is ___ than Mina.",
+    "options": [
+      "youngest",
+      "most young",
+      "younger",
+      "young"
+    ],
+    "answer": 2,
+    "explanation": "2つを比べ、thanを使うときは比較級younger。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-008",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "空所は？ Aya is the ___ of the three.",
+    "options": [
+      "more young",
+      "youngest",
+      "young",
+      "younger"
+    ],
+    "answer": 1,
+    "explanation": "3つの中で一番はthe＋最上級。youngの最上級はyoungest。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-009",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "「Aya is as ___ as Mina.」の空所は？",
+    "options": [
+      "young",
+      "younger",
+      "youngest",
+      "most young"
+    ],
+    "answer": 0,
+    "explanation": "as ... asの間は形容詞の原級young。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-010",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "「Aya is younger than Mina.」で比較の基準になるのは？",
+    "options": [
+      "Aya",
+      "Emi",
+      "three",
+      "Mina"
+    ],
+    "answer": 3,
+    "explanation": "thanの後ろのMinaを基準にしてAyaを比べている。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-011",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "standard",
+    "question": "Aya is younger than Mina. Mina is younger than Emi. この3つで最もyoungなのは？",
+    "options": [
+      "Emi",
+      "すべて同じ",
+      "Aya",
+      "Mina"
+    ],
+    "answer": 2,
+    "explanation": "比較の関係はAya、Mina、Emiの順。最上位はAya。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-012",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "standard",
+    "question": "Aya is not as young as Mina. この文からいえることは？",
+    "options": [
+      "必ず3つを比較している",
+      "Minaの方がyoung",
+      "Ayaの方がyoung",
+      "同じくらいyoung"
+    ],
+    "answer": 1,
+    "explanation": "not as young asは「〜ほどyoungでない」。Minaの方がyoung。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-013",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "空所は？ This box is ___ than that box.",
+    "options": [
+      "smaller",
+      "small",
+      "smallest",
+      "most small"
+    ],
+    "answer": 0,
+    "explanation": "2つを比べ、thanを使うときは比較級smaller。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-014",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "空所は？ This box is the ___ of the three.",
+    "options": [
+      "small",
+      "smaller",
+      "more small",
+      "smallest"
+    ],
+    "answer": 3,
+    "explanation": "3つの中で一番はthe＋最上級。smallの最上級はsmallest。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-015",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "「This box is as ___ as that box.」の空所は？",
+    "options": [
+      "smallest",
+      "most small",
+      "small",
+      "smaller"
+    ],
+    "answer": 2,
+    "explanation": "as ... asの間は形容詞の原級small。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-016",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "「This box is smaller than that box.」で比較の基準になるのは？",
+    "options": [
+      "three",
+      "that box",
+      "this box",
+      "the red box"
+    ],
+    "answer": 1,
+    "explanation": "thanの後ろのthat boxを基準にしてthis boxを比べている。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-017",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "standard",
+    "question": "This box is smaller than that box. That box is smaller than the red box. この3つで最もsmallなのは？",
+    "options": [
+      "this box",
+      "that box",
+      "the red box",
+      "すべて同じ"
+    ],
+    "answer": 0,
+    "explanation": "比較の関係はthis box、that box、the red boxの順。最上位はthis box。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-018",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "standard",
+    "question": "This box is not as small as that box. この文からいえることは？",
+    "options": [
+      "this boxの方がsmall",
+      "同じくらいsmall",
+      "必ず3つを比較している",
+      "that boxの方がsmall"
+    ],
+    "answer": 3,
+    "explanation": "not as small asは「〜ほどsmallでない」。that boxの方がsmall。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-019",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "空所は？ This river is ___ than that river.",
+    "options": [
+      "longest",
+      "most long",
+      "longer",
+      "long"
+    ],
+    "answer": 2,
+    "explanation": "2つを比べ、thanを使うときは比較級longer。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-020",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "空所は？ This river is the ___ of the three.",
+    "options": [
+      "more long",
+      "longest",
+      "long",
+      "longer"
+    ],
+    "answer": 1,
+    "explanation": "3つの中で一番はthe＋最上級。longの最上級はlongest。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-021",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "「This river is as ___ as that river.」の空所は？",
+    "options": [
+      "long",
+      "longer",
+      "longest",
+      "most long"
+    ],
+    "answer": 0,
+    "explanation": "as ... asの間は形容詞の原級long。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-022",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "「This river is longer than that river.」で比較の基準になるのは？",
+    "options": [
+      "this river",
+      "the green river",
+      "three",
+      "that river"
+    ],
+    "answer": 3,
+    "explanation": "thanの後ろのthat riverを基準にしてthis riverを比べている。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-023",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "standard",
+    "question": "This river is longer than that river. That river is longer than the green river. この3つで最もlongなのは？",
+    "options": [
+      "the green river",
+      "すべて同じ",
+      "this river",
+      "that river"
+    ],
+    "answer": 2,
+    "explanation": "比較の関係はthis river、that river、the green riverの順。最上位はthis river。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-024",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "standard",
+    "question": "This river is not as long as that river. この文からいえることは？",
+    "options": [
+      "必ず3つを比較している",
+      "that riverの方がlong",
+      "this riverの方がlong",
+      "同じくらいlong"
+    ],
+    "answer": 1,
+    "explanation": "not as long asは「〜ほどlongでない」。that riverの方がlong。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-025",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "空所は？ This bag is ___ than that bag.",
+    "options": [
+      "lighter",
+      "light",
+      "lightest",
+      "most light"
+    ],
+    "answer": 0,
+    "explanation": "2つを比べ、thanを使うときは比較級lighter。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-026",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "空所は？ This bag is the ___ of the three.",
+    "options": [
+      "light",
+      "lighter",
+      "more light",
+      "lightest"
+    ],
+    "answer": 3,
+    "explanation": "3つの中で一番はthe＋最上級。lightの最上級はlightest。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-027",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "「This bag is as ___ as that bag.」の空所は？",
+    "options": [
+      "lightest",
+      "most light",
+      "light",
+      "lighter"
+    ],
+    "answer": 2,
+    "explanation": "as ... asの間は形容詞の原級light。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-028",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "basic",
+    "question": "「This bag is lighter than that bag.」で比較の基準になるのは？",
+    "options": [
+      "three",
+      "that bag",
+      "this bag",
+      "the blue bag"
+    ],
+    "answer": 1,
+    "explanation": "thanの後ろのthat bagを基準にしてthis bagを比べている。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-029",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "standard",
+    "question": "This bag is lighter than that bag. That bag is lighter than the blue bag. この3つで最もlightなのは？",
+    "options": [
+      "this bag",
+      "that bag",
+      "the blue bag",
+      "すべて同じ"
+    ],
+    "answer": 0,
+    "explanation": "比較の関係はthis bag、that bag、the blue bagの順。最上位はthis bag。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u03-030",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "比較",
+    "difficulty": "standard",
+    "question": "This bag is not as light as that bag. この文からいえることは？",
+    "options": [
+      "this bagの方がlight",
+      "同じくらいlight",
+      "必ず3つを比較している",
+      "that bagの方がlight"
+    ],
+    "answer": 3,
+    "explanation": "not as light asは「〜ほどlightでない」。that bagの方がlight。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
   }
 ]

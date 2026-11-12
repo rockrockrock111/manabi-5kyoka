@@ -1,0 +1,382 @@
+[
+  {
+    "id": "japanese-g1-u04-001",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "説明「漢字の中国由来の音に基づく日本語の読み」に最もよく当てはまる用語は？",
+    "options": [
+      "音読み",
+      "訓読み",
+      "同音異義語",
+      "文脈"
+    ],
+    "answer": 0,
+    "explanation": "音読みとは、漢字の中国由来の音に基づく日本語の読み。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-002",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "「山林」の「山」の読みは？",
+    "options": [
+      "やま",
+      "かわ",
+      "き",
+      "サン"
+    ],
+    "answer": 3,
+    "explanation": "「山林」はサンリン。「山」は音読み。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-003",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "説明「漢字の意味に日本語を当てた読み」に最もよく当てはまる用語は？",
+    "options": [
+      "類義語",
+      "慣用句",
+      "訓読み",
+      "部首"
+    ],
+    "answer": 2,
+    "explanation": "訓読みとは、漢字の意味に日本語を当てた読み。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-004",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "「山に登る」の「山」の読みは？",
+    "options": [
+      "もり",
+      "やま",
+      "サン",
+      "リン"
+    ],
+    "answer": 1,
+    "explanation": "ここは日本語の「やま」を当てる訓読み。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-005",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "説明「漢字を分類するときの基準となる部分」に最もよく当てはまる用語は？",
+    "options": [
+      "部首",
+      "同音異義語",
+      "対義語",
+      "多義語"
+    ],
+    "answer": 0,
+    "explanation": "部首とは、漢字を分類するときの基準となる部分。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-006",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "「池」「海」「湖」に共通する部首は？",
+    "options": [
+      "にんべん",
+      "くさかんむり",
+      "てへん",
+      "さんずい"
+    ],
+    "answer": 3,
+    "explanation": "水に関係する漢字に多い部首。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-007",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "説明「読みが同じで意味が異なる語」に最もよく当てはまる用語は？",
+    "options": [
+      "文脈",
+      "語感",
+      "同音異義語",
+      "類義語"
+    ],
+    "answer": 2,
+    "explanation": "同音異義語とは、読みが同じで意味が異なる語。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-008",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "「橋」と「箸」のような関係は？",
+    "options": [
+      "活用形",
+      "同音異義語",
+      "対義語",
+      "単なる同じ漢字"
+    ],
+    "answer": 1,
+    "explanation": "どちらも「はし」だが意味が違う。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-009",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "説明「意味が似ている語」に最もよく当てはまる用語は？",
+    "options": [
+      "類義語",
+      "対義語",
+      "慣用句",
+      "音読み"
+    ],
+    "answer": 0,
+    "explanation": "類義語とは、意味が似ている語。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-010",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "「開始」と意味が近い語は？",
+    "options": [
+      "終了",
+      "停止",
+      "休止",
+      "始まり"
+    ],
+    "answer": 3,
+    "explanation": "開始は始めること。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-011",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "説明「意味が反対または対照的な語」に最もよく当てはまる用語は？",
+    "options": [
+      "多義語",
+      "訓読み",
+      "対義語",
+      "文脈"
+    ],
+    "answer": 2,
+    "explanation": "対義語とは、意味が反対または対照的な語。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-012",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "「増加」の対義語は？",
+    "options": [
+      "上昇",
+      "減少",
+      "増大",
+      "拡大"
+    ],
+    "answer": 1,
+    "explanation": "増えることに対して減ること。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-013",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "説明「前後の言葉や文章のつながり」に最もよく当てはまる用語は？",
+    "options": [
+      "文脈",
+      "慣用句",
+      "語感",
+      "部首"
+    ],
+    "answer": 0,
+    "explanation": "文脈とは、前後の言葉や文章のつながり。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-014",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "「荷物が軽い」と「口が軽い」の「軽い」を区別する手掛かりは？",
+    "options": [
+      "字の大きさだけ",
+      "行数だけ",
+      "紙の色",
+      "前後の言葉とのつながり"
+    ],
+    "answer": 3,
+    "explanation": "「口が軽い」は秘密を話しやすい意味で、文脈で判断する。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-015",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "説明「複数の語が結び付き一定の特別な意味をもつ表現」に最もよく当てはまる用語は？",
+    "options": [
+      "音読み",
+      "同音異義語",
+      "慣用句",
+      "多義語"
+    ],
+    "answer": 2,
+    "explanation": "慣用句とは、複数の語が結び付き一定の特別な意味をもつ表現。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-016",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "「耳を傾ける」の意味は？",
+    "options": [
+      "大声で怒る",
+      "注意して聞く",
+      "耳を洗う",
+      "聞くのをやめる"
+    ],
+    "answer": 1,
+    "explanation": "慣用的に相手の話をよく聞くことを表す。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-017",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "説明「一つの語が関連する複数の意味をもつもの」に最もよく当てはまる用語は？",
+    "options": [
+      "多義語",
+      "語感",
+      "訓読み",
+      "類義語"
+    ],
+    "answer": 0,
+    "explanation": "多義語とは、一つの語が関連する複数の意味をもつもの。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-018",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "「頭を洗う」と「組織の頭」の「頭」の違いは？",
+    "options": [
+      "どちらも必ず髪",
+      "どちらも時刻",
+      "意味は常に同じ",
+      "体の部分と指導する人"
+    ],
+    "answer": 3,
+    "explanation": "関連する意味が広がって使われる。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-019",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "説明「言葉から受ける印象や感じ」に最もよく当てはまる用語は？",
+    "options": [
+      "部首",
+      "対義語",
+      "語感",
+      "音読み"
+    ],
+    "answer": 2,
+    "explanation": "語感とは、言葉から受ける印象や感じ。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u04-020",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "漢字と語彙",
+    "difficulty": "basic",
+    "question": "感謝を丁寧に伝える場面に適するのは？",
+    "options": [
+      "礼なんて不要",
+      "ありがとうございます",
+      "ありがとな",
+      "サンキューだけ"
+    ],
+    "answer": 1,
+    "explanation": "相手や場面にふさわしい言葉の印象を考える。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  }
+]

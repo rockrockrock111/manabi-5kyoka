@@ -1,0 +1,382 @@
+[
+  {
+    "id": "science-g1-u05-001",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "説明「胚珠が子房に包まれている種子植物」に最もよく当てはまる用語は？",
+    "options": [
+      "被子植物",
+      "裸子植物",
+      "双子葉類",
+      "脊椎動物"
+    ],
+    "answer": 0,
+    "explanation": "被子植物とは、胚珠が子房に包まれている種子植物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-002",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "アサガオとマツで子房をもつのは？",
+    "options": [
+      "マツだけ",
+      "どちらもない",
+      "どちらも動物",
+      "アサガオ"
+    ],
+    "answer": 3,
+    "explanation": "アサガオは被子植物、マツは裸子植物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-003",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "説明「胚珠が子房に包まれずむき出しの種子植物」に最もよく当てはまる用語は？",
+    "options": [
+      "シダ植物",
+      "節足動物",
+      "裸子植物",
+      "単子葉類"
+    ],
+    "answer": 2,
+    "explanation": "裸子植物とは、胚珠が子房に包まれずむき出しの種子植物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-004",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "マツの種子ができる部分にないものは？",
+    "options": [
+      "種子",
+      "子房",
+      "胚珠",
+      "花粉"
+    ],
+    "answer": 1,
+    "explanation": "裸子植物には胚珠を包む子房がない。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-005",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "説明「子葉が1枚の被子植物」に最もよく当てはまる用語は？",
+    "options": [
+      "単子葉類",
+      "双子葉類",
+      "コケ植物",
+      "軟体動物"
+    ],
+    "answer": 0,
+    "explanation": "単子葉類とは、子葉が1枚の被子植物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-006",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "イネの子葉は基本的に何枚？",
+    "options": [
+      "2枚",
+      "5枚",
+      "0枚",
+      "1枚"
+    ],
+    "answer": 3,
+    "explanation": "イネは単子葉類。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-007",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "説明「子葉が2枚の被子植物」に最もよく当てはまる用語は？",
+    "options": [
+      "脊椎動物",
+      "分類の基準",
+      "双子葉類",
+      "シダ植物"
+    ],
+    "answer": 2,
+    "explanation": "双子葉類とは、子葉が2枚の被子植物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-008",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "アサガオの発芽で見られる子葉は何枚？",
+    "options": [
+      "必ず0枚",
+      "2枚",
+      "1枚",
+      "3枚"
+    ],
+    "answer": 1,
+    "explanation": "アサガオは双子葉類。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-009",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "説明「種子を作らず維管束があり胞子で増える植物の仲間」に最もよく当てはまる用語は？",
+    "options": [
+      "シダ植物",
+      "コケ植物",
+      "節足動物",
+      "被子植物"
+    ],
+    "answer": 0,
+    "explanation": "シダ植物とは、種子を作らず維管束があり胞子で増える植物の仲間。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-010",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "ワラビの特徴として適切なのは？",
+    "options": [
+      "必ず花で果実を作る",
+      "根がなく全て動物",
+      "葉緑体がない",
+      "胞子で増え維管束をもつ"
+    ],
+    "answer": 3,
+    "explanation": "シダ植物は根・茎・葉と維管束をもつ。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-011",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "説明「維管束をもたず胞子で増える植物の仲間」に最もよく当てはまる用語は？",
+    "options": [
+      "軟体動物",
+      "裸子植物",
+      "コケ植物",
+      "脊椎動物"
+    ],
+    "answer": 2,
+    "explanation": "コケ植物とは、維管束をもたず胞子で増える植物の仲間。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-012",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "コケ植物が水を取り込む主な場所は？",
+    "options": [
+      "維管束だけ",
+      "体の表面全体",
+      "子房だけ",
+      "花粉だけ"
+    ],
+    "answer": 1,
+    "explanation": "維管束がなく、表面から水分を吸収する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-013",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "説明「背骨をもつ動物」に最もよく当てはまる用語は？",
+    "options": [
+      "脊椎動物",
+      "節足動物",
+      "分類の基準",
+      "単子葉類"
+    ],
+    "answer": 0,
+    "explanation": "脊椎動物とは、背骨をもつ動物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-014",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "魚・鳥・カエルに共通する特徴は？",
+    "options": [
+      "必ず羽毛がある",
+      "必ず6本脚",
+      "必ず肺だけで呼吸",
+      "背骨がある"
+    ],
+    "answer": 3,
+    "explanation": "いずれも脊椎動物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-015",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "説明「体や脚に節があり外骨格をもつ動物」に最もよく当てはまる用語は？",
+    "options": [
+      "被子植物",
+      "双子葉類",
+      "節足動物",
+      "軟体動物"
+    ],
+    "answer": 2,
+    "explanation": "節足動物とは、体や脚に節があり外骨格をもつ動物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-016",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "昆虫やカニに共通する特徴は？",
+    "options": [
+      "必ず同じ脚数",
+      "体や脚に節がある",
+      "背骨をもつ",
+      "子葉をもつ"
+    ],
+    "answer": 1,
+    "explanation": "節のある体や脚、外骨格が特徴。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-017",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "説明「体が柔らかく外とう膜をもつ動物」に最もよく当てはまる用語は？",
+    "options": [
+      "軟体動物",
+      "分類の基準",
+      "裸子植物",
+      "シダ植物"
+    ],
+    "answer": 0,
+    "explanation": "軟体動物とは、体が柔らかく外とう膜をもつ動物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-018",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "アサリやイカに共通するつくりは？",
+    "options": [
+      "背骨",
+      "羽毛",
+      "根毛",
+      "外とう膜"
+    ],
+    "answer": 3,
+    "explanation": "軟体動物には外とう膜がある。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-019",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "説明「生物の共通点や相違点を分ける観点」に最もよく当てはまる用語は？",
+    "options": [
+      "単子葉類",
+      "コケ植物",
+      "分類の基準",
+      "被子植物"
+    ],
+    "answer": 2,
+    "explanation": "分類の基準とは、生物の共通点や相違点を分ける観点。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u05-020",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "生物の分類",
+    "difficulty": "basic",
+    "question": "色だけで生物を分類する際の注意は？",
+    "options": [
+      "観察は不要",
+      "他の体のつくりも比較する",
+      "同色なら必ず同じ種",
+      "色が違えば必ず動物"
+    ],
+    "answer": 1,
+    "explanation": "複数の特徴を整理して分類する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  }
+]

@@ -36,5 +36,385 @@
     "answer": 1,
     "explanation": "直列回路では電流が等しい。",
     "difficulty": "basic"
+  },
+  {
+    "id": "science-g2-u02-001",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "説明「電荷の移動による流れ」に最もよく当てはまる用語は？",
+    "options": [
+      "電流",
+      "電圧",
+      "オームの法則",
+      "合成抵抗"
+    ],
+    "answer": 0,
+    "explanation": "電流とは、電荷の移動による流れ。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-002",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "電流計は測りたい部分にどうつなぐ？",
+    "options": [
+      "並列だけ",
+      "回路から外す",
+      "電池の両端へ直接つなぐ",
+      "直列につなぐ"
+    ],
+    "answer": 3,
+    "explanation": "流れる電流を通すよう回路に直列に入れる。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-003",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "説明「電流を流そうとするはたらきの大きさ」に最もよく当てはまる用語は？",
+    "options": [
+      "直列回路",
+      "電力",
+      "電圧",
+      "電気抵抗"
+    ],
+    "answer": 2,
+    "explanation": "電圧とは、電流を流そうとするはたらきの大きさ。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-004",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "電圧計は測りたい部分にどうつなぐ？",
+    "options": [
+      "極を絶対無視する",
+      "並列につなぐ",
+      "直列だけ",
+      "必ず回路を切る"
+    ],
+    "answer": 1,
+    "explanation": "部分の両端の電位差を測るため並列接続。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-005",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "説明「電流の流れにくさを表す量」に最もよく当てはまる用語は？",
+    "options": [
+      "電気抵抗",
+      "オームの法則",
+      "並列回路",
+      "電力量"
+    ],
+    "answer": 0,
+    "explanation": "電気抵抗とは、電流の流れにくさを表す量。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-006",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "同じ電圧で抵抗が大きいほど電流は？",
+    "options": [
+      "必ず大きくなる",
+      "抵抗と無関係",
+      "必ず0A",
+      "小さくなる"
+    ],
+    "answer": 3,
+    "explanation": "オームの法則I＝V/Rから分かる。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-007",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "説明「一定条件で電圧が電流に比例する関係」に最もよく当てはまる用語は？",
+    "options": [
+      "合成抵抗",
+      "ジュール熱",
+      "オームの法則",
+      "直列回路"
+    ],
+    "answer": 2,
+    "explanation": "オームの法則とは、一定条件で電圧が電流に比例する関係。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-008",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "6Vを10Ωの抵抗に加えると電流は？",
+    "options": [
+      "16A",
+      "0.6A",
+      "60A",
+      "1.67A"
+    ],
+    "answer": 1,
+    "explanation": "I＝V/R＝6/10＝0.6A。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-009",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "説明「枝分かれせず一続きにつないだ回路」に最もよく当てはまる用語は？",
+    "options": [
+      "直列回路",
+      "並列回路",
+      "電力",
+      "電流"
+    ],
+    "answer": 0,
+    "explanation": "直列回路とは、枝分かれせず一続きにつないだ回路。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-010",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "直列に接続した抵抗を流れる電流の関係は？",
+    "options": [
+      "後ほど必ず減る",
+      "抵抗ごとに必ず逆向き",
+      "最初だけ流れる",
+      "どこでも同じ"
+    ],
+    "answer": 3,
+    "explanation": "枝分かれがないので同じ電流が流れる。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-011",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "説明「枝分かれするようにつないだ回路」に最もよく当てはまる用語は？",
+    "options": [
+      "電力量",
+      "電圧",
+      "並列回路",
+      "合成抵抗"
+    ],
+    "answer": 2,
+    "explanation": "並列回路とは、枝分かれするようにつないだ回路。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-012",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "並列に接続した抵抗それぞれに加わる電圧は？",
+    "options": [
+      "抵抗値によらず逆符号",
+      "等しい",
+      "必ず電流と同じ数値",
+      "片方は必ず0V"
+    ],
+    "answer": 1,
+    "explanation": "同じ二つの接続点間なので電圧は等しい。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-013",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "説明「複数の抵抗をまとめて一つとみなした抵抗」に最もよく当てはまる用語は？",
+    "options": [
+      "合成抵抗",
+      "電力",
+      "ジュール熱",
+      "電気抵抗"
+    ],
+    "answer": 0,
+    "explanation": "合成抵抗とは、複数の抵抗をまとめて一つとみなした抵抗。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-014",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "3Ωと5Ωを直列につなぐと合成抵抗は？",
+    "options": [
+      "2Ω",
+      "15Ω",
+      "1.875Ω",
+      "8Ω"
+    ],
+    "answer": 3,
+    "explanation": "直列では抵抗を足して8Ω。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-015",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "説明「単位時間当たりに使う電気エネルギー」に最もよく当てはまる用語は？",
+    "options": [
+      "電流",
+      "オームの法則",
+      "電力",
+      "電力量"
+    ],
+    "answer": 2,
+    "explanation": "電力とは、単位時間当たりに使う電気エネルギー。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-016",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "100Vで2A流れる器具の電力は？",
+    "options": [
+      "0.02W",
+      "200W",
+      "50W",
+      "102W"
+    ],
+    "answer": 1,
+    "explanation": "P＝VI＝100×2＝200W。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-017",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "説明「電気器具が使った電気エネルギーの量」に最もよく当てはまる用語は？",
+    "options": [
+      "電力量",
+      "ジュール熱",
+      "電圧",
+      "直列回路"
+    ],
+    "answer": 0,
+    "explanation": "電力量とは、電気器具が使った電気エネルギーの量。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-018",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "10Wの器具を60秒使った電力量は？",
+    "options": [
+      "6J",
+      "70J",
+      "0.167J",
+      "600J"
+    ],
+    "answer": 3,
+    "explanation": "電力×時間＝10×60＝600J。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-019",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "説明「電流が抵抗を流れるときに生じる熱」に最もよく当てはまる用語は？",
+    "options": [
+      "電気抵抗",
+      "並列回路",
+      "ジュール熱",
+      "電流"
+    ],
+    "answer": 2,
+    "explanation": "ジュール熱とは、電流が抵抗を流れるときに生じる熱。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
+  },
+  {
+    "id": "science-g2-u02-020",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "電流と回路",
+    "difficulty": "basic",
+    "question": "同じ抵抗・同じ時間で電流を2倍にすると発熱量は？",
+    "options": [
+      "変わらない",
+      "4倍",
+      "2倍",
+      "半分"
+    ],
+    "answer": 1,
+    "explanation": "Q＝I²Rtより電流の2乗に比例する。",
+    "prereq": [
+      "理科|1|光と音"
+    ]
   }
 ]

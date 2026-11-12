@@ -591,5 +591,235 @@
     "prereq": [
       "数学|1|一次方程式"
     ]
+  },
+  {
+    "id": "math-g1-u04-026",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "比例と反比例",
+    "difficulty": "standard",
+    "question": "yはxに比例し、x＝−4のときy＝12。x＝3のときyは？",
+    "options": [
+      "-8",
+      "-10",
+      "-7",
+      "-9"
+    ],
+    "answer": 3,
+    "explanation": "比例定数は−3。y＝−3xにx＝3を代入し-9。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(12/(-4))*3"
+    }
+  },
+  {
+    "id": "math-g1-u04-027",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "比例と反比例",
+    "difficulty": "standard",
+    "question": "yはxに反比例し、x＝5のときy＝4。y＝5となるxは？",
+    "options": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "xy＝20が一定。x＝20÷5＝4。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(5*4)/5"
+    }
+  },
+  {
+    "id": "math-g1-u04-028",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "比例と反比例",
+    "difficulty": "standard",
+    "question": "面積12cm²の長方形の縦を6cmから12cmへ変える。面積一定なら新しい横は何cm？",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "0"
+    ],
+    "answer": 1,
+    "explanation": "面積÷縦＝12÷12＝1cm。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "12/(6*2)"
+    }
+  },
+  {
+    "id": "math-g1-u04-029",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "比例と反比例",
+    "difficulty": "standard",
+    "question": "分速7mで進む。距離y mと時間x分は比例する。5分から8分の間に進む距離は何m？",
+    "options": [
+      "21",
+      "22",
+      "20",
+      "23"
+    ],
+    "answer": 0,
+    "explanation": "時間差は3分なので7×3＝21m。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "7*(8-5)"
+    }
+  },
+  {
+    "id": "math-g1-u04-030",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "比例と反比例",
+    "difficulty": "standard",
+    "question": "点(8, 32)を通る比例のグラフで、y＝−64となるxは？",
+    "options": [
+      "-15",
+      "-17",
+      "-14",
+      "-16"
+    ],
+    "answer": 3,
+    "explanation": "比例定数は4なので、x＝y/4＝-16。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-64)/4"
+    }
+  },
+  {
+    "id": "math-g1-u04-031",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "比例と反比例",
+    "difficulty": "standard",
+    "question": "yはxに比例し、x＝−9のときy＝18。x＝2のときyは？",
+    "options": [
+      "-5",
+      "-2",
+      "-4",
+      "-3"
+    ],
+    "answer": 2,
+    "explanation": "比例定数は−2。y＝−2xにx＝2を代入し-4。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(18/(-9))*2"
+    }
+  },
+  {
+    "id": "math-g1-u04-032",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "比例と反比例",
+    "difficulty": "standard",
+    "question": "yはxに反比例し、x＝10のときy＝3。y＝10となるxは？",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "xy＝30が一定。x＝30÷10＝3。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(10*3)/10"
+    }
+  },
+  {
+    "id": "math-g1-u04-033",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "比例と反比例",
+    "difficulty": "standard",
+    "question": "面積44cm²の長方形の縦を11cmから22cmへ変える。面積一定なら新しい横は何cm？",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "面積÷縦＝44÷22＝2cm。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "44/(11*2)"
+    }
+  },
+  {
+    "id": "math-g1-u04-034",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "比例と反比例",
+    "difficulty": "standard",
+    "question": "分速12mで進む。距離y mと時間x分は比例する。4分から7分の間に進む距離は何m？",
+    "options": [
+      "37",
+      "35",
+      "38",
+      "36"
+    ],
+    "answer": 3,
+    "explanation": "時間差は3分なので12×3＝36m。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "12*(7-4)"
+    }
+  },
+  {
+    "id": "math-g1-u04-035",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "比例と反比例",
+    "difficulty": "standard",
+    "question": "点(13, 39)を通る比例のグラフで、y＝−78となるxは？",
+    "options": [
+      "-27",
+      "-24",
+      "-26",
+      "-25"
+    ],
+    "answer": 2,
+    "explanation": "比例定数は3なので、x＝y/3＝-26。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-78)/3"
+    }
   }
 ]

@@ -36,5 +36,385 @@
     "answer": 1,
     "explanation": "水はH₂O。",
     "difficulty": "basic"
+  },
+  {
+    "id": "science-g2-u01-001",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "説明「化学変化では分けたり他の種類に変えたりできない、物質を構成する基本粒子」に最もよく当てはまる用語は？",
+    "options": [
+      "原子",
+      "分子",
+      "化合物",
+      "酸化"
+    ],
+    "answer": 0,
+    "explanation": "原子とは、化学変化では分けたり他の種類に変えたりできない、物質を構成する基本粒子。化学変化では原子の組合せが変わる。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-002",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "化学変化で原子の種類と数はどう扱う？",
+    "options": [
+      "全て消える",
+      "全て別元素になる",
+      "必ず倍になる",
+      "反応の前後で保存される"
+    ],
+    "answer": 3,
+    "explanation": "化学変化は原子の組合せの変化。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-003",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "説明「いくつかの原子が結び付き物質の性質を表す粒子」に最もよく当てはまる用語は？",
+    "options": [
+      "分解",
+      "還元",
+      "分子",
+      "単体"
+    ],
+    "answer": 2,
+    "explanation": "分子とは、いくつかの原子が結び付き物質の性質を表す粒子。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-004",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "水分子H₂Oを構成する原子数の組合せは？",
+    "options": [
+      "水素だけ3個",
+      "水素2個と酸素1個",
+      "水素1個と酸素2個",
+      "水素2個と酸素2個"
+    ],
+    "answer": 1,
+    "explanation": "化学式の下付き数字が数を示す。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-005",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "説明「1種類の元素だけからできた物質」に最もよく当てはまる用語は？",
+    "options": [
+      "単体",
+      "化合物",
+      "化合",
+      "質量保存の法則"
+    ],
+    "answer": 0,
+    "explanation": "単体とは、1種類の元素だけからできた物質。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-006",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "酸素O₂はどの分類？",
+    "options": [
+      "必ず混合物",
+      "必ず化合物",
+      "合金",
+      "単体"
+    ],
+    "answer": 3,
+    "explanation": "酸素元素だけからなる。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-007",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "説明「複数種類の元素が化学的に結び付いた物質」に最もよく当てはまる用語は？",
+    "options": [
+      "酸化",
+      "発熱反応",
+      "化合物",
+      "分解"
+    ],
+    "answer": 2,
+    "explanation": "化合物とは、複数種類の元素が化学的に結び付いた物質。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-008",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "二酸化炭素CO₂は？",
+    "options": [
+      "単なる酸素と炭素の混合物",
+      "化合物",
+      "単体",
+      "元素そのもの"
+    ],
+    "answer": 1,
+    "explanation": "炭素と酸素が一定の割合で結び付く。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-009",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "説明「1種類の物質が2種類以上に分かれる化学変化」に最もよく当てはまる用語は？",
+    "options": [
+      "分解",
+      "化合",
+      "還元",
+      "原子"
+    ],
+    "answer": 0,
+    "explanation": "分解とは、1種類の物質が2種類以上に分かれる化学変化。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-010",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "酸化銀を加熱し銀と酸素ができる変化は？",
+    "options": [
+      "蒸発だけ",
+      "融解だけ",
+      "混合だけ",
+      "分解"
+    ],
+    "answer": 3,
+    "explanation": "1つの化合物から複数の物質ができる。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-011",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "説明「複数の物質が結び付き別の物質になる変化」に最もよく当てはまる用語は？",
+    "options": [
+      "質量保存の法則",
+      "分子",
+      "化合",
+      "酸化"
+    ],
+    "answer": 2,
+    "explanation": "化合とは、複数の物質が結び付き別の物質になる変化。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-012",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "鉄と硫黄を加熱して硫化鉄を作る変化は？",
+    "options": [
+      "ろ過",
+      "化合",
+      "単なる状態変化",
+      "凝固だけ"
+    ],
+    "answer": 1,
+    "explanation": "別の性質の化合物ができる。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-013",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "説明「物質が酸素と結び付く反応」に最もよく当てはまる用語は？",
+    "options": [
+      "酸化",
+      "還元",
+      "発熱反応",
+      "単体"
+    ],
+    "answer": 0,
+    "explanation": "酸化とは、物質が酸素と結び付く反応。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-014",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "銅を空気中で加熱し黒い酸化銅ができた。銅は？",
+    "options": [
+      "水に溶けただけ",
+      "凝縮した",
+      "単に細かくなった",
+      "酸化された"
+    ],
+    "answer": 3,
+    "explanation": "銅が酸素と結び付いた。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-015",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "説明「酸化物から酸素を取り除く反応」に最もよく当てはまる用語は？",
+    "options": [
+      "原子",
+      "化合物",
+      "還元",
+      "質量保存の法則"
+    ],
+    "answer": 2,
+    "explanation": "還元とは、酸化物から酸素を取り除く反応。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-016",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "酸化銅と炭素の反応で銅ができた。酸化銅に起きたのは？",
+    "options": [
+      "単なる蒸発",
+      "還元",
+      "受粉",
+      "蒸散"
+    ],
+    "answer": 1,
+    "explanation": "酸化銅から酸素が取り除かれた。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-017",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "説明「密閉された系の反応前後で全体の質量が等しいこと」に最もよく当てはまる用語は？",
+    "options": [
+      "質量保存の法則",
+      "発熱反応",
+      "分子",
+      "分解"
+    ],
+    "answer": 0,
+    "explanation": "質量保存の法則とは、密閉された系の反応前後で全体の質量が等しいこと。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-018",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "密閉容器中で反応させた全体の質量は？",
+    "options": [
+      "必ず半分",
+      "必ず2倍",
+      "気体ができると必ず0",
+      "反応前後で変わらない"
+    ],
+    "answer": 3,
+    "explanation": "外へ物質が出ず原子も保存される。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-019",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "説明「周囲へ熱を放出する化学反応」に最もよく当てはまる用語は？",
+    "options": [
+      "単体",
+      "化合",
+      "発熱反応",
+      "原子"
+    ],
+    "answer": 2,
+    "explanation": "発熱反応とは、周囲へ熱を放出する化学反応。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
+  },
+  {
+    "id": "science-g2-u01-020",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "化学変化",
+    "difficulty": "basic",
+    "question": "鉄粉の酸化でカイロが温かくなる。これは？",
+    "options": [
+      "音の反射",
+      "発熱反応",
+      "吸熱反応だけ",
+      "凝固だけ"
+    ],
+    "answer": 1,
+    "explanation": "反応で熱が放出される。",
+    "prereq": [
+      "理科|1|物質の性質"
+    ]
   }
 ]

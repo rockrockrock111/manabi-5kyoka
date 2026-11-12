@@ -36,5 +36,385 @@
     "answer": 1,
     "explanation": "火山灰などが堆積して固まったもの。",
     "difficulty": "basic"
+  },
+  {
+    "id": "science-g1-u04-001",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "説明「堆積物などが重なり層状になったもの」に最もよく当てはまる用語は？",
+    "options": [
+      "地層",
+      "堆積",
+      "示準化石",
+      "震央"
+    ],
+    "answer": 0,
+    "explanation": "地層とは、堆積物などが重なり層状になったもの。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-002",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "上下が逆転していない地層で一般に古いのは？",
+    "options": [
+      "必ず上の層",
+      "全層が同時",
+      "厚い層だけ",
+      "下の層"
+    ],
+    "answer": 3,
+    "explanation": "堆積は通常下から上へ進む。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-003",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "説明「運ばれた粒などが積もること」に最もよく当てはまる用語は？",
+    "options": [
+      "示相化石",
+      "P波",
+      "堆積",
+      "れき岩"
+    ],
+    "answer": 2,
+    "explanation": "堆積とは、運ばれた粒などが積もること。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-004",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "川から海に出た砂や泥が底に積もる現象は？",
+    "options": [
+      "受粉",
+      "堆積",
+      "蒸発",
+      "燃焼"
+    ],
+    "answer": 1,
+    "explanation": "流れが弱くなると粒子が沈み積もる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-005",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "説明「主に直径2mm以上の粒からなる堆積岩」に最もよく当てはまる用語は？",
+    "options": [
+      "れき岩",
+      "示準化石",
+      "震源",
+      "S波"
+    ],
+    "answer": 0,
+    "explanation": "れき岩とは、主に直径2mm以上の粒からなる堆積岩。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-006",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "大きな丸い粒が多い堆積岩は？",
+    "options": [
+      "泥岩",
+      "石灰岩",
+      "チャート",
+      "れき岩"
+    ],
+    "answer": 3,
+    "explanation": "粒の大きさで分け、れきが固まったもの。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-007",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "説明「地層ができた時代を推定する手掛かりとなる化石」に最もよく当てはまる用語は？",
+    "options": [
+      "震央",
+      "初期微動継続時間",
+      "示準化石",
+      "示相化石"
+    ],
+    "answer": 2,
+    "explanation": "示準化石とは、地層ができた時代を推定する手掛かりとなる化石。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-008",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "広く分布し短い時代に生存した生物の化石が役立つのは？",
+    "options": [
+      "必ず海の深さだけ",
+      "地層の時代の推定",
+      "現在の気温の測定",
+      "地震時刻の予測"
+    ],
+    "answer": 1,
+    "explanation": "生存期間が短く時代を絞り込める。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-009",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "説明「地層ができた環境を推定する手掛かりとなる化石」に最もよく当てはまる用語は？",
+    "options": [
+      "示相化石",
+      "震源",
+      "P波",
+      "地層"
+    ],
+    "answer": 0,
+    "explanation": "示相化石とは、地層ができた環境を推定する手掛かりとなる化石。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-010",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "造礁サンゴの化石から推定しやすい環境は？",
+    "options": [
+      "寒冷な深海だけ",
+      "乾いた砂漠",
+      "高山の氷河",
+      "暖かく浅い海"
+    ],
+    "answer": 3,
+    "explanation": "造礁サンゴの生活環境が手掛かり。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-011",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "説明「地下で地震が発生し始めた場所」に最もよく当てはまる用語は？",
+    "options": [
+      "S波",
+      "堆積",
+      "震源",
+      "震央"
+    ],
+    "answer": 2,
+    "explanation": "震源とは、地下で地震が発生し始めた場所。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-012",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "地下の地震発生点を何という？",
+    "options": [
+      "火口",
+      "震源",
+      "震央",
+      "露頭"
+    ],
+    "answer": 1,
+    "explanation": "地下の発生点が震源。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-013",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "説明「震源の真上にある地表の地点」に最もよく当てはまる用語は？",
+    "options": [
+      "震央",
+      "P波",
+      "初期微動継続時間",
+      "れき岩"
+    ],
+    "answer": 0,
+    "explanation": "震央とは、震源の真上にある地表の地点。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-014",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "震源の真上の地表の点は？",
+    "options": [
+      "震源そのもの",
+      "マグマだまり",
+      "断面図",
+      "震央"
+    ],
+    "answer": 3,
+    "explanation": "地表と地下の位置を区別する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-015",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "説明「地震波のうちS波より速く伝わる波」に最もよく当てはまる用語は？",
+    "options": [
+      "地層",
+      "示準化石",
+      "P波",
+      "S波"
+    ],
+    "answer": 2,
+    "explanation": "P波とは、地震波のうちS波より速く伝わる波。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-016",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "先に到着して初期微動を起こす主な波は？",
+    "options": [
+      "電波だけ",
+      "P波",
+      "S波",
+      "海流"
+    ],
+    "answer": 1,
+    "explanation": "P波の方が伝わる速さが大きい。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-017",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "説明「地震波のうちP波より遅く伝わる波」に最もよく当てはまる用語は？",
+    "options": [
+      "S波",
+      "初期微動継続時間",
+      "堆積",
+      "示相化石"
+    ],
+    "answer": 0,
+    "explanation": "S波とは、地震波のうちP波より遅く伝わる波。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-018",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "主要動を起こす主な波は？",
+    "options": [
+      "P波だけ",
+      "光",
+      "潮汐",
+      "S波"
+    ],
+    "answer": 3,
+    "explanation": "一般にS波到着後に大きな揺れとなる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-019",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "説明「P波到着からS波到着までの時間」に最もよく当てはまる用語は？",
+    "options": [
+      "れき岩",
+      "震源",
+      "初期微動継続時間",
+      "地層"
+    ],
+    "answer": 2,
+    "explanation": "初期微動継続時間とは、P波到着からS波到着までの時間。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u04-020",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "地層と地震",
+    "difficulty": "basic",
+    "question": "震源から遠い地点ほど一般にこの時間は？",
+    "options": [
+      "距離と絶対無関係",
+      "長くなる",
+      "必ず0になる",
+      "短くなるだけ"
+    ],
+    "answer": 1,
+    "explanation": "P波とS波の到着時刻の差が距離とともに広がる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
   }
 ]

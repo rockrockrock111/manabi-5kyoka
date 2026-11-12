@@ -1,0 +1,382 @@
+[
+  {
+    "id": "science-g1-u09-001",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "説明「地下にある高温で岩石が溶けた物質」に最もよく当てはまる用語は？",
+    "options": [
+      "マグマ",
+      "溶岩",
+      "火成岩",
+      "斑状組織"
+    ],
+    "answer": 0,
+    "explanation": "マグマとは、地下にある高温で岩石が溶けた物質。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-002",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "火山から出る溶岩のもとは？",
+    "options": [
+      "地下の氷だけ",
+      "表面の砂だけ",
+      "海水そのもの",
+      "マグマ"
+    ],
+    "answer": 3,
+    "explanation": "地下のマグマが地表に出たものを溶岩と呼ぶ。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-003",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "説明「地表へ流れ出たマグマ」に最もよく当てはまる用語は？",
+    "options": [
+      "火山岩",
+      "等粒状組織",
+      "溶岩",
+      "火山灰"
+    ],
+    "answer": 2,
+    "explanation": "溶岩とは、地表へ流れ出たマグマ。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-004",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "地表に出た溶岩と地下のマグマの関係は？",
+    "options": [
+      "マグマは必ず固体",
+      "もとは地下の溶けた岩石",
+      "全く無関係な物質",
+      "溶岩は常に水"
+    ],
+    "answer": 1,
+    "explanation": "場所による呼び方の違いがある。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-005",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "説明「噴火で放出された細かい固体粒子」に最もよく当てはまる用語は？",
+    "options": [
+      "火山灰",
+      "火成岩",
+      "深成岩",
+      "粘り気"
+    ],
+    "answer": 0,
+    "explanation": "火山灰とは、噴火で放出された細かい固体粒子。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-006",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "火山灰を顕微鏡で見ると含まれるものは？",
+    "options": [
+      "必ず植物の灰だけ",
+      "必ず食塩だけ",
+      "すべて水滴",
+      "鉱物の結晶や火山ガラス"
+    ],
+    "answer": 3,
+    "explanation": "燃えかすではなくマグマや岩石由来の粒子。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-007",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "説明「マグマが冷え固まってできた岩石」に最もよく当てはまる用語は？",
+    "options": [
+      "斑状組織",
+      "鉱物",
+      "火成岩",
+      "火山岩"
+    ],
+    "answer": 2,
+    "explanation": "火成岩とは、マグマが冷え固まってできた岩石。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-008",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "玄武岩と花こう岩に共通する成因は？",
+    "options": [
+      "水が凍った",
+      "マグマが冷え固まった",
+      "生物の殻だけが堆積",
+      "砂だけが圧縮"
+    ],
+    "answer": 1,
+    "explanation": "冷却条件は異なるがどちらも火成岩。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-009",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "説明「マグマが地表付近で急に冷えた火成岩」に最もよく当てはまる用語は？",
+    "options": [
+      "火山岩",
+      "深成岩",
+      "等粒状組織",
+      "マグマ"
+    ],
+    "answer": 0,
+    "explanation": "火山岩とは、マグマが地表付近で急に冷えた火成岩。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-010",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "細かい石基に大きな結晶が散らばる岩石は主に？",
+    "options": [
+      "深成岩だけ",
+      "れき岩だけ",
+      "石炭だけ",
+      "火山岩"
+    ],
+    "answer": 3,
+    "explanation": "火山岩には斑状組織が多い。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-011",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "説明「マグマが地下深くでゆっくり冷えた火成岩」に最もよく当てはまる用語は？",
+    "options": [
+      "粘り気",
+      "溶岩",
+      "深成岩",
+      "斑状組織"
+    ],
+    "answer": 2,
+    "explanation": "深成岩とは、マグマが地下深くでゆっくり冷えた火成岩。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-012",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "比較的大きな結晶が組み合わさる花こう岩は？",
+    "options": [
+      "チャート",
+      "深成岩",
+      "火山灰",
+      "泥岩"
+    ],
+    "answer": 1,
+    "explanation": "地下で時間をかけて結晶が成長する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-013",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "説明「大きな結晶と細かい石基からなるつくり」に最もよく当てはまる用語は？",
+    "options": [
+      "斑状組織",
+      "等粒状組織",
+      "鉱物",
+      "火山灰"
+    ],
+    "answer": 0,
+    "explanation": "斑状組織とは、大きな結晶と細かい石基からなるつくり。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-014",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "斑晶と石基が見られるつくりは？",
+    "options": [
+      "等粒状組織",
+      "地層の逆転",
+      "葉脈",
+      "斑状組織"
+    ],
+    "answer": 3,
+    "explanation": "異なる冷却段階を反映するつくり。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-015",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "説明「比較的大きな結晶が組み合わさったつくり」に最もよく当てはまる用語は？",
+    "options": [
+      "マグマ",
+      "火成岩",
+      "等粒状組織",
+      "粘り気"
+    ],
+    "answer": 2,
+    "explanation": "等粒状組織とは、比較的大きな結晶が組み合わさったつくり。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-016",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "深成岩に多い組織は？",
+    "options": [
+      "根毛の集合",
+      "等粒状組織",
+      "必ず斑状組織",
+      "年輪だけ"
+    ],
+    "answer": 1,
+    "explanation": "地下でゆっくり冷えて結晶が成長する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-017",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "説明「マグマなどの流れにくさ」に最もよく当てはまる用語は？",
+    "options": [
+      "粘り気",
+      "鉱物",
+      "溶岩",
+      "火山岩"
+    ],
+    "answer": 0,
+    "explanation": "粘り気とは、マグマなどの流れにくさ。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-018",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "粘り気が小さいマグマは一般にどのように流れる？",
+    "options": [
+      "全く流れない",
+      "必ず水になる",
+      "空中に固定される",
+      "流れやすく広がりやすい"
+    ],
+    "answer": 3,
+    "explanation": "粘り気が小さいほど移動しやすい。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-019",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "説明「岩石を作る一定の化学組成などをもつ物質」に最もよく当てはまる用語は？",
+    "options": [
+      "火山灰",
+      "深成岩",
+      "鉱物",
+      "マグマ"
+    ],
+    "answer": 2,
+    "explanation": "鉱物とは、岩石を作る一定の化学組成などをもつ物質。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u09-020",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "火山と岩石",
+    "difficulty": "basic",
+    "question": "花こう岩に含まれる無色鉱物の組合せは？",
+    "options": [
+      "火山ガラスだけ",
+      "石英と長石",
+      "カンラン石と磁鉄鉱",
+      "黒雲母だけ"
+    ],
+    "answer": 1,
+    "explanation": "石英と長石は代表的な無色鉱物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  }
+]

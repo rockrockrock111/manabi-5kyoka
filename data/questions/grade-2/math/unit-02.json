@@ -36,5 +36,695 @@
     "answer": 1,
     "explanation": "x=4を代入してy=3。",
     "difficulty": "basic"
+  },
+  {
+    "id": "math-g2-u02-001",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "x＋y＝5、x−y＝-1。xは？",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "2式を足すと2x＝4。x＝2。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(5+-1)/2"
+    }
+  },
+  {
+    "id": "math-g2-u02-002",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "x＋2y＝11、x＋y＝7。yは？",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "1式から2式を引くとy＝4。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "11-7"
+    }
+  },
+  {
+    "id": "math-g2-u02-003",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "y＝2x−3、x＋y＝9。xは？",
+    "options": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "yを代入し3x−3＝9。よってx＝4。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(9+3)/3"
+    }
+  },
+  {
+    "id": "math-g2-u02-004",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "鉛筆1本60円、ペン1本80円。合わせて11本、代金780円。鉛筆は何本？",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "全部をペンとすると代金は880円。差額を1本の差20円で割り、鉛筆5本。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(80*11-780)/20"
+    }
+  },
+  {
+    "id": "math-g2-u02-005",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "2x＋y＝14、3x−y＝16。xは？",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "2式を加えると5x＝30。x＝6。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(14+16)/5"
+    }
+  },
+  {
+    "id": "math-g2-u02-006",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "x＋y＝10、x−y＝4。xは？",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "2式を足すと2x＝14。x＝7。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(10+4)/2"
+    }
+  },
+  {
+    "id": "math-g2-u02-007",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "x＋2y＝16、x＋y＝12。yは？",
+    "options": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "1式から2式を引くとy＝4。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "16-12"
+    }
+  },
+  {
+    "id": "math-g2-u02-008",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "y＝2x−13、x＋y＝14。xは？",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "yを代入し3x−13＝14。よってx＝9。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(14+13)/3"
+    }
+  },
+  {
+    "id": "math-g2-u02-009",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "鉛筆1本110円、ペン1本130円。合わせて16本、代金1880円。鉛筆は何本？",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "全部をペンとすると代金は2080円。差額を1本の差20円で割り、鉛筆10本。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(130*16-1880)/20"
+    }
+  },
+  {
+    "id": "math-g2-u02-010",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "2x＋y＝24、3x−y＝31。xは？",
+    "options": [
+      "12",
+      "10",
+      "13",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "2式を加えると5x＝55。x＝11。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(24+31)/5"
+    }
+  },
+  {
+    "id": "math-g2-u02-011",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "x＋y＝15、x−y＝9。xは？",
+    "options": [
+      "11",
+      "14",
+      "12",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "2式を足すと2x＝24。x＝12。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(15+9)/2"
+    }
+  },
+  {
+    "id": "math-g2-u02-012",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "x＋2y＝21、x＋y＝17。yは？",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "1式から2式を引くとy＝4。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "21-17"
+    }
+  },
+  {
+    "id": "math-g2-u02-013",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "y＝2x−23、x＋y＝19。xは？",
+    "options": [
+      "14",
+      "15",
+      "13",
+      "16"
+    ],
+    "answer": 0,
+    "explanation": "yを代入し3x−23＝19。よってx＝14。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(19+23)/3"
+    }
+  },
+  {
+    "id": "math-g2-u02-014",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "鉛筆1本160円、ペン1本180円。合わせて21本、代金3480円。鉛筆は何本？",
+    "options": [
+      "16",
+      "14",
+      "17",
+      "15"
+    ],
+    "answer": 3,
+    "explanation": "全部をペンとすると代金は3780円。差額を1本の差20円で割り、鉛筆15本。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(180*21-3480)/20"
+    }
+  },
+  {
+    "id": "math-g2-u02-015",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "2x＋y＝34、3x−y＝46。xは？",
+    "options": [
+      "15",
+      "18",
+      "16",
+      "17"
+    ],
+    "answer": 2,
+    "explanation": "2式を加えると5x＝80。x＝16。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(34+46)/5"
+    }
+  },
+  {
+    "id": "math-g2-u02-016",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "x＋y＝20、x−y＝14。xは？",
+    "options": [
+      "19",
+      "17",
+      "18",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "2式を足すと2x＝34。x＝17。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(20+14)/2"
+    }
+  },
+  {
+    "id": "math-g2-u02-017",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "x＋2y＝26、x＋y＝22。yは？",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "1式から2式を引くとy＝4。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "26-22"
+    }
+  },
+  {
+    "id": "math-g2-u02-018",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "y＝2x−33、x＋y＝24。xは？",
+    "options": [
+      "20",
+      "18",
+      "21",
+      "19"
+    ],
+    "answer": 3,
+    "explanation": "yを代入し3x−33＝24。よってx＝19。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(24+33)/3"
+    }
+  },
+  {
+    "id": "math-g2-u02-019",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "鉛筆1本210円、ペン1本230円。合わせて26本、代金5580円。鉛筆は何本？",
+    "options": [
+      "19",
+      "22",
+      "20",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "全部をペンとすると代金は5980円。差額を1本の差20円で割り、鉛筆20本。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(230*26-5580)/20"
+    }
+  },
+  {
+    "id": "math-g2-u02-020",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "basic",
+    "question": "2x＋y＝44、3x−y＝61。xは？",
+    "options": [
+      "23",
+      "21",
+      "22",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "2式を加えると5x＝105。x＝21。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(44+61)/5"
+    }
+  },
+  {
+    "id": "math-g2-u02-021",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "standard",
+    "question": "0.2x＋0.3y＝2、x−y＝5。xは？",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "第1式を10倍し2x＋3y＝20。y＝x−5を代入すると5x＝35、x＝7。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(20+3*5)/5"
+    }
+  },
+  {
+    "id": "math-g2-u02-022",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "standard",
+    "question": "大人料金500円、子ども料金300円で合計11人、4900円。大人は何人？",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "全員子どもなら3300円。差額を200円で割り8人。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(4900-300*11)/200"
+    }
+  },
+  {
+    "id": "math-g2-u02-023",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "standard",
+    "question": "長方形の周長は26cm、縦は横より5cm長い。縦は何cm？",
+    "options": [
+      "8",
+      "11",
+      "9",
+      "10"
+    ],
+    "answer": 2,
+    "explanation": "縦と横の和は13、差は5。縦＝(和＋差)/2＝9。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(26/2+5)/2"
+    }
+  },
+  {
+    "id": "math-g2-u02-024",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "standard",
+    "question": "2x＋3y＝35、4x−3y＝25を同時に満たすxは？",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "2式を加えて6x＝60。x＝10。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(35+25)/6"
+    }
+  },
+  {
+    "id": "math-g2-u02-025",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "standard",
+    "question": "x/2＋y/3＝15/2、x−y＝5。xは？",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "answer": 0,
+    "explanation": "第1式を6倍し3x＋2y＝45。y＝x−5を代入してx＝11。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(45+2*5)/5"
+    }
+  },
+  {
+    "id": "math-g2-u02-026",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "standard",
+    "question": "0.2x＋0.3y＝9/2、x−y＝5。xは？",
+    "options": [
+      "13",
+      "11",
+      "14",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "第1式を10倍し2x＋3y＝45。y＝x−5を代入すると5x＝60、x＝12。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(45+3*5)/5"
+    }
+  },
+  {
+    "id": "math-g2-u02-027",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "standard",
+    "question": "大人料金500円、子ども料金300円で合計21人、8900円。大人は何人？",
+    "options": [
+      "12",
+      "15",
+      "13",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "全員子どもなら6300円。差額を200円で割り13人。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(8900-300*21)/200"
+    }
+  },
+  {
+    "id": "math-g2-u02-028",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "standard",
+    "question": "長方形の周長は46cm、縦は横より5cm長い。縦は何cm？",
+    "options": [
+      "16",
+      "14",
+      "15",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "縦と横の和は23、差は5。縦＝(和＋差)/2＝14。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(46/2+5)/2"
+    }
+  },
+  {
+    "id": "math-g2-u02-029",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "standard",
+    "question": "2x＋3y＝60、4x−3y＝30を同時に満たすxは？",
+    "options": [
+      "15",
+      "16",
+      "14",
+      "17"
+    ],
+    "answer": 0,
+    "explanation": "2式を加えて6x＝90。x＝15。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(60+30)/6"
+    }
+  },
+  {
+    "id": "math-g2-u02-030",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "連立方程式",
+    "difficulty": "standard",
+    "question": "x/2＋y/3＝35/3、x−y＝5。xは？",
+    "options": [
+      "17",
+      "15",
+      "18",
+      "16"
+    ],
+    "answer": 3,
+    "explanation": "第1式を6倍し3x＋2y＝70。y＝x−5を代入してx＝16。",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(70+2*5)/5"
+    }
   }
 ]

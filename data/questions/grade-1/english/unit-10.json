@@ -378,5 +378,195 @@
     "prereq": [
       "英語|1|一般動詞"
     ]
+  },
+  {
+    "id": "english-g1-u10-021",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "standard",
+    "question": "Ken likes books. Last Saturday, Ken went to the library. It was rainy, but Ken enjoyed the visit.\n天気と訪問の感想を正しくまとめたものは？",
+    "options": [
+      "雨だったが訪問を楽しんだ",
+      "晴れだったので中止した",
+      "雪だったので必ず帰った",
+      "天気も感想も書いていない"
+    ],
+    "answer": 0,
+    "explanation": "It was rainyとenjoyed the visitをbutでつないでいる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-022",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "standard",
+    "question": "Ken likes books. Last Saturday, Ken went to the library. It was rainy, but Ken enjoyed the visit.\nthe visitは何を指す？",
+    "options": [
+      "booksを食べること",
+      "まだしていない明日の旅",
+      "学校の試験のみ",
+      "libraryへの訪問"
+    ],
+    "answer": 3,
+    "explanation": "前の文のwent to the libraryという出来事を受ける。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-023",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "standard",
+    "question": "Aya likes flowers. Last Sunday, Aya went to the park. It was rainy, but Aya enjoyed the visit.\n天気と訪問の感想を正しくまとめたものは？",
+    "options": [
+      "雪だったので必ず帰った",
+      "天気も感想も書いていない",
+      "雨だったが訪問を楽しんだ",
+      "晴れだったので中止した"
+    ],
+    "answer": 2,
+    "explanation": "It was rainyとenjoyed the visitをbutでつないでいる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-024",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "standard",
+    "question": "Aya likes flowers. Last Sunday, Aya went to the park. It was rainy, but Aya enjoyed the visit.\nthe visitは何を指す？",
+    "options": [
+      "学校の試験のみ",
+      "parkへの訪問",
+      "flowersを食べること",
+      "まだしていない明日の旅"
+    ],
+    "answer": 1,
+    "explanation": "前の文のwent to the parkという出来事を受ける。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-025",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "standard",
+    "question": "Mina likes pictures. Last Monday, Mina went to the museum. It was rainy, but Mina enjoyed the visit.\n天気と訪問の感想を正しくまとめたものは？",
+    "options": [
+      "雨だったが訪問を楽しんだ",
+      "晴れだったので中止した",
+      "雪だったので必ず帰った",
+      "天気も感想も書いていない"
+    ],
+    "answer": 0,
+    "explanation": "It was rainyとenjoyed the visitをbutでつないでいる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-026",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "standard",
+    "question": "Mina likes pictures. Last Monday, Mina went to the museum. It was rainy, but Mina enjoyed the visit.\nthe visitは何を指す？",
+    "options": [
+      "picturesを食べること",
+      "まだしていない明日の旅",
+      "学校の試験のみ",
+      "museumへの訪問"
+    ],
+    "answer": 3,
+    "explanation": "前の文のwent to the museumという出来事を受ける。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-027",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "standard",
+    "question": "Riku likes maps. Last Tuesday, Riku went to the school. It was rainy, but Riku enjoyed the visit.\n天気と訪問の感想を正しくまとめたものは？",
+    "options": [
+      "雪だったので必ず帰った",
+      "天気も感想も書いていない",
+      "雨だったが訪問を楽しんだ",
+      "晴れだったので中止した"
+    ],
+    "answer": 2,
+    "explanation": "It was rainyとenjoyed the visitをbutでつないでいる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-028",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "standard",
+    "question": "Riku likes maps. Last Tuesday, Riku went to the school. It was rainy, but Riku enjoyed the visit.\nthe visitは何を指す？",
+    "options": [
+      "学校の試験のみ",
+      "schoolへの訪問",
+      "mapsを食べること",
+      "まだしていない明日の旅"
+    ],
+    "answer": 1,
+    "explanation": "前の文のwent to the schoolという出来事を受ける。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-029",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "standard",
+    "question": "Emi likes trains. Last Wednesday, Emi went to the station. It was rainy, but Emi enjoyed the visit.\n天気と訪問の感想を正しくまとめたものは？",
+    "options": [
+      "雨だったが訪問を楽しんだ",
+      "晴れだったので中止した",
+      "雪だったので必ず帰った",
+      "天気も感想も書いていない"
+    ],
+    "answer": 0,
+    "explanation": "It was rainyとenjoyed the visitをbutでつないでいる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-030",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "standard",
+    "question": "Emi likes trains. Last Wednesday, Emi went to the station. It was rainy, but Emi enjoyed the visit.\nthe visitは何を指す？",
+    "options": [
+      "trainsを食べること",
+      "まだしていない明日の旅",
+      "学校の試験のみ",
+      "stationへの訪問"
+    ],
+    "answer": 3,
+    "explanation": "前の文のwent to the stationという出来事を受ける。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
   }
 ]

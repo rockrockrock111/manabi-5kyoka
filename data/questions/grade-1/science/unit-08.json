@@ -1,0 +1,382 @@
+[
+  {
+    "id": "science-g1-u08-001",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "説明「物体の運動や形を変えるなどのはたらき」に最もよく当てはまる用語は？",
+    "options": [
+      "力",
+      "重力",
+      "摩擦力",
+      "ニュートン"
+    ],
+    "answer": 0,
+    "explanation": "力とは、物体の運動や形を変えるなどのはたらき。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-002",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "静止したボールを押して動かした。主に変えたのは？",
+    "options": [
+      "必ず物質の種類",
+      "原子番号",
+      "必ず質量",
+      "運動の状態"
+    ],
+    "answer": 3,
+    "explanation": "力は物体の運動状態を変える。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-003",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "説明「地球などが物体を引く力」に最もよく当てはまる用語は？",
+    "options": [
+      "垂直抗力",
+      "フックの法則",
+      "重力",
+      "弾性力"
+    ],
+    "answer": 2,
+    "explanation": "重力とは、地球などが物体を引く力。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-004",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "手を離した球が地面へ落ちる主な原因は？",
+    "options": [
+      "浮力だけ",
+      "重力",
+      "磁力だけ",
+      "静電気だけ"
+    ],
+    "answer": 1,
+    "explanation": "地球から下向きの重力を受ける。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-005",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "説明「変形した物体が元に戻ろうとする力」に最もよく当てはまる用語は？",
+    "options": [
+      "弾性力",
+      "摩擦力",
+      "作用点",
+      "力のつり合い"
+    ],
+    "answer": 0,
+    "explanation": "弾性力とは、変形した物体が元に戻ろうとする力。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-006",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "伸ばしたばねが手を引く力は？",
+    "options": [
+      "燃焼",
+      "蒸散",
+      "消化",
+      "弾性力"
+    ],
+    "answer": 3,
+    "explanation": "ばねが元の形に戻ろうとする。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-007",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "説明「接触する物体の相対的な動きを妨げる力」に最もよく当てはまる用語は？",
+    "options": [
+      "ニュートン",
+      "圧力",
+      "摩擦力",
+      "垂直抗力"
+    ],
+    "answer": 2,
+    "explanation": "摩擦力とは、接触する物体の相対的な動きを妨げる力。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-008",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "床を滑る箱の動く向きと反対にはたらく力は？",
+    "options": [
+      "受粉",
+      "摩擦力",
+      "磁力と断定",
+      "浮力だけ"
+    ],
+    "answer": 1,
+    "explanation": "接触面で滑りを妨げる力がはたらく。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-009",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "説明「接触面から面に垂直に受ける力」に最もよく当てはまる用語は？",
+    "options": [
+      "垂直抗力",
+      "作用点",
+      "フックの法則",
+      "力"
+    ],
+    "answer": 0,
+    "explanation": "垂直抗力とは、接触面から面に垂直に受ける力。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-010",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "水平な机の上の本が机から受ける力の向きは？",
+    "options": [
+      "鉛直下向き",
+      "必ず右向き",
+      "必ず左向き",
+      "鉛直上向き"
+    ],
+    "answer": 3,
+    "explanation": "机の面から垂直上向きに支える力を受ける。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-011",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "説明「物体に力がはたらく位置」に最もよく当てはまる用語は？",
+    "options": [
+      "力のつり合い",
+      "重力",
+      "作用点",
+      "ニュートン"
+    ],
+    "answer": 2,
+    "explanation": "作用点とは、物体に力がはたらく位置。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-012",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "力の矢印で始点が表すものは？",
+    "options": [
+      "力の単位",
+      "作用点",
+      "必ず速度の終点",
+      "物体の温度"
+    ],
+    "answer": 1,
+    "explanation": "矢印の始点を力の作用点に置く。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-013",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "説明「力の大きさを表す単位」に最もよく当てはまる用語は？",
+    "options": [
+      "ニュートン",
+      "フックの法則",
+      "圧力",
+      "弾性力"
+    ],
+    "answer": 0,
+    "explanation": "ニュートンとは、力の大きさを表す単位。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-014",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "ばねばかりで測る力の単位は？",
+    "options": [
+      "gだけ",
+      "cm³",
+      "℃",
+      "N"
+    ],
+    "answer": 3,
+    "explanation": "力のSI単位はニュートンで記号N。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-015",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "説明「弾性限度内でばねの伸びが力の大きさに比例する関係」に最もよく当てはまる用語は？",
+    "options": [
+      "力",
+      "摩擦力",
+      "フックの法則",
+      "力のつり合い"
+    ],
+    "answer": 2,
+    "explanation": "フックの法則とは、弾性限度内でばねの伸びが力の大きさに比例する関係。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-016",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "1Nで2cm伸びるばねに3Nを加える。弾性限度内なら伸びは？",
+    "options": [
+      "9cm",
+      "6cm",
+      "2cm",
+      "3cm"
+    ],
+    "answer": 1,
+    "explanation": "伸びは力に比例するので2×3＝6cm。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-017",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "説明「複数の力を受けても運動状態が変わらない条件が成り立つこと」に最もよく当てはまる用語は？",
+    "options": [
+      "力のつり合い",
+      "圧力",
+      "重力",
+      "垂直抗力"
+    ],
+    "answer": 0,
+    "explanation": "力のつり合いとは、複数の力を受けても運動状態が変わらない条件が成り立つこと。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-018",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "2力がつり合う条件は？",
+    "options": [
+      "必ず同じ向き",
+      "大きさだけ同じならよい",
+      "作用線は無関係",
+      "同一直線上で逆向きかつ同じ大きさ"
+    ],
+    "answer": 3,
+    "explanation": "2力は作用線が一致し、向きが反対で大きさが等しい。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-019",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "説明「面を垂直に押す力を面積で割った量」に最もよく当てはまる用語は？",
+    "options": [
+      "弾性力",
+      "作用点",
+      "圧力",
+      "力"
+    ],
+    "answer": 2,
+    "explanation": "圧力とは、面を垂直に押す力を面積で割った量。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u08-020",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "力のはたらき",
+    "difficulty": "basic",
+    "question": "20Nの力が0.1m²を垂直に押す。圧力は？",
+    "options": [
+      "0.005Pa",
+      "200Pa",
+      "2Pa",
+      "20Pa"
+    ],
+    "answer": 1,
+    "explanation": "圧力＝20÷0.1＝200Pa。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  }
+]

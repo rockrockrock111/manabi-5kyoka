@@ -17,5 +17,695 @@
     "answer": 1,
     "explanation": "表と裏は同様に確からしい。",
     "difficulty": "basic"
+  },
+  {
+    "id": "math-g2-u05-001",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から4までの整数を1つずつ書いた札をよく混ぜ1枚引く。1が出る確率は？",
+    "options": [
+      "1/4",
+      "5/4",
+      "-3/4",
+      "9/4"
+    ],
+    "answer": 0,
+    "explanation": "4通りが同様に確からしく、1の札は1枚なので1/4。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "1/4"
+    }
+  },
+  {
+    "id": "math-g2-u05-002",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "赤玉3個、白玉5個を袋によく混ぜ、1個取る。赤玉の確率は？",
+    "options": [
+      "11/8",
+      "-5/8",
+      "19/8",
+      "3/8"
+    ],
+    "answer": 3,
+    "explanation": "全体8個のうち赤玉が3個。3/8＝3/8。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3/(5+3)"
+    }
+  },
+  {
+    "id": "math-g2-u05-003",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から6までの整数の札をよく混ぜ1枚引く。偶数の確率は？",
+    "options": [
+      "-1/2",
+      "5/2",
+      "1/2",
+      "3/2"
+    ],
+    "answer": 2,
+    "explanation": "偶数の札は3枚で全体は6枚。確率は1/2。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3/6"
+    }
+  },
+  {
+    "id": "math-g2-u05-004",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "当たり2本、はずれ7本のくじをよく混ぜ1本引く。はずれの確率は？",
+    "options": [
+      "25/9",
+      "7/9",
+      "16/9",
+      "-2/9"
+    ],
+    "answer": 1,
+    "explanation": "全体9本中、はずれが7本なので7/9。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "7/(7+2)"
+    }
+  },
+  {
+    "id": "math-g2-u05-005",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から8までの整数の札をよく混ぜ1枚引く。8以外の数が出る確率は？",
+    "options": [
+      "7/8",
+      "15/8",
+      "-1/8",
+      "23/8"
+    ],
+    "answer": 0,
+    "explanation": "8の札1枚を除いた7枚が該当するので7/8。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(8-1)/8"
+    }
+  },
+  {
+    "id": "math-g2-u05-006",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から9までの整数を1つずつ書いた札をよく混ぜ1枚引く。1が出る確率は？",
+    "options": [
+      "10/9",
+      "-8/9",
+      "19/9",
+      "1/9"
+    ],
+    "answer": 3,
+    "explanation": "9通りが同様に確からしく、1の札は1枚なので1/9。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "1/9"
+    }
+  },
+  {
+    "id": "math-g2-u05-007",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "赤玉2個、白玉10個を袋によく混ぜ、1個取る。赤玉の確率は？",
+    "options": [
+      "-5/6",
+      "13/6",
+      "1/6",
+      "7/6"
+    ],
+    "answer": 2,
+    "explanation": "全体12個のうち赤玉が2個。2/12＝1/6。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2/(10+2)"
+    }
+  },
+  {
+    "id": "math-g2-u05-008",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から11までの整数の札をよく混ぜ1枚引く。偶数の確率は？",
+    "options": [
+      "27/11",
+      "5/11",
+      "16/11",
+      "-6/11"
+    ],
+    "answer": 1,
+    "explanation": "偶数の札は5枚で全体は11枚。確率は5/11。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "5/11"
+    }
+  },
+  {
+    "id": "math-g2-u05-009",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "当たり1本、はずれ12本のくじをよく混ぜ1本引く。はずれの確率は？",
+    "options": [
+      "12/13",
+      "25/13",
+      "-1/13",
+      "38/13"
+    ],
+    "answer": 0,
+    "explanation": "全体13本中、はずれが12本なので12/13。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "12/(12+1)"
+    }
+  },
+  {
+    "id": "math-g2-u05-010",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から13までの整数の札をよく混ぜ1枚引く。13以外の数が出る確率は？",
+    "options": [
+      "25/13",
+      "-1/13",
+      "38/13",
+      "12/13"
+    ],
+    "answer": 3,
+    "explanation": "13の札1枚を除いた12枚が該当するので12/13。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(13-1)/13"
+    }
+  },
+  {
+    "id": "math-g2-u05-011",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から14までの整数を1つずつ書いた札をよく混ぜ1枚引く。1が出る確率は？",
+    "options": [
+      "-13/14",
+      "29/14",
+      "1/14",
+      "15/14"
+    ],
+    "answer": 2,
+    "explanation": "14通りが同様に確からしく、1の札は1枚なので1/14。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "1/14"
+    }
+  },
+  {
+    "id": "math-g2-u05-012",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "赤玉1個、白玉15個を袋によく混ぜ、1個取る。赤玉の確率は？",
+    "options": [
+      "33/16",
+      "1/16",
+      "17/16",
+      "-15/16"
+    ],
+    "answer": 1,
+    "explanation": "全体16個のうち赤玉が1個。1/16＝1/16。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "1/(15+1)"
+    }
+  },
+  {
+    "id": "math-g2-u05-013",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から16までの整数の札をよく混ぜ1枚引く。偶数の確率は？",
+    "options": [
+      "1/2",
+      "3/2",
+      "-1/2",
+      "5/2"
+    ],
+    "answer": 0,
+    "explanation": "偶数の札は8枚で全体は16枚。確率は1/2。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "8/16"
+    }
+  },
+  {
+    "id": "math-g2-u05-014",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "当たり3本、はずれ17本のくじをよく混ぜ1本引く。はずれの確率は？",
+    "options": [
+      "37/20",
+      "-3/20",
+      "57/20",
+      "17/20"
+    ],
+    "answer": 3,
+    "explanation": "全体20本中、はずれが17本なので17/20。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "17/(17+3)"
+    }
+  },
+  {
+    "id": "math-g2-u05-015",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から18までの整数の札をよく混ぜ1枚引く。18以外の数が出る確率は？",
+    "options": [
+      "-1/18",
+      "53/18",
+      "17/18",
+      "35/18"
+    ],
+    "answer": 2,
+    "explanation": "18の札1枚を除いた17枚が該当するので17/18。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(18-1)/18"
+    }
+  },
+  {
+    "id": "math-g2-u05-016",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から19までの整数を1つずつ書いた札をよく混ぜ1枚引く。1が出る確率は？",
+    "options": [
+      "39/19",
+      "1/19",
+      "20/19",
+      "-18/19"
+    ],
+    "answer": 1,
+    "explanation": "19通りが同様に確からしく、1の札は1枚なので1/19。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "1/19"
+    }
+  },
+  {
+    "id": "math-g2-u05-017",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "赤玉3個、白玉20個を袋によく混ぜ、1個取る。赤玉の確率は？",
+    "options": [
+      "3/23",
+      "26/23",
+      "-20/23",
+      "49/23"
+    ],
+    "answer": 0,
+    "explanation": "全体23個のうち赤玉が3個。3/23＝3/23。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3/(20+3)"
+    }
+  },
+  {
+    "id": "math-g2-u05-018",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から21までの整数の札をよく混ぜ1枚引く。偶数の確率は？",
+    "options": [
+      "31/21",
+      "-11/21",
+      "52/21",
+      "10/21"
+    ],
+    "answer": 3,
+    "explanation": "偶数の札は10枚で全体は21枚。確率は10/21。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "10/21"
+    }
+  },
+  {
+    "id": "math-g2-u05-019",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "当たり2本、はずれ22本のくじをよく混ぜ1本引く。はずれの確率は？",
+    "options": [
+      "-1/12",
+      "35/12",
+      "11/12",
+      "23/12"
+    ],
+    "answer": 2,
+    "explanation": "全体24本中、はずれが22本なので11/12。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "22/(22+2)"
+    }
+  },
+  {
+    "id": "math-g2-u05-020",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "basic",
+    "question": "1から23までの整数の札をよく混ぜ1枚引く。23以外の数が出る確率は？",
+    "options": [
+      "68/23",
+      "22/23",
+      "45/23",
+      "-1/23"
+    ],
+    "answer": 1,
+    "explanation": "23の札1枚を除いた22枚が該当するので22/23。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(23-1)/23"
+    }
+  },
+  {
+    "id": "math-g2-u05-021",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "standard",
+    "question": "1から24までの整数の札を1枚引いて戻し、混ぜてもう1枚引く。2回とも1が出る確率は？",
+    "options": [
+      "1/576",
+      "577/576",
+      "-575/576",
+      "1153/576"
+    ],
+    "answer": 0,
+    "explanation": "戻すので毎回同じ24通り。順序付きで576通りが同様に確からしく、(1,1)の1通り。確率1/576。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "1/(24*24)"
+    }
+  },
+  {
+    "id": "math-g2-u05-022",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "standard",
+    "question": "赤玉3個と白玉3個を混ぜ2個続けて取り出す。戻さないとき2個とも赤の確率は？",
+    "options": [
+      "6/5",
+      "-4/5",
+      "11/5",
+      "1/5"
+    ],
+    "answer": 3,
+    "explanation": "最初は3/6、次は2/5。積は1/5。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(3*(3-1))/(6*(6-1))"
+    }
+  },
+  {
+    "id": "math-g2-u05-023",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "standard",
+    "question": "区別できる2個の公平な6面さいころを振る。和が3より大きい確率は？",
+    "options": [
+      "-1/12",
+      "35/12",
+      "11/12",
+      "23/12"
+    ],
+    "answer": 2,
+    "explanation": "順序を区別した36通りを数え、和が条件を満たすのは33通り。確率11/12。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "33/36"
+    }
+  },
+  {
+    "id": "math-g2-u05-024",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "standard",
+    "question": "区別できる2個の公平な6面さいころを振る。和が4になる確率は？",
+    "options": [
+      "25/12",
+      "1/12",
+      "13/12",
+      "-11/12"
+    ],
+    "answer": 1,
+    "explanation": "36通りのうち和が4なのは3通り。確率1/12。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3/36"
+    }
+  },
+  {
+    "id": "math-g2-u05-025",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "standard",
+    "question": "赤玉6個と白玉3個を混ぜ2個続けて取る。戻さないとき赤白が1個ずつの確率は？",
+    "options": [
+      "1/2",
+      "3/2",
+      "-1/2",
+      "5/2"
+    ],
+    "answer": 0,
+    "explanation": "赤→白と白→赤の2通りの順序があり、6/9×3/8を2倍し1/2。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(2*6*3)/(9*(9-1))"
+    }
+  },
+  {
+    "id": "math-g2-u05-026",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "standard",
+    "question": "1から29までの整数の札を1枚引いて戻し、混ぜてもう1枚引く。2回とも1が出る確率は？",
+    "options": [
+      "842/841",
+      "-840/841",
+      "1683/841",
+      "1/841"
+    ],
+    "answer": 3,
+    "explanation": "戻すので毎回同じ29通り。順序付きで841通りが同様に確からしく、(1,1)の1通り。確率1/841。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "1/(29*29)"
+    }
+  },
+  {
+    "id": "math-g2-u05-027",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "standard",
+    "question": "赤玉8個と白玉3個を混ぜ2個続けて取り出す。戻さないとき2個とも赤の確率は？",
+    "options": [
+      "-27/55",
+      "138/55",
+      "28/55",
+      "83/55"
+    ],
+    "answer": 2,
+    "explanation": "最初は8/11、次は7/10。積は28/55。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(8*(8-1))/(11*(11-1))"
+    }
+  },
+  {
+    "id": "math-g2-u05-028",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "standard",
+    "question": "区別できる2個の公平な6面さいころを振る。和が8より大きい確率は？",
+    "options": [
+      "41/18",
+      "5/18",
+      "23/18",
+      "-13/18"
+    ],
+    "answer": 1,
+    "explanation": "順序を区別した36通りを数え、和が条件を満たすのは10通り。確率5/18。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "10/36"
+    }
+  },
+  {
+    "id": "math-g2-u05-029",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "standard",
+    "question": "区別できる2個の公平な6面さいころを振る。和が9になる確率は？",
+    "options": [
+      "1/9",
+      "10/9",
+      "-8/9",
+      "19/9"
+    ],
+    "answer": 0,
+    "explanation": "36通りのうち和が9なのは4通り。確率1/9。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4/36"
+    }
+  },
+  {
+    "id": "math-g2-u05-030",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "確率",
+    "difficulty": "standard",
+    "question": "赤玉11個と白玉3個を混ぜ2個続けて取る。戻さないとき赤白が1個ずつの確率は？",
+    "options": [
+      "124/91",
+      "-58/91",
+      "215/91",
+      "33/91"
+    ],
+    "answer": 3,
+    "explanation": "赤→白と白→赤の2通りの順序があり、11/14×3/13を2倍し33/91。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(2*11*3)/(14*(14-1))"
+    }
   }
 ]

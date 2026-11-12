@@ -553,5 +553,235 @@
     "prereq": [
       "数学|1|正負の数"
     ]
+  },
+  {
+    "id": "math-g1-u07-026",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "standard",
+    "question": "4個の測定値の平均は4。そのうち3個は2, 5, 7。残りは？",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "全体の合計16から3個の和14を引き、2。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4*4-(2+5+7)"
+    }
+  },
+  {
+    "id": "math-g1-u07-027",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "standard",
+    "question": "階級5以上15未満の階級値は？",
+    "options": [
+      "9",
+      "12",
+      "10",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "階級値は区間の両端の平均。(5＋15)/2＝10。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(5+15)/2"
+    }
+  },
+  {
+    "id": "math-g1-u07-028",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "standard",
+    "question": "ある階級の相対度数が1/4、総数が24人。その階級は何人？",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "度数＝総数×相対度数＝24×1/4＝6人。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "24/4"
+    }
+  },
+  {
+    "id": "math-g1-u07-029",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "standard",
+    "question": "小さい順の6個のデータ 7, 8, 9, 13, 14, 27 の中央値は？",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "answer": 0,
+    "explanation": "中央の3番目と4番目の平均。(9＋13)/2＝11。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(9+13)/2"
+    }
+  },
+  {
+    "id": "math-g1-u07-030",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "standard",
+    "question": "8回の試行で表が4回。さらに8回で表が5回だった。全体で表の相対度数は？",
+    "options": [
+      "25/16",
+      "-7/16",
+      "41/16",
+      "9/16"
+    ],
+    "answer": 3,
+    "explanation": "表は合計9回、試行は16回なので9/16。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(4+5)/(8+8)"
+    }
+  },
+  {
+    "id": "math-g1-u07-031",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "standard",
+    "question": "4個の測定値の平均は9。そのうち3個は7, 10, 12。残りは？",
+    "options": [
+      "6",
+      "9",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "全体の合計36から3個の和29を引き、7。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4*9-(7+10+12)"
+    }
+  },
+  {
+    "id": "math-g1-u07-032",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "standard",
+    "question": "階級10以上20未満の階級値は？",
+    "options": [
+      "17",
+      "15",
+      "16",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "階級値は区間の両端の平均。(10＋20)/2＝15。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(10+20)/2"
+    }
+  },
+  {
+    "id": "math-g1-u07-033",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "standard",
+    "question": "ある階級の相対度数が1/4、総数が44人。その階級は何人？",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "answer": 0,
+    "explanation": "度数＝総数×相対度数＝44×1/4＝11人。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "44/4"
+    }
+  },
+  {
+    "id": "math-g1-u07-034",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "standard",
+    "question": "小さい順の6個のデータ 12, 13, 14, 18, 19, 32 の中央値は？",
+    "options": [
+      "17",
+      "15",
+      "18",
+      "16"
+    ],
+    "answer": 3,
+    "explanation": "中央の3番目と4番目の平均。(14＋18)/2＝16。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(14+18)/2"
+    }
+  },
+  {
+    "id": "math-g1-u07-035",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "standard",
+    "question": "13回の試行で表が3回。さらに13回で表が4回だった。全体で表の相対度数は？",
+    "options": [
+      "-19/26",
+      "59/26",
+      "7/26",
+      "33/26"
+    ],
+    "answer": 2,
+    "explanation": "表は合計7回、試行は26回なので7/26。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(3+4)/(13+13)"
+    }
   }
 ]

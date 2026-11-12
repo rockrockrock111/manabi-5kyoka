@@ -36,5 +36,385 @@
     "answer": 0,
     "explanation": "音は真空では伝わらない。",
     "difficulty": "basic"
+  },
+  {
+    "id": "science-g1-u03-001",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "説明「光などが物体の面で向きを変えて戻る現象」に最もよく当てはまる用語は？",
+    "options": [
+      "反射",
+      "屈折",
+      "焦点",
+      "振幅"
+    ],
+    "answer": 0,
+    "explanation": "反射とは、光などが物体の面で向きを変えて戻る現象。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-002",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "鏡で入射角が35°なら反射角は？",
+    "options": [
+      "55°",
+      "70°",
+      "90°",
+      "35°"
+    ],
+    "answer": 3,
+    "explanation": "入射角と反射角は法線を基準に測り等しい。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-003",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "説明「光が異なる物質の境界で進む向きを変える現象」に最もよく当てはまる用語は？",
+    "options": [
+      "実像",
+      "振動数",
+      "屈折",
+      "全反射"
+    ],
+    "answer": 2,
+    "explanation": "屈折とは、光が異なる物質の境界で進む向きを変える現象。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-004",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "空気から水へ斜めに入る光は通常どちらへ曲がる？",
+    "options": [
+      "光が止まる",
+      "法線に近づく向き",
+      "必ず法線から遠ざかる",
+      "必ず反射だけで入らない"
+    ],
+    "answer": 1,
+    "explanation": "水中では屈折角が入射角より小さくなる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-005",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "説明「境界で光が外へ出ず全て反射する現象」に最もよく当てはまる用語は？",
+    "options": [
+      "全反射",
+      "焦点",
+      "虚像",
+      "音源"
+    ],
+    "answer": 0,
+    "explanation": "全反射とは、境界で光が外へ出ず全て反射する現象。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-006",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "水から空気へ進む光の入射角を十分大きくすると？",
+    "options": [
+      "必ず直進だけする",
+      "光の色が必ず消える",
+      "水が必ず沸く",
+      "全反射が起こる"
+    ],
+    "answer": 3,
+    "explanation": "屈折角が90°になる条件を超えると全反射する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-007",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "説明「凸レンズの軸に平行な光が集まる点」に最もよく当てはまる用語は？",
+    "options": [
+      "振幅",
+      "音の伝わり",
+      "焦点",
+      "実像"
+    ],
+    "answer": 2,
+    "explanation": "焦点とは、凸レンズの軸に平行な光が集まる点。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-008",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "平行光を凸レンズに通したとき集まる点は？",
+    "options": [
+      "震源",
+      "焦点",
+      "音源",
+      "支点"
+    ],
+    "answer": 1,
+    "explanation": "凸レンズの焦点に光が集まる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-009",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "説明「実際に光が集まってできスクリーンに映せる像」に最もよく当てはまる用語は？",
+    "options": [
+      "実像",
+      "虚像",
+      "振動数",
+      "反射"
+    ],
+    "answer": 0,
+    "explanation": "実像とは、実際に光が集まってできスクリーンに映せる像。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-010",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "物体を凸レンズの焦点距離の2倍より遠くに置く。像の向きと大きさは？",
+    "options": [
+      "正立で拡大",
+      "倒立で必ず同じ大きさ",
+      "像は必ずできない",
+      "倒立で縮小"
+    ],
+    "answer": 3,
+    "explanation": "焦点距離の2倍より外側の物体は縮小された倒立実像を作る。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-011",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "説明「実際には光が集まらず光の延長上に見える像」に最もよく当てはまる用語は？",
+    "options": [
+      "音源",
+      "屈折",
+      "虚像",
+      "振幅"
+    ],
+    "answer": 2,
+    "explanation": "虚像とは、実際には光が集まらず光の延長上に見える像。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-012",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "虫眼鏡で焦点より内側の文字を見ると？",
+    "options": [
+      "文字が発光する",
+      "正立で拡大して見える",
+      "倒立で縮小する",
+      "必ずスクリーンに映る"
+    ],
+    "answer": 1,
+    "explanation": "凸レンズの内側の物体は正立拡大の虚像になる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-013",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "説明「振動の中心からの最大の振れ幅」に最もよく当てはまる用語は？",
+    "options": [
+      "振幅",
+      "振動数",
+      "音の伝わり",
+      "全反射"
+    ],
+    "answer": 0,
+    "explanation": "振幅とは、振動の中心からの最大の振れ幅。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-014",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "同じ音源で振幅が大きいほど音は？",
+    "options": [
+      "必ず高くなる",
+      "必ず低くなる",
+      "速さが無限になる",
+      "大きくなる"
+    ],
+    "answer": 3,
+    "explanation": "音の大きさは振幅に関係する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-015",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "説明「1秒間に振動する回数」に最もよく当てはまる用語は？",
+    "options": [
+      "反射",
+      "焦点",
+      "振動数",
+      "音源"
+    ],
+    "answer": 2,
+    "explanation": "振動数とは、1秒間に振動する回数。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-016",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "同じ条件で振動数が多いほど音は？",
+    "options": [
+      "聞こえる時刻が消える",
+      "高くなる",
+      "必ず小さくなる",
+      "低くなる"
+    ],
+    "answer": 1,
+    "explanation": "音の高さは振動数に関係する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-017",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "説明「振動して音を出すもの」に最もよく当てはまる用語は？",
+    "options": [
+      "音源",
+      "音の伝わり",
+      "屈折",
+      "実像"
+    ],
+    "answer": 0,
+    "explanation": "音源とは、振動して音を出すもの。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-018",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "音叉が音を出しているときの状態は？",
+    "options": [
+      "必ず発光している",
+      "全く動かない",
+      "必ず溶けている",
+      "振動している"
+    ],
+    "answer": 3,
+    "explanation": "音は物体の振動によって生じる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-019",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "説明「空気などの物質の振動が広がること」に最もよく当てはまる用語は？",
+    "options": [
+      "全反射",
+      "虚像",
+      "音の伝わり",
+      "反射"
+    ],
+    "answer": 2,
+    "explanation": "音の伝わりとは、空気などの物質の振動が広がること。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u03-020",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "光と音",
+    "difficulty": "basic",
+    "question": "空気のない真空中で音は？",
+    "options": [
+      "必ず無限に伝わる",
+      "伝わらない",
+      "空気中より必ず速い",
+      "光と同じ速さ"
+    ],
+    "answer": 1,
+    "explanation": "音の伝達には物質が必要。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
   }
 ]

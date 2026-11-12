@@ -435,5 +435,195 @@
     "prereq": [
       "英語|1|一般動詞"
     ]
+  },
+  {
+    "id": "english-g1-u03-021",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "standard",
+    "question": "Ken and Kenji play soccer. 主語をKenだけにした文は？",
+    "options": [
+      "Ken plays soccer.",
+      "Ken play soccer.",
+      "Ken does plays soccer.",
+      "Ken is play soccer."
+    ],
+    "answer": 0,
+    "explanation": "主語が三人称単数に変わるので、現在の肯定文はplays。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-022",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "standard",
+    "question": "Does Ken play soccer? — Yes, ___. 代名詞ではなく同じ名前で答える。",
+    "options": [
+      "Ken do",
+      "Ken is",
+      "Ken plays",
+      "Ken does"
+    ],
+    "answer": 3,
+    "explanation": "Doesで尋ねられたのでYes, Ken does. と答える。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-023",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "standard",
+    "question": "Aya and Kenji study science. 主語をAyaだけにした文は？",
+    "options": [
+      "Aya does studies science.",
+      "Aya is study science.",
+      "Aya studies science.",
+      "Aya study science."
+    ],
+    "answer": 2,
+    "explanation": "主語が三人称単数に変わるので、現在の肯定文はstudies。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-024",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "standard",
+    "question": "Does Aya study science? — Yes, ___. 代名詞ではなく同じ名前で答える。",
+    "options": [
+      "Aya studies",
+      "Aya does",
+      "Aya do",
+      "Aya is"
+    ],
+    "answer": 1,
+    "explanation": "Doesで尋ねられたのでYes, Aya does. と答える。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-025",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "standard",
+    "question": "Mina and Kenji watch TV. 主語をMinaだけにした文は？",
+    "options": [
+      "Mina watches TV.",
+      "Mina watch TV.",
+      "Mina does watches TV.",
+      "Mina is watch TV."
+    ],
+    "answer": 0,
+    "explanation": "主語が三人称単数に変わるので、現在の肯定文はwatches。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-026",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "standard",
+    "question": "Does Mina watch TV? — Yes, ___. 代名詞ではなく同じ名前で答える。",
+    "options": [
+      "Mina do",
+      "Mina is",
+      "Mina watches",
+      "Mina does"
+    ],
+    "answer": 3,
+    "explanation": "Doesで尋ねられたのでYes, Mina does. と答える。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-027",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "standard",
+    "question": "Riku and Kenji have a dog. 主語をRikuだけにした文は？",
+    "options": [
+      "Riku does has a dog.",
+      "Riku is have a dog.",
+      "Riku has a dog.",
+      "Riku have a dog."
+    ],
+    "answer": 2,
+    "explanation": "主語が三人称単数に変わるので、現在の肯定文はhas。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-028",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "standard",
+    "question": "Does Riku have a dog? — Yes, ___. 代名詞ではなく同じ名前で答える。",
+    "options": [
+      "Riku has",
+      "Riku does",
+      "Riku do",
+      "Riku is"
+    ],
+    "answer": 1,
+    "explanation": "Doesで尋ねられたのでYes, Riku does. と答える。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-029",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "standard",
+    "question": "Emi and Kenji go to school. 主語をEmiだけにした文は？",
+    "options": [
+      "Emi goes to school.",
+      "Emi go to school.",
+      "Emi does goes to school.",
+      "Emi is go to school."
+    ],
+    "answer": 0,
+    "explanation": "主語が三人称単数に変わるので、現在の肯定文はgoes。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-030",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "standard",
+    "question": "Does Emi go to school? — Yes, ___. 代名詞ではなく同じ名前で答える。",
+    "options": [
+      "Emi do",
+      "Emi is",
+      "Emi goes",
+      "Emi does"
+    ],
+    "answer": 3,
+    "explanation": "Doesで尋ねられたのでYes, Emi does. と答える。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
   }
 ]

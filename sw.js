@@ -1,7 +1,7 @@
 'use strict';
 const PREFIX = `manabi-${self.registration.scope}-`;
 // Bump the release whenever app code or question data changes.
-const CACHE = `${PREFIX}v04-question-bank-1`;
+const CACHE = `${PREFIX}v05-grades-1-2-expansion-1`;
 const ASSETS = ['./', './index.html', './app.js', './question-bank.js', './questions.json',
   './data/catalog.json', './manifest.webmanifest', './icon.svg'];
 self.addEventListener('install', event => {

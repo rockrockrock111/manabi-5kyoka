@@ -610,5 +610,235 @@
     "prereq": [
       "数学|1|文字式"
     ]
+  },
+  {
+    "id": "math-g1-u03-026",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "standard",
+    "question": "1冊120円のノートを何冊かと80円のペンを買い、680円払った。ノートは何冊？",
+    "options": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "ノート代は600円なので120で割り5冊。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(680-80)/120"
+    }
+  },
+  {
+    "id": "math-g1-u03-027",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "standard",
+    "question": "3(x−4)＝2x＋5を解くと？",
+    "options": [
+      "16",
+      "19",
+      "17",
+      "18"
+    ],
+    "answer": 2,
+    "explanation": "3x−12＝2x＋5よりx＝17。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "5+3*4"
+    }
+  },
+  {
+    "id": "math-g1-u03-028",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "standard",
+    "question": "x/2＋x/3＝35を解くと？",
+    "options": [
+      "44",
+      "42",
+      "43",
+      "41"
+    ],
+    "answer": 1,
+    "explanation": "両辺を6倍して3x＋2x＝210。5x＝210よりx＝42。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "35*6/5"
+    }
+  },
+  {
+    "id": "math-g1-u03-029",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "standard",
+    "question": "兄は弟より3歳年上で、2人の年齢の和は19歳。弟は何歳？",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "弟をx歳とするとx＋(x＋3)＝19。x＝8。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(19-3)/2"
+    }
+  },
+  {
+    "id": "math-g1-u03-030",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "standard",
+    "question": "時速4kmで歩き、時速6kmで同じ時間走った。合計90kmならそれぞれ何時間？",
+    "options": [
+      "10",
+      "8",
+      "11",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "時間をxとすると距離の和は(4＋6)x。よって9時間。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "90/(4+6)"
+    }
+  },
+  {
+    "id": "math-g1-u03-031",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "standard",
+    "question": "1冊120円のノートを何冊かと80円のペンを買い、1280円払った。ノートは何冊？",
+    "options": [
+      "9",
+      "12",
+      "10",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "ノート代は1200円なので120で割り10冊。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(1280-80)/120"
+    }
+  },
+  {
+    "id": "math-g1-u03-032",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "standard",
+    "question": "3(x−3)＝2x＋10を解くと？",
+    "options": [
+      "21",
+      "19",
+      "20",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "3x−9＝2x＋10よりx＝19。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "10+3*3"
+    }
+  },
+  {
+    "id": "math-g1-u03-033",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "standard",
+    "question": "x/2＋x/3＝60を解くと？",
+    "options": [
+      "72",
+      "73",
+      "71",
+      "74"
+    ],
+    "answer": 0,
+    "explanation": "両辺を6倍して3x＋2x＝360。5x＝360よりx＝72。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "60*6/5"
+    }
+  },
+  {
+    "id": "math-g1-u03-034",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "standard",
+    "question": "兄は弟より2歳年上で、2人の年齢の和は28歳。弟は何歳？",
+    "options": [
+      "14",
+      "12",
+      "15",
+      "13"
+    ],
+    "answer": 3,
+    "explanation": "弟をx歳とするとx＋(x＋2)＝28。x＝13。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(28-2)/2"
+    }
+  },
+  {
+    "id": "math-g1-u03-035",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "standard",
+    "question": "時速3kmで歩き、時速5kmで同じ時間走った。合計112kmならそれぞれ何時間？",
+    "options": [
+      "13",
+      "16",
+      "14",
+      "15"
+    ],
+    "answer": 2,
+    "explanation": "時間をxとすると距離の和は(3＋5)x。よって14時間。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "112/(3+5)"
+    }
   }
 ]

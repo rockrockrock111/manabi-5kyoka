@@ -36,5 +36,385 @@
     "answer": 0,
     "explanation": "打消しの助動詞。",
     "difficulty": "basic"
+  },
+  {
+    "id": "japanese-g2-u02-001",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "説明「単独で文節を作ることができる語」に最もよく当てはまる用語は？",
+    "options": [
+      "自立語",
+      "付属語",
+      "未然形",
+      "連体形"
+    ],
+    "answer": 0,
+    "explanation": "自立語とは、単独で文節を作ることができる語。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-002",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "「花が」の「花」は文法上どちら？",
+    "options": [
+      "付属語",
+      "必ず助詞",
+      "句読点",
+      "自立語"
+    ],
+    "answer": 3,
+    "explanation": "「花」は名詞で、自立語。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-003",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "説明「単独では文節を作れず他の語に付く語」に最もよく当てはまる用語は？",
+    "options": [
+      "連用形",
+      "仮定形",
+      "付属語",
+      "活用"
+    ],
+    "answer": 2,
+    "explanation": "付属語とは、単独では文節を作れず他の語に付く語。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-004",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "「走った」の「た」は？",
+    "options": [
+      "接続詞",
+      "付属語",
+      "自立語",
+      "必ず名詞"
+    ],
+    "answer": 1,
+    "explanation": "助動詞「た」は付属語。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-005",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "説明「語の形が続く語などに応じて変わること」に最もよく当てはまる用語は？",
+    "options": [
+      "活用",
+      "未然形",
+      "終止形",
+      "命令形"
+    ],
+    "answer": 0,
+    "explanation": "活用とは、語の形が続く語などに応じて変わること。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-006",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "「読む」が「読まない」「読めば」と変わることは？",
+    "options": [
+      "引用",
+      "対比",
+      "倒置",
+      "活用"
+    ],
+    "answer": 3,
+    "explanation": "動詞の形の変化を活用という。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-007",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "説明「ない・うなどにつながる活用形」に最もよく当てはまる用語は？",
+    "options": [
+      "連体形",
+      "助動詞",
+      "未然形",
+      "連用形"
+    ],
+    "answer": 2,
+    "explanation": "未然形とは、ない・うなどにつながる活用形。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-008",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "「書かない」の「書か」は何形？",
+    "options": [
+      "仮定形",
+      "未然形",
+      "終止形",
+      "命令形"
+    ],
+    "answer": 1,
+    "explanation": "「ない」につながる形が未然形。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-009",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "説明「ます・たなどにつながる活用形」に最もよく当てはまる用語は？",
+    "options": [
+      "連用形",
+      "終止形",
+      "仮定形",
+      "自立語"
+    ],
+    "answer": 0,
+    "explanation": "連用形とは、ます・たなどにつながる活用形。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-010",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "「読みます」の「読み」は何形？",
+    "options": [
+      "未然形",
+      "終止形",
+      "命令形",
+      "連用形"
+    ],
+    "answer": 3,
+    "explanation": "「ます」につながる形は連用形。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-011",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "説明「言い切るときに使う活用形」に最もよく当てはまる用語は？",
+    "options": [
+      "命令形",
+      "付属語",
+      "終止形",
+      "連体形"
+    ],
+    "answer": 2,
+    "explanation": "終止形とは、言い切るときに使う活用形。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-012",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "「鳥が飛ぶ。」の「飛ぶ」は何形？",
+    "options": [
+      "命令形",
+      "終止形",
+      "未然形",
+      "連用形"
+    ],
+    "answer": 1,
+    "explanation": "文を言い切っている形。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-013",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "説明「体言などにつながる活用形」に最もよく当てはまる用語は？",
+    "options": [
+      "連体形",
+      "仮定形",
+      "助動詞",
+      "活用"
+    ],
+    "answer": 0,
+    "explanation": "連体形とは、体言などにつながる活用形。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-014",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "「読む本」の「読む」は何形？",
+    "options": [
+      "仮定形",
+      "命令形",
+      "連用形",
+      "連体形"
+    ],
+    "answer": 3,
+    "explanation": "名詞「本」を修飾している。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-015",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "説明「ばにつながる活用形」に最もよく当てはまる用語は？",
+    "options": [
+      "自立語",
+      "未然形",
+      "仮定形",
+      "命令形"
+    ],
+    "answer": 2,
+    "explanation": "仮定形とは、ばにつながる活用形。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-016",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "「走れば」の「走れ」は何形？",
+    "options": [
+      "連体形",
+      "仮定形",
+      "終止形",
+      "未然形"
+    ],
+    "answer": 1,
+    "explanation": "「ば」につながり仮定条件を示す。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-017",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "説明「命令して言い切る活用形」に最もよく当てはまる用語は？",
+    "options": [
+      "命令形",
+      "助動詞",
+      "付属語",
+      "連用形"
+    ],
+    "answer": 0,
+    "explanation": "命令形とは、命令して言い切る活用形。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-018",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "「急げ。」の「急げ」は何形？",
+    "options": [
+      "連用形",
+      "未然形",
+      "連体形",
+      "命令形"
+    ],
+    "answer": 3,
+    "explanation": "相手に動作を命じている。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-019",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "説明「付属語のうち活用する語」に最もよく当てはまる用語は？",
+    "options": [
+      "活用",
+      "終止形",
+      "助動詞",
+      "自立語"
+    ],
+    "answer": 2,
+    "explanation": "助動詞とは、付属語のうち活用する語。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
+  },
+  {
+    "id": "japanese-g2-u02-020",
+    "grade": 2,
+    "subject": "国語",
+    "unit": "文法の応用",
+    "difficulty": "basic",
+    "question": "「読まない」の「ない」と「本が」の「が」の違いは？",
+    "options": [
+      "どちらも自立語",
+      "ないは活用し、がは活用しない",
+      "両方とも必ず名詞",
+      "がだけが活用する"
+    ],
+    "answer": 1,
+    "explanation": "助動詞「ない」は「なく」「なけれ」と活用し、助詞「が」はしない。",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ]
   }
 ]

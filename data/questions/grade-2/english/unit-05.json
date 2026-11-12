@@ -1,0 +1,572 @@
+[
+  {
+    "id": "english-g2-u05-001",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "Ken must ___ a helmet. 空所は？",
+    "options": [
+      "wear",
+      "wears",
+      "wearing",
+      "to wear"
+    ],
+    "answer": 0,
+    "explanation": "mustの後は動詞の原形wear。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-002",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "Ken ___ to wear a helmet. 「〜しなければならない」の現在形は？",
+    "options": [
+      "have",
+      "having",
+      "does",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": "主語が三人称単数なのでhave toはhas toになる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-003",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "You must not wear a helmet. のmust notが表す意味は？",
+    "options": [
+      "〜したことがある",
+      "〜できるだろう",
+      "〜してはいけない",
+      "〜する必要はない"
+    ],
+    "answer": 2,
+    "explanation": "must notは強い禁止。不要を表すdon’t have toとは異なる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-004",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "You do not have to wear a helmet. の意味は？",
+    "options": [
+      "今〜している",
+      "〜する必要はない",
+      "〜してはいけない",
+      "必ず〜しなさい"
+    ],
+    "answer": 1,
+    "explanation": "do not have toは義務がないこと。禁止ではない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-005",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "standard",
+    "question": "「昨日Kenはa helmetについてwearしなければならなかった」。Ken ___ to wear a helmet yesterday.",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "musted"
+    ],
+    "answer": 0,
+    "explanation": "過去の義務はhad to＋原形。mustedという形は使わない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-006",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "standard",
+    "question": "Ken has to wear a helmet. この文を否定し「必要はない」にすると？",
+    "options": [
+      "Ken does not has to wear a helmet.",
+      "Ken must not wear a helmet.",
+      "Ken is not have to wear a helmet.",
+      "Ken does not have to wear a helmet."
+    ],
+    "answer": 3,
+    "explanation": "does notの後は原形have。must notでは禁止に変わってしまう。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-007",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "Aya must ___ a notebook. 空所は？",
+    "options": [
+      "bringing",
+      "to bring",
+      "bring",
+      "brings"
+    ],
+    "answer": 2,
+    "explanation": "mustの後は動詞の原形bring。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-008",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "Aya ___ to bring a notebook. 「〜しなければならない」の現在形は？",
+    "options": [
+      "does",
+      "has",
+      "have",
+      "having"
+    ],
+    "answer": 1,
+    "explanation": "主語が三人称単数なのでhave toはhas toになる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-009",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "You must not bring a notebook. のmust notが表す意味は？",
+    "options": [
+      "〜してはいけない",
+      "〜する必要はない",
+      "〜したことがある",
+      "〜できるだろう"
+    ],
+    "answer": 0,
+    "explanation": "must notは強い禁止。不要を表すdon’t have toとは異なる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-010",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "You do not have to bring a notebook. の意味は？",
+    "options": [
+      "〜してはいけない",
+      "必ず〜しなさい",
+      "今〜している",
+      "〜する必要はない"
+    ],
+    "answer": 3,
+    "explanation": "do not have toは義務がないこと。禁止ではない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-011",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "standard",
+    "question": "「昨日Ayaはa notebookについてbringしなければならなかった」。Aya ___ to bring a notebook yesterday.",
+    "options": [
+      "have",
+      "musted",
+      "had",
+      "has"
+    ],
+    "answer": 2,
+    "explanation": "過去の義務はhad to＋原形。mustedという形は使わない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-012",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "standard",
+    "question": "Aya has to bring a notebook. この文を否定し「必要はない」にすると？",
+    "options": [
+      "Aya is not have to bring a notebook.",
+      "Aya does not have to bring a notebook.",
+      "Aya does not has to bring a notebook.",
+      "Aya must not bring a notebook."
+    ],
+    "answer": 1,
+    "explanation": "does notの後は原形have。must notでは禁止に変わってしまう。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-013",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "Mina must ___ the room. 空所は？",
+    "options": [
+      "clean",
+      "cleans",
+      "cleaning",
+      "to clean"
+    ],
+    "answer": 0,
+    "explanation": "mustの後は動詞の原形clean。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-014",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "Mina ___ to clean the room. 「〜しなければならない」の現在形は？",
+    "options": [
+      "have",
+      "having",
+      "does",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": "主語が三人称単数なのでhave toはhas toになる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-015",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "You must not clean the room. のmust notが表す意味は？",
+    "options": [
+      "〜したことがある",
+      "〜できるだろう",
+      "〜してはいけない",
+      "〜する必要はない"
+    ],
+    "answer": 2,
+    "explanation": "must notは強い禁止。不要を表すdon’t have toとは異なる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-016",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "You do not have to clean the room. の意味は？",
+    "options": [
+      "今〜している",
+      "〜する必要はない",
+      "〜してはいけない",
+      "必ず〜しなさい"
+    ],
+    "answer": 1,
+    "explanation": "do not have toは義務がないこと。禁止ではない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-017",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "standard",
+    "question": "「昨日Minaはthe roomについてcleanしなければならなかった」。Mina ___ to clean the room yesterday.",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "musted"
+    ],
+    "answer": 0,
+    "explanation": "過去の義務はhad to＋原形。mustedという形は使わない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-018",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "standard",
+    "question": "Mina has to clean the room. この文を否定し「必要はない」にすると？",
+    "options": [
+      "Mina does not has to clean the room.",
+      "Mina must not clean the room.",
+      "Mina is not have to clean the room.",
+      "Mina does not have to clean the room."
+    ],
+    "answer": 3,
+    "explanation": "does notの後は原形have。must notでは禁止に変わってしまう。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-019",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "Riku must ___ homework. 空所は？",
+    "options": [
+      "finishing",
+      "to finish",
+      "finish",
+      "finishs"
+    ],
+    "answer": 2,
+    "explanation": "mustの後は動詞の原形finish。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-020",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "Riku ___ to finish homework. 「〜しなければならない」の現在形は？",
+    "options": [
+      "does",
+      "has",
+      "have",
+      "having"
+    ],
+    "answer": 1,
+    "explanation": "主語が三人称単数なのでhave toはhas toになる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-021",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "You must not finish homework. のmust notが表す意味は？",
+    "options": [
+      "〜してはいけない",
+      "〜する必要はない",
+      "〜したことがある",
+      "〜できるだろう"
+    ],
+    "answer": 0,
+    "explanation": "must notは強い禁止。不要を表すdon’t have toとは異なる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-022",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "You do not have to finish homework. の意味は？",
+    "options": [
+      "〜してはいけない",
+      "必ず〜しなさい",
+      "今〜している",
+      "〜する必要はない"
+    ],
+    "answer": 3,
+    "explanation": "do not have toは義務がないこと。禁止ではない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-023",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "standard",
+    "question": "「昨日Rikuはhomeworkについてfinishしなければならなかった」。Riku ___ to finish homework yesterday.",
+    "options": [
+      "have",
+      "musted",
+      "had",
+      "has"
+    ],
+    "answer": 2,
+    "explanation": "過去の義務はhad to＋原形。mustedという形は使わない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-024",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "standard",
+    "question": "Riku has to finish homework. この文を否定し「必要はない」にすると？",
+    "options": [
+      "Riku is not have to finish homework.",
+      "Riku does not have to finish homework.",
+      "Riku does not has to finish homework.",
+      "Riku must not finish homework."
+    ],
+    "answer": 1,
+    "explanation": "does notの後は原形have。must notでは禁止に変わってしまう。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-025",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "Emi must ___ the dishes. 空所は？",
+    "options": [
+      "wash",
+      "washs",
+      "washing",
+      "to wash"
+    ],
+    "answer": 0,
+    "explanation": "mustの後は動詞の原形wash。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-026",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "Emi ___ to wash the dishes. 「〜しなければならない」の現在形は？",
+    "options": [
+      "have",
+      "having",
+      "does",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": "主語が三人称単数なのでhave toはhas toになる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-027",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "You must not wash the dishes. のmust notが表す意味は？",
+    "options": [
+      "〜したことがある",
+      "〜できるだろう",
+      "〜してはいけない",
+      "〜する必要はない"
+    ],
+    "answer": 2,
+    "explanation": "must notは強い禁止。不要を表すdon’t have toとは異なる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-028",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "basic",
+    "question": "You do not have to wash the dishes. の意味は？",
+    "options": [
+      "今〜している",
+      "〜する必要はない",
+      "〜してはいけない",
+      "必ず〜しなさい"
+    ],
+    "answer": 1,
+    "explanation": "do not have toは義務がないこと。禁止ではない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-029",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "standard",
+    "question": "「昨日Emiはthe dishesについてwashしなければならなかった」。Emi ___ to wash the dishes yesterday.",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "musted"
+    ],
+    "answer": 0,
+    "explanation": "過去の義務はhad to＋原形。mustedという形は使わない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u05-030",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "助動詞mustとhave to",
+    "difficulty": "standard",
+    "question": "Emi has to wash the dishes. この文を否定し「必要はない」にすると？",
+    "options": [
+      "Emi does not has to wash the dishes.",
+      "Emi must not wash the dishes.",
+      "Emi is not have to wash the dishes.",
+      "Emi does not have to wash the dishes."
+    ],
+    "answer": 3,
+    "explanation": "does notの後は原形have。must notでは禁止に変わってしまう。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  }
+]

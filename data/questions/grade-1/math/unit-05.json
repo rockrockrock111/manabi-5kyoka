@@ -591,5 +591,235 @@
     "prereq": [
       "数学|0|小学校の計算"
     ]
+  },
+  {
+    "id": "math-g1-u05-026",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "standard",
+    "question": "半径4cm、中心角120°のおうぎ形の面積は何π cm²？",
+    "options": [
+      "19/3",
+      "13/3",
+      "22/3",
+      "16/3"
+    ],
+    "answer": 3,
+    "explanation": "円の面積16πの1/3なので16/3π cm²。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4**2*120/360"
+    }
+  },
+  {
+    "id": "math-g1-u05-027",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "standard",
+    "question": "半径5cmの円周上を中心角60°分進む。弧の長さは何π cm？",
+    "options": [
+      "2/3",
+      "11/3",
+      "5/3",
+      "8/3"
+    ],
+    "answer": 2,
+    "explanation": "円周2π×5の1/6＝5/3π cm。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*5*60/360"
+    }
+  },
+  {
+    "id": "math-g1-u05-028",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "standard",
+    "question": "点(6, −2)をx軸について対称移動後、y軸について対称移動した点のx座標は？",
+    "options": [
+      "-4",
+      "-6",
+      "-5",
+      "-7"
+    ],
+    "answer": 1,
+    "explanation": "x軸対称で(6,2)、さらにy軸対称で(-6,2)。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-6"
+    }
+  },
+  {
+    "id": "math-g1-u05-029",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "standard",
+    "question": "半径7cmの円の面積と、半径14cmの円の面積の比は1対いくつ？",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "面積は半径の2乗に比例する。半径2倍で面積4倍。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(7*2)**2/7**2"
+    }
+  },
+  {
+    "id": "math-g1-u05-030",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "standard",
+    "question": "点(8, 4)を原点中心に180°回転した点のy座標は？",
+    "options": [
+      "-3",
+      "-5",
+      "-2",
+      "-4"
+    ],
+    "answer": 3,
+    "explanation": "180°回転では両座標の符号が逆。(-8,-4)。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-4"
+    }
+  },
+  {
+    "id": "math-g1-u05-031",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "standard",
+    "question": "半径9cm、中心角120°のおうぎ形の面積は何π cm²？",
+    "options": [
+      "26",
+      "29",
+      "27",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "円の面積81πの1/3なので27π cm²。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "9**2*120/360"
+    }
+  },
+  {
+    "id": "math-g1-u05-032",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "standard",
+    "question": "半径10cmの円周上を中心角60°分進む。弧の長さは何π cm？",
+    "options": [
+      "16/3",
+      "10/3",
+      "13/3",
+      "7/3"
+    ],
+    "answer": 1,
+    "explanation": "円周2π×10の1/6＝10/3π cm。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*10*60/360"
+    }
+  },
+  {
+    "id": "math-g1-u05-033",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "standard",
+    "question": "点(11, −4)をx軸について対称移動後、y軸について対称移動した点のx座標は？",
+    "options": [
+      "-11",
+      "-10",
+      "-12",
+      "-9"
+    ],
+    "answer": 0,
+    "explanation": "x軸対称で(11,4)、さらにy軸対称で(-11,4)。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-11"
+    }
+  },
+  {
+    "id": "math-g1-u05-034",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "standard",
+    "question": "半径12cmの円の面積と、半径24cmの円の面積の比は1対いくつ？",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "面積は半径の2乗に比例する。半径2倍で面積4倍。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(12*2)**2/12**2"
+    }
+  },
+  {
+    "id": "math-g1-u05-035",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "standard",
+    "question": "点(13, 3)を原点中心に180°回転した点のy座標は？",
+    "options": [
+      "-4",
+      "-1",
+      "-3",
+      "-2"
+    ],
+    "answer": 2,
+    "explanation": "180°回転では両座標の符号が逆。(-13,-3)。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-3"
+    }
   }
 ]

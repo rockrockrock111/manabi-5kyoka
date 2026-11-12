@@ -1,0 +1,652 @@
+[
+  {
+    "id": "math-g2-u06-001",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFでAB＝5cm。対応する辺DEの長さは何cm？",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "合同の表記順からA↔D、B↔E。対応する辺ABとDEは等しく5cm。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "5"
+    }
+  },
+  {
+    "id": "math-g2-u06-002",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFで∠B＝36°。∠Eは何度？",
+    "options": [
+      "37",
+      "35",
+      "38",
+      "36"
+    ],
+    "answer": 3,
+    "explanation": "合同な三角形の対応する角は等しい。Bに対応するEは36°。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "6+30"
+    }
+  },
+  {
+    "id": "math-g2-u06-003",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△PQRでBC＝7cm。辺QRの長さは何cm？",
+    "options": [
+      "6",
+      "9",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "B↔Q、C↔RなのでBCとQRが対応し、QR＝7cm。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "7"
+    }
+  },
+  {
+    "id": "math-g2-u06-004",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFで∠A＝28°、∠B＝50°。∠Fは何度？",
+    "options": [
+      "104",
+      "102",
+      "103",
+      "101"
+    ],
+    "answer": 1,
+    "explanation": "∠C＝180−28−50＝102°。Cに対応するFも102°。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-(8+20)-50"
+    }
+  },
+  {
+    "id": "math-g2-u06-005",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFでAB＝9cm。対応する辺DEの長さは何cm？",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "合同の表記順からA↔D、B↔E。対応する辺ABとDEは等しく9cm。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "9"
+    }
+  },
+  {
+    "id": "math-g2-u06-006",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFで∠B＝40°。∠Eは何度？",
+    "options": [
+      "41",
+      "39",
+      "42",
+      "40"
+    ],
+    "answer": 3,
+    "explanation": "合同な三角形の対応する角は等しい。Bに対応するEは40°。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "10+30"
+    }
+  },
+  {
+    "id": "math-g2-u06-007",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△PQRでBC＝11cm。辺QRの長さは何cm？",
+    "options": [
+      "10",
+      "13",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "B↔Q、C↔RなのでBCとQRが対応し、QR＝11cm。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "11"
+    }
+  },
+  {
+    "id": "math-g2-u06-008",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFで∠A＝32°、∠B＝50°。∠Fは何度？",
+    "options": [
+      "100",
+      "98",
+      "99",
+      "97"
+    ],
+    "answer": 1,
+    "explanation": "∠C＝180−32−50＝98°。Cに対応するFも98°。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-(12+20)-50"
+    }
+  },
+  {
+    "id": "math-g2-u06-009",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFでAB＝13cm。対応する辺DEの長さは何cm？",
+    "options": [
+      "13",
+      "14",
+      "12",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "合同の表記順からA↔D、B↔E。対応する辺ABとDEは等しく13cm。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "13"
+    }
+  },
+  {
+    "id": "math-g2-u06-010",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFで∠B＝44°。∠Eは何度？",
+    "options": [
+      "45",
+      "43",
+      "46",
+      "44"
+    ],
+    "answer": 3,
+    "explanation": "合同な三角形の対応する角は等しい。Bに対応するEは44°。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "14+30"
+    }
+  },
+  {
+    "id": "math-g2-u06-011",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△PQRでBC＝15cm。辺QRの長さは何cm？",
+    "options": [
+      "14",
+      "17",
+      "15",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "B↔Q、C↔RなのでBCとQRが対応し、QR＝15cm。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "15"
+    }
+  },
+  {
+    "id": "math-g2-u06-012",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFで∠A＝36°、∠B＝50°。∠Fは何度？",
+    "options": [
+      "96",
+      "94",
+      "95",
+      "93"
+    ],
+    "answer": 1,
+    "explanation": "∠C＝180−36−50＝94°。Cに対応するFも94°。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-(16+20)-50"
+    }
+  },
+  {
+    "id": "math-g2-u06-013",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFでAB＝17cm。対応する辺DEの長さは何cm？",
+    "options": [
+      "17",
+      "18",
+      "16",
+      "19"
+    ],
+    "answer": 0,
+    "explanation": "合同の表記順からA↔D、B↔E。対応する辺ABとDEは等しく17cm。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "17"
+    }
+  },
+  {
+    "id": "math-g2-u06-014",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFで∠B＝48°。∠Eは何度？",
+    "options": [
+      "49",
+      "47",
+      "50",
+      "48"
+    ],
+    "answer": 3,
+    "explanation": "合同な三角形の対応する角は等しい。Bに対応するEは48°。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "18+30"
+    }
+  },
+  {
+    "id": "math-g2-u06-015",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△PQRでBC＝19cm。辺QRの長さは何cm？",
+    "options": [
+      "18",
+      "21",
+      "19",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "B↔Q、C↔RなのでBCとQRが対応し、QR＝19cm。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "19"
+    }
+  },
+  {
+    "id": "math-g2-u06-016",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFで∠A＝40°、∠B＝50°。∠Fは何度？",
+    "options": [
+      "92",
+      "90",
+      "91",
+      "89"
+    ],
+    "answer": 1,
+    "explanation": "∠C＝180−40−50＝90°。Cに対応するFも90°。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-(20+20)-50"
+    }
+  },
+  {
+    "id": "math-g2-u06-017",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFでAB＝21cm。対応する辺DEの長さは何cm？",
+    "options": [
+      "21",
+      "22",
+      "20",
+      "23"
+    ],
+    "answer": 0,
+    "explanation": "合同の表記順からA↔D、B↔E。対応する辺ABとDEは等しく21cm。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "21"
+    }
+  },
+  {
+    "id": "math-g2-u06-018",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFで∠B＝52°。∠Eは何度？",
+    "options": [
+      "53",
+      "51",
+      "54",
+      "52"
+    ],
+    "answer": 3,
+    "explanation": "合同な三角形の対応する角は等しい。Bに対応するEは52°。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "22+30"
+    }
+  },
+  {
+    "id": "math-g2-u06-019",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△PQRでBC＝23cm。辺QRの長さは何cm？",
+    "options": [
+      "22",
+      "25",
+      "23",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "B↔Q、C↔RなのでBCとQRが対応し、QR＝23cm。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "23"
+    }
+  },
+  {
+    "id": "math-g2-u06-020",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "basic",
+    "question": "△ABC≡△DEFで∠A＝44°、∠B＝50°。∠Fは何度？",
+    "options": [
+      "88",
+      "86",
+      "87",
+      "85"
+    ],
+    "answer": 1,
+    "explanation": "∠C＝180−44−50＝86°。Cに対応するFも86°。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-(24+20)-50"
+    }
+  },
+  {
+    "id": "math-g2-u06-021",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "standard",
+    "question": "AB＝DE、BC＝EF、CA＝FDが分かる。△ABCと△DEFの合同条件は？",
+    "options": [
+      "3組の辺がそれぞれ等しい",
+      "3組の角だけが等しい",
+      "面積だけが等しい",
+      "1辺だけ等しい"
+    ],
+    "answer": 0,
+    "explanation": "対応する3辺がすべて等しいSSSの条件。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ]
+  },
+  {
+    "id": "math-g2-u06-022",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "standard",
+    "question": "AB＝DE、AC＝DF、∠A＝∠Dが分かる。△ABCと△DEFの合同条件は？",
+    "options": [
+      "2辺とどこかの角なら常に十分",
+      "周の長さだけ等しい",
+      "角3つだけが等しい",
+      "2組の辺とその間の角がそれぞれ等しい"
+    ],
+    "answer": 3,
+    "explanation": "等しい角はそれぞれ等しい2辺に挟まれた角。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ]
+  },
+  {
+    "id": "math-g2-u06-023",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "standard",
+    "question": "AB＝DE、∠A＝∠D、∠B＝∠Eが分かる。合同条件は？",
+    "options": [
+      "3組の角だけが等しい",
+      "体積が等しい",
+      "1組の辺とその両端の角がそれぞれ等しい",
+      "1辺とどこか1角だけ等しい"
+    ],
+    "answer": 2,
+    "explanation": "ABとDEの両端の角が対応して等しい。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ]
+  },
+  {
+    "id": "math-g2-u06-024",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "standard",
+    "question": "二つの三角形の3角がそれぞれ等しい。これだけで合同といえる？",
+    "options": [
+      "必ず周も同じ",
+      "いえない。大きさが異なる場合がある",
+      "必ず合同",
+      "必ず面積も同じ"
+    ],
+    "answer": 1,
+    "explanation": "角が同じでも拡大した図形などがあり、大きさは決まらない。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ]
+  },
+  {
+    "id": "math-g2-u06-025",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "standard",
+    "question": "△ABCと△ADCの合同を示す際、辺ACについて何がいえる？",
+    "options": [
+      "共通な辺なので等しい",
+      "別の線分なので比較不可",
+      "必ず長さ0",
+      "必ずABと等しい"
+    ],
+    "answer": 0,
+    "explanation": "同じ線分を双方が共有している。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ]
+  },
+  {
+    "id": "math-g2-u06-026",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "standard",
+    "question": "2直線が交わる点の向かい合う角の等しさを証明に使う理由は？",
+    "options": [
+      "全ての角は直角だから",
+      "全ての角は同じだから",
+      "平行線がなくても錯角だから",
+      "対頂角は等しいから"
+    ],
+    "answer": 3,
+    "explanation": "交点の対頂角は常に等しい。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ]
+  },
+  {
+    "id": "math-g2-u06-027",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "standard",
+    "question": "二等辺三角形ABCでAB＝AC。底角について結論できるのは？",
+    "options": [
+      "BC＝0",
+      "∠B＋∠C＝360°",
+      "∠B＝∠C",
+      "∠Aは必ず90°"
+    ],
+    "answer": 2,
+    "explanation": "等しい辺に向かい合う底角は等しい。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ]
+  },
+  {
+    "id": "math-g2-u06-028",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "standard",
+    "question": "△ABC≡△DEFと証明できた。対応する角として等しい組は？",
+    "options": [
+      "全ての角が60°",
+      "∠Cと∠F",
+      "∠Aと∠Fが必ず等しい",
+      "∠Bと∠Dが必ず等しい"
+    ],
+    "answer": 1,
+    "explanation": "合同の表記順でCとFが対応する。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ]
+  },
+  {
+    "id": "math-g2-u06-029",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "standard",
+    "question": "証明で「AB∥CDだから錯角が等しい」と述べるとき必要なのは？",
+    "options": [
+      "どの角が錯角かを具体的に示す",
+      "角の位置は一切不要",
+      "どの2角でも等しい",
+      "平行は必要ない"
+    ],
+    "answer": 0,
+    "explanation": "根拠と、その根拠で結ばれる具体的な角を示す。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ]
+  },
+  {
+    "id": "math-g2-u06-030",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の合同と証明",
+    "difficulty": "standard",
+    "question": "合同の証明で正しい順序は？",
+    "options": [
+      "結論を仮定として全て決める",
+      "図が似て見えるだけで断定",
+      "長さを見た目だけで決める",
+      "仮定や既知の性質から条件をそろえ結論を出す"
+    ],
+    "answer": 3,
+    "explanation": "循環した説明や見た目だけの判断を避け、根拠をつなぐ。",
+    "prereq": [
+      "数学|2|図形の性質"
+    ]
+  }
+]

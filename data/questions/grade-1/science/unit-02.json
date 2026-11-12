@@ -36,5 +36,385 @@
     "answer": 0,
     "explanation": "食塩水は混合物。",
     "difficulty": "basic"
+  },
+  {
+    "id": "science-g1-u02-001",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "説明「単位体積当たりの質量」に最もよく当てはまる用語は？",
+    "options": [
+      "密度",
+      "質量",
+      "金属光沢",
+      "延性"
+    ],
+    "answer": 0,
+    "explanation": "密度とは、単位体積当たりの質量。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-002",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "質量54g、体積20cm³の物体の密度は？",
+    "options": [
+      "27g/cm³",
+      "0.37g/cm³",
+      "74g/cm³",
+      "2.7g/cm³"
+    ],
+    "answer": 3,
+    "explanation": "密度＝質量÷体積＝54÷20＝2.7。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-003",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "説明「物質そのものの量を表す基本的な量」に最もよく当てはまる用語は？",
+    "options": [
+      "電気伝導性",
+      "有機物",
+      "質量",
+      "体積"
+    ],
+    "answer": 2,
+    "explanation": "質量とは、物質そのものの量を表す基本的な量。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-004",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "同じ物体を月へ運んだとき質量はどうなる？",
+    "options": [
+      "約6分の1になる",
+      "変わらない",
+      "必ず0になる",
+      "約6倍になる"
+    ],
+    "answer": 1,
+    "explanation": "質量は場所で変わらない。重力の大きさとは区別する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-005",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "説明「物体が占める空間の大きさ」に最もよく当てはまる用語は？",
+    "options": [
+      "体積",
+      "金属光沢",
+      "展性",
+      "無機物"
+    ],
+    "answer": 0,
+    "explanation": "体積とは、物体が占める空間の大きさ。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-006",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "水を30mL入れたメスシリンダーに石を沈めると42mL。石の体積は？",
+    "options": [
+      "30cm³",
+      "42cm³",
+      "72cm³",
+      "12cm³"
+    ],
+    "answer": 3,
+    "explanation": "増えた12mLが石の体積で1mL＝1cm³。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-007",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "説明「金属を磨いた面に見られる特有の光り方」に最もよく当てはまる用語は？",
+    "options": [
+      "延性",
+      "ガラス器具の目盛り",
+      "金属光沢",
+      "電気伝導性"
+    ],
+    "answer": 2,
+    "explanation": "金属光沢とは、金属を磨いた面に見られる特有の光り方。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-008",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "表面を磨いて金属かどうか調べる性質は？",
+    "options": [
+      "匂いだけ",
+      "光沢",
+      "溶液の色だけ",
+      "必ず透明か"
+    ],
+    "answer": 1,
+    "explanation": "多くの金属は磨くと特有の光沢を示す。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-009",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "説明「電流を流しやすい性質」に最もよく当てはまる用語は？",
+    "options": [
+      "電気伝導性",
+      "展性",
+      "有機物",
+      "密度"
+    ],
+    "answer": 0,
+    "explanation": "電気伝導性とは、電流を流しやすい性質。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-010",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "銅線を回路に使う主な理由は？",
+    "options": [
+      "絶対に溶けないから",
+      "電流を完全に遮るから",
+      "必ず磁石に付くから",
+      "電流を流しやすいから"
+    ],
+    "answer": 3,
+    "explanation": "銅は電気をよく通す金属。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-011",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "説明「たたいて薄く広げられる性質」に最もよく当てはまる用語は？",
+    "options": [
+      "無機物",
+      "質量",
+      "展性",
+      "延性"
+    ],
+    "answer": 2,
+    "explanation": "展性とは、たたいて薄く広げられる性質。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-012",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "金を薄い箔に加工できる性質は？",
+    "options": [
+      "溶解度",
+      "展性",
+      "凝固",
+      "昇華"
+    ],
+    "answer": 1,
+    "explanation": "金属を薄く延ばせる性質を展性という。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-013",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "説明「引っ張って細い線にできる性質」に最もよく当てはまる用語は？",
+    "options": [
+      "延性",
+      "有機物",
+      "ガラス器具の目盛り",
+      "体積"
+    ],
+    "answer": 0,
+    "explanation": "延性とは、引っ張って細い線にできる性質。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-014",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "銅を細い導線に加工できる性質は？",
+    "options": [
+      "沸点",
+      "密度の消失",
+      "気孔",
+      "延性"
+    ],
+    "answer": 3,
+    "explanation": "細い線に引き延ばせる性質。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-015",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "説明「炭素を含む物質のうち二酸化炭素など一部を除く物質」に最もよく当てはまる用語は？",
+    "options": [
+      "密度",
+      "金属光沢",
+      "有機物",
+      "無機物"
+    ],
+    "answer": 2,
+    "explanation": "有機物とは、炭素を含む物質のうち二酸化炭素など一部を除く物質。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-016",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "砂糖を燃やすと二酸化炭素が生じる。この分類は？",
+    "options": [
+      "食塩と同じ無機物",
+      "有機物",
+      "必ず金属",
+      "必ず単体"
+    ],
+    "answer": 1,
+    "explanation": "砂糖は炭素を含む有機物。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-017",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "説明「有機物に分類されない物質」に最もよく当てはまる用語は？",
+    "options": [
+      "無機物",
+      "ガラス器具の目盛り",
+      "質量",
+      "電気伝導性"
+    ],
+    "answer": 0,
+    "explanation": "無機物とは、有機物に分類されない物質。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-018",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "食塩や二酸化炭素はどちらに分類される？",
+    "options": [
+      "すべて有機物",
+      "すべて金属",
+      "すべて液体",
+      "無機物"
+    ],
+    "answer": 3,
+    "explanation": "二酸化炭素は炭素を含むが無機物に分類する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-019",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "説明「液面の位置を使って量を読み取るための印」に最もよく当てはまる用語は？",
+    "options": [
+      "体積",
+      "展性",
+      "ガラス器具の目盛り",
+      "密度"
+    ],
+    "answer": 2,
+    "explanation": "ガラス器具の目盛りとは、液面の位置を使って量を読み取るための印。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u02-020",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "物質の性質",
+    "difficulty": "basic",
+    "question": "水の体積をメスシリンダーで読むとき適切なのは？",
+    "options": [
+      "底の厚みを足す",
+      "液面のへこんだ下端を目の高さで読む",
+      "上から斜めに読む",
+      "必ず泡の上を読む"
+    ],
+    "answer": 1,
+    "explanation": "目の高さを合わせ、水ではメニスカスの下端を読む。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
   }
 ]

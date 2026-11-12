@@ -36,5 +36,575 @@
     "answer": 2,
     "explanation": "enjoyの後は動名詞。",
     "difficulty": "basic"
+  },
+  {
+    "id": "english-g2-u02-001",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "I want ___ books. 空所は？",
+    "options": [
+      "to read",
+      "read",
+      "reading",
+      "reads"
+    ],
+    "answer": 0,
+    "explanation": "wantの後に「〜したい」を続けるときはto＋原形。to read。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-002",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "I enjoy ___ books. 空所は？",
+    "options": [
+      "read",
+      "to read",
+      "reads",
+      "reading"
+    ],
+    "answer": 3,
+    "explanation": "enjoyの目的語には動名詞を使う。readのing形はreading。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-003",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "「booksについてreadすること」をtoで始める形にする。正しい形は？",
+    "options": [
+      "to reads",
+      "reading to",
+      "to read",
+      "to reading"
+    ],
+    "answer": 2,
+    "explanation": "to不定詞はto＋動詞の原形。to readは名詞のように「〜すること」として使える。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-004",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "文を完成させよう。My hobby is ___ books.（動名詞を使う）",
+    "options": [
+      "to reading",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answer": 1,
+    "explanation": "動名詞は動詞のing形で「〜すること」。reading booksが趣味の内容。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-005",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "standard",
+    "question": "英文I went there to read books. のto read booksが表すことは？",
+    "options": [
+      "そこへ行った目的",
+      "過去の回数",
+      "比較の対象",
+      "主語の人数"
+    ],
+    "answer": 0,
+    "explanation": "went thereの後のto不定詞は目的「booksについてreadするために」を表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-006",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "standard",
+    "question": "「I finished ___ books.」で、終えた行動を表す正しい形は？",
+    "options": [
+      "to read",
+      "read",
+      "reads",
+      "reading"
+    ],
+    "answer": 3,
+    "explanation": "finishの後に動作を名詞として置くときは動名詞reading。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-007",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "I want ___ tennis. 空所は？",
+    "options": [
+      "playing",
+      "plays",
+      "to play",
+      "play"
+    ],
+    "answer": 2,
+    "explanation": "wantの後に「〜したい」を続けるときはto＋原形。to play。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-008",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "I enjoy ___ tennis. 空所は？",
+    "options": [
+      "plays",
+      "playing",
+      "play",
+      "to play"
+    ],
+    "answer": 1,
+    "explanation": "enjoyの目的語には動名詞を使う。playのing形はplaying。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-009",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "「tennisについてplayすること」をtoで始める形にする。正しい形は？",
+    "options": [
+      "to play",
+      "to playing",
+      "to plays",
+      "playing to"
+    ],
+    "answer": 0,
+    "explanation": "to不定詞はto＋動詞の原形。to playは名詞のように「〜すること」として使える。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-010",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "文を完成させよう。My hobby is ___ tennis.（動名詞を使う）",
+    "options": [
+      "play",
+      "plays",
+      "to playing",
+      "playing"
+    ],
+    "answer": 3,
+    "explanation": "動名詞は動詞のing形で「〜すること」。playing tennisが趣味の内容。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-011",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "standard",
+    "question": "英文I went there to play tennis. のto play tennisが表すことは？",
+    "options": [
+      "比較の対象",
+      "主語の人数",
+      "そこへ行った目的",
+      "過去の回数"
+    ],
+    "answer": 2,
+    "explanation": "went thereの後のto不定詞は目的「tennisについてplayするために」を表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-012",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "standard",
+    "question": "「I finished ___ tennis.」で、終えた行動を表す正しい形は？",
+    "options": [
+      "plays",
+      "playing",
+      "to play",
+      "play"
+    ],
+    "answer": 1,
+    "explanation": "finishの後に動作を名詞として置くときは動名詞playing。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-013",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "I want ___ English. 空所は？",
+    "options": [
+      "to study",
+      "study",
+      "studying",
+      "studys"
+    ],
+    "answer": 0,
+    "explanation": "wantの後に「〜したい」を続けるときはto＋原形。to study。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-014",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "I enjoy ___ English. 空所は？",
+    "options": [
+      "study",
+      "to study",
+      "studys",
+      "studying"
+    ],
+    "answer": 3,
+    "explanation": "enjoyの目的語には動名詞を使う。studyのing形はstudying。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-015",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "「Englishについてstudyすること」をtoで始める形にする。正しい形は？",
+    "options": [
+      "to studys",
+      "studying to",
+      "to study",
+      "to studying"
+    ],
+    "answer": 2,
+    "explanation": "to不定詞はto＋動詞の原形。to studyは名詞のように「〜すること」として使える。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-016",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "文を完成させよう。My hobby is ___ English.（動名詞を使う）",
+    "options": [
+      "to studying",
+      "studying",
+      "study",
+      "studys"
+    ],
+    "answer": 1,
+    "explanation": "動名詞は動詞のing形で「〜すること」。studying Englishが趣味の内容。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-017",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "standard",
+    "question": "英文I went there to study English. のto study Englishが表すことは？",
+    "options": [
+      "そこへ行った目的",
+      "過去の回数",
+      "比較の対象",
+      "主語の人数"
+    ],
+    "answer": 0,
+    "explanation": "went thereの後のto不定詞は目的「Englishについてstudyするために」を表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-018",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "standard",
+    "question": "「I finished ___ English.」で、終えた行動を表す正しい形は？",
+    "options": [
+      "to study",
+      "study",
+      "studys",
+      "studying"
+    ],
+    "answer": 3,
+    "explanation": "finishの後に動作を名詞として置くときは動名詞studying。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-019",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "I want ___ cakes. 空所は？",
+    "options": [
+      "making",
+      "makes",
+      "to make",
+      "make"
+    ],
+    "answer": 2,
+    "explanation": "wantの後に「〜したい」を続けるときはto＋原形。to make。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-020",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "I enjoy ___ cakes. 空所は？",
+    "options": [
+      "makes",
+      "making",
+      "make",
+      "to make"
+    ],
+    "answer": 1,
+    "explanation": "enjoyの目的語には動名詞を使う。makeのing形はmaking。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-021",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "「cakesについてmakeすること」をtoで始める形にする。正しい形は？",
+    "options": [
+      "to make",
+      "to making",
+      "to makes",
+      "making to"
+    ],
+    "answer": 0,
+    "explanation": "to不定詞はto＋動詞の原形。to makeは名詞のように「〜すること」として使える。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-022",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "文を完成させよう。My hobby is ___ cakes.（動名詞を使う）",
+    "options": [
+      "make",
+      "makes",
+      "to making",
+      "making"
+    ],
+    "answer": 3,
+    "explanation": "動名詞は動詞のing形で「〜すること」。making cakesが趣味の内容。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-023",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "standard",
+    "question": "英文I went there to make cakes. のto make cakesが表すことは？",
+    "options": [
+      "比較の対象",
+      "主語の人数",
+      "そこへ行った目的",
+      "過去の回数"
+    ],
+    "answer": 2,
+    "explanation": "went thereの後のto不定詞は目的「cakesについてmakeするために」を表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-024",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "standard",
+    "question": "「I finished ___ cakes.」で、終えた行動を表す正しい形は？",
+    "options": [
+      "makes",
+      "making",
+      "to make",
+      "make"
+    ],
+    "answer": 1,
+    "explanation": "finishの後に動作を名詞として置くときは動名詞making。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-025",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "I want ___ in the pool. 空所は？",
+    "options": [
+      "to swim",
+      "swim",
+      "swimming",
+      "swims"
+    ],
+    "answer": 0,
+    "explanation": "wantの後に「〜したい」を続けるときはto＋原形。to swim。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-026",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "I enjoy ___ in the pool. 空所は？",
+    "options": [
+      "swim",
+      "to swim",
+      "swims",
+      "swimming"
+    ],
+    "answer": 3,
+    "explanation": "enjoyの目的語には動名詞を使う。swimのing形はswimming。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-027",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "「in the poolについてswimすること」をtoで始める形にする。正しい形は？",
+    "options": [
+      "to swims",
+      "swimming to",
+      "to swim",
+      "to swimming"
+    ],
+    "answer": 2,
+    "explanation": "to不定詞はto＋動詞の原形。to swimは名詞のように「〜すること」として使える。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-028",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "basic",
+    "question": "文を完成させよう。My hobby is ___ in the pool.（動名詞を使う）",
+    "options": [
+      "to swimming",
+      "swimming",
+      "swim",
+      "swims"
+    ],
+    "answer": 1,
+    "explanation": "動名詞は動詞のing形で「〜すること」。swimming in the poolが趣味の内容。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-029",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "standard",
+    "question": "英文I went there to swim in the pool. のto swim in the poolが表すことは？",
+    "options": [
+      "そこへ行った目的",
+      "過去の回数",
+      "比較の対象",
+      "主語の人数"
+    ],
+    "answer": 0,
+    "explanation": "went thereの後のto不定詞は目的「in the poolについてswimするために」を表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u02-030",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "不定詞と動名詞",
+    "difficulty": "standard",
+    "question": "「I finished ___ in the pool.」で、終えた行動を表す正しい形は？",
+    "options": [
+      "to swim",
+      "swim",
+      "swims",
+      "swimming"
+    ],
+    "answer": 3,
+    "explanation": "finishの後に動作を名詞として置くときは動名詞swimming。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
   }
 ]
