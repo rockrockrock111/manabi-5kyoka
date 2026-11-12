@@ -1,0 +1,2238 @@
+[
+  {
+    "id": "q001",
+    "subject": "数学",
+    "grade": 0,
+    "unit": "小学校の計算",
+    "prereq": [],
+    "question": "1/2＋1/4 は？",
+    "options": [
+      "3/4",
+      "2/6",
+      "1/4",
+      "3/8"
+    ],
+    "answer": 0,
+    "explanation": "分母を4にそろえて2/4＋1/4。"
+  },
+  {
+    "id": "q002",
+    "subject": "数学",
+    "grade": 0,
+    "unit": "小学校の計算",
+    "prereq": [],
+    "question": "0.6×0.5 は？",
+    "options": [
+      "3",
+      "0.3",
+      "0.03",
+      "1.1"
+    ],
+    "answer": 1,
+    "explanation": "6×5=30、小数点を2桁戻す。"
+  },
+  {
+    "id": "q003",
+    "subject": "数学",
+    "grade": 0,
+    "unit": "小学校の計算",
+    "prereq": [],
+    "question": "3/4÷1/2 は？",
+    "options": [
+      "3/8",
+      "2/3",
+      "3/2",
+      "1/4"
+    ],
+    "answer": 2,
+    "explanation": "割り算は逆数を掛ける。"
+  },
+  {
+    "id": "q004",
+    "subject": "数学",
+    "grade": 0,
+    "unit": "小学校の計算",
+    "prereq": [],
+    "question": "25%を小数で表すと？",
+    "options": [
+      "2.5",
+      "0.25",
+      "0.025",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "百分率は100で割る。"
+  },
+  {
+    "id": "q005",
+    "subject": "数学",
+    "grade": 0,
+    "unit": "小学校の計算",
+    "prereq": [],
+    "question": "120の3/4は？",
+    "options": [
+      "90",
+      "80",
+      "60",
+      "160"
+    ],
+    "answer": 0,
+    "explanation": "120÷4×3。"
+  },
+  {
+    "id": "q006",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "正負の数",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "−3＋8 は？",
+    "options": [
+      "−11",
+      "5",
+      "−5",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "数直線で−3から右に8進む。"
+  },
+  {
+    "id": "q007",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "正負の数",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "−4×(−3) は？",
+    "options": [
+      "−12",
+      "12",
+      "7",
+      "−7"
+    ],
+    "answer": 1,
+    "explanation": "負×負は正。"
+  },
+  {
+    "id": "q008",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "正負の数",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "−12÷3 は？",
+    "options": [
+      "−4",
+      "4",
+      "−9",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "負÷正は負。"
+  },
+  {
+    "id": "q009",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "正負の数",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "−2² は？",
+    "options": [
+      "4",
+      "−4",
+      "−2",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "指数が先なので−(2²)。"
+  },
+  {
+    "id": "q010",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "文字式",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "question": "x=3 のとき2x＋1は？",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "2×3＋1=7。"
+  },
+  {
+    "id": "q011",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "文字式",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "question": "a×a を文字式で表すと？",
+    "options": [
+      "2a",
+      "a²",
+      "a＋2",
+      "a/2"
+    ],
+    "answer": 1,
+    "explanation": "同じ文字を掛けると2乗。"
+  },
+  {
+    "id": "q012",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "文字式",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "question": "3x＋2x は？",
+    "options": [
+      "5x",
+      "6x",
+      "5x²",
+      "x"
+    ],
+    "answer": 0,
+    "explanation": "同類項をまとめる。"
+  },
+  {
+    "id": "q013",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "一次方程式",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "question": "3x＋5=20 のxは？",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "3x=15、x=5。"
+  },
+  {
+    "id": "q014",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "一次方程式",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "question": "x/2=6 のxは？",
+    "options": [
+      "3",
+      "8",
+      "12",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "両辺を2倍する。"
+  },
+  {
+    "id": "q015",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "一次方程式",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "question": "2x−7=1 のxは？",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "2x=8、x=4。"
+  },
+  {
+    "id": "q016",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "比例と反比例",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "question": "y=3xでx=4のときyは？",
+    "options": [
+      "7",
+      "12",
+      "1",
+      "−12"
+    ],
+    "answer": 1,
+    "explanation": "3×4=12。"
+  },
+  {
+    "id": "q017",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "比例と反比例",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "question": "反比例を表す式は？",
+    "options": [
+      "y=2x",
+      "y=x＋2",
+      "y=6/x",
+      "y=x²"
+    ],
+    "answer": 2,
+    "explanation": "反比例はy=a/x。"
+  },
+  {
+    "id": "q018",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "平面図形",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "三角形の内角の和は？",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "answer": 1,
+    "explanation": "三角形の内角の和は180°。"
+  },
+  {
+    "id": "q019",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "平面図形",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "半径3cmの円の直径は？",
+    "options": [
+      "3cm",
+      "6cm",
+      "9cm",
+      "12cm"
+    ],
+    "answer": 1,
+    "explanation": "直径は半径の2倍。"
+  },
+  {
+    "id": "q020",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "式の計算",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "question": "2a＋3a−a は？",
+    "options": [
+      "4a",
+      "5a",
+      "6a",
+      "a"
+    ],
+    "answer": 0,
+    "explanation": "係数2＋3−1=4。"
+  },
+  {
+    "id": "q021",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "式の計算",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "question": "(x＋2)(x＋3) を展開すると？",
+    "options": [
+      "x²＋5x＋6",
+      "x²＋6",
+      "x²＋6x＋5",
+      "2x＋5"
+    ],
+    "answer": 0,
+    "explanation": "分配法則で掛け合わせる。"
+  },
+  {
+    "id": "q022",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "連立方程式",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "question": "x＋y=7、x−y=1 のxは？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "2式を足すと2x=8。"
+  },
+  {
+    "id": "q023",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "連立方程式",
+    "prereq": [
+      "数学|1|一次方程式"
+    ],
+    "question": "x＋y=7、x−y=1 のyは？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "x=4を代入してy=3。"
+  },
+  {
+    "id": "q024",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "一次関数",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "question": "y=2x＋3 の傾きは？",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "−2"
+    ],
+    "answer": 0,
+    "explanation": "y=ax＋bのaが傾き。"
+  },
+  {
+    "id": "q025",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "一次関数",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "question": "y=−x＋4 の切片は？",
+    "options": [
+      "−1",
+      "1",
+      "4",
+      "−4"
+    ],
+    "answer": 2,
+    "explanation": "x=0のときy=4。"
+  },
+  {
+    "id": "q026",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "図形の性質",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "question": "平行四辺形の向かい合う辺は？",
+    "options": [
+      "直交する",
+      "等しい",
+      "必ず異なる",
+      "交わる"
+    ],
+    "answer": 1,
+    "explanation": "平行四辺形の対辺は平行で長さが等しい。"
+  },
+  {
+    "id": "q027",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "図形の性質",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "question": "合同な図形の対応する角は？",
+    "options": [
+      "等しい",
+      "2倍",
+      "半分",
+      "無関係"
+    ],
+    "answer": 0,
+    "explanation": "合同では対応する辺・角が等しい。"
+  },
+  {
+    "id": "q028",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "確率",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "公平なコインを1回投げ表が出る確率は？",
+    "options": [
+      "1/4",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "answer": 1,
+    "explanation": "表と裏は同様に確からしい。"
+  },
+  {
+    "id": "q029",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "平方根",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "question": "√49 は？",
+    "options": [
+      "±7",
+      "7",
+      "−7",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "√49は0以上の平方根。"
+  },
+  {
+    "id": "q030",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "平方根",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "question": "√8を簡単にすると？",
+    "options": [
+      "4√2",
+      "2√2",
+      "√4",
+      "8√2"
+    ],
+    "answer": 1,
+    "explanation": "√8=√(4×2)=2√2。"
+  },
+  {
+    "id": "q031",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "二次方程式",
+    "prereq": [
+      "数学|2|式の計算"
+    ],
+    "question": "x²=25 の解は？",
+    "options": [
+      "5のみ",
+      "−5のみ",
+      "±5",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "正負両方を代入して確認。"
+  },
+  {
+    "id": "q032",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "二次方程式",
+    "prereq": [
+      "数学|2|式の計算"
+    ],
+    "question": "x²−5x＋6=0 の解は？",
+    "options": [
+      "2と3",
+      "−2と−3",
+      "1と6",
+      "−1と−6"
+    ],
+    "answer": 0,
+    "explanation": "(x−2)(x−3)=0。"
+  },
+  {
+    "id": "q033",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "二次関数",
+    "prereq": [
+      "数学|2|一次関数"
+    ],
+    "question": "y=x²でx=−3のときyは？",
+    "options": [
+      "−9",
+      "6",
+      "9",
+      "−6"
+    ],
+    "answer": 2,
+    "explanation": "(−3)²=9。"
+  },
+  {
+    "id": "q034",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "相似と三平方",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "question": "直角三角形の直角をはさむ辺が3と4のとき斜辺は？",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "3²＋4²=5²。"
+  },
+  {
+    "id": "q035",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "相似と三平方",
+    "prereq": [
+      "数学|2|図形の性質"
+    ],
+    "question": "相似比2:3の図形の面積比は？",
+    "options": [
+      "2:3",
+      "4:9",
+      "8:27",
+      "1:3"
+    ],
+    "answer": 1,
+    "explanation": "面積比は相似比の2乗。"
+  },
+  {
+    "id": "q036",
+    "subject": "英語",
+    "grade": 0,
+    "unit": "基本単語",
+    "prereq": [],
+    "question": "「学校」を表す英単語は？",
+    "options": [
+      "school",
+      "book",
+      "home",
+      "apple"
+    ],
+    "answer": 0,
+    "explanation": "schoolは学校。"
+  },
+  {
+    "id": "q037",
+    "subject": "英語",
+    "grade": 0,
+    "unit": "基本単語",
+    "prereq": [],
+    "question": "「友達」を表す英単語は？",
+    "options": [
+      "teacher",
+      "friend",
+      "water",
+      "today"
+    ],
+    "answer": 1,
+    "explanation": "friendは友達。"
+  },
+  {
+    "id": "q038",
+    "subject": "英語",
+    "grade": 0,
+    "unit": "基本単語",
+    "prereq": [],
+    "question": "「昨日」を表す英単語は？",
+    "options": [
+      "tomorrow",
+      "today",
+      "yesterday",
+      "now"
+    ],
+    "answer": 2,
+    "explanation": "yesterdayは昨日。"
+  },
+  {
+    "id": "q039",
+    "subject": "英語",
+    "grade": 0,
+    "unit": "基本単語",
+    "prereq": [],
+    "question": "「読む」を表す動詞は？",
+    "options": [
+      "write",
+      "read",
+      "run",
+      "eat"
+    ],
+    "answer": 1,
+    "explanation": "readは読む。"
+  },
+  {
+    "id": "q040",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "be動詞",
+    "prereq": [
+      "英語|0|基本単語"
+    ],
+    "question": "I ___ a student.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": 1,
+    "explanation": "主語Iにはam。"
+  },
+  {
+    "id": "q041",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "be動詞",
+    "prereq": [
+      "英語|0|基本単語"
+    ],
+    "question": "She ___ happy.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "do"
+    ],
+    "answer": 1,
+    "explanation": "主語sheにはis。"
+  },
+  {
+    "id": "q042",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "be動詞",
+    "prereq": [
+      "英語|0|基本単語"
+    ],
+    "question": "They ___ students.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "does"
+    ],
+    "answer": 2,
+    "explanation": "複数主語にはare。"
+  },
+  {
+    "id": "q043",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "一般動詞",
+    "prereq": [
+      "英語|1|be動詞"
+    ],
+    "question": "I ___ soccer every day.",
+    "options": [
+      "plays",
+      "play",
+      "playing",
+      "played"
+    ],
+    "answer": 1,
+    "explanation": "主語Iの現在形は原形。"
+  },
+  {
+    "id": "q044",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "一般動詞",
+    "prereq": [
+      "英語|1|be動詞"
+    ],
+    "question": "「私はテニスをしません」は？",
+    "options": [
+      "I not play tennis.",
+      "I do not play tennis.",
+      "I am not play tennis.",
+      "I does not play tennis."
+    ],
+    "answer": 1,
+    "explanation": "一般動詞の否定はdo not＋原形。"
+  },
+  {
+    "id": "q045",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "疑問文と三単現",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "___ you like music?",
+    "options": [
+      "Are",
+      "Does",
+      "Do",
+      "Is"
+    ],
+    "answer": 2,
+    "explanation": "一般動詞の疑問文はDo you〜?"
+  },
+  {
+    "id": "q046",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "疑問文と三単現",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "He ___ English.",
+    "options": [
+      "study",
+      "studies",
+      "studying",
+      "studys"
+    ],
+    "answer": 1,
+    "explanation": "三人称単数現在はstudies。"
+  },
+  {
+    "id": "q047",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "疑問文と三単現",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "Does she play piano? の答えとして正しいのは？",
+    "options": [
+      "Yes, she do.",
+      "Yes, she does.",
+      "Yes, she is.",
+      "Yes, she play."
+    ],
+    "answer": 1,
+    "explanation": "Doesで聞かれたらdoesで答える。"
+  },
+  {
+    "id": "q048",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "過去形",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "goの過去形は？",
+    "options": [
+      "goed",
+      "went",
+      "gone",
+      "going"
+    ],
+    "answer": 1,
+    "explanation": "go-went-gone。"
+  },
+  {
+    "id": "q049",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "過去形",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "I ___ TV yesterday.",
+    "options": [
+      "watch",
+      "watches",
+      "watched",
+      "watching"
+    ],
+    "answer": 2,
+    "explanation": "yesterdayなので過去形。"
+  },
+  {
+    "id": "q050",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "未来表現",
+    "prereq": [
+      "英語|1|過去形"
+    ],
+    "question": "「私は明日勉強するつもり」は？",
+    "options": [
+      "I studied tomorrow.",
+      "I will study tomorrow.",
+      "I studying tomorrow.",
+      "I study yesterday."
+    ],
+    "answer": 1,
+    "explanation": "will＋動詞の原形。"
+  },
+  {
+    "id": "q051",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "未来表現",
+    "prereq": [
+      "英語|1|過去形"
+    ],
+    "question": "be going to の後に続くのは？",
+    "options": [
+      "動詞の原形",
+      "過去形",
+      "ing形",
+      "過去分詞のみ"
+    ],
+    "answer": 0,
+    "explanation": "be going to＋原形。"
+  },
+  {
+    "id": "q052",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "不定詞と動名詞",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "I want ___ play soccer.",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "on"
+    ],
+    "answer": 1,
+    "explanation": "want to＋動詞原形。"
+  },
+  {
+    "id": "q053",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "不定詞と動名詞",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "I enjoy ___ books.",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "to read"
+    ],
+    "answer": 2,
+    "explanation": "enjoyの後は動名詞。"
+  },
+  {
+    "id": "q054",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "比較",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "tallの比較級は？",
+    "options": [
+      "tallest",
+      "more tall",
+      "taller",
+      "talling"
+    ],
+    "answer": 2,
+    "explanation": "短い形容詞は-er。"
+  },
+  {
+    "id": "q055",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "比較",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "goodの最上級は？",
+    "options": [
+      "goodest",
+      "better",
+      "best",
+      "most good"
+    ],
+    "answer": 2,
+    "explanation": "good-better-best。"
+  },
+  {
+    "id": "q056",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "接続詞",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "「なぜなら」を表すのは？",
+    "options": [
+      "but",
+      "because",
+      "or",
+      "and"
+    ],
+    "answer": 1,
+    "explanation": "becauseは理由を表す。"
+  },
+  {
+    "id": "q057",
+    "subject": "英語",
+    "grade": 3,
+    "unit": "現在完了",
+    "prereq": [
+      "英語|1|過去形"
+    ],
+    "question": "I have ___ my homework.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answer": 2,
+    "explanation": "have＋過去分詞。"
+  },
+  {
+    "id": "q058",
+    "subject": "英語",
+    "grade": 3,
+    "unit": "現在完了",
+    "prereq": [
+      "英語|1|過去形"
+    ],
+    "question": "「ずっと〜している」を表す現在完了で使うのは？",
+    "options": [
+      "have＋過去分詞",
+      "be＋原形",
+      "do＋原形",
+      "will＋過去形"
+    ],
+    "answer": 0,
+    "explanation": "現在完了はhave/has＋過去分詞。"
+  },
+  {
+    "id": "q059",
+    "subject": "英語",
+    "grade": 3,
+    "unit": "受け身",
+    "prereq": [
+      "英語|1|be動詞"
+    ],
+    "question": "This book ___ written in English.",
+    "options": [
+      "is",
+      "does",
+      "has",
+      "will"
+    ],
+    "answer": 0,
+    "explanation": "受け身はbe＋過去分詞。"
+  },
+  {
+    "id": "q060",
+    "subject": "英語",
+    "grade": 3,
+    "unit": "受け身",
+    "prereq": [
+      "英語|1|be動詞"
+    ],
+    "question": "「この車は日本で作られた」は？",
+    "options": [
+      "This car made in Japan.",
+      "This car was made in Japan.",
+      "This car is make in Japan.",
+      "This car did made in Japan."
+    ],
+    "answer": 1,
+    "explanation": "過去の受け身はwas/were＋過去分詞。"
+  },
+  {
+    "id": "q061",
+    "subject": "英語",
+    "grade": 3,
+    "unit": "関係代名詞",
+    "prereq": [
+      "英語|2|接続詞"
+    ],
+    "question": "The boy ___ is running is Ken.",
+    "options": [
+      "who",
+      "where",
+      "when",
+      "what"
+    ],
+    "answer": 0,
+    "explanation": "人を説明する主格の関係代名詞who。"
+  },
+  {
+    "id": "q062",
+    "subject": "国語",
+    "grade": 0,
+    "unit": "語彙と文の基本",
+    "prereq": [],
+    "question": "「慎重」に近い意味は？",
+    "options": [
+      "急いで",
+      "注意深く",
+      "大げさに",
+      "自由に"
+    ],
+    "answer": 1,
+    "explanation": "慎重は注意深く行動すること。"
+  },
+  {
+    "id": "q063",
+    "subject": "国語",
+    "grade": 0,
+    "unit": "語彙と文の基本",
+    "prereq": [],
+    "question": "「原因」の反対に対応する語は？",
+    "options": [
+      "理由",
+      "結果",
+      "目的",
+      "過程"
+    ],
+    "answer": 1,
+    "explanation": "原因と結果の関係。"
+  },
+  {
+    "id": "q064",
+    "subject": "国語",
+    "grade": 0,
+    "unit": "語彙と文の基本",
+    "prereq": [],
+    "question": "「しかし」は主に何を表す？",
+    "options": [
+      "順接",
+      "逆接",
+      "例示",
+      "並列"
+    ],
+    "answer": 1,
+    "explanation": "前の内容と反対の方向へつなぐ。"
+  },
+  {
+    "id": "q065",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "文節と品詞",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "「私は／学校へ／行く」の文節数は？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "区切りが3つ。"
+  },
+  {
+    "id": "q066",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "文節と品詞",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "「美しい」はどの品詞？",
+    "options": [
+      "名詞",
+      "形容詞",
+      "動詞",
+      "副詞"
+    ],
+    "answer": 1,
+    "explanation": "「い」で終わり活用する形容詞。"
+  },
+  {
+    "id": "q067",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "文節と品詞",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "「走る」はどの品詞？",
+    "options": [
+      "動詞",
+      "名詞",
+      "接続詞",
+      "助詞"
+    ],
+    "answer": 0,
+    "explanation": "動作を表す動詞。"
+  },
+  {
+    "id": "q068",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "説明文の読み方",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "「つまり」が示すことは？",
+    "options": [
+      "話題転換",
+      "言い換え・まとめ",
+      "反対",
+      "例示"
+    ],
+    "answer": 1,
+    "explanation": "前の内容をまとめる接続語。"
+  },
+  {
+    "id": "q069",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "説明文の読み方",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "筆者の主張を探すとき注目するのは？",
+    "options": [
+      "例だけ",
+      "結論や繰り返す表現",
+      "漢字の数",
+      "文章の長さ"
+    ],
+    "answer": 1,
+    "explanation": "結論・反復表現が手がかり。"
+  },
+  {
+    "id": "q070",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "古文の基本",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "古文の「いと」の意味は？",
+    "options": [
+      "少し",
+      "とても",
+      "すぐに",
+      "昨日"
+    ],
+    "answer": 1,
+    "explanation": "いとは「とても」。"
+  },
+  {
+    "id": "q071",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "古文の基本",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "歴史的仮名遣い「けふ」の現代仮名遣いは？",
+    "options": [
+      "けふ",
+      "きょう",
+      "こう",
+      "きゅう"
+    ],
+    "answer": 1,
+    "explanation": "けふ→きょう。"
+  },
+  {
+    "id": "q072",
+    "subject": "国語",
+    "grade": 2,
+    "unit": "敬語",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ],
+    "question": "「いらっしゃる」は何語？",
+    "options": [
+      "謙譲語",
+      "尊敬語",
+      "丁寧語",
+      "普通語"
+    ],
+    "answer": 1,
+    "explanation": "相手の動作を高める尊敬語。"
+  },
+  {
+    "id": "q073",
+    "subject": "国語",
+    "grade": 2,
+    "unit": "敬語",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ],
+    "question": "「申す」は何語？",
+    "options": [
+      "謙譲語",
+      "尊敬語",
+      "丁寧語",
+      "接続語"
+    ],
+    "answer": 0,
+    "explanation": "自分側の行為を低める謙譲語。"
+  },
+  {
+    "id": "q074",
+    "subject": "国語",
+    "grade": 2,
+    "unit": "文法の応用",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ],
+    "question": "「静かだ」は何の品詞？",
+    "options": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "名詞"
+    ],
+    "answer": 1,
+    "explanation": "「だ」で言い切る形容動詞。"
+  },
+  {
+    "id": "q075",
+    "subject": "国語",
+    "grade": 2,
+    "unit": "文法の応用",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ],
+    "question": "「読まない」の「ない」は？",
+    "options": [
+      "助動詞",
+      "名詞",
+      "接続詞",
+      "感動詞"
+    ],
+    "answer": 0,
+    "explanation": "打消しの助動詞。"
+  },
+  {
+    "id": "q076",
+    "subject": "国語",
+    "grade": 2,
+    "unit": "文学的文章",
+    "prereq": [
+      "国語|1|説明文の読み方"
+    ],
+    "question": "登場人物の心情を考える手がかりは？",
+    "options": [
+      "行動・会話・情景",
+      "ページ番号",
+      "漢字の画数",
+      "作者の年齢だけ"
+    ],
+    "answer": 0,
+    "explanation": "描写を根拠に考える。"
+  },
+  {
+    "id": "q077",
+    "subject": "国語",
+    "grade": 3,
+    "unit": "論説文の読解",
+    "prereq": [
+      "国語|1|説明文の読み方"
+    ],
+    "question": "「例えば」の後に多いのは？",
+    "options": [
+      "主張の具体例",
+      "反論の結論",
+      "題名",
+      "脚注"
+    ],
+    "answer": 0,
+    "explanation": "抽象的な説明を具体化する。"
+  },
+  {
+    "id": "q078",
+    "subject": "国語",
+    "grade": 3,
+    "unit": "論説文の読解",
+    "prereq": [
+      "国語|1|説明文の読み方"
+    ],
+    "question": "意見と事実を区別する際の基準は？",
+    "options": [
+      "文字数",
+      "検証可能かどうか",
+      "句読点の数",
+      "漢字の数"
+    ],
+    "answer": 1,
+    "explanation": "事実は根拠をもとに検証できる。"
+  },
+  {
+    "id": "q079",
+    "subject": "国語",
+    "grade": 3,
+    "unit": "俳句と和歌",
+    "prereq": [
+      "国語|1|古文の基本"
+    ],
+    "question": "俳句の基本的な音数は？",
+    "options": [
+      "5・7・5",
+      "7・7・5",
+      "5・7・5・7・7",
+      "7・5・7"
+    ],
+    "answer": 0,
+    "explanation": "俳句は基本17音。"
+  },
+  {
+    "id": "q080",
+    "subject": "国語",
+    "grade": 3,
+    "unit": "俳句と和歌",
+    "prereq": [
+      "国語|1|古文の基本"
+    ],
+    "question": "短歌の基本的な音数は？",
+    "options": [
+      "5・7・5",
+      "5・7・5・7・7",
+      "7・7・7",
+      "5・5・5・5"
+    ],
+    "answer": 1,
+    "explanation": "短歌は31音。"
+  },
+  {
+    "id": "q081",
+    "subject": "理科",
+    "grade": 0,
+    "unit": "小学校の理科",
+    "prereq": [],
+    "question": "水が氷になる変化は？",
+    "options": [
+      "蒸発",
+      "凝固",
+      "融解",
+      "昇華"
+    ],
+    "answer": 1,
+    "explanation": "液体が固体になることを凝固という。"
+  },
+  {
+    "id": "q082",
+    "subject": "理科",
+    "grade": 0,
+    "unit": "小学校の理科",
+    "prereq": [],
+    "question": "電気を通しやすい物は？",
+    "options": [
+      "ゴム",
+      "プラスチック",
+      "銅",
+      "木"
+    ],
+    "answer": 2,
+    "explanation": "金属は一般に電気を通す。"
+  },
+  {
+    "id": "q083",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "植物のつくり",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "光合成に必要な気体は？",
+    "options": [
+      "酸素",
+      "二酸化炭素",
+      "窒素",
+      "水素"
+    ],
+    "answer": 1,
+    "explanation": "光合成で二酸化炭素を取り込む。"
+  },
+  {
+    "id": "q084",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "植物のつくり",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "植物の水の通り道は？",
+    "options": [
+      "師管",
+      "道管",
+      "気孔",
+      "花粉"
+    ],
+    "answer": 1,
+    "explanation": "道管は水や無機養分を運ぶ。"
+  },
+  {
+    "id": "q085",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "物質の性質",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "密度の求め方は？",
+    "options": [
+      "質量÷体積",
+      "体積÷質量",
+      "質量×体積",
+      "体積＋質量"
+    ],
+    "answer": 0,
+    "explanation": "密度=質量/体積。"
+  },
+  {
+    "id": "q086",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "物質の性質",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "食塩が水に溶けた液は？",
+    "options": [
+      "混合物",
+      "純物質",
+      "単体",
+      "金属"
+    ],
+    "answer": 0,
+    "explanation": "食塩水は混合物。"
+  },
+  {
+    "id": "q087",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "光と音",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "光が鏡で跳ね返る現象は？",
+    "options": [
+      "屈折",
+      "反射",
+      "分散",
+      "回折"
+    ],
+    "answer": 1,
+    "explanation": "鏡では反射する。"
+  },
+  {
+    "id": "q088",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "光と音",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "音が伝わるために必要なのは？",
+    "options": [
+      "物質（媒質）",
+      "光",
+      "磁石",
+      "真空"
+    ],
+    "answer": 0,
+    "explanation": "音は真空では伝わらない。"
+  },
+  {
+    "id": "q089",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "地層と地震",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "地震の発生した地下の地点は？",
+    "options": [
+      "震央",
+      "震源",
+      "断層面の上端",
+      "マグニチュード"
+    ],
+    "answer": 1,
+    "explanation": "地下の発生地点が震源。"
+  },
+  {
+    "id": "q090",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "地層と地震",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "火山灰が固まった岩石は？",
+    "options": [
+      "石灰岩",
+      "凝灰岩",
+      "花こう岩",
+      "玄武岩"
+    ],
+    "answer": 1,
+    "explanation": "火山灰などが堆積して固まったもの。"
+  },
+  {
+    "id": "q091",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "化学変化",
+    "prereq": [
+      "理科|1|物質の性質"
+    ],
+    "question": "酸化とは一般に何と結びつくこと？",
+    "options": [
+      "窒素",
+      "酸素",
+      "水素",
+      "塩素"
+    ],
+    "answer": 1,
+    "explanation": "中学では酸素と結びつく反応を酸化という。"
+  },
+  {
+    "id": "q092",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "化学変化",
+    "prereq": [
+      "理科|1|物質の性質"
+    ],
+    "question": "水の化学式は？",
+    "options": [
+      "CO₂",
+      "H₂O",
+      "O₂",
+      "NaCl"
+    ],
+    "answer": 1,
+    "explanation": "水はH₂O。"
+  },
+  {
+    "id": "q093",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "電流と回路",
+    "prereq": [
+      "理科|1|光と音"
+    ],
+    "question": "電圧6V、抵抗3Ωの電流は？",
+    "options": [
+      "2A",
+      "3A",
+      "9A",
+      "18A"
+    ],
+    "answer": 0,
+    "explanation": "オームの法則I=V/R。"
+  },
+  {
+    "id": "q094",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "電流と回路",
+    "prereq": [
+      "理科|1|光と音"
+    ],
+    "question": "直列回路で各部分に共通するのは？",
+    "options": [
+      "電圧",
+      "電流",
+      "抵抗値",
+      "電力"
+    ],
+    "answer": 1,
+    "explanation": "直列回路では電流が等しい。"
+  },
+  {
+    "id": "q095",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "動物のからだ",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ],
+    "question": "血液中で酸素を運ぶのは？",
+    "options": [
+      "白血球",
+      "赤血球",
+      "血小板",
+      "血しょうのみ"
+    ],
+    "answer": 1,
+    "explanation": "赤血球のヘモグロビンが酸素を運ぶ。"
+  },
+  {
+    "id": "q096",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "動物のからだ",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ],
+    "question": "食物の消化・吸収で主に吸収が行われるのは？",
+    "options": [
+      "胃",
+      "小腸",
+      "食道",
+      "気管"
+    ],
+    "answer": 1,
+    "explanation": "小腸の柔毛で吸収する。"
+  },
+  {
+    "id": "q097",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "天気の変化",
+    "prereq": [
+      "理科|1|地層と地震"
+    ],
+    "question": "雲ができる主な原因は？",
+    "options": [
+      "水蒸気の凝結",
+      "酸素の増加",
+      "窒素の燃焼",
+      "地磁気"
+    ],
+    "answer": 0,
+    "explanation": "空気が冷え水蒸気が水滴になる。"
+  },
+  {
+    "id": "q098",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "イオンと電池",
+    "prereq": [
+      "理科|2|化学変化"
+    ],
+    "question": "陽イオンの電荷は？",
+    "options": [
+      "正",
+      "負",
+      "なし",
+      "常に変化"
+    ],
+    "answer": 0,
+    "explanation": "電子を失うと正に帯電。"
+  },
+  {
+    "id": "q099",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "イオンと電池",
+    "prereq": [
+      "理科|2|化学変化"
+    ],
+    "question": "塩酸に含まれる水素イオンは？",
+    "options": [
+      "H⁺",
+      "OH⁻",
+      "Cl⁻",
+      "Na⁺"
+    ],
+    "answer": 0,
+    "explanation": "酸性の水溶液にH⁺が存在する。"
+  },
+  {
+    "id": "q100",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "運動とエネルギー",
+    "prereq": [
+      "理科|2|電流と回路"
+    ],
+    "question": "物体に働く重力の向きは？",
+    "options": [
+      "鉛直上向き",
+      "鉛直下向き",
+      "進行方向",
+      "水平方向"
+    ],
+    "answer": 1,
+    "explanation": "地球の中心方向へ働く。"
+  },
+  {
+    "id": "q101",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "運動とエネルギー",
+    "prereq": [
+      "理科|2|電流と回路"
+    ],
+    "question": "仕事の単位は？",
+    "options": [
+      "N",
+      "J",
+      "W",
+      "A"
+    ],
+    "answer": 1,
+    "explanation": "仕事・エネルギーの単位はJ。"
+  },
+  {
+    "id": "q102",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "遺伝と生殖",
+    "prereq": [
+      "理科|2|動物のからだ"
+    ],
+    "question": "親の形質を子に伝える基本的な情報は？",
+    "options": [
+      "遺伝子",
+      "葉緑体のみ",
+      "血液型だけ",
+      "筋肉"
+    ],
+    "answer": 0,
+    "explanation": "遺伝子が遺伝情報を担う。"
+  },
+  {
+    "id": "q103",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "地球と宇宙",
+    "prereq": [
+      "理科|2|天気の変化"
+    ],
+    "question": "地球の自転による見かけの太陽の動きは？",
+    "options": [
+      "東から西",
+      "西から東",
+      "北から南",
+      "動かない"
+    ],
+    "answer": 0,
+    "explanation": "地球が西から東へ自転するため。"
+  },
+  {
+    "id": "q104",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "地球と宇宙",
+    "prereq": [
+      "理科|2|天気の変化"
+    ],
+    "question": "月が光って見える理由は？",
+    "options": [
+      "自ら発光",
+      "太陽光を反射",
+      "地球の光のみ",
+      "電気を発生"
+    ],
+    "answer": 1,
+    "explanation": "月は太陽光を反射する。"
+  },
+  {
+    "id": "q105",
+    "subject": "社会",
+    "grade": 0,
+    "unit": "地図と日本の基本",
+    "prereq": [],
+    "question": "日本の首都は？",
+    "options": [
+      "大阪",
+      "京都",
+      "東京",
+      "仙台"
+    ],
+    "answer": 2,
+    "explanation": "首都は東京。"
+  },
+  {
+    "id": "q106",
+    "subject": "社会",
+    "grade": 0,
+    "unit": "地図と日本の基本",
+    "prereq": [],
+    "question": "地図で北は一般にどちら？",
+    "options": [
+      "上",
+      "下",
+      "左",
+      "右"
+    ],
+    "answer": 0,
+    "explanation": "特別な表示がなければ上が北。"
+  },
+  {
+    "id": "q107",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "世界の地理",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "赤道の緯度は？",
+    "options": [
+      "0度",
+      "30度",
+      "90度",
+      "180度"
+    ],
+    "answer": 0,
+    "explanation": "赤道は緯度0度。"
+  },
+  {
+    "id": "q108",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "世界の地理",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "世界で最も面積が大きい大陸は？",
+    "options": [
+      "アフリカ大陸",
+      "ユーラシア大陸",
+      "南極大陸",
+      "オーストラリア大陸"
+    ],
+    "answer": 1,
+    "explanation": "ユーラシア大陸。"
+  },
+  {
+    "id": "q109",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "日本の地理",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "日本の標準時子午線は東経何度？",
+    "options": [
+      "120度",
+      "135度",
+      "150度",
+      "90度"
+    ],
+    "answer": 1,
+    "explanation": "兵庫県明石市付近を通る東経135度。"
+  },
+  {
+    "id": "q110",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "日本の地理",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "日本で最も面積が大きい都道府県は？",
+    "options": [
+      "岩手県",
+      "北海道",
+      "長野県",
+      "福島県"
+    ],
+    "answer": 1,
+    "explanation": "北海道。"
+  },
+  {
+    "id": "q111",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "古代の日本",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "聖徳太子（厩戸王）に関連するのは？",
+    "options": [
+      "十七条の憲法",
+      "大政奉還",
+      "地租改正",
+      "鎖国"
+    ],
+    "answer": 0,
+    "explanation": "十七条の憲法の制定と関連づけられる。"
+  },
+  {
+    "id": "q112",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "古代の日本",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "奈良時代の都は？",
+    "options": [
+      "平安京",
+      "平城京",
+      "江戸",
+      "鎌倉"
+    ],
+    "answer": 1,
+    "explanation": "710年に平城京へ遷都。"
+  },
+  {
+    "id": "q113",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "中世の日本",
+    "prereq": [
+      "社会|1|古代の日本"
+    ],
+    "question": "鎌倉幕府を開いた人物は？",
+    "options": [
+      "源頼朝",
+      "徳川家康",
+      "織田信長",
+      "足利義満"
+    ],
+    "answer": 0,
+    "explanation": "源頼朝が鎌倉幕府を開いた。"
+  },
+  {
+    "id": "q114",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "中世の日本",
+    "prereq": [
+      "社会|1|古代の日本"
+    ],
+    "question": "室町幕府を開いた人物は？",
+    "options": [
+      "足利尊氏",
+      "源義経",
+      "豊臣秀吉",
+      "西郷隆盛"
+    ],
+    "answer": 0,
+    "explanation": "足利尊氏。"
+  },
+  {
+    "id": "q115",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "日本の地域",
+    "prereq": [
+      "社会|1|日本の地理"
+    ],
+    "question": "宮城県が属する地方は？",
+    "options": [
+      "関東",
+      "東北",
+      "中部",
+      "近畿"
+    ],
+    "answer": 1,
+    "explanation": "宮城県は東北地方。"
+  },
+  {
+    "id": "q116",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "日本の地域",
+    "prereq": [
+      "社会|1|日本の地理"
+    ],
+    "question": "瀬戸内海沿岸で発達した工業地域は？",
+    "options": [
+      "瀬戸内工業地域",
+      "京浜工業地帯",
+      "中京工業地帯",
+      "北九州工業地帯"
+    ],
+    "answer": 0,
+    "explanation": "瀬戸内工業地域。"
+  },
+  {
+    "id": "q117",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "近世の日本",
+    "prereq": [
+      "社会|1|中世の日本"
+    ],
+    "question": "江戸幕府を開いたのは？",
+    "options": [
+      "豊臣秀吉",
+      "徳川家康",
+      "織田信長",
+      "足利尊氏"
+    ],
+    "answer": 1,
+    "explanation": "1603年、徳川家康が征夷大将軍に任じられた。"
+  },
+  {
+    "id": "q118",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "近世の日本",
+    "prereq": [
+      "社会|1|中世の日本"
+    ],
+    "question": "参勤交代を制度化した将軍は？",
+    "options": [
+      "徳川家光",
+      "徳川家康",
+      "徳川慶喜",
+      "徳川吉宗"
+    ],
+    "answer": 0,
+    "explanation": "3代将軍徳川家光の時代。"
+  },
+  {
+    "id": "q119",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "近代の日本",
+    "prereq": [
+      "社会|2|近世の日本"
+    ],
+    "question": "明治維新の時代に行われた改革は？",
+    "options": [
+      "廃藩置県",
+      "参勤交代",
+      "墾田永年私財法",
+      "大宝律令"
+    ],
+    "answer": 0,
+    "explanation": "1871年に廃藩置県。"
+  },
+  {
+    "id": "q120",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "近代の日本",
+    "prereq": [
+      "社会|2|近世の日本"
+    ],
+    "question": "大日本帝国憲法が発布された年は？",
+    "options": [
+      "1868年",
+      "1889年",
+      "1947年",
+      "1603年"
+    ],
+    "answer": 1,
+    "explanation": "1889年発布。"
+  },
+  {
+    "id": "q121",
+    "subject": "社会",
+    "grade": 3,
+    "unit": "現代史",
+    "prereq": [
+      "社会|2|近代の日本"
+    ],
+    "question": "日本国憲法が施行された年は？",
+    "options": [
+      "1945年",
+      "1946年",
+      "1947年",
+      "1951年"
+    ],
+    "answer": 2,
+    "explanation": "1947年5月3日施行。"
+  },
+  {
+    "id": "q122",
+    "subject": "社会",
+    "grade": 3,
+    "unit": "現代史",
+    "prereq": [
+      "社会|2|近代の日本"
+    ],
+    "question": "国際連合が発足した年は？",
+    "options": [
+      "1919年",
+      "1945年",
+      "1955年",
+      "1964年"
+    ],
+    "answer": 1,
+    "explanation": "1945年発足。"
+  },
+  {
+    "id": "q123",
+    "subject": "社会",
+    "grade": 3,
+    "unit": "日本国憲法",
+    "prereq": [
+      "社会|3|現代史"
+    ],
+    "question": "日本国憲法の三大原則に含まれないものは？",
+    "options": [
+      "国民主権",
+      "基本的人権の尊重",
+      "平和主義",
+      "三権の集中"
+    ],
+    "answer": 3,
+    "explanation": "三大原則は国民主権・基本的人権の尊重・平和主義。"
+  },
+  {
+    "id": "q124",
+    "subject": "社会",
+    "grade": 3,
+    "unit": "日本国憲法",
+    "prereq": [
+      "社会|3|現代史"
+    ],
+    "question": "国会は何権を担当する？",
+    "options": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "外交権のみ"
+    ],
+    "answer": 0,
+    "explanation": "国会は立法機関。"
+  },
+  {
+    "id": "q125",
+    "subject": "社会",
+    "grade": 3,
+    "unit": "政治と経済",
+    "prereq": [
+      "社会|3|日本国憲法"
+    ],
+    "question": "内閣が担当するのは？",
+    "options": [
+      "司法権",
+      "行政権",
+      "立法権",
+      "憲法改正の最終決定のみ"
+    ],
+    "answer": 1,
+    "explanation": "内閣は行政権を担当。"
+  },
+  {
+    "id": "q126",
+    "subject": "社会",
+    "grade": 3,
+    "unit": "政治と経済",
+    "prereq": [
+      "社会|3|日本国憲法"
+    ],
+    "question": "需要が増え供給が変わらない場合、一般に価格は？",
+    "options": [
+      "上がる方向",
+      "下がる方向",
+      "必ず0",
+      "変わらない"
+    ],
+    "answer": 0,
+    "explanation": "需要増は価格上昇の方向に働く。"
+  }
+]

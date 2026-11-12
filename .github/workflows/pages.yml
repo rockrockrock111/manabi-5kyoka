@@ -1,0 +1,40 @@
+name: Deploy GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JavaScript and question data
+        run: |
+          node --check app.js
+          node --check sw.js
+          python3 -c 'import json; q=json.load(open("questions.json")); assert len({x["id"] for x in q})==len(q); assert all(any(x["grade"]==g and x["subject"]==s for x in q) for g in (1,2,3) for s in ("英語","数学","国語","理科","社会"))'
+      - name: Prepare public files only
+        run: |
+          mkdir _site
+          cp index.html app.js questions.json manifest.webmanifest icon.svg sw.js _site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

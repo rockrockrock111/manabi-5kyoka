@@ -1,0 +1,10 @@
+# Browser learning records and local artifacts
+manabi-backup-*.json
+*progress*.json
+.env
+.env.*
+node_modules/
+_site/
+test-results/
+playwright-report/
+*.zip
