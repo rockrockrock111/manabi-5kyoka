@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q026",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "図形の性質",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "question": "平行四辺形の向かい合う辺は？",
+    "options": [
+      "直交する",
+      "等しい",
+      "必ず異なる",
+      "交わる"
+    ],
+    "answer": 1,
+    "explanation": "平行四辺形の対辺は平行で長さが等しい。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q027",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "図形の性質",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "question": "合同な図形の対応する角は？",
+    "options": [
+      "等しい",
+      "2倍",
+      "半分",
+      "無関係"
+    ],
+    "answer": 0,
+    "explanation": "合同では対応する辺・角が等しい。",
+    "difficulty": "basic"
+  }
+]

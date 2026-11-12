@@ -1,0 +1,53 @@
+[
+  {
+    "id": "q062",
+    "subject": "国語",
+    "grade": 0,
+    "unit": "語彙と文の基本",
+    "prereq": [],
+    "question": "「慎重」に近い意味は？",
+    "options": [
+      "急いで",
+      "注意深く",
+      "大げさに",
+      "自由に"
+    ],
+    "answer": 1,
+    "explanation": "慎重は注意深く行動すること。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q063",
+    "subject": "国語",
+    "grade": 0,
+    "unit": "語彙と文の基本",
+    "prereq": [],
+    "question": "「原因」の反対に対応する語は？",
+    "options": [
+      "理由",
+      "結果",
+      "目的",
+      "過程"
+    ],
+    "answer": 1,
+    "explanation": "原因と結果の関係。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q064",
+    "subject": "国語",
+    "grade": 0,
+    "unit": "語彙と文の基本",
+    "prereq": [],
+    "question": "「しかし」は主に何を表す？",
+    "options": [
+      "順接",
+      "逆接",
+      "例示",
+      "並列"
+    ],
+    "answer": 1,
+    "explanation": "前の内容と反対の方向へつなぐ。",
+    "difficulty": "basic"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "english-g1-u08-001",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「窓を開けるように」と指示する。___ the window.",
+    "options": [
+      "Open",
+      "opens",
+      "opening",
+      "To open"
+    ],
+    "answer": 0,
+    "explanation": "命令文は主語を省いて動詞の原形で始める。Open the window.",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-002",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「Open the window.」を「〜しないで」にする。___ open the window.",
+    "options": [
+      "Doesn’t",
+      "Not to",
+      "Isn’t",
+      "Don't"
+    ],
+    "answer": 3,
+    "explanation": "禁止の命令文はDon’t＋動詞の原形。Don’t open the window.",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-003",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「窓を開けるてください」と丁寧に頼む。___ open the window.",
+    "options": [
+      "Are",
+      "Did",
+      "Please",
+      "Does"
+    ],
+    "answer": 2,
+    "explanation": "命令文の前にPleaseを置くと丁寧な依頼になる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-004",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「Don’t open the window.」の意味に合うものは？",
+    "options": [
+      "窓を開けることを今している",
+      "窓を開けることを禁止する",
+      "窓を開けることができる",
+      "窓を開けることを昨日した"
+    ],
+    "answer": 1,
+    "explanation": "Don’tで始まる命令文は「〜しないで」と禁止する表現。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-005",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「ドアを閉めるように」と指示する。___ the door.",
+    "options": [
+      "Close",
+      "closes",
+      "closeing",
+      "To close"
+    ],
+    "answer": 0,
+    "explanation": "命令文は主語を省いて動詞の原形で始める。Close the door.",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-006",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「Close the door.」を「〜しないで」にする。___ close the door.",
+    "options": [
+      "Doesn’t",
+      "Not to",
+      "Isn’t",
+      "Don't"
+    ],
+    "answer": 3,
+    "explanation": "禁止の命令文はDon’t＋動詞の原形。Don’t close the door.",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-007",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「ドアを閉めるてください」と丁寧に頼む。___ close the door.",
+    "options": [
+      "Are",
+      "Did",
+      "Please",
+      "Does"
+    ],
+    "answer": 2,
+    "explanation": "命令文の前にPleaseを置くと丁寧な依頼になる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-008",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「Don’t close the door.」の意味に合うものは？",
+    "options": [
+      "ドアを閉めることを今している",
+      "ドアを閉めることを禁止する",
+      "ドアを閉めることができる",
+      "ドアを閉めることを昨日した"
+    ],
+    "answer": 1,
+    "explanation": "Don’tで始まる命令文は「〜しないで」と禁止する表現。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-009",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「このページを読むように」と指示する。___ this page.",
+    "options": [
+      "Read",
+      "reads",
+      "reading",
+      "To read"
+    ],
+    "answer": 0,
+    "explanation": "命令文は主語を省いて動詞の原形で始める。Read this page.",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-010",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「Read this page.」を「〜しないで」にする。___ read this page.",
+    "options": [
+      "Doesn’t",
+      "Not to",
+      "Isn’t",
+      "Don't"
+    ],
+    "answer": 3,
+    "explanation": "禁止の命令文はDon’t＋動詞の原形。Don’t read this page.",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-011",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「このページを読むてください」と丁寧に頼む。___ read this page.",
+    "options": [
+      "Are",
+      "Did",
+      "Please",
+      "Does"
+    ],
+    "answer": 2,
+    "explanation": "命令文の前にPleaseを置くと丁寧な依頼になる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-012",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「Don’t read this page.」の意味に合うものは？",
+    "options": [
+      "このページを読むことを今している",
+      "このページを読むことを禁止する",
+      "このページを読むことができる",
+      "このページを読むことを昨日した"
+    ],
+    "answer": 1,
+    "explanation": "Don’tで始まる命令文は「〜しないで」と禁止する表現。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-013",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「このペンを使うように」と指示する。___ this pen.",
+    "options": [
+      "Use",
+      "uses",
+      "useing",
+      "To use"
+    ],
+    "answer": 0,
+    "explanation": "命令文は主語を省いて動詞の原形で始める。Use this pen.",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-014",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「Use this pen.」を「〜しないで」にする。___ use this pen.",
+    "options": [
+      "Doesn’t",
+      "Not to",
+      "Isn’t",
+      "Don't"
+    ],
+    "answer": 3,
+    "explanation": "禁止の命令文はDon’t＋動詞の原形。Don’t use this pen.",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-015",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「このペンを使うてください」と丁寧に頼む。___ use this pen.",
+    "options": [
+      "Are",
+      "Did",
+      "Please",
+      "Does"
+    ],
+    "answer": 2,
+    "explanation": "命令文の前にPleaseを置くと丁寧な依頼になる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-016",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「Don’t use this pen.」の意味に合うものは？",
+    "options": [
+      "このペンを使うことを今している",
+      "このペンを使うことを禁止する",
+      "このペンを使うことができる",
+      "このペンを使うことを昨日した"
+    ],
+    "answer": 1,
+    "explanation": "Don’tで始まる命令文は「〜しないで」と禁止する表現。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-017",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「手を洗うように」と指示する。___ your hands.",
+    "options": [
+      "Wash",
+      "washs",
+      "washing",
+      "To wash"
+    ],
+    "answer": 0,
+    "explanation": "命令文は主語を省いて動詞の原形で始める。Wash your hands.",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-018",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「Wash your hands.」を「〜しないで」にする。___ wash your hands.",
+    "options": [
+      "Doesn’t",
+      "Not to",
+      "Isn’t",
+      "Don't"
+    ],
+    "answer": 3,
+    "explanation": "禁止の命令文はDon’t＋動詞の原形。Don’t wash your hands.",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-019",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「手を洗うてください」と丁寧に頼む。___ wash your hands.",
+    "options": [
+      "Are",
+      "Did",
+      "Please",
+      "Does"
+    ],
+    "answer": 2,
+    "explanation": "命令文の前にPleaseを置くと丁寧な依頼になる。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-020",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "basic",
+    "question": "「Don’t wash your hands.」の意味に合うものは？",
+    "options": [
+      "手を洗うことを今している",
+      "手を洗うことを禁止する",
+      "手を洗うことができる",
+      "手を洗うことを昨日した"
+    ],
+    "answer": 1,
+    "explanation": "Don’tで始まる命令文は「〜しないで」と禁止する表現。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  }
+]

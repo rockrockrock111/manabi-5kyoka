@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q113",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "中世の日本",
+    "prereq": [
+      "社会|1|古代の日本"
+    ],
+    "question": "鎌倉幕府を開いた人物は？",
+    "options": [
+      "源頼朝",
+      "徳川家康",
+      "織田信長",
+      "足利義満"
+    ],
+    "answer": 0,
+    "explanation": "源頼朝が鎌倉幕府を開いた。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q114",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "中世の日本",
+    "prereq": [
+      "社会|1|古代の日本"
+    ],
+    "question": "室町幕府を開いた人物は？",
+    "options": [
+      "足利尊氏",
+      "源義経",
+      "豊臣秀吉",
+      "西郷隆盛"
+    ],
+    "answer": 0,
+    "explanation": "足利尊氏。",
+    "difficulty": "basic"
+  }
+]

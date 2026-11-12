@@ -1,0 +1,557 @@
+[
+  {
+    "id": "math-g1-u06-001",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "縦3cm、横4cm、高さ3cmの直方体の体積は何cm³？",
+    "options": [
+      "36",
+      "37",
+      "35",
+      "38"
+    ],
+    "answer": 0,
+    "explanation": "底面積×高さ＝3×4×3＝36 cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3*4*3"
+    }
+  },
+  {
+    "id": "math-g1-u06-002",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "底面積20cm²、高さ12cmの角錐の体積は何cm³？",
+    "options": [
+      "81",
+      "79",
+      "82",
+      "80"
+    ],
+    "answer": 3,
+    "explanation": "錐体の体積は底面積×高さ÷3。20×12÷3＝80 cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "20*12/3"
+    }
+  },
+  {
+    "id": "math-g1-u06-003",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "半径5cm、高さ5cmの円柱の体積は何π cm³？",
+    "options": [
+      "124",
+      "127",
+      "125",
+      "126"
+    ],
+    "answer": 2,
+    "explanation": "底面積πr²×高さ＝25π×5＝125π cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "5**2*5"
+    }
+  },
+  {
+    "id": "math-g1-u06-004",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "一辺6cmの立方体の表面積は何cm²？",
+    "options": [
+      "218",
+      "216",
+      "217",
+      "215"
+    ],
+    "answer": 1,
+    "explanation": "1面の面積36cm²が6面。6×36＝216 cm²。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "6*6**2"
+    }
+  },
+  {
+    "id": "math-g1-u06-005",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "底面が正10角形の角柱の頂点の数は？",
+    "options": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "answer": 0,
+    "explanation": "上と下の底面にそれぞれ10個ずつ頂点があり、合計20個。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*(7+3)"
+    }
+  },
+  {
+    "id": "math-g1-u06-006",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "縦8cm、横3cm、高さ8cmの直方体の体積は何cm³？",
+    "options": [
+      "193",
+      "191",
+      "194",
+      "192"
+    ],
+    "answer": 3,
+    "explanation": "底面積×高さ＝8×3×8＝192 cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "8*3*8"
+    }
+  },
+  {
+    "id": "math-g1-u06-007",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "底面積36cm²、高さ27cmの角錐の体積は何cm³？",
+    "options": [
+      "323",
+      "326",
+      "324",
+      "325"
+    ],
+    "answer": 2,
+    "explanation": "錐体の体積は底面積×高さ÷3。36×27÷3＝324 cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "36*27/3"
+    }
+  },
+  {
+    "id": "math-g1-u06-008",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "半径10cm、高さ10cmの円柱の体積は何π cm³？",
+    "options": [
+      "1002",
+      "1000",
+      "1001",
+      "999"
+    ],
+    "answer": 1,
+    "explanation": "底面積πr²×高さ＝100π×10＝1000π cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "10**2*10"
+    }
+  },
+  {
+    "id": "math-g1-u06-009",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "一辺11cmの立方体の表面積は何cm²？",
+    "options": [
+      "726",
+      "727",
+      "725",
+      "728"
+    ],
+    "answer": 0,
+    "explanation": "1面の面積121cm²が6面。6×121＝726 cm²。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "6*11**2"
+    }
+  },
+  {
+    "id": "math-g1-u06-010",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "底面が正15角形の角柱の頂点の数は？",
+    "options": [
+      "31",
+      "29",
+      "32",
+      "30"
+    ],
+    "answer": 3,
+    "explanation": "上と下の底面にそれぞれ15個ずつ頂点があり、合計30個。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*(12+3)"
+    }
+  },
+  {
+    "id": "math-g1-u06-011",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "縦13cm、横5cm、高さ13cmの直方体の体積は何cm³？",
+    "options": [
+      "844",
+      "847",
+      "845",
+      "846"
+    ],
+    "answer": 2,
+    "explanation": "底面積×高さ＝13×5×13＝845 cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "13*5*13"
+    }
+  },
+  {
+    "id": "math-g1-u06-012",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "底面積42cm²、高さ42cmの角錐の体積は何cm³？",
+    "options": [
+      "590",
+      "588",
+      "589",
+      "587"
+    ],
+    "answer": 1,
+    "explanation": "錐体の体積は底面積×高さ÷3。42×42÷3＝588 cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "42*42/3"
+    }
+  },
+  {
+    "id": "math-g1-u06-013",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "半径15cm、高さ15cmの円柱の体積は何π cm³？",
+    "options": [
+      "3375",
+      "3376",
+      "3374",
+      "3377"
+    ],
+    "answer": 0,
+    "explanation": "底面積πr²×高さ＝225π×15＝3375π cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "15**2*15"
+    }
+  },
+  {
+    "id": "math-g1-u06-014",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "一辺16cmの立方体の表面積は何cm²？",
+    "options": [
+      "1537",
+      "1535",
+      "1538",
+      "1536"
+    ],
+    "answer": 3,
+    "explanation": "1面の面積256cm²が6面。6×256＝1536 cm²。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "6*16**2"
+    }
+  },
+  {
+    "id": "math-g1-u06-015",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "底面が正20角形の角柱の頂点の数は？",
+    "options": [
+      "39",
+      "42",
+      "40",
+      "41"
+    ],
+    "answer": 2,
+    "explanation": "上と下の底面にそれぞれ20個ずつ頂点があり、合計40個。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*(17+3)"
+    }
+  },
+  {
+    "id": "math-g1-u06-016",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "縦18cm、横4cm、高さ18cmの直方体の体積は何cm³？",
+    "options": [
+      "1298",
+      "1296",
+      "1297",
+      "1295"
+    ],
+    "answer": 1,
+    "explanation": "底面積×高さ＝18×4×18＝1296 cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "18*4*18"
+    }
+  },
+  {
+    "id": "math-g1-u06-017",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "底面積95cm²、高さ57cmの角錐の体積は何cm³？",
+    "options": [
+      "1805",
+      "1806",
+      "1804",
+      "1807"
+    ],
+    "answer": 0,
+    "explanation": "錐体の体積は底面積×高さ÷3。95×57÷3＝1805 cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "95*57/3"
+    }
+  },
+  {
+    "id": "math-g1-u06-018",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "半径20cm、高さ20cmの円柱の体積は何π cm³？",
+    "options": [
+      "8001",
+      "7999",
+      "8002",
+      "8000"
+    ],
+    "answer": 3,
+    "explanation": "底面積πr²×高さ＝400π×20＝8000π cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "20**2*20"
+    }
+  },
+  {
+    "id": "math-g1-u06-019",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "一辺21cmの立方体の表面積は何cm²？",
+    "options": [
+      "2645",
+      "2648",
+      "2646",
+      "2647"
+    ],
+    "answer": 2,
+    "explanation": "1面の面積441cm²が6面。6×441＝2646 cm²。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "6*21**2"
+    }
+  },
+  {
+    "id": "math-g1-u06-020",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "底面が正25角形の角柱の頂点の数は？",
+    "options": [
+      "52",
+      "50",
+      "51",
+      "49"
+    ],
+    "answer": 1,
+    "explanation": "上と下の底面にそれぞれ25個ずつ頂点があり、合計50個。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*(22+3)"
+    }
+  },
+  {
+    "id": "math-g1-u06-021",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "円柱を底面に平行な平面で切った切り口の形は？",
+    "options": [
+      "円",
+      "三角形",
+      "必ず正方形",
+      "おうぎ形"
+    ],
+    "answer": 0,
+    "explanation": "底面に平行な切断面は底面と同じ大きさの円。",
+    "prereq": [
+      "数学|1|平面図形"
+    ]
+  },
+  {
+    "id": "math-g1-u06-022",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "円錐の側面の展開図は？",
+    "options": [
+      "必ず長方形",
+      "必ず三角形",
+      "必ず円全体",
+      "おうぎ形"
+    ],
+    "answer": 3,
+    "explanation": "円錐の側面は展開するとおうぎ形になる。",
+    "prereq": [
+      "数学|1|平面図形"
+    ]
+  },
+  {
+    "id": "math-g1-u06-023",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "半径3cmの球の体積は何π cm³？",
+    "options": [
+      "27",
+      "108",
+      "36",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "球の体積は4πr³/3。4×27÷3＝36より36π cm³。",
+    "prereq": [
+      "数学|1|平面図形"
+    ]
+  },
+  {
+    "id": "math-g1-u06-024",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "立方体を正面・真上から見た図は、どちらも何か？（面が視線に垂直）",
+    "options": [
+      "五角形",
+      "正方形",
+      "円",
+      "三角形"
+    ],
+    "answer": 1,
+    "explanation": "立方体の面に垂直に見るので、正面図も平面図も正方形。",
+    "prereq": [
+      "数学|1|平面図形"
+    ]
+  },
+  {
+    "id": "math-g1-u06-025",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "空間図形",
+    "difficulty": "basic",
+    "question": "空間で交わらず平行でもない2直線の位置関係は？",
+    "options": [
+      "ねじれの位置",
+      "垂直",
+      "同一直線",
+      "必ず同一平面上"
+    ],
+    "answer": 0,
+    "explanation": "同じ平面上になく、交わらず平行でもない直線をねじれの位置という。",
+    "prereq": [
+      "数学|1|平面図形"
+    ]
+  }
+]

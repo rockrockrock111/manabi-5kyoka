@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q079",
+    "subject": "国語",
+    "grade": 3,
+    "unit": "俳句と和歌",
+    "prereq": [
+      "国語|1|古文の基本"
+    ],
+    "question": "俳句の基本的な音数は？",
+    "options": [
+      "5・7・5",
+      "7・7・5",
+      "5・7・5・7・7",
+      "7・5・7"
+    ],
+    "answer": 0,
+    "explanation": "俳句は基本17音。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q080",
+    "subject": "国語",
+    "grade": 3,
+    "unit": "俳句と和歌",
+    "prereq": [
+      "国語|1|古文の基本"
+    ],
+    "question": "短歌の基本的な音数は？",
+    "options": [
+      "5・7・5",
+      "5・7・5・7・7",
+      "7・7・7",
+      "5・5・5・5"
+    ],
+    "answer": 1,
+    "explanation": "短歌は31音。",
+    "difficulty": "basic"
+  }
+]

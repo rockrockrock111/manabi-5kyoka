@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q107",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "世界の地理",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "赤道の緯度は？",
+    "options": [
+      "0度",
+      "30度",
+      "90度",
+      "180度"
+    ],
+    "answer": 0,
+    "explanation": "赤道は緯度0度。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q108",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "世界の地理",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "世界で最も面積が大きい大陸は？",
+    "options": [
+      "アフリカ大陸",
+      "ユーラシア大陸",
+      "南極大陸",
+      "オーストラリア大陸"
+    ],
+    "answer": 1,
+    "explanation": "ユーラシア大陸。",
+    "difficulty": "basic"
+  }
+]

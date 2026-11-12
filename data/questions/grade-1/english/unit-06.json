@@ -1,0 +1,382 @@
+[
+  {
+    "id": "english-g1-u06-001",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "能力を表す。I can ___ fast.",
+    "options": [
+      "swim",
+      "swims",
+      "swiming",
+      "to swim"
+    ],
+    "answer": 0,
+    "explanation": "canの後は主語によらず動詞の原形swim。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-002",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "「I can swim fast.」を否定文にする。I ___ swim fast.",
+    "options": [
+      "does not can",
+      "can not to",
+      "is not can",
+      "cannot"
+    ],
+    "answer": 3,
+    "explanation": "canの否定形はcannot（can’t）。その後は原形swim。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-003",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "能力を尋ねる。___ I swim fast?",
+    "options": [
+      "Does can",
+      "Is can",
+      "Can",
+      "Do can"
+    ],
+    "answer": 2,
+    "explanation": "canを主語の前に移してCan＋主語＋原形で尋ねる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-004",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "「I can swim fast.」のcanが表す意味は？（ここでは能力）",
+    "options": [
+      "〜している最中だ",
+      "〜できる",
+      "〜しなければならない",
+      "〜した"
+    ],
+    "answer": 1,
+    "explanation": "この文のcanは能力・可能を表し、「〜できる」という意味。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-005",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "能力を表す。Ken can ___ the piano.",
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "to play"
+    ],
+    "answer": 0,
+    "explanation": "canの後は主語によらず動詞の原形play。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-006",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "「Ken can play the piano.」を否定文にする。Ken ___ play the piano.",
+    "options": [
+      "does not can",
+      "can not to",
+      "is not can",
+      "cannot"
+    ],
+    "answer": 3,
+    "explanation": "canの否定形はcannot（can’t）。その後は原形play。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-007",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "能力を尋ねる。___ Ken play the piano?",
+    "options": [
+      "Does can",
+      "Is can",
+      "Can",
+      "Do can"
+    ],
+    "answer": 2,
+    "explanation": "canを主語の前に移してCan＋主語＋原形で尋ねる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-008",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "「Ken can play the piano.」のcanが表す意味は？（ここでは能力）",
+    "options": [
+      "〜している最中だ",
+      "〜できる",
+      "〜しなければならない",
+      "〜した"
+    ],
+    "answer": 1,
+    "explanation": "この文のcanは能力・可能を表し、「〜できる」という意味。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-009",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "能力を表す。Aya can ___ English.",
+    "options": [
+      "speak",
+      "speaks",
+      "speaking",
+      "to speak"
+    ],
+    "answer": 0,
+    "explanation": "canの後は主語によらず動詞の原形speak。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-010",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "「Aya can speak English.」を否定文にする。Aya ___ speak English.",
+    "options": [
+      "does not can",
+      "can not to",
+      "is not can",
+      "cannot"
+    ],
+    "answer": 3,
+    "explanation": "canの否定形はcannot（can’t）。その後は原形speak。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-011",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "能力を尋ねる。___ Aya speak English?",
+    "options": [
+      "Does can",
+      "Is can",
+      "Can",
+      "Do can"
+    ],
+    "answer": 2,
+    "explanation": "canを主語の前に移してCan＋主語＋原形で尋ねる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-012",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "「Aya can speak English.」のcanが表す意味は？（ここでは能力）",
+    "options": [
+      "〜している最中だ",
+      "〜できる",
+      "〜しなければならない",
+      "〜した"
+    ],
+    "answer": 1,
+    "explanation": "この文のcanは能力・可能を表し、「〜できる」という意味。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-013",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "能力を表す。We can ___ lunch.",
+    "options": [
+      "make",
+      "makes",
+      "makeing",
+      "to make"
+    ],
+    "answer": 0,
+    "explanation": "canの後は主語によらず動詞の原形make。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-014",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "「We can make lunch.」を否定文にする。We ___ make lunch.",
+    "options": [
+      "does not can",
+      "can not to",
+      "is not can",
+      "cannot"
+    ],
+    "answer": 3,
+    "explanation": "canの否定形はcannot（can’t）。その後は原形make。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-015",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "能力を尋ねる。___ we make lunch?",
+    "options": [
+      "Does can",
+      "Is can",
+      "Can",
+      "Do can"
+    ],
+    "answer": 2,
+    "explanation": "canを主語の前に移してCan＋主語＋原形で尋ねる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-016",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "「We can make lunch.」のcanが表す意味は？（ここでは能力）",
+    "options": [
+      "〜している最中だ",
+      "〜できる",
+      "〜しなければならない",
+      "〜した"
+    ],
+    "answer": 1,
+    "explanation": "この文のcanは能力・可能を表し、「〜できる」という意味。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-017",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "能力を表す。They can ___ this book.",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "to read"
+    ],
+    "answer": 0,
+    "explanation": "canの後は主語によらず動詞の原形read。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-018",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "「They can read this book.」を否定文にする。They ___ read this book.",
+    "options": [
+      "does not can",
+      "can not to",
+      "is not can",
+      "cannot"
+    ],
+    "answer": 3,
+    "explanation": "canの否定形はcannot（can’t）。その後は原形read。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-019",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "能力を尋ねる。___ they read this book?",
+    "options": [
+      "Does can",
+      "Is can",
+      "Can",
+      "Do can"
+    ],
+    "answer": 2,
+    "explanation": "canを主語の前に移してCan＋主語＋原形で尋ねる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-020",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "basic",
+    "question": "「They can read this book.」のcanが表す意味は？（ここでは能力）",
+    "options": [
+      "〜している最中だ",
+      "〜できる",
+      "〜しなければならない",
+      "〜した"
+    ],
+    "answer": 1,
+    "explanation": "この文のcanは能力・可能を表し、「〜できる」という意味。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  }
+]

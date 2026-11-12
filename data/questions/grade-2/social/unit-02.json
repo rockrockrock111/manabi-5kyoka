@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q117",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "近世の日本",
+    "prereq": [
+      "社会|1|中世の日本"
+    ],
+    "question": "江戸幕府を開いたのは？",
+    "options": [
+      "豊臣秀吉",
+      "徳川家康",
+      "織田信長",
+      "足利尊氏"
+    ],
+    "answer": 1,
+    "explanation": "1603年、徳川家康が征夷大将軍に任じられた。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q118",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "近世の日本",
+    "prereq": [
+      "社会|1|中世の日本"
+    ],
+    "question": "参勤交代を制度化した将軍は？",
+    "options": [
+      "徳川家光",
+      "徳川家康",
+      "徳川慶喜",
+      "徳川吉宗"
+    ],
+    "answer": 0,
+    "explanation": "3代将軍徳川家光の時代。",
+    "difficulty": "basic"
+  }
+]

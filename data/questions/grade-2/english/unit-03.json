@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q054",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "比較",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "tallの比較級は？",
+    "options": [
+      "tallest",
+      "more tall",
+      "taller",
+      "talling"
+    ],
+    "answer": 2,
+    "explanation": "短い形容詞は-er。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q055",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "比較",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "goodの最上級は？",
+    "options": [
+      "goodest",
+      "better",
+      "best",
+      "most good"
+    ],
+    "answer": 2,
+    "explanation": "good-better-best。",
+    "difficulty": "basic"
+  }
+]

@@ -1,0 +1,439 @@
+[
+  {
+    "id": "q040",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "be動詞",
+    "prereq": [
+      "英語|0|基本単語"
+    ],
+    "question": "I ___ a student.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": 1,
+    "explanation": "主語Iにはam。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q041",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "be動詞",
+    "prereq": [
+      "英語|0|基本単語"
+    ],
+    "question": "She ___ happy.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "do"
+    ],
+    "answer": 1,
+    "explanation": "主語sheにはis。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q042",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "be動詞",
+    "prereq": [
+      "英語|0|基本単語"
+    ],
+    "question": "They ___ students.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "does"
+    ],
+    "answer": 2,
+    "explanation": "複数主語にはare。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "english-g1-u01-001",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "空所に入るbe動詞は？ I ___ a student.",
+    "options": [
+      "am",
+      "are",
+      "is",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "主語がIなのでbe動詞はam。I am a student.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-002",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "「I am a student.」の否定文で空所に入る語は？ I am ___ a student.",
+    "options": [
+      "no",
+      "do",
+      "does",
+      "not"
+    ],
+    "answer": 3,
+    "explanation": "be動詞の否定文ではbe動詞の直後にnotを置く。I am not a student.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-003",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "「I am a student.」を疑問文にする。空所は？ ___ I a student?",
+    "options": [
+      "Is",
+      "Do",
+      "Am",
+      "Are"
+    ],
+    "answer": 2,
+    "explanation": "be動詞を主語の前に出すので、文頭はAm。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-004",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "空所に適切な語を入れる。I am ___ the library.（図書館の中にいる）",
+    "options": [
+      "from",
+      "in",
+      "on",
+      "under"
+    ],
+    "answer": 1,
+    "explanation": "建物の中にいることはinで表す。I am in the library.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-005",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "空所に入るbe動詞は？ You ___ a runner.",
+    "options": [
+      "are",
+      "am",
+      "is",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "主語がYouなのでbe動詞はare。You are a runner.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-006",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "「You are a runner.」の否定文で空所に入る語は？ You are ___ a runner.",
+    "options": [
+      "no",
+      "do",
+      "does",
+      "not"
+    ],
+    "answer": 3,
+    "explanation": "be動詞の否定文ではbe動詞の直後にnotを置く。You are not a runner.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-007",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "「You are a runner.」を疑問文にする。空所は？ ___ you a runner?",
+    "options": [
+      "Is",
+      "Do",
+      "Are",
+      "Am"
+    ],
+    "answer": 2,
+    "explanation": "be動詞を主語の前に出すので、文頭はAre。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-008",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "空所に適切な語を入れる。You are ___ the library.（図書館の中にいる）",
+    "options": [
+      "from",
+      "in",
+      "on",
+      "under"
+    ],
+    "answer": 1,
+    "explanation": "建物の中にいることはinで表す。You are in the library.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-009",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "空所に入るbe動詞は？ He ___ a cook.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "主語がHeなのでbe動詞はis。He is a cook.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-010",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "「He is a cook.」の否定文で空所に入る語は？ He is ___ a cook.",
+    "options": [
+      "no",
+      "do",
+      "does",
+      "not"
+    ],
+    "answer": 3,
+    "explanation": "be動詞の否定文ではbe動詞の直後にnotを置く。He is not a cook.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-011",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "「He is a cook.」を疑問文にする。空所は？ ___ he a cook?",
+    "options": [
+      "Are",
+      "Do",
+      "Is",
+      "Am"
+    ],
+    "answer": 2,
+    "explanation": "be動詞を主語の前に出すので、文頭はIs。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-012",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "空所に適切な語を入れる。He is ___ the library.（図書館の中にいる）",
+    "options": [
+      "from",
+      "in",
+      "on",
+      "under"
+    ],
+    "answer": 1,
+    "explanation": "建物の中にいることはinで表す。He is in the library.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-013",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "空所に入るbe動詞は？ She ___ a singer.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "主語がSheなのでbe動詞はis。She is a singer.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-014",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "「She is a singer.」の否定文で空所に入る語は？ She is ___ a singer.",
+    "options": [
+      "no",
+      "do",
+      "does",
+      "not"
+    ],
+    "answer": 3,
+    "explanation": "be動詞の否定文ではbe動詞の直後にnotを置く。She is not a singer.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-015",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "「She is a singer.」を疑問文にする。空所は？ ___ she a singer?",
+    "options": [
+      "Are",
+      "Do",
+      "Is",
+      "Am"
+    ],
+    "answer": 2,
+    "explanation": "be動詞を主語の前に出すので、文頭はIs。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-016",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "空所に適切な語を入れる。She is ___ the library.（図書館の中にいる）",
+    "options": [
+      "from",
+      "in",
+      "on",
+      "under"
+    ],
+    "answer": 1,
+    "explanation": "建物の中にいることはinで表す。She is in the library.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-017",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "空所に入るbe動詞は？ They ___ students.",
+    "options": [
+      "are",
+      "am",
+      "is",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "主語がTheyなのでbe動詞はare。They are students.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-018",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "「They are students.」の否定文で空所に入る語は？ They are ___ students.",
+    "options": [
+      "no",
+      "do",
+      "does",
+      "not"
+    ],
+    "answer": 3,
+    "explanation": "be動詞の否定文ではbe動詞の直後にnotを置く。They are not students.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-019",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "「They are students.」を疑問文にする。空所は？ ___ they students?",
+    "options": [
+      "Is",
+      "Do",
+      "Are",
+      "Am"
+    ],
+    "answer": 2,
+    "explanation": "be動詞を主語の前に出すので、文頭はAre。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-020",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "basic",
+    "question": "空所に適切な語を入れる。They are ___ the library.（図書館の中にいる）",
+    "options": [
+      "from",
+      "in",
+      "on",
+      "under"
+    ],
+    "answer": 1,
+    "explanation": "建物の中にいることはinで表す。They are in the library.",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  }
+]

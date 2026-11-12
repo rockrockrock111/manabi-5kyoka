@@ -1,0 +1,614 @@
+[
+  {
+    "id": "q010",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "文字式",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "question": "x=3 のとき2x＋1は？",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "2×3＋1=7。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q011",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "文字式",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "question": "a×a を文字式で表すと？",
+    "options": [
+      "2a",
+      "a²",
+      "a＋2",
+      "a/2"
+    ],
+    "answer": 1,
+    "explanation": "同じ文字を掛けると2乗。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q012",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "文字式",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "question": "3x＋2x は？",
+    "options": [
+      "5x",
+      "6x",
+      "5x²",
+      "x"
+    ],
+    "answer": 0,
+    "explanation": "同類項をまとめる。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "math-g1-u02-001",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "x＝2のとき、3x＋3の値は？",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "xに2を代入すると3×2＋3＝9。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3*2+3"
+    }
+  },
+  {
+    "id": "math-g1-u02-002",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "4x＋3x をまとめた式の、xの係数は？",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "同類項の係数を足す。(4＋3)x＝7x。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4+3"
+    }
+  },
+  {
+    "id": "math-g1-u02-003",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "5(x＋4)を展開した式の定数項は？",
+    "options": [
+      "19",
+      "22",
+      "20",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "分配法則で5x＋20。文字を含まない項は20。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "5*4"
+    }
+  },
+  {
+    "id": "math-g1-u02-004",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "1冊600円のノートをx冊、50円のペンを1本買う。代金を表す式のxの係数は？",
+    "options": [
+      "602",
+      "600",
+      "601",
+      "599"
+    ],
+    "answer": 1,
+    "explanation": "代金は600x＋50円。xの係数は1冊の値段600。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "600"
+    }
+  },
+  {
+    "id": "math-g1-u02-005",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "x＝−6のとき、2x−2の値は？",
+    "options": [
+      "-14",
+      "-13",
+      "-15",
+      "-12"
+    ],
+    "answer": 0,
+    "explanation": "2×(−6)−2＝-14。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*(-6)-2"
+    }
+  },
+  {
+    "id": "math-g1-u02-006",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "x＝7のとき、3x＋3の値は？",
+    "options": [
+      "25",
+      "23",
+      "26",
+      "24"
+    ],
+    "answer": 3,
+    "explanation": "xに7を代入すると3×7＋3＝24。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3*7+3"
+    }
+  },
+  {
+    "id": "math-g1-u02-007",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "4x＋8x をまとめた式の、xの係数は？",
+    "options": [
+      "11",
+      "14",
+      "12",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "同類項の係数を足す。(4＋8)x＝12x。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4+8"
+    }
+  },
+  {
+    "id": "math-g1-u02-008",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "5(x＋9)を展開した式の定数項は？",
+    "options": [
+      "47",
+      "45",
+      "46",
+      "44"
+    ],
+    "answer": 1,
+    "explanation": "分配法則で5x＋45。文字を含まない項は45。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "5*9"
+    }
+  },
+  {
+    "id": "math-g1-u02-009",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "1冊600円のノートをx冊、100円のペンを1本買う。代金を表す式のxの係数は？",
+    "options": [
+      "600",
+      "601",
+      "599",
+      "602"
+    ],
+    "answer": 0,
+    "explanation": "代金は600x＋100円。xの係数は1冊の値段600。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "600"
+    }
+  },
+  {
+    "id": "math-g1-u02-010",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "x＝−11のとき、2x−2の値は？",
+    "options": [
+      "-23",
+      "-25",
+      "-22",
+      "-24"
+    ],
+    "answer": 3,
+    "explanation": "2×(−11)−2＝-24。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*(-11)-2"
+    }
+  },
+  {
+    "id": "math-g1-u02-011",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "x＝12のとき、3x＋3の値は？",
+    "options": [
+      "38",
+      "41",
+      "39",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "xに12を代入すると3×12＋3＝39。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3*12+3"
+    }
+  },
+  {
+    "id": "math-g1-u02-012",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "4x＋13x をまとめた式の、xの係数は？",
+    "options": [
+      "19",
+      "17",
+      "18",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "同類項の係数を足す。(4＋13)x＝17x。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4+13"
+    }
+  },
+  {
+    "id": "math-g1-u02-013",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "5(x＋14)を展開した式の定数項は？",
+    "options": [
+      "70",
+      "71",
+      "69",
+      "72"
+    ],
+    "answer": 0,
+    "explanation": "分配法則で5x＋70。文字を含まない項は70。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "5*14"
+    }
+  },
+  {
+    "id": "math-g1-u02-014",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "1冊600円のノートをx冊、150円のペンを1本買う。代金を表す式のxの係数は？",
+    "options": [
+      "601",
+      "599",
+      "602",
+      "600"
+    ],
+    "answer": 3,
+    "explanation": "代金は600x＋150円。xの係数は1冊の値段600。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "600"
+    }
+  },
+  {
+    "id": "math-g1-u02-015",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "x＝−16のとき、2x−2の値は？",
+    "options": [
+      "-35",
+      "-32",
+      "-34",
+      "-33"
+    ],
+    "answer": 2,
+    "explanation": "2×(−16)−2＝-34。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*(-16)-2"
+    }
+  },
+  {
+    "id": "math-g1-u02-016",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "x＝17のとき、3x＋3の値は？",
+    "options": [
+      "56",
+      "54",
+      "55",
+      "53"
+    ],
+    "answer": 1,
+    "explanation": "xに17を代入すると3×17＋3＝54。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3*17+3"
+    }
+  },
+  {
+    "id": "math-g1-u02-017",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "4x＋18x をまとめた式の、xの係数は？",
+    "options": [
+      "22",
+      "23",
+      "21",
+      "24"
+    ],
+    "answer": 0,
+    "explanation": "同類項の係数を足す。(4＋18)x＝22x。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4+18"
+    }
+  },
+  {
+    "id": "math-g1-u02-018",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "5(x＋19)を展開した式の定数項は？",
+    "options": [
+      "96",
+      "94",
+      "97",
+      "95"
+    ],
+    "answer": 3,
+    "explanation": "分配法則で5x＋95。文字を含まない項は95。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "5*19"
+    }
+  },
+  {
+    "id": "math-g1-u02-019",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "1冊600円のノートをx冊、200円のペンを1本買う。代金を表す式のxの係数は？",
+    "options": [
+      "599",
+      "602",
+      "600",
+      "601"
+    ],
+    "answer": 2,
+    "explanation": "代金は600x＋200円。xの係数は1冊の値段600。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "600"
+    }
+  },
+  {
+    "id": "math-g1-u02-020",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "x＝−21のとき、2x−2の値は？",
+    "options": [
+      "-42",
+      "-44",
+      "-43",
+      "-45"
+    ],
+    "answer": 1,
+    "explanation": "2×(−21)−2＝-44。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*(-21)-2"
+    }
+  },
+  {
+    "id": "math-g1-u02-021",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "a円の品を3個買う代金を、掛け算の記号を省いて表すと？",
+    "options": [
+      "3a円",
+      "a³円",
+      "a＋3円",
+      "a/3円"
+    ],
+    "answer": 0,
+    "explanation": "a×3は数を前に書き、3a。",
+    "prereq": [
+      "数学|1|正負の数"
+    ]
+  },
+  {
+    "id": "math-g1-u02-022",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "xの2乗を表す式は？",
+    "options": [
+      "2x",
+      "x＋2",
+      "x/2",
+      "x²"
+    ],
+    "answer": 3,
+    "explanation": "x×x＝x²。2xとは異なる。",
+    "prereq": [
+      "数学|1|正負の数"
+    ]
+  },
+  {
+    "id": "math-g1-u02-023",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "x人の20%を文字式で表すと？",
+    "options": [
+      "x/20人",
+      "x＋0.2人",
+      "0.2x人",
+      "20x人"
+    ],
+    "answer": 2,
+    "explanation": "20%＝0.2なので、x×0.2＝0.2x。",
+    "prereq": [
+      "数学|1|正負の数"
+    ]
+  },
+  {
+    "id": "math-g1-u02-024",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "1個a円の品2個と1個b円の品3個の代金は？",
+    "options": [
+      "2b＋3a円",
+      "2a＋3b円",
+      "5ab円",
+      "6ab円"
+    ],
+    "answer": 1,
+    "explanation": "種類ごとの個数×単価を足し、2a＋3b。",
+    "prereq": [
+      "数学|1|正負の数"
+    ]
+  },
+  {
+    "id": "math-g1-u02-025",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "文字式",
+    "difficulty": "basic",
+    "question": "xは5以下であることを表す不等式は？",
+    "options": [
+      "x ≤ 5",
+      "x < 5",
+      "x ≥ 5",
+      "x > 5"
+    ],
+    "answer": 0,
+    "explanation": "「以下」は5自身も含むので≤を使う。",
+    "prereq": [
+      "数学|1|正負の数"
+    ]
+  }
+]

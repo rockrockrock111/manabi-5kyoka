@@ -1,0 +1,59 @@
+[
+  {
+    "id": "q065",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "文節と品詞",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "「私は／学校へ／行く」の文節数は？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "区切りが3つ。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q066",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "文節と品詞",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "「美しい」はどの品詞？",
+    "options": [
+      "名詞",
+      "形容詞",
+      "動詞",
+      "副詞"
+    ],
+    "answer": 1,
+    "explanation": "「い」で終わり活用する形容詞。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q067",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "文節と品詞",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "「走る」はどの品詞？",
+    "options": [
+      "動詞",
+      "名詞",
+      "接続詞",
+      "助詞"
+    ],
+    "answer": 0,
+    "explanation": "動作を表す動詞。",
+    "difficulty": "basic"
+  }
+]

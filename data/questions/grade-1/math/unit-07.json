@@ -1,0 +1,557 @@
+[
+  {
+    "id": "math-g1-u07-001",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 3, 5, 7 の平均値は？",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "合計を個数で割る。15÷3＝5。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(3+5+7)/3"
+    }
+  },
+  {
+    "id": "math-g1-u07-002",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 4, 5, 7, 9 の中央値は？",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "4個なので中央2個の平均。(5＋7)÷2＝6。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(5+7)/2"
+    }
+  },
+  {
+    "id": "math-g1-u07-003",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 5, 7, 7, 10, 13 の最頻値は？",
+    "options": [
+      "6",
+      "9",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "最も多く現れる値は、2回現れる7。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "7"
+    }
+  },
+  {
+    "id": "math-g1-u07-004",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "全部で20人のうち、ある階級に8人いる。その階級の相対度数は？",
+    "options": [
+      "12/5",
+      "2/5",
+      "7/5",
+      "-3/5"
+    ],
+    "answer": 1,
+    "explanation": "階級の度数÷全体の度数＝8/20＝2/5。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "8/20"
+    }
+  },
+  {
+    "id": "math-g1-u07-005",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 7, 14, 9, 11 の範囲は？",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "範囲＝最大値−最小値＝14−7＝7。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "14-7"
+    }
+  },
+  {
+    "id": "math-g1-u07-006",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 8, 10, 12 の平均値は？",
+    "options": [
+      "11",
+      "9",
+      "12",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "合計を個数で割る。30÷3＝10。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(8+10+12)/3"
+    }
+  },
+  {
+    "id": "math-g1-u07-007",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 9, 10, 12, 14 の中央値は？",
+    "options": [
+      "10",
+      "13",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "4個なので中央2個の平均。(10＋12)÷2＝11。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(10+12)/2"
+    }
+  },
+  {
+    "id": "math-g1-u07-008",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 10, 12, 12, 15, 18 の最頻値は？",
+    "options": [
+      "14",
+      "12",
+      "13",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "最も多く現れる値は、2回現れる12。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "12"
+    }
+  },
+  {
+    "id": "math-g1-u07-009",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "全部で20人のうち、ある階級に13人いる。その階級の相対度数は？",
+    "options": [
+      "13/20",
+      "33/20",
+      "-7/20",
+      "53/20"
+    ],
+    "answer": 0,
+    "explanation": "階級の度数÷全体の度数＝13/20＝13/20。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "13/20"
+    }
+  },
+  {
+    "id": "math-g1-u07-010",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 12, 19, 14, 16 の範囲は？",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "範囲＝最大値−最小値＝19−12＝7。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "19-12"
+    }
+  },
+  {
+    "id": "math-g1-u07-011",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 13, 15, 17 の平均値は？",
+    "options": [
+      "14",
+      "17",
+      "15",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "合計を個数で割る。45÷3＝15。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(13+15+17)/3"
+    }
+  },
+  {
+    "id": "math-g1-u07-012",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 14, 15, 17, 19 の中央値は？",
+    "options": [
+      "18",
+      "16",
+      "17",
+      "15"
+    ],
+    "answer": 1,
+    "explanation": "4個なので中央2個の平均。(15＋17)÷2＝16。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(15+17)/2"
+    }
+  },
+  {
+    "id": "math-g1-u07-013",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 15, 17, 17, 20, 23 の最頻値は？",
+    "options": [
+      "17",
+      "18",
+      "16",
+      "19"
+    ],
+    "answer": 0,
+    "explanation": "最も多く現れる値は、2回現れる17。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "17"
+    }
+  },
+  {
+    "id": "math-g1-u07-014",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "全部で20人のうち、ある階級に18人いる。その階級の相対度数は？",
+    "options": [
+      "19/10",
+      "-1/10",
+      "29/10",
+      "9/10"
+    ],
+    "answer": 3,
+    "explanation": "階級の度数÷全体の度数＝18/20＝9/10。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "18/20"
+    }
+  },
+  {
+    "id": "math-g1-u07-015",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 17, 24, 19, 21 の範囲は？",
+    "options": [
+      "6",
+      "9",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "範囲＝最大値−最小値＝24−17＝7。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "24-17"
+    }
+  },
+  {
+    "id": "math-g1-u07-016",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 18, 20, 22 の平均値は？",
+    "options": [
+      "22",
+      "20",
+      "21",
+      "19"
+    ],
+    "answer": 1,
+    "explanation": "合計を個数で割る。60÷3＝20。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(18+20+22)/3"
+    }
+  },
+  {
+    "id": "math-g1-u07-017",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 19, 20, 22, 24 の中央値は？",
+    "options": [
+      "21",
+      "22",
+      "20",
+      "23"
+    ],
+    "answer": 0,
+    "explanation": "4個なので中央2個の平均。(20＋22)÷2＝21。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(20+22)/2"
+    }
+  },
+  {
+    "id": "math-g1-u07-018",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 20, 22, 22, 25, 28 の最頻値は？",
+    "options": [
+      "23",
+      "21",
+      "24",
+      "22"
+    ],
+    "answer": 3,
+    "explanation": "最も多く現れる値は、2回現れる22。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "22"
+    }
+  },
+  {
+    "id": "math-g1-u07-019",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "全部で20人のうち、ある階級に6人いる。その階級の相対度数は？",
+    "options": [
+      "-7/10",
+      "23/10",
+      "3/10",
+      "13/10"
+    ],
+    "answer": 2,
+    "explanation": "階級の度数÷全体の度数＝6/20＝3/10。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "6/20"
+    }
+  },
+  {
+    "id": "math-g1-u07-020",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "データ 22, 29, 24, 26 の範囲は？",
+    "options": [
+      "9",
+      "7",
+      "8",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "範囲＝最大値−最小値＝29−22＝7。",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "29-22"
+    }
+  },
+  {
+    "id": "math-g1-u07-021",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "度数分布表で「10以上20未満」の階級に入る値は？",
+    "options": [
+      "10",
+      "9",
+      "20",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "10以上は10を含み、20未満は20を含まない。",
+    "prereq": [
+      "数学|1|正負の数"
+    ]
+  },
+  {
+    "id": "math-g1-u07-022",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "ヒストグラムで横軸に示すものは？",
+    "options": [
+      "必ず個人の氏名",
+      "必ず平均値だけ",
+      "必ず中央値だけ",
+      "階級"
+    ],
+    "answer": 3,
+    "explanation": "横軸は階級、縦軸は度数（階級幅が等しい場合）などを示す。",
+    "prereq": [
+      "数学|1|正負の数"
+    ]
+  },
+  {
+    "id": "math-g1-u07-023",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "硬貨を100回投げて表が48回だった。表の出た相対度数は？",
+    "options": [
+      "48",
+      "2.08",
+      "0.48",
+      "0.52"
+    ],
+    "answer": 2,
+    "explanation": "表の回数÷全体の回数＝48/100＝0.48。",
+    "prereq": [
+      "数学|1|正負の数"
+    ]
+  },
+  {
+    "id": "math-g1-u07-024",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "多数回の試行で起こる割合を調べるとき適切な考えは？",
+    "options": [
+      "直前と同じ結果は起こらない",
+      "回数を増やし相対度数の傾向を見る",
+      "1回だけで必ず正確に決める",
+      "結果は必ず交互に起こる"
+    ],
+    "answer": 1,
+    "explanation": "多数回の試行の相対度数から起こりやすさを考える。次の1回を確定するものではない。",
+    "prereq": [
+      "数学|1|正負の数"
+    ]
+  },
+  {
+    "id": "math-g1-u07-025",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "データの活用",
+    "difficulty": "basic",
+    "question": "小さい順の5個のデータ 2, 3, 6, 9, 15 の中央値は？",
+    "options": [
+      "6",
+      "7",
+      "9",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "データ数が奇数なので、中央の3番目の値6が中央値。",
+    "prereq": [
+      "数学|1|正負の数"
+    ]
+  }
+]

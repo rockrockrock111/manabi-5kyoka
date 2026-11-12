@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q119",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "近代の日本",
+    "prereq": [
+      "社会|2|近世の日本"
+    ],
+    "question": "明治維新の時代に行われた改革は？",
+    "options": [
+      "廃藩置県",
+      "参勤交代",
+      "墾田永年私財法",
+      "大宝律令"
+    ],
+    "answer": 0,
+    "explanation": "1871年に廃藩置県。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q120",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "近代の日本",
+    "prereq": [
+      "社会|2|近世の日本"
+    ],
+    "question": "大日本帝国憲法が発布された年は？",
+    "options": [
+      "1868年",
+      "1889年",
+      "1947年",
+      "1603年"
+    ],
+    "answer": 1,
+    "explanation": "1889年発布。",
+    "difficulty": "basic"
+  }
+]

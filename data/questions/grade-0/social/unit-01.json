@@ -1,0 +1,36 @@
+[
+  {
+    "id": "q105",
+    "subject": "社会",
+    "grade": 0,
+    "unit": "地図と日本の基本",
+    "prereq": [],
+    "question": "日本の首都は？",
+    "options": [
+      "大阪",
+      "京都",
+      "東京",
+      "仙台"
+    ],
+    "answer": 2,
+    "explanation": "首都は東京。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q106",
+    "subject": "社会",
+    "grade": 0,
+    "unit": "地図と日本の基本",
+    "prereq": [],
+    "question": "地図で北は一般にどちら？",
+    "options": [
+      "上",
+      "下",
+      "左",
+      "右"
+    ],
+    "answer": 0,
+    "explanation": "特別な表示がなければ上が北。",
+    "difficulty": "basic"
+  }
+]

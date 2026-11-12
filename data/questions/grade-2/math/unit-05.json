@@ -1,0 +1,21 @@
+[
+  {
+    "id": "q028",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "確率",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "公平なコインを1回投げ表が出る確率は？",
+    "options": [
+      "1/4",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "answer": 1,
+    "explanation": "表と裏は同様に確からしい。",
+    "difficulty": "basic"
+  }
+]

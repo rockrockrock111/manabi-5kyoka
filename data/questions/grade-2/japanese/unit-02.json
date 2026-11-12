@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q074",
+    "subject": "国語",
+    "grade": 2,
+    "unit": "文法の応用",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ],
+    "question": "「静かだ」は何の品詞？",
+    "options": [
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "名詞"
+    ],
+    "answer": 1,
+    "explanation": "「だ」で言い切る形容動詞。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q075",
+    "subject": "国語",
+    "grade": 2,
+    "unit": "文法の応用",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ],
+    "question": "「読まない」の「ない」は？",
+    "options": [
+      "助動詞",
+      "名詞",
+      "接続詞",
+      "感動詞"
+    ],
+    "answer": 0,
+    "explanation": "打消しの助動詞。",
+    "difficulty": "basic"
+  }
+]

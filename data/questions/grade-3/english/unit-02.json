@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q059",
+    "subject": "英語",
+    "grade": 3,
+    "unit": "受け身",
+    "prereq": [
+      "英語|1|be動詞"
+    ],
+    "question": "This book ___ written in English.",
+    "options": [
+      "is",
+      "does",
+      "has",
+      "will"
+    ],
+    "answer": 0,
+    "explanation": "受け身はbe＋過去分詞。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q060",
+    "subject": "英語",
+    "grade": 3,
+    "unit": "受け身",
+    "prereq": [
+      "英語|1|be動詞"
+    ],
+    "question": "「この車は日本で作られた」は？",
+    "options": [
+      "This car made in Japan.",
+      "This car was made in Japan.",
+      "This car is make in Japan.",
+      "This car did made in Japan."
+    ],
+    "answer": 1,
+    "explanation": "過去の受け身はwas/were＋過去分詞。",
+    "difficulty": "basic"
+  }
+]

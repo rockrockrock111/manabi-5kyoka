@@ -1,0 +1,382 @@
+[
+  {
+    "id": "english-g1-u07-001",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "今していること。I am ___ a book now.",
+    "options": [
+      "reading",
+      "read",
+      "reads",
+      "to read"
+    ],
+    "answer": 0,
+    "explanation": "現在進行形はbe動詞＋動詞のing形。readはreadingになる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-002",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "進行中の動作。I ___ reading a book now.",
+    "options": [
+      "is",
+      "are",
+      "do",
+      "am"
+    ],
+    "answer": 3,
+    "explanation": "進行形のbe動詞は主語Iに合わせてam。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-003",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "否定文の空所は？ I am ___ reading a book.",
+    "options": [
+      "does",
+      "no",
+      "not",
+      "do"
+    ],
+    "answer": 2,
+    "explanation": "進行形の否定文はbe動詞の直後にnot。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-004",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "「I am reading a book.」はどのような動作を表す？",
+    "options": [
+      "過去からの経験",
+      "今している最中の動作",
+      "昨日終えた動作",
+      "いつもの習慣だけ"
+    ],
+    "answer": 1,
+    "explanation": "be動詞＋readingという進行形で、今行っている動作を表す。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-005",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "今していること。He is ___ in the park now.",
+    "options": [
+      "running",
+      "run",
+      "runs",
+      "to run"
+    ],
+    "answer": 0,
+    "explanation": "現在進行形はbe動詞＋動詞のing形。runはrunningになる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-006",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "進行中の動作。He ___ running in the park now.",
+    "options": [
+      "am",
+      "are",
+      "do",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "進行形のbe動詞は主語Heに合わせてis。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-007",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "否定文の空所は？ He is ___ running in the park.",
+    "options": [
+      "does",
+      "no",
+      "not",
+      "do"
+    ],
+    "answer": 2,
+    "explanation": "進行形の否定文はbe動詞の直後にnot。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-008",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "「He is running in the park.」はどのような動作を表す？",
+    "options": [
+      "過去からの経験",
+      "今している最中の動作",
+      "昨日終えた動作",
+      "いつもの習慣だけ"
+    ],
+    "answer": 1,
+    "explanation": "be動詞＋runningという進行形で、今行っている動作を表す。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-009",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "今していること。She is ___ a letter now.",
+    "options": [
+      "writing",
+      "write",
+      "writes",
+      "to write"
+    ],
+    "answer": 0,
+    "explanation": "現在進行形はbe動詞＋動詞のing形。writeはwritingになる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-010",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "進行中の動作。She ___ writing a letter now.",
+    "options": [
+      "am",
+      "are",
+      "do",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "進行形のbe動詞は主語Sheに合わせてis。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-011",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "否定文の空所は？ She is ___ writing a letter.",
+    "options": [
+      "does",
+      "no",
+      "not",
+      "do"
+    ],
+    "answer": 2,
+    "explanation": "進行形の否定文はbe動詞の直後にnot。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-012",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "「She is writing a letter.」はどのような動作を表す？",
+    "options": [
+      "過去からの経験",
+      "今している最中の動作",
+      "昨日終えた動作",
+      "いつもの習慣だけ"
+    ],
+    "answer": 1,
+    "explanation": "be動詞＋writingという進行形で、今行っている動作を表す。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-013",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "今していること。We are ___ math now.",
+    "options": [
+      "studying",
+      "study",
+      "studys",
+      "to study"
+    ],
+    "answer": 0,
+    "explanation": "現在進行形はbe動詞＋動詞のing形。studyはstudyingになる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-014",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "進行中の動作。We ___ studying math now.",
+    "options": [
+      "am",
+      "is",
+      "do",
+      "are"
+    ],
+    "answer": 3,
+    "explanation": "進行形のbe動詞は主語Weに合わせてare。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-015",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "否定文の空所は？ We are ___ studying math.",
+    "options": [
+      "does",
+      "no",
+      "not",
+      "do"
+    ],
+    "answer": 2,
+    "explanation": "進行形の否定文はbe動詞の直後にnot。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-016",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "「We are studying math.」はどのような動作を表す？",
+    "options": [
+      "過去からの経験",
+      "今している最中の動作",
+      "昨日終えた動作",
+      "いつもの習慣だけ"
+    ],
+    "answer": 1,
+    "explanation": "be動詞＋studyingという進行形で、今行っている動作を表す。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-017",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "今していること。They are ___ a cake now.",
+    "options": [
+      "making",
+      "make",
+      "makes",
+      "to make"
+    ],
+    "answer": 0,
+    "explanation": "現在進行形はbe動詞＋動詞のing形。makeはmakingになる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-018",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "進行中の動作。They ___ making a cake now.",
+    "options": [
+      "am",
+      "is",
+      "do",
+      "are"
+    ],
+    "answer": 3,
+    "explanation": "進行形のbe動詞は主語Theyに合わせてare。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-019",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "否定文の空所は？ They are ___ making a cake.",
+    "options": [
+      "does",
+      "no",
+      "not",
+      "do"
+    ],
+    "answer": 2,
+    "explanation": "進行形の否定文はbe動詞の直後にnot。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-020",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "basic",
+    "question": "「They are making a cake.」はどのような動作を表す？",
+    "options": [
+      "過去からの経験",
+      "今している最中の動作",
+      "昨日終えた動作",
+      "いつもの習慣だけ"
+    ],
+    "answer": 1,
+    "explanation": "be動詞＋makingという進行形で、今行っている動作を表す。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  }
+]

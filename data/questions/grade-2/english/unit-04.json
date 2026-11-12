@@ -1,0 +1,21 @@
+[
+  {
+    "id": "q056",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "接続詞",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "「なぜなら」を表すのは？",
+    "options": [
+      "but",
+      "because",
+      "or",
+      "and"
+    ],
+    "answer": 1,
+    "explanation": "becauseは理由を表す。",
+    "difficulty": "basic"
+  }
+]

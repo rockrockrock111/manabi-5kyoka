@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q089",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "地層と地震",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "地震の発生した地下の地点は？",
+    "options": [
+      "震央",
+      "震源",
+      "断層面の上端",
+      "マグニチュード"
+    ],
+    "answer": 1,
+    "explanation": "地下の発生地点が震源。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q090",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "地層と地震",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "火山灰が固まった岩石は？",
+    "options": [
+      "石灰岩",
+      "凝灰岩",
+      "花こう岩",
+      "玄武岩"
+    ],
+    "answer": 1,
+    "explanation": "火山灰などが堆積して固まったもの。",
+    "difficulty": "basic"
+  }
+]

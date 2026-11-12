@@ -1,0 +1,382 @@
+[
+  {
+    "id": "english-g1-u05-001",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "空所は主語のIを指す所有格。「これは私たちの」などにする。This is ___ bag.",
+    "options": [
+      "my",
+      "I",
+      "he",
+      "we"
+    ],
+    "answer": 0,
+    "explanation": "Iの所有格はmy。名詞bagの前に置き、誰の物かを表す。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-002",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「I」を指す代名詞の目的格は？",
+    "options": [
+      "I",
+      "he",
+      "we",
+      "me"
+    ],
+    "answer": 3,
+    "explanation": "Iの目的格はme。一般動詞や前置詞の後で使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-003",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "空所は主語のheを指す所有格。「これは私たちの」などにする。This is ___ cap.",
+    "options": [
+      "he",
+      "we",
+      "his",
+      "I"
+    ],
+    "answer": 2,
+    "explanation": "heの所有格はhis。名詞capの前に置き、誰の物かを表す。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-004",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「he」を指す代名詞の目的格は？",
+    "options": [
+      "we",
+      "him",
+      "I",
+      "he"
+    ],
+    "answer": 1,
+    "explanation": "heの目的格はhim。一般動詞や前置詞の後で使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-005",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "空所は主語のsheを指す所有格。「これは私たちの」などにする。This is ___ desk.",
+    "options": [
+      "her",
+      "I",
+      "he",
+      "we"
+    ],
+    "answer": 0,
+    "explanation": "sheの所有格はher。名詞deskの前に置き、誰の物かを表す。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-006",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「she」を指す代名詞の目的格は？",
+    "options": [
+      "I",
+      "he",
+      "we",
+      "her"
+    ],
+    "answer": 3,
+    "explanation": "sheの目的格はher。一般動詞や前置詞の後で使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-007",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "空所は主語のweを指す所有格。「これは私たちの」などにする。This is ___ room.",
+    "options": [
+      "he",
+      "we",
+      "our",
+      "I"
+    ],
+    "answer": 2,
+    "explanation": "weの所有格はour。名詞roomの前に置き、誰の物かを表す。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-008",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「we」を指す代名詞の目的格は？",
+    "options": [
+      "we",
+      "us",
+      "I",
+      "he"
+    ],
+    "answer": 1,
+    "explanation": "weの目的格はus。一般動詞や前置詞の後で使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-009",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "空所は主語のtheyを指す所有格。「これは私たちの」などにする。This is ___ house.",
+    "options": [
+      "their",
+      "I",
+      "he",
+      "we"
+    ],
+    "answer": 0,
+    "explanation": "theyの所有格はtheir。名詞houseの前に置き、誰の物かを表す。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-010",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「they」を指す代名詞の目的格は？",
+    "options": [
+      "I",
+      "he",
+      "we",
+      "them"
+    ],
+    "answer": 3,
+    "explanation": "theyの目的格はthem。一般動詞や前置詞の後で使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-011",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「2つ（2人）のbook」を表すときの名詞の形は？",
+    "options": [
+      "bookss",
+      "a book",
+      "books",
+      "book"
+    ],
+    "answer": 2,
+    "explanation": "bookの複数形はbooks。2つ以上を数えるので複数形にする。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-012",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「2つ（2人）のbox」を表すときの名詞の形は？",
+    "options": [
+      "a box",
+      "boxes",
+      "box",
+      "boxess"
+    ],
+    "answer": 1,
+    "explanation": "boxの複数形はboxes。2つ以上を数えるので複数形にする。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-013",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「2つ（2人）のcity」を表すときの名詞の形は？",
+    "options": [
+      "cities",
+      "city",
+      "citiess",
+      "a city"
+    ],
+    "answer": 0,
+    "explanation": "cityの複数形はcities。2つ以上を数えるので複数形にする。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-014",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「2つ（2人）のchild」を表すときの名詞の形は？",
+    "options": [
+      "child",
+      "childrens",
+      "a child",
+      "children"
+    ],
+    "answer": 3,
+    "explanation": "childの複数形はchildren。2つ以上を数えるので複数形にする。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-015",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「2つ（2人）のbus」を表すときの名詞の形は？",
+    "options": [
+      "busess",
+      "a bus",
+      "buses",
+      "bus"
+    ],
+    "answer": 2,
+    "explanation": "busの複数形はbuses。2つ以上を数えるので複数形にする。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-016",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「2つ（2人）のclass」を表すときの名詞の形は？",
+    "options": [
+      "a class",
+      "classes",
+      "class",
+      "classess"
+    ],
+    "answer": 1,
+    "explanation": "classの複数形はclasses。2つ以上を数えるので複数形にする。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-017",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「2つ（2人）のbaby」を表すときの名詞の形は？",
+    "options": [
+      "babies",
+      "baby",
+      "babiess",
+      "a baby"
+    ],
+    "answer": 0,
+    "explanation": "babyの複数形はbabies。2つ以上を数えるので複数形にする。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-018",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「2つ（2人）のdish」を表すときの名詞の形は？",
+    "options": [
+      "dish",
+      "dishess",
+      "a dish",
+      "dishes"
+    ],
+    "answer": 3,
+    "explanation": "dishの複数形はdishes。2つ以上を数えるので複数形にする。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-019",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「2つ（2人）のman」を表すときの名詞の形は？",
+    "options": [
+      "mens",
+      "a man",
+      "men",
+      "man"
+    ],
+    "answer": 2,
+    "explanation": "manの複数形はmen。2つ以上を数えるので複数形にする。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-020",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "basic",
+    "question": "「2つ（2人）のwoman」を表すときの名詞の形は？",
+    "options": [
+      "a woman",
+      "women",
+      "woman",
+      "womens"
+    ],
+    "answer": 1,
+    "explanation": "womanの複数形はwomen。2つ以上を数えるので複数形にする。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  }
+]

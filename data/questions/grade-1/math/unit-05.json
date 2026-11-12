@@ -1,0 +1,595 @@
+[
+  {
+    "id": "q018",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "平面図形",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "三角形の内角の和は？",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "answer": 1,
+    "explanation": "三角形の内角の和は180°。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q019",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "平面図形",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "半径3cmの円の直径は？",
+    "options": [
+      "3cm",
+      "6cm",
+      "9cm",
+      "12cm"
+    ],
+    "answer": 1,
+    "explanation": "直径は半径の2倍。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "math-g1-u05-001",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "一直線上の隣り合う2つの角の一方が31°。もう一方は何度？",
+    "options": [
+      "149",
+      "150",
+      "148",
+      "151"
+    ],
+    "answer": 0,
+    "explanation": "一直線の角は180°。180−31＝149°。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-31"
+    }
+  },
+  {
+    "id": "math-g1-u05-002",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "二等辺三角形の頂角が74°。底角1つは何度？",
+    "options": [
+      "54",
+      "52",
+      "55",
+      "53"
+    ],
+    "answer": 3,
+    "explanation": "底角は等しい。(180−74)÷2＝53°。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(180-74)/2"
+    }
+  },
+  {
+    "id": "math-g1-u05-003",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "半径5cmの円の面積は何π cm²？（πの係数を選ぶ）",
+    "options": [
+      "24",
+      "27",
+      "25",
+      "26"
+    ],
+    "answer": 2,
+    "explanation": "円の面積はπr²。5²π＝25π cm²。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "5**2"
+    }
+  },
+  {
+    "id": "math-g1-u05-004",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "半径6cm、中心角90°のおうぎ形の弧の長さは何π cm？",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "円周2π×6の90/360倍。3π cm。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*6*90/360"
+    }
+  },
+  {
+    "id": "math-g1-u05-005",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "点(6, 3)をy軸について対称移動した点のx座標は？",
+    "options": [
+      "-6",
+      "-5",
+      "-7",
+      "-4"
+    ],
+    "answer": 0,
+    "explanation": "y軸対称ではx座標の符号だけが変わり、(-6, 3)となる。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-6"
+    }
+  },
+  {
+    "id": "math-g1-u05-006",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "一直線上の隣り合う2つの角の一方が36°。もう一方は何度？",
+    "options": [
+      "145",
+      "143",
+      "146",
+      "144"
+    ],
+    "answer": 3,
+    "explanation": "一直線の角は180°。180−36＝144°。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-36"
+    }
+  },
+  {
+    "id": "math-g1-u05-007",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "二等辺三角形の頂角が84°。底角1つは何度？",
+    "options": [
+      "47",
+      "50",
+      "48",
+      "49"
+    ],
+    "answer": 2,
+    "explanation": "底角は等しい。(180−84)÷2＝48°。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(180-84)/2"
+    }
+  },
+  {
+    "id": "math-g1-u05-008",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "半径10cmの円の面積は何π cm²？（πの係数を選ぶ）",
+    "options": [
+      "102",
+      "100",
+      "101",
+      "99"
+    ],
+    "answer": 1,
+    "explanation": "円の面積はπr²。10²π＝100π cm²。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "10**2"
+    }
+  },
+  {
+    "id": "math-g1-u05-009",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "半径11cm、中心角90°のおうぎ形の弧の長さは何π cm？",
+    "options": [
+      "11/2",
+      "13/2",
+      "9/2",
+      "15/2"
+    ],
+    "answer": 0,
+    "explanation": "円周2π×11の90/360倍。11/2π cm。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*11*90/360"
+    }
+  },
+  {
+    "id": "math-g1-u05-010",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "点(11, 3)をy軸について対称移動した点のx座標は？",
+    "options": [
+      "-10",
+      "-12",
+      "-9",
+      "-11"
+    ],
+    "answer": 3,
+    "explanation": "y軸対称ではx座標の符号だけが変わり、(-11, 3)となる。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-11"
+    }
+  },
+  {
+    "id": "math-g1-u05-011",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "一直線上の隣り合う2つの角の一方が41°。もう一方は何度？",
+    "options": [
+      "138",
+      "141",
+      "139",
+      "140"
+    ],
+    "answer": 2,
+    "explanation": "一直線の角は180°。180−41＝139°。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-41"
+    }
+  },
+  {
+    "id": "math-g1-u05-012",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "二等辺三角形の頂角が94°。底角1つは何度？",
+    "options": [
+      "45",
+      "43",
+      "44",
+      "42"
+    ],
+    "answer": 1,
+    "explanation": "底角は等しい。(180−94)÷2＝43°。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(180-94)/2"
+    }
+  },
+  {
+    "id": "math-g1-u05-013",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "半径15cmの円の面積は何π cm²？（πの係数を選ぶ）",
+    "options": [
+      "225",
+      "226",
+      "224",
+      "227"
+    ],
+    "answer": 0,
+    "explanation": "円の面積はπr²。15²π＝225π cm²。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "15**2"
+    }
+  },
+  {
+    "id": "math-g1-u05-014",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "半径16cm、中心角90°のおうぎ形の弧の長さは何π cm？",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "円周2π×16の90/360倍。8π cm。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*16*90/360"
+    }
+  },
+  {
+    "id": "math-g1-u05-015",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "点(16, 3)をy軸について対称移動した点のx座標は？",
+    "options": [
+      "-17",
+      "-14",
+      "-16",
+      "-15"
+    ],
+    "answer": 2,
+    "explanation": "y軸対称ではx座標の符号だけが変わり、(-16, 3)となる。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-16"
+    }
+  },
+  {
+    "id": "math-g1-u05-016",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "一直線上の隣り合う2つの角の一方が46°。もう一方は何度？",
+    "options": [
+      "136",
+      "134",
+      "135",
+      "133"
+    ],
+    "answer": 1,
+    "explanation": "一直線の角は180°。180−46＝134°。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-46"
+    }
+  },
+  {
+    "id": "math-g1-u05-017",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "二等辺三角形の頂角が104°。底角1つは何度？",
+    "options": [
+      "38",
+      "39",
+      "37",
+      "40"
+    ],
+    "answer": 0,
+    "explanation": "底角は等しい。(180−104)÷2＝38°。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(180-104)/2"
+    }
+  },
+  {
+    "id": "math-g1-u05-018",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "半径20cmの円の面積は何π cm²？（πの係数を選ぶ）",
+    "options": [
+      "401",
+      "399",
+      "402",
+      "400"
+    ],
+    "answer": 3,
+    "explanation": "円の面積はπr²。20²π＝400π cm²。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "20**2"
+    }
+  },
+  {
+    "id": "math-g1-u05-019",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "半径21cm、中心角90°のおうぎ形の弧の長さは何π cm？",
+    "options": [
+      "19/2",
+      "25/2",
+      "21/2",
+      "23/2"
+    ],
+    "answer": 2,
+    "explanation": "円周2π×21の90/360倍。21/2π cm。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*21*90/360"
+    }
+  },
+  {
+    "id": "math-g1-u05-020",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "点(21, 3)をy軸について対称移動した点のx座標は？",
+    "options": [
+      "-19",
+      "-21",
+      "-20",
+      "-22"
+    ],
+    "answer": 1,
+    "explanation": "y軸対称ではx座標の符号だけが変わり、(-21, 3)となる。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-21"
+    }
+  },
+  {
+    "id": "math-g1-u05-021",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "線分ABの垂直二等分線上の点Pについて正しいものは？",
+    "options": [
+      "PA＝PB",
+      "PA＝2PB",
+      "PAとPBは必ず垂直",
+      "Pは必ずAB上にある"
+    ],
+    "answer": 0,
+    "explanation": "垂直二等分線上の点は両端AとBからの距離が等しい。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ]
+  },
+  {
+    "id": "math-g1-u05-022",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "角の二等分線上の点から、角の2辺に下ろした垂線の長さは？",
+    "options": [
+      "必ず2倍の関係",
+      "必ず0",
+      "比較できない",
+      "等しい"
+    ],
+    "answer": 3,
+    "explanation": "角の二等分線上の点は2辺から等しい距離にある。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ]
+  },
+  {
+    "id": "math-g1-u05-023",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "基本の作図で使う定規とコンパスについて正しい説明は？",
+    "options": [
+      "定規の目盛りで長さを測るのが基本",
+      "必ず電卓を使う",
+      "長さを測らず、直線や円をかく",
+      "分度器で角度を測るのが基本"
+    ],
+    "answer": 2,
+    "explanation": "基本の作図は目盛りを使わない定規とコンパスで行う。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ]
+  },
+  {
+    "id": "math-g1-u05-024",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "平行移動で変わらないものは？",
+    "options": [
+      "必ず図形の色",
+      "図形の形と大きさ",
+      "すべての点の位置",
+      "すべての頂点の座標"
+    ],
+    "answer": 1,
+    "explanation": "各点を同じ方向に同じ距離だけ動かすので、形と大きさは保存される。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ]
+  },
+  {
+    "id": "math-g1-u05-025",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "平面図形",
+    "difficulty": "basic",
+    "question": "点Oを中心に点Pを回転移動した点をQとすると？",
+    "options": [
+      "OP＝OQ",
+      "OP＝2OQ",
+      "Oは必ずPQの中点",
+      "P＝Qが必ず成り立つ"
+    ],
+    "answer": 0,
+    "explanation": "回転の中心からの距離は回転しても変わらない。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ]
+  }
+]

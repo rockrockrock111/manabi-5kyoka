@@ -1,0 +1,70 @@
+[
+  {
+    "id": "q036",
+    "subject": "英語",
+    "grade": 0,
+    "unit": "基本単語",
+    "prereq": [],
+    "question": "「学校」を表す英単語は？",
+    "options": [
+      "school",
+      "book",
+      "home",
+      "apple"
+    ],
+    "answer": 0,
+    "explanation": "schoolは学校。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q037",
+    "subject": "英語",
+    "grade": 0,
+    "unit": "基本単語",
+    "prereq": [],
+    "question": "「友達」を表す英単語は？",
+    "options": [
+      "teacher",
+      "friend",
+      "water",
+      "today"
+    ],
+    "answer": 1,
+    "explanation": "friendは友達。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q038",
+    "subject": "英語",
+    "grade": 0,
+    "unit": "基本単語",
+    "prereq": [],
+    "question": "「昨日」を表す英単語は？",
+    "options": [
+      "tomorrow",
+      "today",
+      "yesterday",
+      "now"
+    ],
+    "answer": 2,
+    "explanation": "yesterdayは昨日。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q039",
+    "subject": "英語",
+    "grade": 0,
+    "unit": "基本単語",
+    "prereq": [],
+    "question": "「読む」を表す動詞は？",
+    "options": [
+      "write",
+      "read",
+      "run",
+      "eat"
+    ],
+    "answer": 1,
+    "explanation": "readは読む。",
+    "difficulty": "basic"
+  }
+]

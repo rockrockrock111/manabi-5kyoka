@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q123",
+    "subject": "社会",
+    "grade": 3,
+    "unit": "日本国憲法",
+    "prereq": [
+      "社会|3|現代史"
+    ],
+    "question": "日本国憲法の三大原則に含まれないものは？",
+    "options": [
+      "国民主権",
+      "基本的人権の尊重",
+      "平和主義",
+      "三権の集中"
+    ],
+    "answer": 3,
+    "explanation": "三大原則は国民主権・基本的人権の尊重・平和主義。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q124",
+    "subject": "社会",
+    "grade": 3,
+    "unit": "日本国憲法",
+    "prereq": [
+      "社会|3|現代史"
+    ],
+    "question": "国会は何権を担当する？",
+    "options": [
+      "立法権",
+      "行政権",
+      "司法権",
+      "外交権のみ"
+    ],
+    "answer": 0,
+    "explanation": "国会は立法機関。",
+    "difficulty": "basic"
+  }
+]

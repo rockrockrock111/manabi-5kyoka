@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q024",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "一次関数",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "question": "y=2x＋3 の傾きは？",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "−2"
+    ],
+    "answer": 0,
+    "explanation": "y=ax＋bのaが傾き。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q025",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "一次関数",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "question": "y=−x＋4 の切片は？",
+    "options": [
+      "−1",
+      "1",
+      "4",
+      "−4"
+    ],
+    "answer": 2,
+    "explanation": "x=0のときy=4。",
+    "difficulty": "basic"
+  }
+]

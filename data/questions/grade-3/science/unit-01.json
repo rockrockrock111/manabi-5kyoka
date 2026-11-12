@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q098",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "イオンと電池",
+    "prereq": [
+      "理科|2|化学変化"
+    ],
+    "question": "陽イオンの電荷は？",
+    "options": [
+      "正",
+      "負",
+      "なし",
+      "常に変化"
+    ],
+    "answer": 0,
+    "explanation": "電子を失うと正に帯電。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q099",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "イオンと電池",
+    "prereq": [
+      "理科|2|化学変化"
+    ],
+    "question": "塩酸に含まれる水素イオンは？",
+    "options": [
+      "H⁺",
+      "OH⁻",
+      "Cl⁻",
+      "Na⁺"
+    ],
+    "answer": 0,
+    "explanation": "酸性の水溶液にH⁺が存在する。",
+    "difficulty": "basic"
+  }
+]

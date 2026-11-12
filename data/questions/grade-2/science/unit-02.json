@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q093",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "電流と回路",
+    "prereq": [
+      "理科|1|光と音"
+    ],
+    "question": "電圧6V、抵抗3Ωの電流は？",
+    "options": [
+      "2A",
+      "3A",
+      "9A",
+      "18A"
+    ],
+    "answer": 0,
+    "explanation": "オームの法則I=V/R。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q094",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "電流と回路",
+    "prereq": [
+      "理科|1|光と音"
+    ],
+    "question": "直列回路で各部分に共通するのは？",
+    "options": [
+      "電圧",
+      "電流",
+      "抵抗値",
+      "電力"
+    ],
+    "answer": 1,
+    "explanation": "直列回路では電流が等しい。",
+    "difficulty": "basic"
+  }
+]

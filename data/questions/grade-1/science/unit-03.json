@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q087",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "光と音",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "光が鏡で跳ね返る現象は？",
+    "options": [
+      "屈折",
+      "反射",
+      "分散",
+      "回折"
+    ],
+    "answer": 1,
+    "explanation": "鏡では反射する。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q088",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "光と音",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "音が伝わるために必要なのは？",
+    "options": [
+      "物質（媒質）",
+      "光",
+      "磁石",
+      "真空"
+    ],
+    "answer": 0,
+    "explanation": "音は真空では伝わらない。",
+    "difficulty": "basic"
+  }
+]
