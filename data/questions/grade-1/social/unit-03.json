@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q111",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "古代の日本",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "聖徳太子（厩戸王）に関連するのは？",
+    "options": [
+      "十七条の憲法",
+      "大政奉還",
+      "地租改正",
+      "鎖国"
+    ],
+    "answer": 0,
+    "explanation": "十七条の憲法の制定と関連づけられる。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q112",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "古代の日本",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "奈良時代の都は？",
+    "options": [
+      "平安京",
+      "平城京",
+      "江戸",
+      "鎌倉"
+    ],
+    "answer": 1,
+    "explanation": "710年に平城京へ遷都。",
+    "difficulty": "basic"
+  }
+]

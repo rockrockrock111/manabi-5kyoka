@@ -1,0 +1,87 @@
+[
+  {
+    "id": "q001",
+    "subject": "数学",
+    "grade": 0,
+    "unit": "小学校の計算",
+    "prereq": [],
+    "question": "1/2＋1/4 は？",
+    "options": [
+      "3/4",
+      "2/6",
+      "1/4",
+      "3/8"
+    ],
+    "answer": 0,
+    "explanation": "分母を4にそろえて2/4＋1/4。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q002",
+    "subject": "数学",
+    "grade": 0,
+    "unit": "小学校の計算",
+    "prereq": [],
+    "question": "0.6×0.5 は？",
+    "options": [
+      "3",
+      "0.3",
+      "0.03",
+      "1.1"
+    ],
+    "answer": 1,
+    "explanation": "6×5=30、小数点を2桁戻す。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q003",
+    "subject": "数学",
+    "grade": 0,
+    "unit": "小学校の計算",
+    "prereq": [],
+    "question": "3/4÷1/2 は？",
+    "options": [
+      "3/8",
+      "2/3",
+      "3/2",
+      "1/4"
+    ],
+    "answer": 2,
+    "explanation": "割り算は逆数を掛ける。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q004",
+    "subject": "数学",
+    "grade": 0,
+    "unit": "小学校の計算",
+    "prereq": [],
+    "question": "25%を小数で表すと？",
+    "options": [
+      "2.5",
+      "0.25",
+      "0.025",
+      "25"
+    ],
+    "answer": 1,
+    "explanation": "百分率は100で割る。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q005",
+    "subject": "数学",
+    "grade": 0,
+    "unit": "小学校の計算",
+    "prereq": [],
+    "question": "120の3/4は？",
+    "options": [
+      "90",
+      "80",
+      "60",
+      "160"
+    ],
+    "answer": 0,
+    "explanation": "120÷4×3。",
+    "difficulty": "basic"
+  }
+]

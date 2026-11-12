@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q070",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "古文の基本",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "古文の「いと」の意味は？",
+    "options": [
+      "少し",
+      "とても",
+      "すぐに",
+      "昨日"
+    ],
+    "answer": 1,
+    "explanation": "いとは「とても」。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q071",
+    "subject": "国語",
+    "grade": 1,
+    "unit": "古文の基本",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ],
+    "question": "歴史的仮名遣い「けふ」の現代仮名遣いは？",
+    "options": [
+      "けふ",
+      "きょう",
+      "こう",
+      "きゅう"
+    ],
+    "answer": 1,
+    "explanation": "けふ→きょう。",
+    "difficulty": "basic"
+  }
+]

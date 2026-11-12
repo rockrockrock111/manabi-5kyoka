@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q115",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "日本の地域",
+    "prereq": [
+      "社会|1|日本の地理"
+    ],
+    "question": "宮城県が属する地方は？",
+    "options": [
+      "関東",
+      "東北",
+      "中部",
+      "近畿"
+    ],
+    "answer": 1,
+    "explanation": "宮城県は東北地方。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q116",
+    "subject": "社会",
+    "grade": 2,
+    "unit": "日本の地域",
+    "prereq": [
+      "社会|1|日本の地理"
+    ],
+    "question": "瀬戸内海沿岸で発達した工業地域は？",
+    "options": [
+      "瀬戸内工業地域",
+      "京浜工業地帯",
+      "中京工業地帯",
+      "北九州工業地帯"
+    ],
+    "answer": 0,
+    "explanation": "瀬戸内工業地域。",
+    "difficulty": "basic"
+  }
+]

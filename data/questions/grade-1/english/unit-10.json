@@ -1,0 +1,382 @@
+[
+  {
+    "id": "english-g1-u10-001",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Mina. I live in Sendai. I like apples. I have a cat. I play tennis on Monday.\n住んでいる都市は？",
+    "options": [
+      "Sendai",
+      "Kobe",
+      "Nara",
+      "Osaka"
+    ],
+    "answer": 0,
+    "explanation": "I live in Sendai. が根拠。「私はSendaiに住んでいます」。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-002",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Mina. I live in Sendai. I like apples. I have a cat. I play tennis on Monday.\n好きな食べ物は？",
+    "options": [
+      "oranges",
+      "bananas",
+      "grapes",
+      "apples"
+    ],
+    "answer": 3,
+    "explanation": "I like apples. が根拠。likeの目的語が好きな物。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-003",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Mina. I live in Sendai. I like apples. I have a cat. I play tennis on Monday.\n飼っている生き物は？",
+    "options": [
+      "bird",
+      "rabbit",
+      "cat",
+      "dog"
+    ],
+    "answer": 2,
+    "explanation": "I have a cat. が根拠。haveで飼っていることを表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-004",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Mina. I live in Sendai. I like apples. I have a cat. I play tennis on Monday.\nテニスをする曜日は？",
+    "options": [
+      "Thursday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "answer": 1,
+    "explanation": "I play tennis on Monday. が根拠。onの後の曜日に注目する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-005",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Ken. I live in Kobe. I like oranges. I have a dog. I play tennis on Tuesday.\n住んでいる都市は？",
+    "options": [
+      "Kobe",
+      "Sendai",
+      "Nara",
+      "Osaka"
+    ],
+    "answer": 0,
+    "explanation": "I live in Kobe. が根拠。「私はKobeに住んでいます」。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-006",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Ken. I live in Kobe. I like oranges. I have a dog. I play tennis on Tuesday.\n好きな食べ物は？",
+    "options": [
+      "apples",
+      "bananas",
+      "grapes",
+      "oranges"
+    ],
+    "answer": 3,
+    "explanation": "I like oranges. が根拠。likeの目的語が好きな物。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-007",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Ken. I live in Kobe. I like oranges. I have a dog. I play tennis on Tuesday.\n飼っている生き物は？",
+    "options": [
+      "bird",
+      "rabbit",
+      "dog",
+      "cat"
+    ],
+    "answer": 2,
+    "explanation": "I have a dog. が根拠。haveで飼っていることを表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-008",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Ken. I live in Kobe. I like oranges. I have a dog. I play tennis on Tuesday.\nテニスをする曜日は？",
+    "options": [
+      "Thursday",
+      "Tuesday",
+      "Monday",
+      "Wednesday"
+    ],
+    "answer": 1,
+    "explanation": "I play tennis on Tuesday. が根拠。onの後の曜日に注目する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-009",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Aya. I live in Nara. I like bananas. I have a bird. I play tennis on Wednesday.\n住んでいる都市は？",
+    "options": [
+      "Nara",
+      "Sendai",
+      "Kobe",
+      "Osaka"
+    ],
+    "answer": 0,
+    "explanation": "I live in Nara. が根拠。「私はNaraに住んでいます」。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-010",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Aya. I live in Nara. I like bananas. I have a bird. I play tennis on Wednesday.\n好きな食べ物は？",
+    "options": [
+      "apples",
+      "oranges",
+      "grapes",
+      "bananas"
+    ],
+    "answer": 3,
+    "explanation": "I like bananas. が根拠。likeの目的語が好きな物。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-011",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Aya. I live in Nara. I like bananas. I have a bird. I play tennis on Wednesday.\n飼っている生き物は？",
+    "options": [
+      "dog",
+      "rabbit",
+      "bird",
+      "cat"
+    ],
+    "answer": 2,
+    "explanation": "I have a bird. が根拠。haveで飼っていることを表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-012",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Aya. I live in Nara. I like bananas. I have a bird. I play tennis on Wednesday.\nテニスをする曜日は？",
+    "options": [
+      "Thursday",
+      "Wednesday",
+      "Monday",
+      "Tuesday"
+    ],
+    "answer": 1,
+    "explanation": "I play tennis on Wednesday. が根拠。onの後の曜日に注目する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-013",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Riku. I live in Osaka. I like grapes. I have a rabbit. I play tennis on Thursday.\n住んでいる都市は？",
+    "options": [
+      "Osaka",
+      "Sendai",
+      "Kobe",
+      "Nara"
+    ],
+    "answer": 0,
+    "explanation": "I live in Osaka. が根拠。「私はOsakaに住んでいます」。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-014",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Riku. I live in Osaka. I like grapes. I have a rabbit. I play tennis on Thursday.\n好きな食べ物は？",
+    "options": [
+      "apples",
+      "oranges",
+      "bananas",
+      "grapes"
+    ],
+    "answer": 3,
+    "explanation": "I like grapes. が根拠。likeの目的語が好きな物。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-015",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Riku. I live in Osaka. I like grapes. I have a rabbit. I play tennis on Thursday.\n飼っている生き物は？",
+    "options": [
+      "dog",
+      "bird",
+      "rabbit",
+      "cat"
+    ],
+    "answer": 2,
+    "explanation": "I have a rabbit. が根拠。haveで飼っていることを表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-016",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Riku. I live in Osaka. I like grapes. I have a rabbit. I play tennis on Thursday.\nテニスをする曜日は？",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Monday",
+      "Tuesday"
+    ],
+    "answer": 1,
+    "explanation": "I play tennis on Thursday. が根拠。onの後の曜日に注目する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-017",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Emi. I live in Chiba. I like peaches. I have a fish. I play tennis on Friday.\n住んでいる都市は？",
+    "options": [
+      "Chiba",
+      "Sendai",
+      "Kobe",
+      "Nara"
+    ],
+    "answer": 0,
+    "explanation": "I live in Chiba. が根拠。「私はChibaに住んでいます」。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-018",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Emi. I live in Chiba. I like peaches. I have a fish. I play tennis on Friday.\n好きな食べ物は？",
+    "options": [
+      "apples",
+      "oranges",
+      "bananas",
+      "peaches"
+    ],
+    "answer": 3,
+    "explanation": "I like peaches. が根拠。likeの目的語が好きな物。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-019",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Emi. I live in Chiba. I like peaches. I have a fish. I play tennis on Friday.\n飼っている生き物は？",
+    "options": [
+      "dog",
+      "bird",
+      "fish",
+      "cat"
+    ],
+    "answer": 2,
+    "explanation": "I have a fish. が根拠。haveで飼っていることを表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u10-020",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "短い英文の読解",
+    "difficulty": "basic",
+    "question": "次の英文を読んで答えよう。My name is Emi. I live in Chiba. I like peaches. I have a fish. I play tennis on Friday.\nテニスをする曜日は？",
+    "options": [
+      "Wednesday",
+      "Friday",
+      "Monday",
+      "Tuesday"
+    ],
+    "answer": 1,
+    "explanation": "I play tennis on Friday. が根拠。onの後の曜日に注目する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  }
+]

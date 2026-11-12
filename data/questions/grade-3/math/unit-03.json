@@ -1,0 +1,21 @@
+[
+  {
+    "id": "q033",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "二次関数",
+    "prereq": [
+      "数学|2|一次関数"
+    ],
+    "question": "y=x²でx=−3のときyは？",
+    "options": [
+      "−9",
+      "6",
+      "9",
+      "−6"
+    ],
+    "answer": 2,
+    "explanation": "(−3)²=9。",
+    "difficulty": "basic"
+  }
+]

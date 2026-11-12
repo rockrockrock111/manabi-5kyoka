@@ -1,0 +1,633 @@
+[
+  {
+    "id": "q006",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "正負の数",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "−3＋8 は？",
+    "options": [
+      "−11",
+      "5",
+      "−5",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "数直線で−3から右に8進む。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q007",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "正負の数",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "−4×(−3) は？",
+    "options": [
+      "−12",
+      "12",
+      "7",
+      "−7"
+    ],
+    "answer": 1,
+    "explanation": "負×負は正。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q008",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "正負の数",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "−12÷3 は？",
+    "options": [
+      "−4",
+      "4",
+      "−9",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "負÷正は負。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q009",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "正負の数",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "question": "−2² は？",
+    "options": [
+      "4",
+      "−4",
+      "−2",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "指数が先なので−(2²)。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "math-g1-u01-001",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-3)＋(3) は？",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "符号の異なる数の和なので、絶対値の差をとる。-3＋3＝0。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-3+3"
+    }
+  },
+  {
+    "id": "math-g1-u01-002",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "4−(-4) は？",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "負の数を引くと正の数を足す。4＋4＝8。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4-(-4)"
+    }
+  },
+  {
+    "id": "math-g1-u01-003",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-5)×(-5) は？",
+    "options": [
+      "24",
+      "27",
+      "25",
+      "26"
+    ],
+    "answer": 2,
+    "explanation": "負×負は正。絶対値を掛けて25。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-5)*(-5)"
+    }
+  },
+  {
+    "id": "math-g1-u01-004",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-36)÷6 は？",
+    "options": [
+      "-4",
+      "-6",
+      "-5",
+      "-7"
+    ],
+    "answer": 1,
+    "explanation": "負÷正は負。36÷6＝6なので-6。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-36)/6"
+    }
+  },
+  {
+    "id": "math-g1-u01-005",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "−2²＋7 は？（−2²は2²に負号を付けたもの）",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "累乗を先に計算する。−4＋7＝3。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-2**2+7"
+    }
+  },
+  {
+    "id": "math-g1-u01-006",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-8)＋(3) は？",
+    "options": [
+      "-4",
+      "-6",
+      "-3",
+      "-5"
+    ],
+    "answer": 3,
+    "explanation": "符号の異なる数の和なので、絶対値の差をとる。-8＋3＝-5。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-8+3"
+    }
+  },
+  {
+    "id": "math-g1-u01-007",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "9−(-4) は？",
+    "options": [
+      "12",
+      "15",
+      "13",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "負の数を引くと正の数を足す。9＋4＝13。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "9-(-4)"
+    }
+  },
+  {
+    "id": "math-g1-u01-008",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-10)×(-5) は？",
+    "options": [
+      "52",
+      "50",
+      "51",
+      "49"
+    ],
+    "answer": 1,
+    "explanation": "負×負は正。絶対値を掛けて50。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-10)*(-5)"
+    }
+  },
+  {
+    "id": "math-g1-u01-009",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-66)÷6 は？",
+    "options": [
+      "-11",
+      "-10",
+      "-12",
+      "-9"
+    ],
+    "answer": 0,
+    "explanation": "負÷正は負。66÷6＝11なので-11。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-66)/6"
+    }
+  },
+  {
+    "id": "math-g1-u01-010",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "−2²＋12 は？（−2²は2²に負号を付けたもの）",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "累乗を先に計算する。−4＋12＝8。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-2**2+12"
+    }
+  },
+  {
+    "id": "math-g1-u01-011",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-13)＋(3) は？",
+    "options": [
+      "-11",
+      "-8",
+      "-10",
+      "-9"
+    ],
+    "answer": 2,
+    "explanation": "符号の異なる数の和なので、絶対値の差をとる。-13＋3＝-10。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-13+3"
+    }
+  },
+  {
+    "id": "math-g1-u01-012",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "14−(-4) は？",
+    "options": [
+      "20",
+      "18",
+      "19",
+      "17"
+    ],
+    "answer": 1,
+    "explanation": "負の数を引くと正の数を足す。14＋4＝18。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "14-(-4)"
+    }
+  },
+  {
+    "id": "math-g1-u01-013",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-15)×(-5) は？",
+    "options": [
+      "75",
+      "76",
+      "74",
+      "77"
+    ],
+    "answer": 0,
+    "explanation": "負×負は正。絶対値を掛けて75。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-15)*(-5)"
+    }
+  },
+  {
+    "id": "math-g1-u01-014",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-96)÷6 は？",
+    "options": [
+      "-15",
+      "-17",
+      "-14",
+      "-16"
+    ],
+    "answer": 3,
+    "explanation": "負÷正は負。96÷6＝16なので-16。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-96)/6"
+    }
+  },
+  {
+    "id": "math-g1-u01-015",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "−2²＋17 は？（−2²は2²に負号を付けたもの）",
+    "options": [
+      "12",
+      "15",
+      "13",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "累乗を先に計算する。−4＋17＝13。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-2**2+17"
+    }
+  },
+  {
+    "id": "math-g1-u01-016",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-18)＋(3) は？",
+    "options": [
+      "-13",
+      "-15",
+      "-14",
+      "-16"
+    ],
+    "answer": 1,
+    "explanation": "符号の異なる数の和なので、絶対値の差をとる。-18＋3＝-15。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-18+3"
+    }
+  },
+  {
+    "id": "math-g1-u01-017",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "19−(-4) は？",
+    "options": [
+      "23",
+      "24",
+      "22",
+      "25"
+    ],
+    "answer": 0,
+    "explanation": "負の数を引くと正の数を足す。19＋4＝23。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "19-(-4)"
+    }
+  },
+  {
+    "id": "math-g1-u01-018",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-20)×(-5) は？",
+    "options": [
+      "101",
+      "99",
+      "102",
+      "100"
+    ],
+    "answer": 3,
+    "explanation": "負×負は正。絶対値を掛けて100。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-20)*(-5)"
+    }
+  },
+  {
+    "id": "math-g1-u01-019",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "(-126)÷6 は？",
+    "options": [
+      "-22",
+      "-19",
+      "-21",
+      "-20"
+    ],
+    "answer": 2,
+    "explanation": "負÷正は負。126÷6＝21なので-21。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-126)/6"
+    }
+  },
+  {
+    "id": "math-g1-u01-020",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "−2²＋22 は？（−2²は2²に負号を付けたもの）",
+    "options": [
+      "20",
+      "18",
+      "19",
+      "17"
+    ],
+    "answer": 1,
+    "explanation": "累乗を先に計算する。−4＋22＝18。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-2**2+22"
+    }
+  },
+  {
+    "id": "math-g1-u01-021",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "−8の絶対値は？",
+    "options": [
+      "8",
+      "−8",
+      "0",
+      "1/8"
+    ],
+    "answer": 0,
+    "explanation": "絶対値は数直線上で0からの距離。−8は0から8離れている。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ]
+  },
+  {
+    "id": "math-g1-u01-022",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "数直線上で最も右にある数は？",
+    "options": [
+      "−5",
+      "−1",
+      "0",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "数直線は右に行くほど大きい。2が最大。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ]
+  },
+  {
+    "id": "math-g1-u01-023",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "−3より4大きい数は？",
+    "options": [
+      "−1",
+      "7",
+      "1",
+      "−7"
+    ],
+    "answer": 2,
+    "explanation": "−3＋4＝1。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ]
+  },
+  {
+    "id": "math-g1-u01-024",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "午前の気温−2℃、午後は5℃上がった。午後の気温は？",
+    "options": [
+      "−3℃",
+      "3℃",
+      "−7℃",
+      "7℃"
+    ],
+    "answer": 1,
+    "explanation": "−2＋5＝3℃。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ]
+  },
+  {
+    "id": "math-g1-u01-025",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "basic",
+    "question": "−2と−5の大小関係は？",
+    "options": [
+      "−2 > −5",
+      "−2 < −5",
+      "−2 = −5",
+      "比較できない"
+    ],
+    "answer": 0,
+    "explanation": "負の数では絶対値が小さい方が大きい。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ]
+  }
+]

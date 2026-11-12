@@ -1,0 +1,382 @@
+[
+  {
+    "id": "english-g1-u09-001",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ is this? — It is a notebook.",
+    "options": [
+      "What",
+      "Who",
+      "Where",
+      "When"
+    ],
+    "answer": 0,
+    "explanation": "物を尋ねているのでWhatを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-002",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ is that boy? — He is my brother.",
+    "options": [
+      "What",
+      "Where",
+      "When",
+      "Who"
+    ],
+    "answer": 3,
+    "explanation": "人を尋ねているのでWhoを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-003",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ is my bag? — It is on the chair.",
+    "options": [
+      "Who",
+      "When",
+      "Where",
+      "What"
+    ],
+    "answer": 2,
+    "explanation": "場所を尋ねているのでWhereを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-004",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ is your birthday? — It is in May.",
+    "options": [
+      "Where",
+      "When",
+      "What",
+      "Who"
+    ],
+    "answer": 1,
+    "explanation": "時を尋ねているのでWhenを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-005",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ are you? — I am fine.",
+    "options": [
+      "How",
+      "What",
+      "Who",
+      "Where"
+    ],
+    "answer": 0,
+    "explanation": "状態を尋ねているのでHowを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-006",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ sport do you like? — I like tennis.",
+    "options": [
+      "Who",
+      "Where",
+      "When",
+      "What"
+    ],
+    "answer": 3,
+    "explanation": "どんなスポーツかを尋ねているのでWhatを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-007",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ teaches math? — Ms. Mori does.",
+    "options": [
+      "Where",
+      "When",
+      "Who",
+      "What"
+    ],
+    "answer": 2,
+    "explanation": "教える人を尋ねているのでWhoを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-008",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ do you live? — I live in Kobe.",
+    "options": [
+      "When",
+      "Where",
+      "What",
+      "Who"
+    ],
+    "answer": 1,
+    "explanation": "住む場所を尋ねているのでWhereを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-009",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ do you study? — After dinner.",
+    "options": [
+      "When",
+      "What",
+      "Who",
+      "Where"
+    ],
+    "answer": 0,
+    "explanation": "勉強する時を尋ねているのでWhenを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-010",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ do you go to school? — By bus.",
+    "options": [
+      "What",
+      "Who",
+      "Where",
+      "How"
+    ],
+    "answer": 3,
+    "explanation": "方法を尋ねているのでHowを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-011",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ time is it? — It is seven.",
+    "options": [
+      "Where",
+      "When",
+      "What",
+      "Who"
+    ],
+    "answer": 2,
+    "explanation": "時刻はWhat timeで尋ねるのでWhatを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-012",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ is singing? — Aya is.",
+    "options": [
+      "When",
+      "Who",
+      "What",
+      "Where"
+    ],
+    "answer": 1,
+    "explanation": "歌っている人を尋ねているのでWhoを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-013",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ is Ken? — He is in the library.",
+    "options": [
+      "Where",
+      "What",
+      "Who",
+      "When"
+    ],
+    "answer": 0,
+    "explanation": "居場所を尋ねているのでWhereを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-014",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ is the concert? — Next Sunday.",
+    "options": [
+      "What",
+      "Who",
+      "Where",
+      "When"
+    ],
+    "answer": 3,
+    "explanation": "開催時期を尋ねているのでWhenを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-015",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ old are you? — I am thirteen.",
+    "options": [
+      "Who",
+      "Where",
+      "How",
+      "What"
+    ],
+    "answer": 2,
+    "explanation": "年齢はHow oldで尋ねるのでHowを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-016",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ do you want? — A new bike.",
+    "options": [
+      "When",
+      "What",
+      "Who",
+      "Where"
+    ],
+    "answer": 1,
+    "explanation": "欲しい物を尋ねているのでWhatを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-017",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ is your English teacher? — Mr. Sato.",
+    "options": [
+      "Who",
+      "What",
+      "Where",
+      "When"
+    ],
+    "answer": 0,
+    "explanation": "先生が誰かを尋ねているのでWhoを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-018",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ do they play soccer? — In the park.",
+    "options": [
+      "What",
+      "Who",
+      "When",
+      "Where"
+    ],
+    "answer": 3,
+    "explanation": "活動する場所を尋ねているのでWhereを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-019",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ do you get up? — At six.",
+    "options": [
+      "Who",
+      "Where",
+      "When",
+      "What"
+    ],
+    "answer": 2,
+    "explanation": "起きる時を尋ねているのでWhenを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-020",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "basic",
+    "question": "応答に合う疑問詞は？ ___ many cats do you have? — Two.",
+    "options": [
+      "Where",
+      "How",
+      "What",
+      "Who"
+    ],
+    "answer": 1,
+    "explanation": "数はHow many＋複数名詞で尋ねるのでHowを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  }
+]

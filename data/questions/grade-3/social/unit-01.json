@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q121",
+    "subject": "社会",
+    "grade": 3,
+    "unit": "現代史",
+    "prereq": [
+      "社会|2|近代の日本"
+    ],
+    "question": "日本国憲法が施行された年は？",
+    "options": [
+      "1945年",
+      "1946年",
+      "1947年",
+      "1951年"
+    ],
+    "answer": 2,
+    "explanation": "1947年5月3日施行。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q122",
+    "subject": "社会",
+    "grade": 3,
+    "unit": "現代史",
+    "prereq": [
+      "社会|2|近代の日本"
+    ],
+    "question": "国際連合が発足した年は？",
+    "options": [
+      "1919年",
+      "1945年",
+      "1955年",
+      "1964年"
+    ],
+    "answer": 1,
+    "explanation": "1945年発足。",
+    "difficulty": "basic"
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    "id": "q043",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "一般動詞",
+    "prereq": [
+      "英語|1|be動詞"
+    ],
+    "question": "I ___ soccer every day.",
+    "options": [
+      "plays",
+      "play",
+      "playing",
+      "played"
+    ],
+    "answer": 1,
+    "explanation": "主語Iの現在形は原形。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q044",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "一般動詞",
+    "prereq": [
+      "英語|1|be動詞"
+    ],
+    "question": "「私はテニスをしません」は？",
+    "options": [
+      "I not play tennis.",
+      "I do not play tennis.",
+      "I am not play tennis.",
+      "I does not play tennis."
+    ],
+    "answer": 1,
+    "explanation": "一般動詞の否定はdo not＋原形。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "english-g1-u02-001",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "現在の習慣を表す。I ___ books every day.",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "to read"
+    ],
+    "answer": 0,
+    "explanation": "主語がIの現在形では動詞の原形readを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-002",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「I read books.」を否定文にする。I ___ read books.",
+    "options": [
+      "does not",
+      "is not",
+      "not does",
+      "do not"
+    ],
+    "answer": 3,
+    "explanation": "主語がIなのでdo not＋動詞の原形で否定する。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-003",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「I read books.」を疑問文にする。___ I read books?",
+    "options": [
+      "Is",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "answer": 2,
+    "explanation": "一般動詞の現在形の疑問文。主語がIなのでDoを先頭に置く。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-004",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「あなたはbooksが好きですか」に当たる英文は？",
+    "options": [
+      "Do you likes books?",
+      "Do you like books?",
+      "Are you like books?",
+      "Does you like books?"
+    ],
+    "answer": 1,
+    "explanation": "「好き」は一般動詞likeを使い、主語youの疑問文はDo you like ...?。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-005",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "現在の習慣を表す。You ___ tennis every day.",
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "to play"
+    ],
+    "answer": 0,
+    "explanation": "主語がYouの現在形では動詞の原形playを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-006",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「You play tennis.」を否定文にする。You ___ play tennis.",
+    "options": [
+      "does not",
+      "is not",
+      "not does",
+      "do not"
+    ],
+    "answer": 3,
+    "explanation": "主語がYouなのでdo not＋動詞の原形で否定する。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-007",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「You play tennis.」を疑問文にする。___ you play tennis?",
+    "options": [
+      "Is",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "answer": 2,
+    "explanation": "一般動詞の現在形の疑問文。主語がYouなのでDoを先頭に置く。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-008",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「あなたはtennisが好きですか」に当たる英文は？",
+    "options": [
+      "Do you likes tennis?",
+      "Do you like tennis?",
+      "Are you like tennis?",
+      "Does you like tennis?"
+    ],
+    "answer": 1,
+    "explanation": "「好き」は一般動詞likeを使い、主語youの疑問文はDo you like ...?。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-009",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "現在の習慣を表す。We ___ English every day.",
+    "options": [
+      "study",
+      "studys",
+      "studying",
+      "to study"
+    ],
+    "answer": 0,
+    "explanation": "主語がWeの現在形では動詞の原形studyを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-010",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「We study English.」を否定文にする。We ___ study English.",
+    "options": [
+      "does not",
+      "is not",
+      "not does",
+      "do not"
+    ],
+    "answer": 3,
+    "explanation": "主語がWeなのでdo not＋動詞の原形で否定する。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-011",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「We study English.」を疑問文にする。___ we study English?",
+    "options": [
+      "Is",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "answer": 2,
+    "explanation": "一般動詞の現在形の疑問文。主語がWeなのでDoを先頭に置く。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-012",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「あなたはEnglishが好きですか」に当たる英文は？",
+    "options": [
+      "Do you likes English?",
+      "Do you like English?",
+      "Are you like English?",
+      "Does you like English?"
+    ],
+    "answer": 1,
+    "explanation": "「好き」は一般動詞likeを使い、主語youの疑問文はDo you like ...?。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-013",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "現在の習慣を表す。They ___ birds every day.",
+    "options": [
+      "watch",
+      "watchs",
+      "watching",
+      "to watch"
+    ],
+    "answer": 0,
+    "explanation": "主語がTheyの現在形では動詞の原形watchを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-014",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「They watch birds.」を否定文にする。They ___ watch birds.",
+    "options": [
+      "does not",
+      "is not",
+      "not does",
+      "do not"
+    ],
+    "answer": 3,
+    "explanation": "主語がTheyなのでdo not＋動詞の原形で否定する。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-015",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「They watch birds.」を疑問文にする。___ they watch birds?",
+    "options": [
+      "Is",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "answer": 2,
+    "explanation": "一般動詞の現在形の疑問文。主語がTheyなのでDoを先頭に置く。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-016",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「あなたはbirdsが好きですか」に当たる英文は？",
+    "options": [
+      "Do you likes birds?",
+      "Do you like birds?",
+      "Are you like birds?",
+      "Does you like birds?"
+    ],
+    "answer": 1,
+    "explanation": "「好き」は一般動詞likeを使い、主語youの疑問文はDo you like ...?。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-017",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "現在の習慣を表す。You and I ___ music every day.",
+    "options": [
+      "like",
+      "likes",
+      "likeing",
+      "to like"
+    ],
+    "answer": 0,
+    "explanation": "主語がYou and Iの現在形では動詞の原形likeを使う。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-018",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「You and I like music.」を否定文にする。You and I ___ like music.",
+    "options": [
+      "does not",
+      "is not",
+      "not does",
+      "do not"
+    ],
+    "answer": 3,
+    "explanation": "主語がYou and Iなのでdo not＋動詞の原形で否定する。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-019",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「You and I like music.」を疑問文にする。___ you and I like music?",
+    "options": [
+      "Is",
+      "Are",
+      "Do",
+      "Does"
+    ],
+    "answer": 2,
+    "explanation": "一般動詞の現在形の疑問文。主語がYou and IなのでDoを先頭に置く。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-020",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "basic",
+    "question": "「あなたはmusicが好きですか」に当たる英文は？",
+    "options": [
+      "Do you likes music?",
+      "Do you like music?",
+      "Are you like music?",
+      "Does you like music?"
+    ],
+    "answer": 1,
+    "explanation": "「好き」は一般動詞likeを使い、主語youの疑問文はDo you like ...?。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  }
+]

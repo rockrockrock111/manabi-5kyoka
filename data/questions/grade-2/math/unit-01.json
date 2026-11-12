@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q020",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "式の計算",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "question": "2a＋3a−a は？",
+    "options": [
+      "4a",
+      "5a",
+      "6a",
+      "a"
+    ],
+    "answer": 0,
+    "explanation": "係数2＋3−1=4。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q021",
+    "subject": "数学",
+    "grade": 2,
+    "unit": "式の計算",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "question": "(x＋2)(x＋3) を展開すると？",
+    "options": [
+      "x²＋5x＋6",
+      "x²＋6",
+      "x²＋6x＋5",
+      "2x＋5"
+    ],
+    "answer": 0,
+    "explanation": "分配法則で掛け合わせる。",
+    "difficulty": "basic"
+  }
+]

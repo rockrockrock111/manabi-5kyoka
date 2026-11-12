@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q050",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "未来表現",
+    "prereq": [
+      "英語|1|過去形"
+    ],
+    "question": "「私は明日勉強するつもり」は？",
+    "options": [
+      "I studied tomorrow.",
+      "I will study tomorrow.",
+      "I studying tomorrow.",
+      "I study yesterday."
+    ],
+    "answer": 1,
+    "explanation": "will＋動詞の原形。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q051",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "未来表現",
+    "prereq": [
+      "英語|1|過去形"
+    ],
+    "question": "be going to の後に続くのは？",
+    "options": [
+      "動詞の原形",
+      "過去形",
+      "ing形",
+      "過去分詞のみ"
+    ],
+    "answer": 0,
+    "explanation": "be going to＋原形。",
+    "difficulty": "basic"
+  }
+]

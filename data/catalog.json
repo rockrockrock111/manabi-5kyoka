@@ -1,0 +1,1352 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "title": "中学校学習指導要領（平成29年告示）および各教科解説",
+      "url": "https://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm"
+    }
+  ],
+  "notes": [
+    "主要内容を学習用単元に整理した対応表です。全到達目標の網羅・文部科学省の認定を意味しません。",
+    "英語の聞く・話す・書く技能、国語の記述・発表等は選択式問題だけでは評価できません。",
+    "難易度 basic=基本、standard=標準、advanced=入試。今回の追加は基本のみ。未収録や入試問題の不足を一覧で表示します。"
+  ],
+  "units": [
+    {
+      "key": "数学|0|小学校の計算",
+      "subject": "数学",
+      "grade": 0,
+      "unit": "小学校の計算",
+      "prereq": [],
+      "area": "B 図形",
+      "note": "",
+      "id": "math-g0-u01",
+      "file": "questions/grade-0/math/unit-01.json"
+    },
+    {
+      "key": "数学|1|正負の数",
+      "subject": "数学",
+      "grade": 1,
+      "unit": "正負の数",
+      "prereq": [
+        "数学|0|小学校の計算"
+      ],
+      "area": "A 数と式",
+      "note": "",
+      "id": "math-g1-u01",
+      "file": "questions/grade-1/math/unit-01.json"
+    },
+    {
+      "key": "数学|1|文字式",
+      "subject": "数学",
+      "grade": 1,
+      "unit": "文字式",
+      "prereq": [
+        "数学|1|正負の数"
+      ],
+      "area": "A 数と式",
+      "note": "",
+      "id": "math-g1-u02",
+      "file": "questions/grade-1/math/unit-02.json"
+    },
+    {
+      "key": "数学|1|一次方程式",
+      "subject": "数学",
+      "grade": 1,
+      "unit": "一次方程式",
+      "prereq": [
+        "数学|1|文字式"
+      ],
+      "area": "A 数と式",
+      "note": "",
+      "id": "math-g1-u03",
+      "file": "questions/grade-1/math/unit-03.json"
+    },
+    {
+      "key": "数学|1|比例と反比例",
+      "subject": "数学",
+      "grade": 1,
+      "unit": "比例と反比例",
+      "prereq": [
+        "数学|1|一次方程式"
+      ],
+      "area": "C 関数",
+      "note": "",
+      "id": "math-g1-u04",
+      "file": "questions/grade-1/math/unit-04.json"
+    },
+    {
+      "key": "数学|1|平面図形",
+      "subject": "数学",
+      "grade": 1,
+      "unit": "平面図形",
+      "prereq": [
+        "数学|0|小学校の計算"
+      ],
+      "area": "B 図形",
+      "note": "",
+      "id": "math-g1-u05",
+      "file": "questions/grade-1/math/unit-05.json"
+    },
+    {
+      "key": "数学|2|式の計算",
+      "subject": "数学",
+      "grade": 2,
+      "unit": "式の計算",
+      "prereq": [
+        "数学|1|文字式"
+      ],
+      "area": "A 数と式",
+      "note": "",
+      "id": "math-g2-u01",
+      "file": "questions/grade-2/math/unit-01.json"
+    },
+    {
+      "key": "数学|2|連立方程式",
+      "subject": "数学",
+      "grade": 2,
+      "unit": "連立方程式",
+      "prereq": [
+        "数学|1|一次方程式"
+      ],
+      "area": "A 数と式",
+      "note": "",
+      "id": "math-g2-u02",
+      "file": "questions/grade-2/math/unit-02.json"
+    },
+    {
+      "key": "数学|2|一次関数",
+      "subject": "数学",
+      "grade": 2,
+      "unit": "一次関数",
+      "prereq": [
+        "数学|1|比例と反比例"
+      ],
+      "area": "C 関数",
+      "note": "",
+      "id": "math-g2-u03",
+      "file": "questions/grade-2/math/unit-03.json"
+    },
+    {
+      "key": "数学|2|図形の性質",
+      "subject": "数学",
+      "grade": 2,
+      "unit": "図形の性質",
+      "prereq": [
+        "数学|1|平面図形"
+      ],
+      "area": "B 図形",
+      "note": "",
+      "id": "math-g2-u04",
+      "file": "questions/grade-2/math/unit-04.json"
+    },
+    {
+      "key": "数学|2|確率",
+      "subject": "数学",
+      "grade": 2,
+      "unit": "確率",
+      "prereq": [
+        "数学|0|小学校の計算"
+      ],
+      "area": "D データの活用",
+      "note": "",
+      "id": "math-g2-u05",
+      "file": "questions/grade-2/math/unit-05.json"
+    },
+    {
+      "key": "数学|3|平方根",
+      "subject": "数学",
+      "grade": 3,
+      "unit": "平方根",
+      "prereq": [
+        "数学|1|正負の数"
+      ],
+      "area": "A 数と式",
+      "note": "",
+      "id": "math-g3-u01",
+      "file": "questions/grade-3/math/unit-01.json"
+    },
+    {
+      "key": "数学|3|二次方程式",
+      "subject": "数学",
+      "grade": 3,
+      "unit": "二次方程式",
+      "prereq": [
+        "数学|2|式の計算"
+      ],
+      "area": "A 数と式",
+      "note": "",
+      "id": "math-g3-u02",
+      "file": "questions/grade-3/math/unit-02.json"
+    },
+    {
+      "key": "数学|3|二次関数",
+      "subject": "数学",
+      "grade": 3,
+      "unit": "二次関数",
+      "prereq": [
+        "数学|2|一次関数"
+      ],
+      "area": "C 関数",
+      "note": "",
+      "id": "math-g3-u03",
+      "file": "questions/grade-3/math/unit-03.json"
+    },
+    {
+      "key": "数学|3|相似と三平方",
+      "subject": "数学",
+      "grade": 3,
+      "unit": "相似と三平方",
+      "prereq": [
+        "数学|2|図形の性質"
+      ],
+      "area": "B 図形",
+      "note": "",
+      "id": "math-g3-u04",
+      "file": "questions/grade-3/math/unit-04.json"
+    },
+    {
+      "key": "英語|0|基本単語",
+      "subject": "英語",
+      "grade": 0,
+      "unit": "基本単語",
+      "prereq": [],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g0-u01",
+      "file": "questions/grade-0/english/unit-01.json"
+    },
+    {
+      "key": "英語|1|be動詞",
+      "subject": "英語",
+      "grade": 1,
+      "unit": "be動詞",
+      "prereq": [
+        "英語|0|基本単語"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g1-u01",
+      "file": "questions/grade-1/english/unit-01.json"
+    },
+    {
+      "key": "英語|1|一般動詞",
+      "subject": "英語",
+      "grade": 1,
+      "unit": "一般動詞",
+      "prereq": [
+        "英語|1|be動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g1-u02",
+      "file": "questions/grade-1/english/unit-02.json"
+    },
+    {
+      "key": "英語|1|疑問文と三単現",
+      "subject": "英語",
+      "grade": 1,
+      "unit": "疑問文と三単現",
+      "prereq": [
+        "英語|1|一般動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g1-u03",
+      "file": "questions/grade-1/english/unit-03.json"
+    },
+    {
+      "key": "英語|1|過去形",
+      "subject": "英語",
+      "grade": 1,
+      "unit": "過去形",
+      "prereq": [
+        "英語|1|一般動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g1-u04",
+      "file": "questions/grade-1/english/unit-04.json"
+    },
+    {
+      "key": "英語|2|未来表現",
+      "subject": "英語",
+      "grade": 2,
+      "unit": "未来表現",
+      "prereq": [
+        "英語|1|過去形"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g2-u01",
+      "file": "questions/grade-2/english/unit-01.json"
+    },
+    {
+      "key": "英語|2|不定詞と動名詞",
+      "subject": "英語",
+      "grade": 2,
+      "unit": "不定詞と動名詞",
+      "prereq": [
+        "英語|1|一般動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g2-u02",
+      "file": "questions/grade-2/english/unit-02.json"
+    },
+    {
+      "key": "英語|2|比較",
+      "subject": "英語",
+      "grade": 2,
+      "unit": "比較",
+      "prereq": [
+        "英語|1|一般動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g2-u03",
+      "file": "questions/grade-2/english/unit-03.json"
+    },
+    {
+      "key": "英語|2|接続詞",
+      "subject": "英語",
+      "grade": 2,
+      "unit": "接続詞",
+      "prereq": [
+        "英語|1|一般動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g2-u04",
+      "file": "questions/grade-2/english/unit-04.json"
+    },
+    {
+      "key": "英語|3|現在完了",
+      "subject": "英語",
+      "grade": 3,
+      "unit": "現在完了",
+      "prereq": [
+        "英語|1|過去形"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g3-u01",
+      "file": "questions/grade-3/english/unit-01.json"
+    },
+    {
+      "key": "英語|3|受け身",
+      "subject": "英語",
+      "grade": 3,
+      "unit": "受け身",
+      "prereq": [
+        "英語|1|be動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g3-u02",
+      "file": "questions/grade-3/english/unit-02.json"
+    },
+    {
+      "key": "英語|3|関係代名詞",
+      "subject": "英語",
+      "grade": 3,
+      "unit": "関係代名詞",
+      "prereq": [
+        "英語|2|接続詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g3-u03",
+      "file": "questions/grade-3/english/unit-03.json"
+    },
+    {
+      "key": "国語|0|語彙と文の基本",
+      "subject": "国語",
+      "grade": 0,
+      "unit": "語彙と文の基本",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g0-u01",
+      "file": "questions/grade-0/japanese/unit-01.json"
+    },
+    {
+      "key": "国語|1|文節と品詞",
+      "subject": "国語",
+      "grade": 1,
+      "unit": "文節と品詞",
+      "prereq": [
+        "国語|0|語彙と文の基本"
+      ],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g1-u01",
+      "file": "questions/grade-1/japanese/unit-01.json"
+    },
+    {
+      "key": "国語|1|説明文の読み方",
+      "subject": "国語",
+      "grade": 1,
+      "unit": "説明文の読み方",
+      "prereq": [
+        "国語|0|語彙と文の基本"
+      ],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g1-u02",
+      "file": "questions/grade-1/japanese/unit-02.json"
+    },
+    {
+      "key": "国語|1|古文の基本",
+      "subject": "国語",
+      "grade": 1,
+      "unit": "古文の基本",
+      "prereq": [
+        "国語|0|語彙と文の基本"
+      ],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g1-u03",
+      "file": "questions/grade-1/japanese/unit-03.json"
+    },
+    {
+      "key": "国語|2|敬語",
+      "subject": "国語",
+      "grade": 2,
+      "unit": "敬語",
+      "prereq": [
+        "国語|1|文節と品詞"
+      ],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g2-u01",
+      "file": "questions/grade-2/japanese/unit-01.json"
+    },
+    {
+      "key": "国語|2|文法の応用",
+      "subject": "国語",
+      "grade": 2,
+      "unit": "文法の応用",
+      "prereq": [
+        "国語|1|文節と品詞"
+      ],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g2-u02",
+      "file": "questions/grade-2/japanese/unit-02.json"
+    },
+    {
+      "key": "国語|2|文学的文章",
+      "subject": "国語",
+      "grade": 2,
+      "unit": "文学的文章",
+      "prereq": [
+        "国語|1|説明文の読み方"
+      ],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g2-u03",
+      "file": "questions/grade-2/japanese/unit-03.json"
+    },
+    {
+      "key": "国語|3|論説文の読解",
+      "subject": "国語",
+      "grade": 3,
+      "unit": "論説文の読解",
+      "prereq": [
+        "国語|1|説明文の読み方"
+      ],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g3-u01",
+      "file": "questions/grade-3/japanese/unit-01.json"
+    },
+    {
+      "key": "国語|3|俳句と和歌",
+      "subject": "国語",
+      "grade": 3,
+      "unit": "俳句と和歌",
+      "prereq": [
+        "国語|1|古文の基本"
+      ],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g3-u02",
+      "file": "questions/grade-3/japanese/unit-02.json"
+    },
+    {
+      "key": "理科|0|小学校の理科",
+      "subject": "理科",
+      "grade": 0,
+      "unit": "小学校の理科",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g0-u01",
+      "file": "questions/grade-0/science/unit-01.json"
+    },
+    {
+      "key": "理科|1|植物のつくり",
+      "subject": "理科",
+      "grade": 1,
+      "unit": "植物のつくり",
+      "prereq": [
+        "理科|0|小学校の理科"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g1-u01",
+      "file": "questions/grade-1/science/unit-01.json"
+    },
+    {
+      "key": "理科|1|物質の性質",
+      "subject": "理科",
+      "grade": 1,
+      "unit": "物質の性質",
+      "prereq": [
+        "理科|0|小学校の理科"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g1-u02",
+      "file": "questions/grade-1/science/unit-02.json"
+    },
+    {
+      "key": "理科|1|光と音",
+      "subject": "理科",
+      "grade": 1,
+      "unit": "光と音",
+      "prereq": [
+        "理科|0|小学校の理科"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g1-u03",
+      "file": "questions/grade-1/science/unit-03.json"
+    },
+    {
+      "key": "理科|1|地層と地震",
+      "subject": "理科",
+      "grade": 1,
+      "unit": "地層と地震",
+      "prereq": [
+        "理科|0|小学校の理科"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g1-u04",
+      "file": "questions/grade-1/science/unit-04.json"
+    },
+    {
+      "key": "理科|2|化学変化",
+      "subject": "理科",
+      "grade": 2,
+      "unit": "化学変化",
+      "prereq": [
+        "理科|1|物質の性質"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g2-u01",
+      "file": "questions/grade-2/science/unit-01.json"
+    },
+    {
+      "key": "理科|2|電流と回路",
+      "subject": "理科",
+      "grade": 2,
+      "unit": "電流と回路",
+      "prereq": [
+        "理科|1|光と音"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g2-u02",
+      "file": "questions/grade-2/science/unit-02.json"
+    },
+    {
+      "key": "理科|2|動物のからだ",
+      "subject": "理科",
+      "grade": 2,
+      "unit": "動物のからだ",
+      "prereq": [
+        "理科|1|植物のつくり"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g2-u03",
+      "file": "questions/grade-2/science/unit-03.json"
+    },
+    {
+      "key": "理科|2|天気の変化",
+      "subject": "理科",
+      "grade": 2,
+      "unit": "天気の変化",
+      "prereq": [
+        "理科|1|地層と地震"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g2-u04",
+      "file": "questions/grade-2/science/unit-04.json"
+    },
+    {
+      "key": "理科|3|イオンと電池",
+      "subject": "理科",
+      "grade": 3,
+      "unit": "イオンと電池",
+      "prereq": [
+        "理科|2|化学変化"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g3-u01",
+      "file": "questions/grade-3/science/unit-01.json"
+    },
+    {
+      "key": "理科|3|運動とエネルギー",
+      "subject": "理科",
+      "grade": 3,
+      "unit": "運動とエネルギー",
+      "prereq": [
+        "理科|2|電流と回路"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g3-u02",
+      "file": "questions/grade-3/science/unit-02.json"
+    },
+    {
+      "key": "理科|3|遺伝と生殖",
+      "subject": "理科",
+      "grade": 3,
+      "unit": "遺伝と生殖",
+      "prereq": [
+        "理科|2|動物のからだ"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g3-u03",
+      "file": "questions/grade-3/science/unit-03.json"
+    },
+    {
+      "key": "理科|3|地球と宇宙",
+      "subject": "理科",
+      "grade": 3,
+      "unit": "地球と宇宙",
+      "prereq": [
+        "理科|2|天気の変化"
+      ],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g3-u04",
+      "file": "questions/grade-3/science/unit-04.json"
+    },
+    {
+      "key": "社会|0|地図と日本の基本",
+      "subject": "社会",
+      "grade": 0,
+      "unit": "地図と日本の基本",
+      "prereq": [],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g0-u01",
+      "file": "questions/grade-0/social/unit-01.json"
+    },
+    {
+      "key": "社会|1|世界の地理",
+      "subject": "社会",
+      "grade": 1,
+      "unit": "世界の地理",
+      "prereq": [
+        "社会|0|地図と日本の基本"
+      ],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g1-u01",
+      "file": "questions/grade-1/social/unit-01.json"
+    },
+    {
+      "key": "社会|1|日本の地理",
+      "subject": "社会",
+      "grade": 1,
+      "unit": "日本の地理",
+      "prereq": [
+        "社会|0|地図と日本の基本"
+      ],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g1-u02",
+      "file": "questions/grade-1/social/unit-02.json"
+    },
+    {
+      "key": "社会|1|古代の日本",
+      "subject": "社会",
+      "grade": 1,
+      "unit": "古代の日本",
+      "prereq": [
+        "社会|0|地図と日本の基本"
+      ],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g1-u03",
+      "file": "questions/grade-1/social/unit-03.json"
+    },
+    {
+      "key": "社会|1|中世の日本",
+      "subject": "社会",
+      "grade": 1,
+      "unit": "中世の日本",
+      "prereq": [
+        "社会|1|古代の日本"
+      ],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g1-u04",
+      "file": "questions/grade-1/social/unit-04.json"
+    },
+    {
+      "key": "社会|2|日本の地域",
+      "subject": "社会",
+      "grade": 2,
+      "unit": "日本の地域",
+      "prereq": [
+        "社会|1|日本の地理"
+      ],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g2-u01",
+      "file": "questions/grade-2/social/unit-01.json"
+    },
+    {
+      "key": "社会|2|近世の日本",
+      "subject": "社会",
+      "grade": 2,
+      "unit": "近世の日本",
+      "prereq": [
+        "社会|1|中世の日本"
+      ],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g2-u02",
+      "file": "questions/grade-2/social/unit-02.json"
+    },
+    {
+      "key": "社会|2|近代の日本",
+      "subject": "社会",
+      "grade": 2,
+      "unit": "近代の日本",
+      "prereq": [
+        "社会|2|近世の日本"
+      ],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g2-u03",
+      "file": "questions/grade-2/social/unit-03.json"
+    },
+    {
+      "key": "社会|3|現代史",
+      "subject": "社会",
+      "grade": 3,
+      "unit": "現代史",
+      "prereq": [
+        "社会|2|近代の日本"
+      ],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g3-u01",
+      "file": "questions/grade-3/social/unit-01.json"
+    },
+    {
+      "key": "社会|3|日本国憲法",
+      "subject": "社会",
+      "grade": 3,
+      "unit": "日本国憲法",
+      "prereq": [
+        "社会|3|現代史"
+      ],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g3-u02",
+      "file": "questions/grade-3/social/unit-02.json"
+    },
+    {
+      "key": "社会|3|政治と経済",
+      "subject": "社会",
+      "grade": 3,
+      "unit": "政治と経済",
+      "prereq": [
+        "社会|3|日本国憲法"
+      ],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g3-u03",
+      "file": "questions/grade-3/social/unit-03.json"
+    },
+    {
+      "key": "数学|1|空間図形",
+      "subject": "数学",
+      "grade": 1,
+      "unit": "空間図形",
+      "prereq": [
+        "数学|1|平面図形"
+      ],
+      "area": "B 図形",
+      "note": "",
+      "id": "math-g1-u06",
+      "file": "questions/grade-1/math/unit-06.json"
+    },
+    {
+      "key": "数学|1|データの活用",
+      "subject": "数学",
+      "grade": 1,
+      "unit": "データの活用",
+      "prereq": [
+        "数学|1|正負の数"
+      ],
+      "area": "D データの活用",
+      "note": "",
+      "id": "math-g1-u07",
+      "file": "questions/grade-1/math/unit-07.json"
+    },
+    {
+      "key": "英語|1|代名詞と名詞",
+      "subject": "英語",
+      "grade": 1,
+      "unit": "代名詞と名詞",
+      "prereq": [
+        "英語|1|be動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g1-u05",
+      "file": "questions/grade-1/english/unit-05.json"
+    },
+    {
+      "key": "英語|1|助動詞can",
+      "subject": "英語",
+      "grade": 1,
+      "unit": "助動詞can",
+      "prereq": [
+        "英語|1|be動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g1-u06",
+      "file": "questions/grade-1/english/unit-06.json"
+    },
+    {
+      "key": "英語|1|現在進行形",
+      "subject": "英語",
+      "grade": 1,
+      "unit": "現在進行形",
+      "prereq": [
+        "英語|1|be動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g1-u07",
+      "file": "questions/grade-1/english/unit-07.json"
+    },
+    {
+      "key": "英語|1|命令文",
+      "subject": "英語",
+      "grade": 1,
+      "unit": "命令文",
+      "prereq": [
+        "英語|1|一般動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g1-u08",
+      "file": "questions/grade-1/english/unit-08.json"
+    },
+    {
+      "key": "英語|1|疑問詞",
+      "subject": "英語",
+      "grade": 1,
+      "unit": "疑問詞",
+      "prereq": [
+        "英語|1|be動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g1-u09",
+      "file": "questions/grade-1/english/unit-09.json"
+    },
+    {
+      "key": "英語|1|短い英文の読解",
+      "subject": "英語",
+      "grade": 1,
+      "unit": "短い英文の読解",
+      "prereq": [
+        "英語|1|一般動詞"
+      ],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g1-u10",
+      "file": "questions/grade-1/english/unit-10.json"
+    },
+    {
+      "key": "数学|2|図形の合同と証明",
+      "subject": "数学",
+      "grade": 2,
+      "unit": "図形の合同と証明",
+      "prereq": [],
+      "area": "B 図形",
+      "note": "",
+      "id": "math-g2-u06",
+      "file": null
+    },
+    {
+      "key": "数学|2|データの比較と箱ひげ図",
+      "subject": "数学",
+      "grade": 2,
+      "unit": "データの比較と箱ひげ図",
+      "prereq": [],
+      "area": "D データの活用",
+      "note": "",
+      "id": "math-g2-u07",
+      "file": null
+    },
+    {
+      "key": "数学|3|多項式の展開と因数分解",
+      "subject": "数学",
+      "grade": 3,
+      "unit": "多項式の展開と因数分解",
+      "prereq": [],
+      "area": "A 数と式",
+      "note": "",
+      "id": "math-g3-u05",
+      "file": null
+    },
+    {
+      "key": "数学|3|円の性質",
+      "subject": "数学",
+      "grade": 3,
+      "unit": "円の性質",
+      "prereq": [],
+      "area": "B 図形",
+      "note": "",
+      "id": "math-g3-u06",
+      "file": null
+    },
+    {
+      "key": "数学|3|標本調査",
+      "subject": "数学",
+      "grade": 3,
+      "unit": "標本調査",
+      "prereq": [],
+      "area": "D データの活用",
+      "note": "",
+      "id": "math-g3-u07",
+      "file": null
+    },
+    {
+      "key": "英語|2|助動詞mustとhave to",
+      "subject": "英語",
+      "grade": 2,
+      "unit": "助動詞mustとhave to",
+      "prereq": [],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g2-u05",
+      "file": null
+    },
+    {
+      "key": "英語|2|文型と目的語",
+      "subject": "英語",
+      "grade": 2,
+      "unit": "文型と目的語",
+      "prereq": [],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g2-u06",
+      "file": null
+    },
+    {
+      "key": "英語|2|読解と情報整理",
+      "subject": "英語",
+      "grade": 2,
+      "unit": "読解と情報整理",
+      "prereq": [],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g2-u07",
+      "file": null
+    },
+    {
+      "key": "英語|3|現在完了進行形",
+      "subject": "英語",
+      "grade": 3,
+      "unit": "現在完了進行形",
+      "prereq": [],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g3-u04",
+      "file": null
+    },
+    {
+      "key": "英語|3|分詞の後置修飾",
+      "subject": "英語",
+      "grade": 3,
+      "unit": "分詞の後置修飾",
+      "prereq": [],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g3-u05",
+      "file": null
+    },
+    {
+      "key": "英語|3|仮定法の基本",
+      "subject": "英語",
+      "grade": 3,
+      "unit": "仮定法の基本",
+      "prereq": [],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g3-u06",
+      "file": null
+    },
+    {
+      "key": "英語|3|意見と理由の読解",
+      "subject": "英語",
+      "grade": 3,
+      "unit": "意見と理由の読解",
+      "prereq": [],
+      "area": "外国語：言語材料・読むこと（選択式練習）",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "english-g3-u07",
+      "file": null
+    },
+    {
+      "key": "国語|1|漢字と語彙",
+      "subject": "国語",
+      "grade": 1,
+      "unit": "漢字と語彙",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g1-u04",
+      "file": null
+    },
+    {
+      "key": "国語|1|文学的文章の基礎",
+      "subject": "国語",
+      "grade": 1,
+      "unit": "文学的文章の基礎",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g1-u05",
+      "file": null
+    },
+    {
+      "key": "国語|1|話すことと聞くこと",
+      "subject": "国語",
+      "grade": 1,
+      "unit": "話すことと聞くこと",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g1-u06",
+      "file": null
+    },
+    {
+      "key": "国語|1|構成を考えて書く",
+      "subject": "国語",
+      "grade": 1,
+      "unit": "構成を考えて書く",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g1-u07",
+      "file": null
+    },
+    {
+      "key": "国語|2|説明と論拠",
+      "subject": "国語",
+      "grade": 2,
+      "unit": "説明と論拠",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g2-u04",
+      "file": null
+    },
+    {
+      "key": "国語|2|古典と漢文",
+      "subject": "国語",
+      "grade": 2,
+      "unit": "古典と漢文",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g2-u05",
+      "file": null
+    },
+    {
+      "key": "国語|2|資料を使って伝える",
+      "subject": "国語",
+      "grade": 2,
+      "unit": "資料を使って伝える",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g2-u06",
+      "file": null
+    },
+    {
+      "key": "国語|3|文学作品の批評",
+      "subject": "国語",
+      "grade": 3,
+      "unit": "文学作品の批評",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g3-u03",
+      "file": null
+    },
+    {
+      "key": "国語|3|古典の読解",
+      "subject": "国語",
+      "grade": 3,
+      "unit": "古典の読解",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g3-u04",
+      "file": null
+    },
+    {
+      "key": "国語|3|議論と合意形成",
+      "subject": "国語",
+      "grade": 3,
+      "unit": "議論と合意形成",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g3-u05",
+      "file": null
+    },
+    {
+      "key": "国語|3|推敲と表現",
+      "subject": "国語",
+      "grade": 3,
+      "unit": "推敲と表現",
+      "prereq": [],
+      "area": "知識及び技能／思考力・判断力・表現力等",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "japanese-g3-u06",
+      "file": null
+    },
+    {
+      "key": "理科|1|生物の分類",
+      "subject": "理科",
+      "grade": 1,
+      "unit": "生物の分類",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g1-u05",
+      "file": null
+    },
+    {
+      "key": "理科|1|気体と水溶液",
+      "subject": "理科",
+      "grade": 1,
+      "unit": "気体と水溶液",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g1-u06",
+      "file": null
+    },
+    {
+      "key": "理科|1|状態変化",
+      "subject": "理科",
+      "grade": 1,
+      "unit": "状態変化",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g1-u07",
+      "file": null
+    },
+    {
+      "key": "理科|1|力のはたらき",
+      "subject": "理科",
+      "grade": 1,
+      "unit": "力のはたらき",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g1-u08",
+      "file": null
+    },
+    {
+      "key": "理科|1|火山と岩石",
+      "subject": "理科",
+      "grade": 1,
+      "unit": "火山と岩石",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g1-u09",
+      "file": null
+    },
+    {
+      "key": "理科|2|細胞と生物の体",
+      "subject": "理科",
+      "grade": 2,
+      "unit": "細胞と生物の体",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g2-u05",
+      "file": null
+    },
+    {
+      "key": "理科|2|静電気と磁界",
+      "subject": "理科",
+      "grade": 2,
+      "unit": "静電気と磁界",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g2-u06",
+      "file": null
+    },
+    {
+      "key": "理科|3|化学変化と電池",
+      "subject": "理科",
+      "grade": 3,
+      "unit": "化学変化と電池",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g3-u05",
+      "file": null
+    },
+    {
+      "key": "理科|3|自然と人間",
+      "subject": "理科",
+      "grade": 3,
+      "unit": "自然と人間",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g3-u06",
+      "file": null
+    },
+    {
+      "key": "理科|3|科学技術と持続可能性",
+      "subject": "理科",
+      "grade": 3,
+      "unit": "科学技術と持続可能性",
+      "prereq": [],
+      "area": "第1分野・第2分野",
+      "note": "",
+      "id": "science-g3-u07",
+      "file": null
+    },
+    {
+      "key": "社会|1|世界の諸地域",
+      "subject": "社会",
+      "grade": 1,
+      "unit": "世界の諸地域",
+      "prereq": [],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g1-u05",
+      "file": null
+    },
+    {
+      "key": "社会|1|地域調査の基礎",
+      "subject": "社会",
+      "grade": 1,
+      "unit": "地域調査の基礎",
+      "prereq": [],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g1-u06",
+      "file": null
+    },
+    {
+      "key": "社会|1|歴史の調べ方",
+      "subject": "社会",
+      "grade": 1,
+      "unit": "歴史の調べ方",
+      "prereq": [],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g1-u07",
+      "file": null
+    },
+    {
+      "key": "社会|2|日本の地域的特色",
+      "subject": "社会",
+      "grade": 2,
+      "unit": "日本の地域的特色",
+      "prereq": [],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g2-u04",
+      "file": null
+    },
+    {
+      "key": "社会|2|産業と交通",
+      "subject": "社会",
+      "grade": 2,
+      "unit": "産業と交通",
+      "prereq": [],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g2-u05",
+      "file": null
+    },
+    {
+      "key": "社会|2|世界の近代化",
+      "subject": "社会",
+      "grade": 2,
+      "unit": "世界の近代化",
+      "prereq": [],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g2-u06",
+      "file": null
+    },
+    {
+      "key": "社会|3|民主政治と地方自治",
+      "subject": "社会",
+      "grade": 3,
+      "unit": "民主政治と地方自治",
+      "prereq": [],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g3-u04",
+      "file": null
+    },
+    {
+      "key": "社会|3|市場と金融",
+      "subject": "社会",
+      "grade": 3,
+      "unit": "市場と金融",
+      "prereq": [],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g3-u05",
+      "file": null
+    },
+    {
+      "key": "社会|3|国際社会と持続可能性",
+      "subject": "社会",
+      "grade": 3,
+      "unit": "国際社会と持続可能性",
+      "prereq": [],
+      "area": "地理的分野・歴史的分野・公民的分野",
+      "note": "配当学年は学習順の目安。学校・教科書により異なります。",
+      "id": "social-g3-u06",
+      "file": null
+    }
+  ]
+}

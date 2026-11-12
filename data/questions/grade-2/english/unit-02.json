@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q052",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "不定詞と動名詞",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "I want ___ play soccer.",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "on"
+    ],
+    "answer": 1,
+    "explanation": "want to＋動詞原形。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q053",
+    "subject": "英語",
+    "grade": 2,
+    "unit": "不定詞と動名詞",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "I enjoy ___ books.",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "to read"
+    ],
+    "answer": 2,
+    "explanation": "enjoyの後は動名詞。",
+    "difficulty": "basic"
+  }
+]

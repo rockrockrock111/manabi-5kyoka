@@ -1,0 +1,36 @@
+[
+  {
+    "id": "q081",
+    "subject": "理科",
+    "grade": 0,
+    "unit": "小学校の理科",
+    "prereq": [],
+    "question": "水が氷になる変化は？",
+    "options": [
+      "蒸発",
+      "凝固",
+      "融解",
+      "昇華"
+    ],
+    "answer": 1,
+    "explanation": "液体が固体になることを凝固という。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q082",
+    "subject": "理科",
+    "grade": 0,
+    "unit": "小学校の理科",
+    "prereq": [],
+    "question": "電気を通しやすい物は？",
+    "options": [
+      "ゴム",
+      "プラスチック",
+      "銅",
+      "木"
+    ],
+    "answer": 2,
+    "explanation": "金属は一般に電気を通す。",
+    "difficulty": "basic"
+  }
+]

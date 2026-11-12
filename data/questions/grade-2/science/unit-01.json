@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q091",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "化学変化",
+    "prereq": [
+      "理科|1|物質の性質"
+    ],
+    "question": "酸化とは一般に何と結びつくこと？",
+    "options": [
+      "窒素",
+      "酸素",
+      "水素",
+      "塩素"
+    ],
+    "answer": 1,
+    "explanation": "中学では酸素と結びつく反応を酸化という。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q092",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "化学変化",
+    "prereq": [
+      "理科|1|物質の性質"
+    ],
+    "question": "水の化学式は？",
+    "options": [
+      "CO₂",
+      "H₂O",
+      "O₂",
+      "NaCl"
+    ],
+    "answer": 1,
+    "explanation": "水はH₂O。",
+    "difficulty": "basic"
+  }
+]

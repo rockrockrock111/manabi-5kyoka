@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q072",
+    "subject": "国語",
+    "grade": 2,
+    "unit": "敬語",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ],
+    "question": "「いらっしゃる」は何語？",
+    "options": [
+      "謙譲語",
+      "尊敬語",
+      "丁寧語",
+      "普通語"
+    ],
+    "answer": 1,
+    "explanation": "相手の動作を高める尊敬語。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q073",
+    "subject": "国語",
+    "grade": 2,
+    "unit": "敬語",
+    "prereq": [
+      "国語|1|文節と品詞"
+    ],
+    "question": "「申す」は何語？",
+    "options": [
+      "謙譲語",
+      "尊敬語",
+      "丁寧語",
+      "接続語"
+    ],
+    "answer": 0,
+    "explanation": "自分側の行為を低める謙譲語。",
+    "difficulty": "basic"
+  }
+]

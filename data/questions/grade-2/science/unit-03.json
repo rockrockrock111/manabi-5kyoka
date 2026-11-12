@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q095",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "動物のからだ",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ],
+    "question": "血液中で酸素を運ぶのは？",
+    "options": [
+      "白血球",
+      "赤血球",
+      "血小板",
+      "血しょうのみ"
+    ],
+    "answer": 1,
+    "explanation": "赤血球のヘモグロビンが酸素を運ぶ。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q096",
+    "subject": "理科",
+    "grade": 2,
+    "unit": "動物のからだ",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ],
+    "question": "食物の消化・吸収で主に吸収が行われるのは？",
+    "options": [
+      "胃",
+      "小腸",
+      "食道",
+      "気管"
+    ],
+    "answer": 1,
+    "explanation": "小腸の柔毛で吸収する。",
+    "difficulty": "basic"
+  }
+]

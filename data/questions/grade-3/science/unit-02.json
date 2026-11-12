@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q100",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "運動とエネルギー",
+    "prereq": [
+      "理科|2|電流と回路"
+    ],
+    "question": "物体に働く重力の向きは？",
+    "options": [
+      "鉛直上向き",
+      "鉛直下向き",
+      "進行方向",
+      "水平方向"
+    ],
+    "answer": 1,
+    "explanation": "地球の中心方向へ働く。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q101",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "運動とエネルギー",
+    "prereq": [
+      "理科|2|電流と回路"
+    ],
+    "question": "仕事の単位は？",
+    "options": [
+      "N",
+      "J",
+      "W",
+      "A"
+    ],
+    "answer": 1,
+    "explanation": "仕事・エネルギーの単位はJ。",
+    "difficulty": "basic"
+  }
+]

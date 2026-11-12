@@ -1,0 +1,21 @@
+[
+  {
+    "id": "q061",
+    "subject": "英語",
+    "grade": 3,
+    "unit": "関係代名詞",
+    "prereq": [
+      "英語|2|接続詞"
+    ],
+    "question": "The boy ___ is running is Ken.",
+    "options": [
+      "who",
+      "where",
+      "when",
+      "what"
+    ],
+    "answer": 0,
+    "explanation": "人を説明する主格の関係代名詞who。",
+    "difficulty": "basic"
+  }
+]

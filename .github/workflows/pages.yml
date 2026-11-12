@@ -10,6 +10,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   build:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,11 +18,10 @@ jobs:
         run: |
           node --check app.js
           node --check sw.js
-          python3 -c 'import json; q=json.load(open("questions.json")); assert len({x["id"] for x in q})==len(q); assert all(any(x["grade"]==g and x["subject"]==s for x in q) for g in (1,2,3) for s in ("英語","数学","国語","理科","社会"))'
+          node --check question-bank.js
+          python3 -m unittest discover -s tests -v
       - name: Prepare public files only
-        run: |
-          mkdir _site
-          cp index.html app.js questions.json manifest.webmanifest icon.svg sw.js _site/
+        run: python3 scripts/prepare_site.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

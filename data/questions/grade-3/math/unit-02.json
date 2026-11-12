@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q031",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "二次方程式",
+    "prereq": [
+      "数学|2|式の計算"
+    ],
+    "question": "x²=25 の解は？",
+    "options": [
+      "5のみ",
+      "−5のみ",
+      "±5",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "正負両方を代入して確認。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q032",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "二次方程式",
+    "prereq": [
+      "数学|2|式の計算"
+    ],
+    "question": "x²−5x＋6=0 の解は？",
+    "options": [
+      "2と3",
+      "−2と−3",
+      "1と6",
+      "−1と−6"
+    ],
+    "answer": 0,
+    "explanation": "(x−2)(x−3)=0。",
+    "difficulty": "basic"
+  }
+]

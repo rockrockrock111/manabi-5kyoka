@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q083",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "植物のつくり",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "光合成に必要な気体は？",
+    "options": [
+      "酸素",
+      "二酸化炭素",
+      "窒素",
+      "水素"
+    ],
+    "answer": 1,
+    "explanation": "光合成で二酸化炭素を取り込む。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q084",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "植物のつくり",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "植物の水の通り道は？",
+    "options": [
+      "師管",
+      "道管",
+      "気孔",
+      "花粉"
+    ],
+    "answer": 1,
+    "explanation": "道管は水や無機養分を運ぶ。",
+    "difficulty": "basic"
+  }
+]

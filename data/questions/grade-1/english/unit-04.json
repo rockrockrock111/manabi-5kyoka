@@ -1,0 +1,420 @@
+[
+  {
+    "id": "q048",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "過去形",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "goの過去形は？",
+    "options": [
+      "goed",
+      "went",
+      "gone",
+      "going"
+    ],
+    "answer": 1,
+    "explanation": "go-went-gone。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q049",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "過去形",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "I ___ TV yesterday.",
+    "options": [
+      "watch",
+      "watches",
+      "watched",
+      "watching"
+    ],
+    "answer": 2,
+    "explanation": "yesterdayなので過去形。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "english-g1-u04-001",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "昨日の出来事。I ___ Nara yesterday.",
+    "options": [
+      "visited",
+      "visit",
+      "visiting",
+      "to visit"
+    ],
+    "answer": 0,
+    "explanation": "yesterdayは過去を示すので、visitの過去形visitedを使う。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-002",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。I did not ___ Nara yesterday.",
+    "options": [
+      "visited",
+      "visiting",
+      "to visit",
+      "visit"
+    ],
+    "answer": 3,
+    "explanation": "過去形の否定文はdid not＋動詞の原形。visitedではなくvisit。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-003",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。___ I visit Nara yesterday?",
+    "options": [
+      "Does",
+      "Are",
+      "Did",
+      "Do"
+    ],
+    "answer": 2,
+    "explanation": "過去の一般動詞の疑問文はDid＋主語＋動詞の原形。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-004",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "「I visited Nara yesterday.」のyesterdayの意味は？",
+    "options": [
+      "毎日",
+      "昨日",
+      "今日",
+      "明日"
+    ],
+    "answer": 1,
+    "explanation": "yesterdayは「昨日」。動詞visitedも過去形で、昨日の出来事を表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-005",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "昨日の出来事。We ___ tennis yesterday.",
+    "options": [
+      "played",
+      "play",
+      "playing",
+      "to play"
+    ],
+    "answer": 0,
+    "explanation": "yesterdayは過去を示すので、playの過去形playedを使う。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-006",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。We did not ___ tennis yesterday.",
+    "options": [
+      "played",
+      "playing",
+      "to play",
+      "play"
+    ],
+    "answer": 3,
+    "explanation": "過去形の否定文はdid not＋動詞の原形。playedではなくplay。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-007",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。___ we play tennis yesterday?",
+    "options": [
+      "Does",
+      "Are",
+      "Did",
+      "Do"
+    ],
+    "answer": 2,
+    "explanation": "過去の一般動詞の疑問文はDid＋主語＋動詞の原形。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-008",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "「We played tennis yesterday.」のyesterdayの意味は？",
+    "options": [
+      "毎日",
+      "昨日",
+      "今日",
+      "明日"
+    ],
+    "answer": 1,
+    "explanation": "yesterdayは「昨日」。動詞playedも過去形で、昨日の出来事を表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-009",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "昨日の出来事。Ken ___ to school yesterday.",
+    "options": [
+      "went",
+      "go",
+      "going",
+      "to go"
+    ],
+    "answer": 0,
+    "explanation": "yesterdayは過去を示すので、goの過去形wentを使う。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-010",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。Ken did not ___ to school yesterday.",
+    "options": [
+      "went",
+      "going",
+      "to go",
+      "go"
+    ],
+    "answer": 3,
+    "explanation": "過去形の否定文はdid not＋動詞の原形。wentではなくgo。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-011",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。___ Ken go to school yesterday?",
+    "options": [
+      "Does",
+      "Are",
+      "Did",
+      "Do"
+    ],
+    "answer": 2,
+    "explanation": "過去の一般動詞の疑問文はDid＋主語＋動詞の原形。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-012",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "「Ken went to school yesterday.」のyesterdayの意味は？",
+    "options": [
+      "毎日",
+      "昨日",
+      "今日",
+      "明日"
+    ],
+    "answer": 1,
+    "explanation": "yesterdayは「昨日」。動詞wentも過去形で、昨日の出来事を表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-013",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "昨日の出来事。Aya ___ breakfast yesterday.",
+    "options": [
+      "ate",
+      "eat",
+      "eating",
+      "to eat"
+    ],
+    "answer": 0,
+    "explanation": "yesterdayは過去を示すので、eatの過去形ateを使う。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-014",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。Aya did not ___ breakfast yesterday.",
+    "options": [
+      "ate",
+      "eating",
+      "to eat",
+      "eat"
+    ],
+    "answer": 3,
+    "explanation": "過去形の否定文はdid not＋動詞の原形。ateではなくeat。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-015",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。___ Aya eat breakfast yesterday?",
+    "options": [
+      "Does",
+      "Are",
+      "Did",
+      "Do"
+    ],
+    "answer": 2,
+    "explanation": "過去の一般動詞の疑問文はDid＋主語＋動詞の原形。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-016",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "「Aya ate breakfast yesterday.」のyesterdayの意味は？",
+    "options": [
+      "毎日",
+      "昨日",
+      "今日",
+      "明日"
+    ],
+    "answer": 1,
+    "explanation": "yesterdayは「昨日」。動詞ateも過去形で、昨日の出来事を表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-017",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "昨日の出来事。They ___ a bird yesterday.",
+    "options": [
+      "saw",
+      "see",
+      "seeing",
+      "to see"
+    ],
+    "answer": 0,
+    "explanation": "yesterdayは過去を示すので、seeの過去形sawを使う。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-018",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。They did not ___ a bird yesterday.",
+    "options": [
+      "saw",
+      "seeing",
+      "to see",
+      "see"
+    ],
+    "answer": 3,
+    "explanation": "過去形の否定文はdid not＋動詞の原形。sawではなくsee。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-019",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。___ they see a bird yesterday?",
+    "options": [
+      "Does",
+      "Are",
+      "Did",
+      "Do"
+    ],
+    "answer": 2,
+    "explanation": "過去の一般動詞の疑問文はDid＋主語＋動詞の原形。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-020",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "basic",
+    "question": "「They saw a bird yesterday.」のyesterdayの意味は？",
+    "options": [
+      "毎日",
+      "昨日",
+      "今日",
+      "明日"
+    ],
+    "answer": 1,
+    "explanation": "yesterdayは「昨日」。動詞sawも過去形で、昨日の出来事を表す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  }
+]

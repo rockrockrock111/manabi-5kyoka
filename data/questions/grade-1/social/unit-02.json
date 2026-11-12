@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q109",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "日本の地理",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "日本の標準時子午線は東経何度？",
+    "options": [
+      "120度",
+      "135度",
+      "150度",
+      "90度"
+    ],
+    "answer": 1,
+    "explanation": "兵庫県明石市付近を通る東経135度。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q110",
+    "subject": "社会",
+    "grade": 1,
+    "unit": "日本の地理",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ],
+    "question": "日本で最も面積が大きい都道府県は？",
+    "options": [
+      "岩手県",
+      "北海道",
+      "長野県",
+      "福島県"
+    ],
+    "answer": 1,
+    "explanation": "北海道。",
+    "difficulty": "basic"
+  }
+]

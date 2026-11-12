@@ -1,0 +1,27 @@
+name: Validate question bank
+on:
+  pull_request:
+  push:
+    branches-ignore: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate data and compatibility
+        run: |
+          node --check app.js
+          node --check question-bank.js
+          node --check sw.js
+          python3 -m unittest discover -s tests -v
+          python3 scripts/prepare_site.py
+      - name: Install browser test tools outside checkout
+        run: |
+          npm install --prefix /tmp/manabi-browser --no-save playwright@1.56.1
+          /tmp/manabi-browser/node_modules/.bin/playwright install --with-deps chromium
+      - name: Test subdirectory deployment and learning records
+        env:
+          NODE_PATH: /tmp/manabi-browser/node_modules
+        run: node tests/browser.cjs

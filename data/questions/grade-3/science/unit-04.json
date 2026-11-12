@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q103",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "地球と宇宙",
+    "prereq": [
+      "理科|2|天気の変化"
+    ],
+    "question": "地球の自転による見かけの太陽の動きは？",
+    "options": [
+      "東から西",
+      "西から東",
+      "北から南",
+      "動かない"
+    ],
+    "answer": 0,
+    "explanation": "地球が西から東へ自転するため。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q104",
+    "subject": "理科",
+    "grade": 3,
+    "unit": "地球と宇宙",
+    "prereq": [
+      "理科|2|天気の変化"
+    ],
+    "question": "月が光って見える理由は？",
+    "options": [
+      "自ら発光",
+      "太陽光を反射",
+      "地球の光のみ",
+      "電気を発生"
+    ],
+    "answer": 1,
+    "explanation": "月は太陽光を反射する。",
+    "difficulty": "basic"
+  }
+]

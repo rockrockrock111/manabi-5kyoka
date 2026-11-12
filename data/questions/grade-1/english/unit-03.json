@@ -1,0 +1,439 @@
+[
+  {
+    "id": "q045",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "疑問文と三単現",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "___ you like music?",
+    "options": [
+      "Are",
+      "Does",
+      "Do",
+      "Is"
+    ],
+    "answer": 2,
+    "explanation": "一般動詞の疑問文はDo you〜?",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q046",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "疑問文と三単現",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "He ___ English.",
+    "options": [
+      "study",
+      "studies",
+      "studying",
+      "studys"
+    ],
+    "answer": 1,
+    "explanation": "三人称単数現在はstudies。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q047",
+    "subject": "英語",
+    "grade": 1,
+    "unit": "疑問文と三単現",
+    "prereq": [
+      "英語|1|一般動詞"
+    ],
+    "question": "Does she play piano? の答えとして正しいのは？",
+    "options": [
+      "Yes, she do.",
+      "Yes, she does.",
+      "Yes, she is.",
+      "Yes, she play."
+    ],
+    "answer": 1,
+    "explanation": "Doesで聞かれたらdoesで答える。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "english-g1-u03-001",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "毎日の習慣。Ken ___ soccer every day.",
+    "options": [
+      "plays",
+      "play",
+      "playing",
+      "to play"
+    ],
+    "answer": 0,
+    "explanation": "Kenは三人称単数。現在形の肯定文ではplayをplaysにする。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-002",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。___ Ken play soccer?",
+    "options": [
+      "Do",
+      "Is",
+      "Are",
+      "Does"
+    ],
+    "answer": 3,
+    "explanation": "三人称単数の一般動詞の現在形の疑問文はDoes＋主語＋原形。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-003",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。Ken does not ___ soccer.",
+    "options": [
+      "playing",
+      "to play",
+      "play",
+      "plays"
+    ],
+    "answer": 2,
+    "explanation": "does notの後は動詞の原形play。三単現の形playsは使わない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-004",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "「Does Ken play soccer?」で、主語をtheyに変えた疑問文は？",
+    "options": [
+      "Are they play soccer?",
+      "Do they play soccer?",
+      "Does they play soccer?",
+      "Do they plays soccer?"
+    ],
+    "answer": 1,
+    "explanation": "theyは複数なのでDoを使い、動詞は原形play。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-005",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "毎日の習慣。Aya ___ math every day.",
+    "options": [
+      "studies",
+      "study",
+      "studying",
+      "to study"
+    ],
+    "answer": 0,
+    "explanation": "Ayaは三人称単数。現在形の肯定文ではstudyをstudiesにする。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-006",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。___ Aya study math?",
+    "options": [
+      "Do",
+      "Is",
+      "Are",
+      "Does"
+    ],
+    "answer": 3,
+    "explanation": "三人称単数の一般動詞の現在形の疑問文はDoes＋主語＋原形。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-007",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。Aya does not ___ math.",
+    "options": [
+      "studying",
+      "to study",
+      "study",
+      "studies"
+    ],
+    "answer": 2,
+    "explanation": "does notの後は動詞の原形study。三単現の形studiesは使わない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-008",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "「Does Aya study math?」で、主語をtheyに変えた疑問文は？",
+    "options": [
+      "Are they study math?",
+      "Do they study math?",
+      "Does they study math?",
+      "Do they studies math?"
+    ],
+    "answer": 1,
+    "explanation": "theyは複数なのでDoを使い、動詞は原形study。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-009",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "毎日の習慣。My brother ___ TV every day.",
+    "options": [
+      "watches",
+      "watch",
+      "watching",
+      "to watch"
+    ],
+    "answer": 0,
+    "explanation": "My brotherは三人称単数。現在形の肯定文ではwatchをwatchesにする。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-010",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。___ my brother watch TV?",
+    "options": [
+      "Do",
+      "Is",
+      "Are",
+      "Does"
+    ],
+    "answer": 3,
+    "explanation": "三人称単数の一般動詞の現在形の疑問文はDoes＋主語＋原形。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-011",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。My brother does not ___ TV.",
+    "options": [
+      "watching",
+      "to watch",
+      "watch",
+      "watches"
+    ],
+    "answer": 2,
+    "explanation": "does notの後は動詞の原形watch。三単現の形watchesは使わない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-012",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "「Does my brother watch TV?」で、主語をtheyに変えた疑問文は？",
+    "options": [
+      "Are they watch TV?",
+      "Do they watch TV?",
+      "Does they watch TV?",
+      "Do they watches TV?"
+    ],
+    "answer": 1,
+    "explanation": "theyは複数なのでDoを使い、動詞は原形watch。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-013",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "毎日の習慣。Miki ___ a bike every day.",
+    "options": [
+      "has",
+      "have",
+      "haveing",
+      "to have"
+    ],
+    "answer": 0,
+    "explanation": "Mikiは三人称単数。現在形の肯定文ではhaveをhasにする。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-014",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。___ Miki have a bike?",
+    "options": [
+      "Do",
+      "Is",
+      "Are",
+      "Does"
+    ],
+    "answer": 3,
+    "explanation": "三人称単数の一般動詞の現在形の疑問文はDoes＋主語＋原形。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-015",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。Miki does not ___ a bike.",
+    "options": [
+      "haveing",
+      "to have",
+      "have",
+      "has"
+    ],
+    "answer": 2,
+    "explanation": "does notの後は動詞の原形have。三単現の形hasは使わない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-016",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "「Does Miki have a bike?」で、主語をtheyに変えた疑問文は？",
+    "options": [
+      "Are they have a bike?",
+      "Do they have a bike?",
+      "Does they have a bike?",
+      "Do they has a bike?"
+    ],
+    "answer": 1,
+    "explanation": "theyは複数なのでDoを使い、動詞は原形have。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-017",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "毎日の習慣。Our teacher ___ English every day.",
+    "options": [
+      "teaches",
+      "teach",
+      "teaching",
+      "to teach"
+    ],
+    "answer": 0,
+    "explanation": "Our teacherは三人称単数。現在形の肯定文ではteachをteachesにする。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-018",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。___ our teacher teach English?",
+    "options": [
+      "Do",
+      "Is",
+      "Are",
+      "Does"
+    ],
+    "answer": 3,
+    "explanation": "三人称単数の一般動詞の現在形の疑問文はDoes＋主語＋原形。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-019",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "空所を選ぶ。Our teacher does not ___ English.",
+    "options": [
+      "teaching",
+      "to teach",
+      "teach",
+      "teaches"
+    ],
+    "answer": 2,
+    "explanation": "does notの後は動詞の原形teach。三単現の形teachesは使わない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u03-020",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問文と三単現",
+    "difficulty": "basic",
+    "question": "「Does our teacher teach English?」で、主語をtheyに変えた疑問文は？",
+    "options": [
+      "Are they teach English?",
+      "Do they teach English?",
+      "Does they teach English?",
+      "Do they teaches English?"
+    ],
+    "answer": 1,
+    "explanation": "theyは複数なのでDoを使い、動詞は原形teach。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  }
+]

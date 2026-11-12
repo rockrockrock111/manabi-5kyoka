@@ -1,0 +1,614 @@
+[
+  {
+    "id": "q013",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "一次方程式",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "question": "3x＋5=20 のxは？",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "3x=15、x=5。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q014",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "一次方程式",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "question": "x/2=6 のxは？",
+    "options": [
+      "3",
+      "8",
+      "12",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "両辺を2倍する。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q015",
+    "subject": "数学",
+    "grade": 1,
+    "unit": "一次方程式",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "question": "2x−7=1 のxは？",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "2x=8、x=4。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "math-g1-u03-001",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "x＋4＝6 を解くとxは？",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "両辺から4を引き、x＝2。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "6-4"
+    }
+  },
+  {
+    "id": "math-g1-u03-002",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "4x＝12 を解くとxは？",
+    "options": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "両辺を4で割るとx＝3。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "12/4"
+    }
+  },
+  {
+    "id": "math-g1-u03-003",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "5x−6＝14 を解くとxは？",
+    "options": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "両辺に6を足し、5x＝20。5で割ってx＝4。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(14+6)/5"
+    }
+  },
+  {
+    "id": "math-g1-u03-004",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "1個20円の品をx個買い、70円の袋を付けると170円。xは？",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "20x＋70＝170。袋代を引いて単価で割り、5個。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(170-70)/20"
+    }
+  },
+  {
+    "id": "math-g1-u03-005",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "3(x＋8)＝42 を解くとxは？",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "両辺を3で割り、x＋8＝14。よってx＝6。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "42/3-8"
+    }
+  },
+  {
+    "id": "math-g1-u03-006",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "x＋9＝16 を解くとxは？",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "両辺から9を引き、x＝7。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "16-9"
+    }
+  },
+  {
+    "id": "math-g1-u03-007",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "5x＝40 を解くとxは？",
+    "options": [
+      "7",
+      "10",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "両辺を5で割るとx＝8。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "40/5"
+    }
+  },
+  {
+    "id": "math-g1-u03-008",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "2x−11＝7 を解くとxは？",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "両辺に11を足し、2x＝18。2で割ってx＝9。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(7+11)/2"
+    }
+  },
+  {
+    "id": "math-g1-u03-009",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "1個30円の品をx個買い、120円の袋を付けると420円。xは？",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "30x＋120＝420。袋代を引いて単価で割り、10個。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(420-120)/30"
+    }
+  },
+  {
+    "id": "math-g1-u03-010",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "4(x＋13)＝96 を解くとxは？",
+    "options": [
+      "12",
+      "10",
+      "13",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "両辺を4で割り、x＋13＝24。よってx＝11。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "96/4-13"
+    }
+  },
+  {
+    "id": "math-g1-u03-011",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "x＋14＝26 を解くとxは？",
+    "options": [
+      "11",
+      "14",
+      "12",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "両辺から14を引き、x＝12。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "26-14"
+    }
+  },
+  {
+    "id": "math-g1-u03-012",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "2x＝26 を解くとxは？",
+    "options": [
+      "15",
+      "13",
+      "14",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "両辺を2で割るとx＝13。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "26/2"
+    }
+  },
+  {
+    "id": "math-g1-u03-013",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "3x−16＝26 を解くとxは？",
+    "options": [
+      "14",
+      "15",
+      "13",
+      "16"
+    ],
+    "answer": 0,
+    "explanation": "両辺に16を足し、3x＝42。3で割ってx＝14。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(26+16)/3"
+    }
+  },
+  {
+    "id": "math-g1-u03-014",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "1個40円の品をx個買い、170円の袋を付けると770円。xは？",
+    "options": [
+      "16",
+      "14",
+      "17",
+      "15"
+    ],
+    "answer": 3,
+    "explanation": "40x＋170＝770。袋代を引いて単価で割り、15個。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(770-170)/40"
+    }
+  },
+  {
+    "id": "math-g1-u03-015",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "5(x＋18)＝170 を解くとxは？",
+    "options": [
+      "15",
+      "18",
+      "16",
+      "17"
+    ],
+    "answer": 2,
+    "explanation": "両辺を5で割り、x＋18＝34。よってx＝16。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "170/5-18"
+    }
+  },
+  {
+    "id": "math-g1-u03-016",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "x＋19＝36 を解くとxは？",
+    "options": [
+      "19",
+      "17",
+      "18",
+      "16"
+    ],
+    "answer": 1,
+    "explanation": "両辺から19を引き、x＝17。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "36-19"
+    }
+  },
+  {
+    "id": "math-g1-u03-017",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "3x＝54 を解くとxは？",
+    "options": [
+      "18",
+      "19",
+      "17",
+      "20"
+    ],
+    "answer": 0,
+    "explanation": "両辺を3で割るとx＝18。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "54/3"
+    }
+  },
+  {
+    "id": "math-g1-u03-018",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "4x−21＝55 を解くとxは？",
+    "options": [
+      "20",
+      "18",
+      "21",
+      "19"
+    ],
+    "answer": 3,
+    "explanation": "両辺に21を足し、4x＝76。4で割ってx＝19。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(55+21)/4"
+    }
+  },
+  {
+    "id": "math-g1-u03-019",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "1個50円の品をx個買い、220円の袋を付けると1220円。xは？",
+    "options": [
+      "19",
+      "22",
+      "20",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "50x＋220＝1220。袋代を引いて単価で割り、20個。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(1220-220)/50"
+    }
+  },
+  {
+    "id": "math-g1-u03-020",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "2(x＋23)＝88 を解くとxは？",
+    "options": [
+      "23",
+      "21",
+      "22",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "両辺を2で割り、x＋23＝44。よってx＝21。",
+    "prereq": [
+      "数学|1|文字式"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "88/2-23"
+    }
+  },
+  {
+    "id": "math-g1-u03-021",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "x/3＝4を解くと？",
+    "options": [
+      "12",
+      "7",
+      "1",
+      "4/3"
+    ],
+    "answer": 0,
+    "explanation": "両辺に3を掛け、x＝12。",
+    "prereq": [
+      "数学|1|文字式"
+    ]
+  },
+  {
+    "id": "math-g1-u03-022",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "0.5x＝3を解くと？",
+    "options": [
+      "1.5",
+      "3.5",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "両辺を0.5で割るとx＝6。",
+    "prereq": [
+      "数学|1|文字式"
+    ]
+  },
+  {
+    "id": "math-g1-u03-023",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "2x＋1＝x＋7を解くと？",
+    "options": [
+      "3",
+      "−6",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "両辺からxと1を引くとx＝6。",
+    "prereq": [
+      "数学|1|文字式"
+    ]
+  },
+  {
+    "id": "math-g1-u03-024",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "a:b＝2:3でa＝8のとき、bは？",
+    "options": [
+      "16",
+      "12",
+      "4",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "2を4倍して8になるので、3も4倍して12。",
+    "prereq": [
+      "数学|1|文字式"
+    ]
+  },
+  {
+    "id": "math-g1-u03-025",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "一次方程式",
+    "difficulty": "basic",
+    "question": "時速4kmでx時間歩いて12km進んだ。xは？",
+    "options": [
+      "3",
+      "8",
+      "16",
+      "48"
+    ],
+    "answer": 0,
+    "explanation": "距離＝速さ×時間より4x＝12。x＝3時間。",
+    "prereq": [
+      "数学|1|文字式"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q085",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "物質の性質",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "密度の求め方は？",
+    "options": [
+      "質量÷体積",
+      "体積÷質量",
+      "質量×体積",
+      "体積＋質量"
+    ],
+    "answer": 0,
+    "explanation": "密度=質量/体積。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q086",
+    "subject": "理科",
+    "grade": 1,
+    "unit": "物質の性質",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ],
+    "question": "食塩が水に溶けた液は？",
+    "options": [
+      "混合物",
+      "純物質",
+      "単体",
+      "金属"
+    ],
+    "answer": 0,
+    "explanation": "食塩水は混合物。",
+    "difficulty": "basic"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q057",
+    "subject": "英語",
+    "grade": 3,
+    "unit": "現在完了",
+    "prereq": [
+      "英語|1|過去形"
+    ],
+    "question": "I have ___ my homework.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answer": 2,
+    "explanation": "have＋過去分詞。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q058",
+    "subject": "英語",
+    "grade": 3,
+    "unit": "現在完了",
+    "prereq": [
+      "英語|1|過去形"
+    ],
+    "question": "「ずっと〜している」を表す現在完了で使うのは？",
+    "options": [
+      "have＋過去分詞",
+      "be＋原形",
+      "do＋原形",
+      "will＋過去形"
+    ],
+    "answer": 0,
+    "explanation": "現在完了はhave/has＋過去分詞。",
+    "difficulty": "basic"
+  }
+]

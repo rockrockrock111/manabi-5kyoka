@@ -1,0 +1,40 @@
+[
+  {
+    "id": "q029",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "平方根",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "question": "√49 は？",
+    "options": [
+      "±7",
+      "7",
+      "−7",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "√49は0以上の平方根。",
+    "difficulty": "basic"
+  },
+  {
+    "id": "q030",
+    "subject": "数学",
+    "grade": 3,
+    "unit": "平方根",
+    "prereq": [
+      "数学|1|正負の数"
+    ],
+    "question": "√8を簡単にすると？",
+    "options": [
+      "4√2",
+      "2√2",
+      "√4",
+      "8√2"
+    ],
+    "answer": 1,
+    "explanation": "√8=√(4×2)=2√2。",
+    "difficulty": "basic"
+  }
+]
