@@ -17,5 +17,575 @@
     "answer": 1,
     "explanation": "becauseは理由を表す。",
     "difficulty": "basic"
+  },
+  {
+    "id": "english-g2-u04-001",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "Ken stayed home ___ it was rainy. 理由を示す語は？",
+    "options": [
+      "because",
+      "but",
+      "or",
+      "than"
+    ],
+    "answer": 0,
+    "explanation": "becauseは「〜なので」と理由を導く。雨だったことが家にいた理由。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-002",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "I was eating bread ___ Ken called me. 「〜したとき」を表す語は？",
+    "options": [
+      "because",
+      "or",
+      "than",
+      "when"
+    ],
+    "answer": 3,
+    "explanation": "whenは時を表す節を導く。電話があったときに食べていた。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-003",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "___ it is sunny tomorrow, Ken will go to the park. 条件を表す語は？",
+    "options": [
+      "Than",
+      "Or",
+      "If",
+      "Because"
+    ],
+    "answer": 2,
+    "explanation": "ifは「もし〜ならば」。未来の条件でもif節内は現在形is。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-004",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "Ken likes bread, ___ I do not. 対比を示す語は？",
+    "options": [
+      "when",
+      "but",
+      "because",
+      "if"
+    ],
+    "answer": 1,
+    "explanation": "butは「しかし」。好きだという前半と、そうでない後半を対比する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-005",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "standard",
+    "question": "It was rainy, so Ken stayed home. 家にいた理由として本文に合うものは？",
+    "options": [
+      "雨が降っていたから",
+      "晴れていたから",
+      "食べ物がなかったから",
+      "明日休みだから"
+    ],
+    "answer": 0,
+    "explanation": "soの前に原因、後に結果がある。It was rainyが原因。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-006",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "standard",
+    "question": "If Ken finishes homework, Ken will go to the park. 本文だけからいえるのは？",
+    "options": [
+      "宿題が必ず終わった",
+      "もう出かけて帰った",
+      "宿題をしないと決めた",
+      "宿題が終われば出かける予定だ"
+    ],
+    "answer": 3,
+    "explanation": "if節は条件を示すだけで、宿題の完了を断定していない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-007",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "Aya stayed home ___ it was rainy. 理由を示す語は？",
+    "options": [
+      "or",
+      "than",
+      "because",
+      "but"
+    ],
+    "answer": 2,
+    "explanation": "becauseは「〜なので」と理由を導く。雨だったことが家にいた理由。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-008",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "I was eating rice ___ Aya called me. 「〜したとき」を表す語は？",
+    "options": [
+      "than",
+      "when",
+      "because",
+      "or"
+    ],
+    "answer": 1,
+    "explanation": "whenは時を表す節を導く。電話があったときに食べていた。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-009",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "___ it is sunny tomorrow, Aya will go to the library. 条件を表す語は？",
+    "options": [
+      "If",
+      "Because",
+      "Than",
+      "Or"
+    ],
+    "answer": 0,
+    "explanation": "ifは「もし〜ならば」。未来の条件でもif節内は現在形is。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-010",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "Aya likes rice, ___ I do not. 対比を示す語は？",
+    "options": [
+      "because",
+      "if",
+      "when",
+      "but"
+    ],
+    "answer": 3,
+    "explanation": "butは「しかし」。好きだという前半と、そうでない後半を対比する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-011",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "standard",
+    "question": "It was rainy, so Aya stayed home. 家にいた理由として本文に合うものは？",
+    "options": [
+      "食べ物がなかったから",
+      "明日休みだから",
+      "雨が降っていたから",
+      "晴れていたから"
+    ],
+    "answer": 2,
+    "explanation": "soの前に原因、後に結果がある。It was rainyが原因。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-012",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "standard",
+    "question": "If Aya finishes homework, Aya will go to the library. 本文だけからいえるのは？",
+    "options": [
+      "宿題をしないと決めた",
+      "宿題が終われば出かける予定だ",
+      "宿題が必ず終わった",
+      "もう出かけて帰った"
+    ],
+    "answer": 1,
+    "explanation": "if節は条件を示すだけで、宿題の完了を断定していない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-013",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "Mina stayed home ___ it was rainy. 理由を示す語は？",
+    "options": [
+      "because",
+      "but",
+      "or",
+      "than"
+    ],
+    "answer": 0,
+    "explanation": "becauseは「〜なので」と理由を導く。雨だったことが家にいた理由。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-014",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "I was eating fruit ___ Mina called me. 「〜したとき」を表す語は？",
+    "options": [
+      "because",
+      "or",
+      "than",
+      "when"
+    ],
+    "answer": 3,
+    "explanation": "whenは時を表す節を導く。電話があったときに食べていた。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-015",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "___ it is sunny tomorrow, Mina will go to the station. 条件を表す語は？",
+    "options": [
+      "Than",
+      "Or",
+      "If",
+      "Because"
+    ],
+    "answer": 2,
+    "explanation": "ifは「もし〜ならば」。未来の条件でもif節内は現在形is。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-016",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "Mina likes fruit, ___ I do not. 対比を示す語は？",
+    "options": [
+      "when",
+      "but",
+      "because",
+      "if"
+    ],
+    "answer": 1,
+    "explanation": "butは「しかし」。好きだという前半と、そうでない後半を対比する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-017",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "standard",
+    "question": "It was rainy, so Mina stayed home. 家にいた理由として本文に合うものは？",
+    "options": [
+      "雨が降っていたから",
+      "晴れていたから",
+      "食べ物がなかったから",
+      "明日休みだから"
+    ],
+    "answer": 0,
+    "explanation": "soの前に原因、後に結果がある。It was rainyが原因。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-018",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "standard",
+    "question": "If Mina finishes homework, Mina will go to the station. 本文だけからいえるのは？",
+    "options": [
+      "宿題が必ず終わった",
+      "もう出かけて帰った",
+      "宿題をしないと決めた",
+      "宿題が終われば出かける予定だ"
+    ],
+    "answer": 3,
+    "explanation": "if節は条件を示すだけで、宿題の完了を断定していない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-019",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "Riku stayed home ___ it was rainy. 理由を示す語は？",
+    "options": [
+      "or",
+      "than",
+      "because",
+      "but"
+    ],
+    "answer": 2,
+    "explanation": "becauseは「〜なので」と理由を導く。雨だったことが家にいた理由。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-020",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "I was eating soup ___ Riku called me. 「〜したとき」を表す語は？",
+    "options": [
+      "than",
+      "when",
+      "because",
+      "or"
+    ],
+    "answer": 1,
+    "explanation": "whenは時を表す節を導く。電話があったときに食べていた。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-021",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "___ it is sunny tomorrow, Riku will go to the school. 条件を表す語は？",
+    "options": [
+      "If",
+      "Because",
+      "Than",
+      "Or"
+    ],
+    "answer": 0,
+    "explanation": "ifは「もし〜ならば」。未来の条件でもif節内は現在形is。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-022",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "Riku likes soup, ___ I do not. 対比を示す語は？",
+    "options": [
+      "because",
+      "if",
+      "when",
+      "but"
+    ],
+    "answer": 3,
+    "explanation": "butは「しかし」。好きだという前半と、そうでない後半を対比する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-023",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "standard",
+    "question": "It was rainy, so Riku stayed home. 家にいた理由として本文に合うものは？",
+    "options": [
+      "食べ物がなかったから",
+      "明日休みだから",
+      "雨が降っていたから",
+      "晴れていたから"
+    ],
+    "answer": 2,
+    "explanation": "soの前に原因、後に結果がある。It was rainyが原因。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-024",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "standard",
+    "question": "If Riku finishes homework, Riku will go to the school. 本文だけからいえるのは？",
+    "options": [
+      "宿題をしないと決めた",
+      "宿題が終われば出かける予定だ",
+      "宿題が必ず終わった",
+      "もう出かけて帰った"
+    ],
+    "answer": 1,
+    "explanation": "if節は条件を示すだけで、宿題の完了を断定していない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-025",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "Emi stayed home ___ it was rainy. 理由を示す語は？",
+    "options": [
+      "because",
+      "but",
+      "or",
+      "than"
+    ],
+    "answer": 0,
+    "explanation": "becauseは「〜なので」と理由を導く。雨だったことが家にいた理由。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-026",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "I was eating salad ___ Emi called me. 「〜したとき」を表す語は？",
+    "options": [
+      "because",
+      "or",
+      "than",
+      "when"
+    ],
+    "answer": 3,
+    "explanation": "whenは時を表す節を導く。電話があったときに食べていた。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-027",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "___ it is sunny tomorrow, Emi will go to the museum. 条件を表す語は？",
+    "options": [
+      "Than",
+      "Or",
+      "If",
+      "Because"
+    ],
+    "answer": 2,
+    "explanation": "ifは「もし〜ならば」。未来の条件でもif節内は現在形is。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-028",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "basic",
+    "question": "Emi likes salad, ___ I do not. 対比を示す語は？",
+    "options": [
+      "when",
+      "but",
+      "because",
+      "if"
+    ],
+    "answer": 1,
+    "explanation": "butは「しかし」。好きだという前半と、そうでない後半を対比する。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-029",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "standard",
+    "question": "It was rainy, so Emi stayed home. 家にいた理由として本文に合うものは？",
+    "options": [
+      "雨が降っていたから",
+      "晴れていたから",
+      "食べ物がなかったから",
+      "明日休みだから"
+    ],
+    "answer": 0,
+    "explanation": "soの前に原因、後に結果がある。It was rainyが原因。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g2-u04-030",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "接続詞",
+    "difficulty": "standard",
+    "question": "If Emi finishes homework, Emi will go to the museum. 本文だけからいえるのは？",
+    "options": [
+      "宿題が必ず終わった",
+      "もう出かけて帰った",
+      "宿題をしないと決めた",
+      "宿題が終われば出かける予定だ"
+    ],
+    "answer": 3,
+    "explanation": "if節は条件を示すだけで、宿題の完了を断定していない。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
   }
 ]

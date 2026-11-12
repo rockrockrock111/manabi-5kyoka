@@ -36,5 +36,385 @@
     "answer": 1,
     "explanation": "小腸の柔毛で吸収する。",
     "difficulty": "basic"
+  },
+  {
+    "id": "science-g2-u03-001",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "説明「食物を吸収しやすい小さな物質に分解すること」に最もよく当てはまる用語は？",
+    "options": [
+      "消化",
+      "消化酵素",
+      "柔毛",
+      "白血球"
+    ],
+    "answer": 0,
+    "explanation": "消化とは、食物を吸収しやすい小さな物質に分解すること。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-002",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "デンプンが消化され最終的に吸収される主な形は？",
+    "options": [
+      "脂肪酸だけ",
+      "アミノ酸だけ",
+      "デンプンの大きな粒のまま",
+      "ブドウ糖"
+    ],
+    "answer": 3,
+    "explanation": "デンプンは最終的にブドウ糖まで分解される。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-003",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "説明「消化の化学反応を助ける物質」に最もよく当てはまる用語は？",
+    "options": [
+      "肺胞",
+      "血小板",
+      "消化酵素",
+      "小腸"
+    ],
+    "answer": 2,
+    "explanation": "消化酵素とは、消化の化学反応を助ける物質。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-004",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "だ液のアミラーゼが主に分解する物質は？",
+    "options": [
+      "食塩",
+      "デンプン",
+      "すべての脂肪",
+      "すべてのタンパク質"
+    ],
+    "answer": 1,
+    "explanation": "酵素にははたらく相手の違いがある。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-005",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "説明「消化と養分の吸収を主に行う消化管」に最もよく当てはまる用語は？",
+    "options": [
+      "小腸",
+      "柔毛",
+      "赤血球",
+      "腎臓"
+    ],
+    "answer": 0,
+    "explanation": "小腸とは、消化と養分の吸収を主に行う消化管。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-006",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "消化された養分を主に吸収する場所は？",
+    "options": [
+      "食道",
+      "気管",
+      "心臓",
+      "小腸"
+    ],
+    "answer": 3,
+    "explanation": "内側の柔毛で効率よく吸収する。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-007",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "説明「小腸の内側にある小さな突起」に最もよく当てはまる用語は？",
+    "options": [
+      "白血球",
+      "反射",
+      "柔毛",
+      "肺胞"
+    ],
+    "answer": 2,
+    "explanation": "柔毛とは、小腸の内側にある小さな突起。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-008",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "柔毛が多いことの利点は？",
+    "options": [
+      "血液を完全に止める",
+      "吸収面積が大きくなる",
+      "食物を外へはじく",
+      "酸素を作る"
+    ],
+    "answer": 1,
+    "explanation": "表面積を増やし養分を吸収しやすくする。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-009",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "説明「肺の中にある小さな袋状のつくり」に最もよく当てはまる用語は？",
+    "options": [
+      "肺胞",
+      "赤血球",
+      "血小板",
+      "消化"
+    ],
+    "answer": 0,
+    "explanation": "肺胞とは、肺の中にある小さな袋状のつくり。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-010",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "肺胞で空気から血液へ主に移動する気体は？",
+    "options": [
+      "窒素だけ",
+      "水素",
+      "ヘリウム",
+      "酸素"
+    ],
+    "answer": 3,
+    "explanation": "酸素を取り込み二酸化炭素を出す。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-011",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "説明「ヘモグロビンを含み主に酸素を運ぶ血球」に最もよく当てはまる用語は？",
+    "options": [
+      "腎臓",
+      "消化酵素",
+      "赤血球",
+      "白血球"
+    ],
+    "answer": 2,
+    "explanation": "赤血球とは、ヘモグロビンを含み主に酸素を運ぶ血球。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-012",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "血液中で酸素運搬を主に担うものは？",
+    "options": [
+      "胆汁",
+      "赤血球",
+      "血小板",
+      "白血球だけ"
+    ],
+    "answer": 1,
+    "explanation": "ヘモグロビンが酸素と結び付く。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-013",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "説明「体内の異物などから体を守る血球」に最もよく当てはまる用語は？",
+    "options": [
+      "白血球",
+      "血小板",
+      "反射",
+      "小腸"
+    ],
+    "answer": 0,
+    "explanation": "白血球とは、体内の異物などから体を守る血球。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-014",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "病原体を取り込むなどの防御に関わる血球は？",
+    "options": [
+      "赤血球だけ",
+      "血小板だけ",
+      "柔毛",
+      "白血球"
+    ],
+    "answer": 3,
+    "explanation": "免疫のはたらきに関わる。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-015",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "説明「出血時に血液を固めるはたらきに関わる成分」に最もよく当てはまる用語は？",
+    "options": [
+      "消化",
+      "柔毛",
+      "血小板",
+      "腎臓"
+    ],
+    "answer": 2,
+    "explanation": "血小板とは、出血時に血液を固めるはたらきに関わる成分。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-016",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "傷口で血が止まる過程に重要なのは？",
+    "options": [
+      "デンプン",
+      "血小板",
+      "肺胞",
+      "胆汁"
+    ],
+    "answer": 1,
+    "explanation": "血液凝固のきっかけなどに関わる。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-017",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "説明「血液中の不要物を取り除き尿を作る器官」に最もよく当てはまる用語は？",
+    "options": [
+      "腎臓",
+      "反射",
+      "消化酵素",
+      "肺胞"
+    ],
+    "answer": 0,
+    "explanation": "腎臓とは、血液中の不要物を取り除き尿を作る器官。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-018",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "尿素などを血液から取り除き尿を作る器官は？",
+    "options": [
+      "胃",
+      "心臓",
+      "小腸",
+      "腎臓"
+    ],
+    "answer": 3,
+    "explanation": "腎臓がろ過と再吸収などを行う。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-019",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "説明「刺激に対し意識による判断の前に起こる反応」に最もよく当てはまる用語は？",
+    "options": [
+      "小腸",
+      "赤血球",
+      "反射",
+      "消化"
+    ],
+    "answer": 2,
+    "explanation": "反射とは、刺激に対し意識による判断の前に起こる反応。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u03-020",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "動物のからだ",
+    "difficulty": "basic",
+    "question": "熱い物に触れ思わず手を引く反応は？",
+    "options": [
+      "蒸散",
+      "反射",
+      "光合成",
+      "受粉"
+    ],
+    "answer": 1,
+    "explanation": "感覚からの情報が脊髄などを介して速く運動へ伝わる。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
   }
 ]

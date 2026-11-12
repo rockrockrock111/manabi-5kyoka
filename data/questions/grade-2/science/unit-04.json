@@ -17,5 +17,385 @@
     "answer": 0,
     "explanation": "空気が冷え水蒸気が水滴になる。",
     "difficulty": "basic"
+  },
+  {
+    "id": "science-g2-u04-001",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "説明「空気の重さなどにより生じる圧力」に最もよく当てはまる用語は？",
+    "options": [
+      "気圧",
+      "等圧線",
+      "低気圧",
+      "前線"
+    ],
+    "answer": 0,
+    "explanation": "気圧とは、空気の重さなどにより生じる圧力。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-002",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "大気圧は方向についてどうはたらく？",
+    "options": [
+      "下向きだけ",
+      "上向きだけ",
+      "水平方向だけ",
+      "あらゆる向きにはたらく"
+    ],
+    "answer": 3,
+    "explanation": "空気はさまざまな向きに面を押す。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-003",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "説明「気圧の等しい地点を結ぶ線」に最もよく当てはまる用語は？",
+    "options": [
+      "湿度",
+      "寒冷前線",
+      "等圧線",
+      "高気圧"
+    ],
+    "answer": 2,
+    "explanation": "等圧線とは、気圧の等しい地点を結ぶ線。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-004",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "天気図で等圧線の間隔が狭い所は一般に？",
+    "options": [
+      "必ず真夏",
+      "風が強い",
+      "必ず無風",
+      "必ず最高気温"
+    ],
+    "answer": 1,
+    "explanation": "気圧の変化が大きく風が強まりやすい。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-005",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "説明「周囲より気圧が高い領域」に最もよく当てはまる用語は？",
+    "options": [
+      "高気圧",
+      "低気圧",
+      "露点",
+      "温暖前線"
+    ],
+    "answer": 0,
+    "explanation": "高気圧とは、周囲より気圧が高い領域。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-006",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "北半球の地表付近の高気圧で風は一般に？",
+    "options": [
+      "反時計回りに吹き込む",
+      "必ず中心で上昇のみ",
+      "直線で南へだけ",
+      "時計回りに吹き出す"
+    ],
+    "answer": 3,
+    "explanation": "地表付近では下降気流と吹き出す風が見られる。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-007",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "説明「周囲より気圧が低い領域」に最もよく当てはまる用語は？",
+    "options": [
+      "前線",
+      "季節風",
+      "低気圧",
+      "湿度"
+    ],
+    "answer": 2,
+    "explanation": "低気圧とは、周囲より気圧が低い領域。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-008",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "北半球の地表付近の低気圧で風は一般に？",
+    "options": [
+      "常に快晴のみ",
+      "反時計回りに吹き込む",
+      "時計回りに吹き出す",
+      "必ず無風"
+    ],
+    "answer": 1,
+    "explanation": "風が集まり上昇気流が生じやすい。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-009",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "説明「飽和水蒸気量に対する実際の水蒸気量の割合」に最もよく当てはまる用語は？",
+    "options": [
+      "湿度",
+      "露点",
+      "寒冷前線",
+      "気圧"
+    ],
+    "answer": 0,
+    "explanation": "湿度とは、飽和水蒸気量に対する実際の水蒸気量の割合。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-010",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "飽和水蒸気量20g/m³、実際10g/m³の湿度は？",
+    "options": [
+      "10%",
+      "20%",
+      "200%",
+      "50%"
+    ],
+    "answer": 3,
+    "explanation": "10/20×100＝50%。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-011",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "説明「空気を冷やしたとき水滴ができ始める温度」に最もよく当てはまる用語は？",
+    "options": [
+      "温暖前線",
+      "等圧線",
+      "露点",
+      "前線"
+    ],
+    "answer": 2,
+    "explanation": "露点とは、空気を冷やしたとき水滴ができ始める温度。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-012",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "コップを冷やすと表面に水滴ができ始めた。この温度の目安は？",
+    "options": [
+      "必ず0℃",
+      "露点",
+      "沸点",
+      "融点"
+    ],
+    "answer": 1,
+    "explanation": "水蒸気が飽和し凝縮し始める。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-013",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "説明「暖気と寒気の境界面が地表と交わる線」に最もよく当てはまる用語は？",
+    "options": [
+      "前線",
+      "寒冷前線",
+      "季節風",
+      "高気圧"
+    ],
+    "answer": 0,
+    "explanation": "前線とは、暖気と寒気の境界面が地表と交わる線。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-014",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "暖気と寒気の境界が地表に接する所は？",
+    "options": [
+      "等高線",
+      "海溝",
+      "震央",
+      "前線"
+    ],
+    "answer": 3,
+    "explanation": "気団間の境界と地表の交線。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-015",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "説明「寒気が暖気の下へ入り暖気を押し上げる前線」に最もよく当てはまる用語は？",
+    "options": [
+      "気圧",
+      "低気圧",
+      "寒冷前線",
+      "温暖前線"
+    ],
+    "answer": 2,
+    "explanation": "寒冷前線とは、寒気が暖気の下へ入り暖気を押し上げる前線。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-016",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "通過時に短時間の強い雨をもたらしやすい前線は？",
+    "options": [
+      "日付変更線",
+      "寒冷前線",
+      "温暖前線だけ",
+      "等圧線"
+    ],
+    "answer": 1,
+    "explanation": "暖気を急に押し上げ積乱雲などが発達する。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-017",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "説明「暖気が寒気の上をはい上がる前線」に最もよく当てはまる用語は？",
+    "options": [
+      "温暖前線",
+      "季節風",
+      "等圧線",
+      "湿度"
+    ],
+    "answer": 0,
+    "explanation": "温暖前線とは、暖気が寒気の上をはい上がる前線。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-018",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "広い範囲で比較的長い雨になりやすい前線は？",
+    "options": [
+      "寒冷前線だけ",
+      "地層",
+      "海岸線",
+      "温暖前線"
+    ],
+    "answer": 3,
+    "explanation": "暖気が緩やかに上昇し層状の雲が広がる。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-019",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "説明「季節によって卓越する向きが変わる風」に最もよく当てはまる用語は？",
+    "options": [
+      "高気圧",
+      "露点",
+      "季節風",
+      "気圧"
+    ],
+    "answer": 2,
+    "explanation": "季節風とは、季節によって卓越する向きが変わる風。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
+  },
+  {
+    "id": "science-g2-u04-020",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "天気の変化",
+    "difficulty": "basic",
+    "question": "日本の冬に大陸側から吹きやすい風は？",
+    "options": [
+      "無風だけ",
+      "北西の季節風",
+      "常に南東だけ",
+      "南西の貿易風だけ"
+    ],
+    "answer": 1,
+    "explanation": "大陸に高気圧が発達し日本付近へ北西風が吹きやすい。",
+    "prereq": [
+      "理科|1|地層と地震"
+    ]
   }
 ]

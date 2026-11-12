@@ -416,5 +416,195 @@
     "prereq": [
       "英語|1|一般動詞"
     ]
+  },
+  {
+    "id": "english-g1-u04-021",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "standard",
+    "question": "Ken bought a pen yesterday. この文を否定する正しい英文は？",
+    "options": [
+      "Ken did not buy a pen yesterday.",
+      "Ken did not bought a pen yesterday.",
+      "Ken does not bought a pen yesterday.",
+      "Ken was not buy a pen yesterday."
+    ],
+    "answer": 0,
+    "explanation": "過去の一般動詞の否定はdid not＋原形。boughtをbuyに戻す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-022",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "standard",
+    "question": "Yesterday Ken bought a pen. Today Ken is at school. 昨日の行動を表す動詞は？",
+    "options": [
+      "is",
+      "Today",
+      "school",
+      "bought"
+    ],
+    "answer": 3,
+    "explanation": "yesterdayとともに用いた過去形boughtが昨日の動作を示す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-023",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "standard",
+    "question": "Aya wrote a letter yesterday. この文を否定する正しい英文は？",
+    "options": [
+      "Aya does not wrote a letter yesterday.",
+      "Aya was not write a letter yesterday.",
+      "Aya did not write a letter yesterday.",
+      "Aya did not wrote a letter yesterday."
+    ],
+    "answer": 2,
+    "explanation": "過去の一般動詞の否定はdid not＋原形。wroteをwriteに戻す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-024",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "standard",
+    "question": "Yesterday Aya wrote a letter. Today Aya is at school. 昨日の行動を表す動詞は？",
+    "options": [
+      "school",
+      "wrote",
+      "is",
+      "Today"
+    ],
+    "answer": 1,
+    "explanation": "yesterdayとともに用いた過去形wroteが昨日の動作を示す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-025",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "standard",
+    "question": "Mina took a picture yesterday. この文を否定する正しい英文は？",
+    "options": [
+      "Mina did not take a picture yesterday.",
+      "Mina did not took a picture yesterday.",
+      "Mina does not took a picture yesterday.",
+      "Mina was not take a picture yesterday."
+    ],
+    "answer": 0,
+    "explanation": "過去の一般動詞の否定はdid not＋原形。tookをtakeに戻す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-026",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "standard",
+    "question": "Yesterday Mina took a picture. Today Mina is at school. 昨日の行動を表す動詞は？",
+    "options": [
+      "is",
+      "Today",
+      "school",
+      "took"
+    ],
+    "answer": 3,
+    "explanation": "yesterdayとともに用いた過去形tookが昨日の動作を示す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-027",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "standard",
+    "question": "Riku came home yesterday. この文を否定する正しい英文は？",
+    "options": [
+      "Riku does not came home yesterday.",
+      "Riku was not come home yesterday.",
+      "Riku did not come home yesterday.",
+      "Riku did not came home yesterday."
+    ],
+    "answer": 2,
+    "explanation": "過去の一般動詞の否定はdid not＋原形。cameをcomeに戻す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-028",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "standard",
+    "question": "Yesterday Riku came home. Today Riku is at school. 昨日の行動を表す動詞は？",
+    "options": [
+      "school",
+      "came",
+      "is",
+      "Today"
+    ],
+    "answer": 1,
+    "explanation": "yesterdayとともに用いた過去形cameが昨日の動作を示す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-029",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "standard",
+    "question": "Emi got a ticket yesterday. この文を否定する正しい英文は？",
+    "options": [
+      "Emi did not get a ticket yesterday.",
+      "Emi did not got a ticket yesterday.",
+      "Emi does not got a ticket yesterday.",
+      "Emi was not get a ticket yesterday."
+    ],
+    "answer": 0,
+    "explanation": "過去の一般動詞の否定はdid not＋原形。gotをgetに戻す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u04-030",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "過去形",
+    "difficulty": "standard",
+    "question": "Yesterday Emi got a ticket. Today Emi is at school. 昨日の行動を表す動詞は？",
+    "options": [
+      "is",
+      "Today",
+      "school",
+      "got"
+    ],
+    "answer": 3,
+    "explanation": "yesterdayとともに用いた過去形gotが昨日の動作を示す。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
   }
 ]

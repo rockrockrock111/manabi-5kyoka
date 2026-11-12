@@ -36,5 +36,575 @@
     "answer": 0,
     "explanation": "be going to＋原形。",
     "difficulty": "basic"
+  },
+  {
+    "id": "english-g2-u01-001",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "未来の予定。I am going to ___ Kyoto tomorrow.",
+    "options": [
+      "visit",
+      "visits",
+      "visiting",
+      "to visit"
+    ],
+    "answer": 0,
+    "explanation": "be going toの後は動詞の原形visit。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-002",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "空所を選ぼう。I ___ going to visit Kyoto.",
+    "options": [
+      "is",
+      "are",
+      "do",
+      "am"
+    ],
+    "answer": 3,
+    "explanation": "be going toのbeは主語Iに合わせてamにする。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-003",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "これからのこと。I will ___ Kyoto.",
+    "options": [
+      "visiting",
+      "to visit",
+      "visit",
+      "visits"
+    ],
+    "answer": 2,
+    "explanation": "willの後も動詞の原形visitを使う。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-004",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "「I will visit Kyoto.」の否定文は？",
+    "options": [
+      "I is not will visit Kyoto.",
+      "I will not visit Kyoto.",
+      "I does not will visit Kyoto.",
+      "I will not to visit Kyoto."
+    ],
+    "answer": 1,
+    "explanation": "willの直後にnotを置く。動詞は原形のまま。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-005",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "standard",
+    "question": "明日の予定を伝える。主語はI、動詞はvisit、その後はKyoto。文法的に正しい文は？",
+    "options": [
+      "I am going to visit Kyoto.",
+      "I am going visit Kyoto.",
+      "I will to visit Kyoto.",
+      "I am go to visit Kyoto."
+    ],
+    "answer": 0,
+    "explanation": "予定はbe going to＋動詞の原形で表す。I am going to visit Kyoto.",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-006",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "standard",
+    "question": "「I am going to visit Kyoto.」を疑問文にすると最初に来る語は？",
+    "options": [
+      "Is",
+      "Are",
+      "Does",
+      "Am"
+    ],
+    "answer": 3,
+    "explanation": "be動詞を主語の前に出すのでAm。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-007",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "未来の予定。Ken is going to ___ tennis tomorrow.",
+    "options": [
+      "playing",
+      "to play",
+      "play",
+      "plays"
+    ],
+    "answer": 2,
+    "explanation": "be going toの後は動詞の原形play。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-008",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "空所を選ぼう。Ken ___ going to play tennis.",
+    "options": [
+      "do",
+      "is",
+      "am",
+      "are"
+    ],
+    "answer": 1,
+    "explanation": "be going toのbeは主語Kenに合わせてisにする。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-009",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "これからのこと。Ken will ___ tennis.",
+    "options": [
+      "play",
+      "plays",
+      "playing",
+      "to play"
+    ],
+    "answer": 0,
+    "explanation": "willの後も動詞の原形playを使う。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-010",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "「Ken will play tennis.」の否定文は？",
+    "options": [
+      "Ken does not will play tennis.",
+      "Ken will not to play tennis.",
+      "Ken is not will play tennis.",
+      "Ken will not play tennis."
+    ],
+    "answer": 3,
+    "explanation": "willの直後にnotを置く。動詞は原形のまま。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-011",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "standard",
+    "question": "明日の予定を伝える。主語はKen、動詞はplay、その後はtennis。文法的に正しい文は？",
+    "options": [
+      "Ken will to play tennis.",
+      "Ken is go to play tennis.",
+      "Ken is going to play tennis.",
+      "Ken is going play tennis."
+    ],
+    "answer": 2,
+    "explanation": "予定はbe going to＋動詞の原形で表す。Ken is going to play tennis.",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-012",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "standard",
+    "question": "「Ken is going to play tennis.」を疑問文にすると最初に来る語は？",
+    "options": [
+      "Does",
+      "Is",
+      "Am",
+      "Are"
+    ],
+    "answer": 1,
+    "explanation": "be動詞を主語の前に出すのでIs。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-013",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "未来の予定。Aya is going to ___ a book tomorrow.",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "to read"
+    ],
+    "answer": 0,
+    "explanation": "be going toの後は動詞の原形read。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-014",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "空所を選ぼう。Aya ___ going to read a book.",
+    "options": [
+      "am",
+      "are",
+      "do",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "be going toのbeは主語Ayaに合わせてisにする。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-015",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "これからのこと。Aya will ___ a book.",
+    "options": [
+      "reading",
+      "to read",
+      "read",
+      "reads"
+    ],
+    "answer": 2,
+    "explanation": "willの後も動詞の原形readを使う。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-016",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "「Aya will read a book.」の否定文は？",
+    "options": [
+      "Aya is not will read a book.",
+      "Aya will not read a book.",
+      "Aya does not will read a book.",
+      "Aya will not to read a book."
+    ],
+    "answer": 1,
+    "explanation": "willの直後にnotを置く。動詞は原形のまま。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-017",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "standard",
+    "question": "明日の予定を伝える。主語はAya、動詞はread、その後はa book。文法的に正しい文は？",
+    "options": [
+      "Aya is going to read a book.",
+      "Aya is going read a book.",
+      "Aya will to read a book.",
+      "Aya is go to read a book."
+    ],
+    "answer": 0,
+    "explanation": "予定はbe going to＋動詞の原形で表す。Aya is going to read a book.",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-018",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "standard",
+    "question": "「Aya is going to read a book.」を疑問文にすると最初に来る語は？",
+    "options": [
+      "Am",
+      "Are",
+      "Does",
+      "Is"
+    ],
+    "answer": 3,
+    "explanation": "be動詞を主語の前に出すのでIs。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-019",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "未来の予定。We are going to ___ a movie tomorrow.",
+    "options": [
+      "watching",
+      "to watch",
+      "watch",
+      "watchs"
+    ],
+    "answer": 2,
+    "explanation": "be going toの後は動詞の原形watch。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-020",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "空所を選ぼう。We ___ going to watch a movie.",
+    "options": [
+      "do",
+      "are",
+      "am",
+      "is"
+    ],
+    "answer": 1,
+    "explanation": "be going toのbeは主語Weに合わせてareにする。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-021",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "これからのこと。We will ___ a movie.",
+    "options": [
+      "watch",
+      "watchs",
+      "watching",
+      "to watch"
+    ],
+    "answer": 0,
+    "explanation": "willの後も動詞の原形watchを使う。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-022",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "「We will watch a movie.」の否定文は？",
+    "options": [
+      "We does not will watch a movie.",
+      "We will not to watch a movie.",
+      "We is not will watch a movie.",
+      "We will not watch a movie."
+    ],
+    "answer": 3,
+    "explanation": "willの直後にnotを置く。動詞は原形のまま。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-023",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "standard",
+    "question": "明日の予定を伝える。主語はWe、動詞はwatch、その後はa movie。文法的に正しい文は？",
+    "options": [
+      "We will to watch a movie.",
+      "We are go to watch a movie.",
+      "We are going to watch a movie.",
+      "We are going watch a movie."
+    ],
+    "answer": 2,
+    "explanation": "予定はbe going to＋動詞の原形で表す。We are going to watch a movie.",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-024",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "standard",
+    "question": "「We are going to watch a movie.」を疑問文にすると最初に来る語は？",
+    "options": [
+      "Does",
+      "Are",
+      "Am",
+      "Is"
+    ],
+    "answer": 1,
+    "explanation": "be動詞を主語の前に出すのでAre。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-025",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "未来の予定。They are going to ___ a cake tomorrow.",
+    "options": [
+      "make",
+      "makes",
+      "makeing",
+      "to make"
+    ],
+    "answer": 0,
+    "explanation": "be going toの後は動詞の原形make。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-026",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "空所を選ぼう。They ___ going to make a cake.",
+    "options": [
+      "am",
+      "is",
+      "do",
+      "are"
+    ],
+    "answer": 3,
+    "explanation": "be going toのbeは主語Theyに合わせてareにする。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-027",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "これからのこと。They will ___ a cake.",
+    "options": [
+      "makeing",
+      "to make",
+      "make",
+      "makes"
+    ],
+    "answer": 2,
+    "explanation": "willの後も動詞の原形makeを使う。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-028",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "basic",
+    "question": "「They will make a cake.」の否定文は？",
+    "options": [
+      "They is not will make a cake.",
+      "They will not make a cake.",
+      "They does not will make a cake.",
+      "They will not to make a cake."
+    ],
+    "answer": 1,
+    "explanation": "willの直後にnotを置く。動詞は原形のまま。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-029",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "standard",
+    "question": "明日の予定を伝える。主語はThey、動詞はmake、その後はa cake。文法的に正しい文は？",
+    "options": [
+      "They are going to make a cake.",
+      "They are going make a cake.",
+      "They will to make a cake.",
+      "They are go to make a cake."
+    ],
+    "answer": 0,
+    "explanation": "予定はbe going to＋動詞の原形で表す。They are going to make a cake.",
+    "prereq": [
+      "英語|1|過去形"
+    ]
+  },
+  {
+    "id": "english-g2-u01-030",
+    "grade": 2,
+    "subject": "英語",
+    "unit": "未来表現",
+    "difficulty": "standard",
+    "question": "「They are going to make a cake.」を疑問文にすると最初に来る語は？",
+    "options": [
+      "Am",
+      "Is",
+      "Does",
+      "Are"
+    ],
+    "answer": 3,
+    "explanation": "be動詞を主語の前に出すのでAre。",
+    "prereq": [
+      "英語|1|過去形"
+    ]
   }
 ]

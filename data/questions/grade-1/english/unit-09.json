@@ -378,5 +378,195 @@
     "prereq": [
       "英語|1|be動詞"
     ]
+  },
+  {
+    "id": "english-g1-u09-021",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "standard",
+    "question": "応答の情報から疑問詞を選ぼう。___ does Ken get up? — At six.",
+    "options": [
+      "When",
+      "Who",
+      "Where",
+      "Why"
+    ],
+    "answer": 0,
+    "explanation": "At sixは時刻。Whenでいつかを尋ねる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-022",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "standard",
+    "question": "応答の情報から疑問詞を選ぼう。___ does Aya live? — In Nara.",
+    "options": [
+      "Who",
+      "When",
+      "Why",
+      "Where"
+    ],
+    "answer": 3,
+    "explanation": "In Naraは場所なのでWhere。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-023",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "standard",
+    "question": "応答の情報から疑問詞を選ぼう。___ many books does Mina have? — Five.",
+    "options": [
+      "Who",
+      "Where",
+      "How",
+      "What"
+    ],
+    "answer": 2,
+    "explanation": "数はHow many＋複数名詞で尋ねる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-024",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "standard",
+    "question": "応答の情報から疑問詞を選ぼう。___ is Riku late? — Because the bus is late.",
+    "options": [
+      "When",
+      "Why",
+      "Who",
+      "Where"
+    ],
+    "answer": 1,
+    "explanation": "Becauseによる理由にはWhy。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-025",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "standard",
+    "question": "応答の情報から疑問詞を選ぼう。___ book is this? — It is Emi’s.",
+    "options": [
+      "Whose",
+      "Who",
+      "When",
+      "Where"
+    ],
+    "answer": 0,
+    "explanation": "所有者を尋ねるWhose book。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-026",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "standard",
+    "question": "応答の情報から疑問詞を選ぼう。___ do they go to school? — By train.",
+    "options": [
+      "Who",
+      "What",
+      "When",
+      "How"
+    ],
+    "answer": 3,
+    "explanation": "By trainは方法なのでHow。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-027",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "standard",
+    "question": "応答の情報から疑問詞を選ぼう。___ is singing in the room? — Ken is.",
+    "options": [
+      "Why",
+      "Where",
+      "Who",
+      "When"
+    ],
+    "answer": 2,
+    "explanation": "歌っている人を尋ねるWho。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-028",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "standard",
+    "question": "応答の情報から疑問詞を選ぼう。___ time does Aya start? — At nine.",
+    "options": [
+      "Where",
+      "What",
+      "How",
+      "Who"
+    ],
+    "answer": 1,
+    "explanation": "時刻はWhat timeで尋ねる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-029",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "standard",
+    "question": "応答の情報から疑問詞を選ぼう。___ old is Mina? — Thirteen.",
+    "options": [
+      "How",
+      "Who",
+      "What",
+      "Where"
+    ],
+    "answer": 0,
+    "explanation": "年齢はHow oldで尋ねる。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u09-030",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "疑問詞",
+    "difficulty": "standard",
+    "question": "応答の情報から疑問詞を選ぼう。___ do you want? — A map.",
+    "options": [
+      "Who",
+      "When",
+      "Where",
+      "What"
+    ],
+    "answer": 3,
+    "explanation": "欲しい物を尋ねるWhat。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
   }
 ]

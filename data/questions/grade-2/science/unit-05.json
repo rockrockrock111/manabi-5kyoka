@@ -1,0 +1,382 @@
+[
+  {
+    "id": "science-g2-u05-001",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "説明「生物の体を作る基本的な単位」に最もよく当てはまる用語は？",
+    "options": [
+      "細胞",
+      "核",
+      "細胞壁",
+      "多細胞生物"
+    ],
+    "answer": 0,
+    "explanation": "細胞とは、生物の体を作る基本的な単位。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-002",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "タマネギの表皮を顕微鏡で見ると多数の小部屋が見える。これは？",
+    "options": [
+      "原子核だけ",
+      "全て花粉",
+      "気泡だけ",
+      "細胞"
+    ],
+    "answer": 3,
+    "explanation": "植物の体は細胞からできている。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-003",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "説明「多くの細胞にあり染色体などを含む部分」に最もよく当てはまる用語は？",
+    "options": [
+      "液胞",
+      "組織",
+      "核",
+      "細胞膜"
+    ],
+    "answer": 2,
+    "explanation": "核とは、多くの細胞にあり染色体などを含む部分。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-004",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "細胞の観察で染色液により見やすくする代表的な部分は？",
+    "options": [
+      "骨全体",
+      "核",
+      "葉脈全体",
+      "根全体"
+    ],
+    "answer": 1,
+    "explanation": "核が染色され位置や形を確かめやすくなる。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-005",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "説明「細胞の内外を隔てる薄い膜」に最もよく当てはまる用語は？",
+    "options": [
+      "細胞膜",
+      "細胞壁",
+      "単細胞生物",
+      "器官"
+    ],
+    "answer": 0,
+    "explanation": "細胞膜とは、細胞の内外を隔てる薄い膜。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-006",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "植物細胞と動物細胞の両方にあるのは？",
+    "options": [
+      "細胞壁",
+      "葉緑体",
+      "大きな液胞が必ず一つ",
+      "細胞膜"
+    ],
+    "answer": 3,
+    "explanation": "どちらの細胞も細胞膜をもつ。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-007",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "説明「植物細胞で細胞膜の外側を囲む丈夫なつくり」に最もよく当てはまる用語は？",
+    "options": [
+      "多細胞生物",
+      "細胞の呼吸",
+      "細胞壁",
+      "液胞"
+    ],
+    "answer": 2,
+    "explanation": "細胞壁とは、植物細胞で細胞膜の外側を囲む丈夫なつくり。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-008",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "動物細胞にはなく植物細胞にある外側の丈夫なつくりは？",
+    "options": [
+      "細胞質",
+      "細胞壁",
+      "核",
+      "細胞膜"
+    ],
+    "answer": 1,
+    "explanation": "植物細胞の形の保持に関わる。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-009",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "説明「植物細胞などで水や物質を蓄える袋状のつくり」に最もよく当てはまる用語は？",
+    "options": [
+      "液胞",
+      "単細胞生物",
+      "組織",
+      "細胞"
+    ],
+    "answer": 0,
+    "explanation": "液胞とは、植物細胞などで水や物質を蓄える袋状のつくり。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-010",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "成熟した植物細胞で大きく発達しやすいのは？",
+    "options": [
+      "肺胞",
+      "気管",
+      "心室",
+      "液胞"
+    ],
+    "answer": 3,
+    "explanation": "水や不要物などを蓄える。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-011",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "説明「一つの細胞で個体として生活する生物」に最もよく当てはまる用語は？",
+    "options": [
+      "器官",
+      "核",
+      "単細胞生物",
+      "多細胞生物"
+    ],
+    "answer": 2,
+    "explanation": "単細胞生物とは、一つの細胞で個体として生活する生物。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-012",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "ゾウリムシの体は基本的に？",
+    "options": [
+      "多数の葉",
+      "一つの細胞",
+      "数十個の器官",
+      "骨と筋肉だけ"
+    ],
+    "answer": 1,
+    "explanation": "一つの細胞が生活に必要なはたらきをする。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-013",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "説明「多数の細胞で個体を作る生物」に最もよく当てはまる用語は？",
+    "options": [
+      "多細胞生物",
+      "組織",
+      "細胞の呼吸",
+      "細胞膜"
+    ],
+    "answer": 0,
+    "explanation": "多細胞生物とは、多数の細胞で個体を作る生物。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-014",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "ヒトの体で細胞が分担する利点は？",
+    "options": [
+      "細胞がすべて消える",
+      "呼吸が不要になる",
+      "食物が必ず不要になる",
+      "異なるはたらきを専門化できる"
+    ],
+    "answer": 3,
+    "explanation": "多くの種類の細胞が役割分担する。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-015",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "説明「形やはたらきの似た細胞が集まったもの」に最もよく当てはまる用語は？",
+    "options": [
+      "細胞",
+      "細胞壁",
+      "組織",
+      "器官"
+    ],
+    "answer": 2,
+    "explanation": "組織とは、形やはたらきの似た細胞が集まったもの。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-016",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "筋細胞が集まった筋組織は何が集まった段階？",
+    "options": [
+      "惑星",
+      "細胞",
+      "生態系",
+      "個体群"
+    ],
+    "answer": 1,
+    "explanation": "似た役割の細胞の集まりが組織。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-017",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "説明「複数の組織が集まり特定のはたらきをする部分」に最もよく当てはまる用語は？",
+    "options": [
+      "器官",
+      "細胞の呼吸",
+      "核",
+      "液胞"
+    ],
+    "answer": 0,
+    "explanation": "器官とは、複数の組織が集まり特定のはたらきをする部分。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-018",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "胃や心臓は体のつくりの段階で何に当たる？",
+    "options": [
+      "単一の原子",
+      "個体群",
+      "細胞膜",
+      "器官"
+    ],
+    "answer": 3,
+    "explanation": "複数の組織からなり特定のはたらきをする。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-019",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "説明「有機物を分解して生命活動に必要なエネルギーを取り出すはたらき」に最もよく当てはまる用語は？",
+    "options": [
+      "細胞膜",
+      "単細胞生物",
+      "細胞の呼吸",
+      "細胞"
+    ],
+    "answer": 2,
+    "explanation": "細胞の呼吸とは、有機物を分解して生命活動に必要なエネルギーを取り出すはたらき。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  },
+  {
+    "id": "science-g2-u05-020",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "細胞と生物の体",
+    "difficulty": "basic",
+    "question": "植物の細胞は呼吸をする？",
+    "options": [
+      "光合成時は全細胞で必ず停止",
+      "昼も夜もする",
+      "夜だけ必ずする",
+      "一切しない"
+    ],
+    "answer": 1,
+    "explanation": "植物も生命活動のため常に呼吸を行う。",
+    "prereq": [
+      "理科|1|植物のつくり"
+    ]
+  }
+]

@@ -36,5 +36,695 @@
     "answer": 2,
     "explanation": "x=0のときy=4。",
     "difficulty": "basic"
+  },
+  {
+    "id": "math-g2-u03-001",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数y＝3x＋4でx＝2のときyは？",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "xに2を代入。3×2＋4＝10。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3*2+4"
+    }
+  },
+  {
+    "id": "math-g2-u03-002",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数y＝4x−5でxが3増えるとyはいくつ増える？",
+    "options": [
+      "13",
+      "11",
+      "14",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "変化の割合4にxの増加量3を掛けて12。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3*4"
+    }
+  },
+  {
+    "id": "math-g2-u03-003",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数のグラフが(0, 6)と(2, 16)を通る。傾きは？",
+    "options": [
+      "4",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "傾き＝yの増加量÷xの増加量＝10/2＝5。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(16-6)/2"
+    }
+  },
+  {
+    "id": "math-g2-u03-004",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "直線y＝−2x＋7の切片は？",
+    "options": [
+      "9",
+      "7",
+      "8",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "切片はx＝0のときのy。y＝7なので7。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "7"
+    }
+  },
+  {
+    "id": "math-g2-u03-005",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "水が3L入った容器に毎分3Lずつ加える。6分後の水量は何L？",
+    "options": [
+      "21",
+      "22",
+      "20",
+      "23"
+    ],
+    "answer": 0,
+    "explanation": "初めの水量＋毎分の増加量×時間＝3＋3×6＝21L。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3+3*6"
+    }
+  },
+  {
+    "id": "math-g2-u03-006",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数y＝4x＋4でx＝7のときyは？",
+    "options": [
+      "33",
+      "31",
+      "34",
+      "32"
+    ],
+    "answer": 3,
+    "explanation": "xに7を代入。4×7＋4＝32。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "4*7+4"
+    }
+  },
+  {
+    "id": "math-g2-u03-007",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数y＝5x−5でxが3増えるとyはいくつ増える？",
+    "options": [
+      "14",
+      "17",
+      "15",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "変化の割合5にxの増加量3を掛けて15。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3*5"
+    }
+  },
+  {
+    "id": "math-g2-u03-008",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数のグラフが(0, 6)と(2, 10)を通る。傾きは？",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "傾き＝yの増加量÷xの増加量＝4/2＝2。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(10-6)/2"
+    }
+  },
+  {
+    "id": "math-g2-u03-009",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "直線y＝−3x＋7の切片は？",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "切片はx＝0のときのy。y＝7なので7。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "7"
+    }
+  },
+  {
+    "id": "math-g2-u03-010",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "水が3L入った容器に毎分4Lずつ加える。11分後の水量は何L？",
+    "options": [
+      "48",
+      "46",
+      "49",
+      "47"
+    ],
+    "answer": 3,
+    "explanation": "初めの水量＋毎分の増加量×時間＝3＋4×11＝47L。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3+4*11"
+    }
+  },
+  {
+    "id": "math-g2-u03-011",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数y＝5x＋4でx＝12のときyは？",
+    "options": [
+      "63",
+      "66",
+      "64",
+      "65"
+    ],
+    "answer": 2,
+    "explanation": "xに12を代入。5×12＋4＝64。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "5*12+4"
+    }
+  },
+  {
+    "id": "math-g2-u03-012",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数y＝2x−5でxが3増えるとyはいくつ増える？",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "変化の割合2にxの増加量3を掛けて6。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3*2"
+    }
+  },
+  {
+    "id": "math-g2-u03-013",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数のグラフが(0, 6)と(2, 12)を通る。傾きは？",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "傾き＝yの増加量÷xの増加量＝6/2＝3。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(12-6)/2"
+    }
+  },
+  {
+    "id": "math-g2-u03-014",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "直線y＝−4x＋7の切片は？",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "切片はx＝0のときのy。y＝7なので7。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "7"
+    }
+  },
+  {
+    "id": "math-g2-u03-015",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "水が3L入った容器に毎分5Lずつ加える。16分後の水量は何L？",
+    "options": [
+      "82",
+      "85",
+      "83",
+      "84"
+    ],
+    "answer": 2,
+    "explanation": "初めの水量＋毎分の増加量×時間＝3＋5×16＝83L。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3+5*16"
+    }
+  },
+  {
+    "id": "math-g2-u03-016",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数y＝2x＋4でx＝17のときyは？",
+    "options": [
+      "40",
+      "38",
+      "39",
+      "37"
+    ],
+    "answer": 1,
+    "explanation": "xに17を代入。2×17＋4＝38。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "2*17+4"
+    }
+  },
+  {
+    "id": "math-g2-u03-017",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数y＝3x−5でxが3増えるとyはいくつ増える？",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "変化の割合3にxの増加量3を掛けて9。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3*3"
+    }
+  },
+  {
+    "id": "math-g2-u03-018",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "一次関数のグラフが(0, 6)と(2, 14)を通る。傾きは？",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "傾き＝yの増加量÷xの増加量＝8/2＝4。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(14-6)/2"
+    }
+  },
+  {
+    "id": "math-g2-u03-019",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "直線y＝−5x＋7の切片は？",
+    "options": [
+      "6",
+      "9",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "切片はx＝0のときのy。y＝7なので7。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "7"
+    }
+  },
+  {
+    "id": "math-g2-u03-020",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "basic",
+    "question": "水が3L入った容器に毎分2Lずつ加える。21分後の水量は何L？",
+    "options": [
+      "47",
+      "45",
+      "46",
+      "44"
+    ],
+    "answer": 1,
+    "explanation": "初めの水量＋毎分の増加量×時間＝3＋2×21＝45L。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3+2*21"
+    }
+  },
+  {
+    "id": "math-g2-u03-021",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "standard",
+    "question": "直線y＝3x＋4とy＝−x＋28の交点のx座標は？",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "2つのyを等しいとおくと(3＋1)x＝24。x＝6。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(28-4)/(3+1)"
+    }
+  },
+  {
+    "id": "math-g2-u03-022",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "standard",
+    "question": "一次関数が(1, 9)と(4, 21)を通る。切片は？",
+    "options": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "傾きは4。y＝4x＋cへ(1,9)を代入しc＝5。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "9-(21-9)/3"
+    }
+  },
+  {
+    "id": "math-g2-u03-023",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "standard",
+    "question": "料金が基本料600円と1kmごと500円。5km利用する料金は？（円）",
+    "options": [
+      "3099",
+      "3102",
+      "3100",
+      "3101"
+    ],
+    "answer": 2,
+    "explanation": "基本料＋距離に比例する料金＝3100円。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "600+500*5"
+    }
+  },
+  {
+    "id": "math-g2-u03-024",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "standard",
+    "question": "直線y＝2x−12がx軸と交わる点のx座標は？",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "x軸上はy＝0。2x＝12よりx＝6。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "12/2"
+    }
+  },
+  {
+    "id": "math-g2-u03-025",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "standard",
+    "question": "A案は300＋300x円、B案は500＋200x円。料金が等しくなるxは？",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "基本料の差200円を1単位当たりの差100円で割り、x＝2。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(500-300)/(300-200)"
+    }
+  },
+  {
+    "id": "math-g2-u03-026",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "standard",
+    "question": "直線y＝4x＋4とy＝−x＋59の交点のx座標は？",
+    "options": [
+      "12",
+      "10",
+      "13",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "2つのyを等しいとおくと(4＋1)x＝55。x＝11。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(59-4)/(4+1)"
+    }
+  },
+  {
+    "id": "math-g2-u03-027",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "standard",
+    "question": "一次関数が(1, 10)と(4, 25)を通る。切片は？",
+    "options": [
+      "4",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "傾きは5。y＝5x＋cへ(1,10)を代入しc＝5。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "10-(25-10)/3"
+    }
+  },
+  {
+    "id": "math-g2-u03-028",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "standard",
+    "question": "料金が基本料600円と1kmごと200円。10km利用する料金は？（円）",
+    "options": [
+      "2602",
+      "2600",
+      "2601",
+      "2599"
+    ],
+    "answer": 1,
+    "explanation": "基本料＋距離に比例する料金＝2600円。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "600+200*10"
+    }
+  },
+  {
+    "id": "math-g2-u03-029",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "standard",
+    "question": "直線y＝3x−33がx軸と交わる点のx座標は？",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "13"
+    ],
+    "answer": 0,
+    "explanation": "x軸上はy＝0。3x＝33よりx＝11。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "33/3"
+    }
+  },
+  {
+    "id": "math-g2-u03-030",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "一次関数",
+    "difficulty": "standard",
+    "question": "A案は300＋400x円、B案は500＋300x円。料金が等しくなるxは？",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "基本料の差200円を1単位当たりの差100円で割り、x＝2。",
+    "prereq": [
+      "数学|1|比例と反比例"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(500-300)/(400-300)"
+    }
   }
 ]

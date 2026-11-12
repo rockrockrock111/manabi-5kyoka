@@ -416,5 +416,195 @@
     "prereq": [
       "英語|1|be動詞"
     ]
+  },
+  {
+    "id": "english-g1-u02-021",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "standard",
+    "question": "Ken and I ___ books on Sundays. 主語に注意して選ぶ。",
+    "options": [
+      "read",
+      "reads",
+      "reading",
+      "to read"
+    ],
+    "answer": 0,
+    "explanation": "Ken and Iは複数の主語なので一般動詞は原形read。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-022",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "standard",
+    "question": "You ___ books on weekdays, but you do on Sundays. 「平日は本を読むことはしない」という意味にする。",
+    "options": [
+      "are not read",
+      "does not read",
+      "do not reads",
+      "do not read"
+    ],
+    "answer": 3,
+    "explanation": "主語youの否定はdo not＋原形read。後半のdoは同じ動作を受ける。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-023",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "standard",
+    "question": "Aya and I ___ tennis on Sundays. 主語に注意して選ぶ。",
+    "options": [
+      "playing",
+      "to play",
+      "play",
+      "plays"
+    ],
+    "answer": 2,
+    "explanation": "Aya and Iは複数の主語なので一般動詞は原形play。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-024",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "standard",
+    "question": "You ___ tennis on weekdays, but you do on Sundays. 「平日はテニスをすることはしない」という意味にする。",
+    "options": [
+      "do not plays",
+      "do not play",
+      "are not play",
+      "does not play"
+    ],
+    "answer": 1,
+    "explanation": "主語youの否定はdo not＋原形play。後半のdoは同じ動作を受ける。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-025",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "standard",
+    "question": "Mina and I ___ English on Sundays. 主語に注意して選ぶ。",
+    "options": [
+      "study",
+      "studys",
+      "studying",
+      "to study"
+    ],
+    "answer": 0,
+    "explanation": "Mina and Iは複数の主語なので一般動詞は原形study。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-026",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "standard",
+    "question": "You ___ English on weekdays, but you do on Sundays. 「平日は英語を勉強することはしない」という意味にする。",
+    "options": [
+      "are not study",
+      "does not study",
+      "do not studys",
+      "do not study"
+    ],
+    "answer": 3,
+    "explanation": "主語youの否定はdo not＋原形study。後半のdoは同じ動作を受ける。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-027",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "standard",
+    "question": "Riku and I ___ TV on Sundays. 主語に注意して選ぶ。",
+    "options": [
+      "watching",
+      "to watch",
+      "watch",
+      "watchs"
+    ],
+    "answer": 2,
+    "explanation": "Riku and Iは複数の主語なので一般動詞は原形watch。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-028",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "standard",
+    "question": "You ___ TV on weekdays, but you do on Sundays. 「平日はテレビを見ることはしない」という意味にする。",
+    "options": [
+      "do not watchs",
+      "do not watch",
+      "are not watch",
+      "does not watch"
+    ],
+    "answer": 1,
+    "explanation": "主語youの否定はdo not＋原形watch。後半のdoは同じ動作を受ける。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-029",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "standard",
+    "question": "Emi and I ___ to music on Sundays. 主語に注意して選ぶ。",
+    "options": [
+      "listen",
+      "listens",
+      "listening",
+      "to listen"
+    ],
+    "answer": 0,
+    "explanation": "Emi and Iは複数の主語なので一般動詞は原形listen。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u02-030",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "一般動詞",
+    "difficulty": "standard",
+    "question": "You ___ to music on weekdays, but you do on Sundays. 「平日は音楽を聞くことはしない」という意味にする。",
+    "options": [
+      "are not listen",
+      "does not listen",
+      "do not listens",
+      "do not listen"
+    ],
+    "answer": 3,
+    "explanation": "主語youの否定はdo not＋原形listen。後半のdoは同じ動作を受ける。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
   }
 ]

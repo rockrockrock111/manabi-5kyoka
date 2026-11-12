@@ -378,5 +378,195 @@
     "prereq": [
       "英語|1|be動詞"
     ]
+  },
+  {
+    "id": "english-g1-u05-021",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "standard",
+    "question": "Kenの部屋を指す文を作る。This is ___ room. 空所に入る所有格は？",
+    "options": [
+      "his",
+      "I",
+      "he",
+      "they"
+    ],
+    "answer": 0,
+    "explanation": "heの所有格hisを名詞roomの前に置く。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-022",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "standard",
+    "question": "Kenを指す代名詞で文を完成させよう。The teacher knows ___. 空所に入る目的格は？",
+    "options": [
+      "he",
+      "she",
+      "they",
+      "him"
+    ],
+    "answer": 3,
+    "explanation": "動詞knowsの目的語なので目的格him。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-023",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "standard",
+    "question": "Ayaの部屋を指す文を作る。This is ___ room. 空所に入る所有格は？",
+    "options": [
+      "he",
+      "they",
+      "her",
+      "I"
+    ],
+    "answer": 2,
+    "explanation": "sheの所有格herを名詞roomの前に置く。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-024",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "standard",
+    "question": "Ayaを指す代名詞で文を完成させよう。The teacher knows ___. 空所に入る目的格は？",
+    "options": [
+      "they",
+      "her",
+      "he",
+      "she"
+    ],
+    "answer": 1,
+    "explanation": "動詞knowsの目的語なので目的格her。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-025",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "standard",
+    "question": "Mina and Ayaの部屋を指す文を作る。This is ___ room. 空所に入る所有格は？",
+    "options": [
+      "their",
+      "I",
+      "he",
+      "they"
+    ],
+    "answer": 0,
+    "explanation": "theyの所有格theirを名詞roomの前に置く。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-026",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "standard",
+    "question": "Mina and Ayaを指す代名詞で文を完成させよう。The teacher knows ___. 空所に入る目的格は？",
+    "options": [
+      "he",
+      "she",
+      "they",
+      "them"
+    ],
+    "answer": 3,
+    "explanation": "動詞knowsの目的語なので目的格them。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-027",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "standard",
+    "question": "Riku and Iの部屋を指す文を作る。This is ___ room. 空所に入る所有格は？",
+    "options": [
+      "he",
+      "they",
+      "our",
+      "I"
+    ],
+    "answer": 2,
+    "explanation": "weの所有格ourを名詞roomの前に置く。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-028",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "standard",
+    "question": "Riku and Iを指す代名詞で文を完成させよう。The teacher knows ___. 空所に入る目的格は？",
+    "options": [
+      "they",
+      "us",
+      "he",
+      "she"
+    ],
+    "answer": 1,
+    "explanation": "動詞knowsの目的語なので目的格us。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-029",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "standard",
+    "question": "Emiの部屋を指す文を作る。This is ___ room. 空所に入る所有格は？",
+    "options": [
+      "her",
+      "I",
+      "he",
+      "they"
+    ],
+    "answer": 0,
+    "explanation": "sheの所有格herを名詞roomの前に置く。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u05-030",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "代名詞と名詞",
+    "difficulty": "standard",
+    "question": "Emiを指す代名詞で文を完成させよう。The teacher knows ___. 空所に入る目的格は？",
+    "options": [
+      "he",
+      "she",
+      "they",
+      "her"
+    ],
+    "answer": 3,
+    "explanation": "動詞knowsの目的語なので目的格her。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
   }
 ]

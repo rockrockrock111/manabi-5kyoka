@@ -435,5 +435,195 @@
     "prereq": [
       "英語|0|基本単語"
     ]
+  },
+  {
+    "id": "english-g1-u01-021",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "standard",
+    "question": "Kenと私は今libraryにいる。正しい英文は？",
+    "options": [
+      "Ken and I are in the library.",
+      "Ken and I am in the library.",
+      "Ken and I is in the library.",
+      "Ken and I be in the library."
+    ],
+    "answer": 0,
+    "explanation": "主語は二人なので複数。be動詞はare。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-022",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "standard",
+    "question": "Ken is not quiet, but Aya is. この文でquietなのは？",
+    "options": [
+      "Ken",
+      "二人とも",
+      "二人とも違う",
+      "Aya"
+    ],
+    "answer": 3,
+    "explanation": "butの後のisにはquietが省略されている。Ayaがその状態。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-023",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "standard",
+    "question": "Minaと私は今parkにいる。正しい英文は？",
+    "options": [
+      "Mina and I is in the park.",
+      "Mina and I be in the park.",
+      "Mina and I are in the park.",
+      "Mina and I am in the park."
+    ],
+    "answer": 2,
+    "explanation": "主語は二人なので複数。be動詞はare。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-024",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "standard",
+    "question": "Mina is not busy, but Riku is. この文でbusyなのは？",
+    "options": [
+      "二人とも違う",
+      "Riku",
+      "Mina",
+      "二人とも"
+    ],
+    "answer": 1,
+    "explanation": "butの後のisにはbusyが省略されている。Rikuがその状態。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-025",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "standard",
+    "question": "Emiと私は今schoolにいる。正しい英文は？",
+    "options": [
+      "Emi and I are in the school.",
+      "Emi and I am in the school.",
+      "Emi and I is in the school.",
+      "Emi and I be in the school."
+    ],
+    "answer": 0,
+    "explanation": "主語は二人なので複数。be動詞はare。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-026",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "standard",
+    "question": "Emi is not happy, but Taro is. この文でhappyなのは？",
+    "options": [
+      "Emi",
+      "二人とも",
+      "二人とも違う",
+      "Taro"
+    ],
+    "answer": 3,
+    "explanation": "butの後のisにはhappyが省略されている。Taroがその状態。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-027",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "standard",
+    "question": "Ayaと私は今museumにいる。正しい英文は？",
+    "options": [
+      "Aya and I is in the museum.",
+      "Aya and I be in the museum.",
+      "Aya and I are in the museum.",
+      "Aya and I am in the museum."
+    ],
+    "answer": 2,
+    "explanation": "主語は二人なので複数。be動詞はare。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-028",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "standard",
+    "question": "Aya is not tired, but Mina is. この文でtiredなのは？",
+    "options": [
+      "二人とも違う",
+      "Mina",
+      "Aya",
+      "二人とも"
+    ],
+    "answer": 1,
+    "explanation": "butの後のisにはtiredが省略されている。Minaがその状態。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-029",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "standard",
+    "question": "Rikuと私は今stationにいる。正しい英文は？",
+    "options": [
+      "Riku and I are in the station.",
+      "Riku and I am in the station.",
+      "Riku and I is in the station.",
+      "Riku and I be in the station."
+    ],
+    "answer": 0,
+    "explanation": "主語は二人なので複数。be動詞はare。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
+  },
+  {
+    "id": "english-g1-u01-030",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "be動詞",
+    "difficulty": "standard",
+    "question": "Riku is not ready, but Ken is. この文でreadyなのは？",
+    "options": [
+      "Riku",
+      "二人とも",
+      "二人とも違う",
+      "Ken"
+    ],
+    "answer": 3,
+    "explanation": "butの後のisにはreadyが省略されている。Kenがその状態。",
+    "prereq": [
+      "英語|0|基本単語"
+    ]
   }
 ]

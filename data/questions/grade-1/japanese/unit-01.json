@@ -55,5 +55,385 @@
     "answer": 0,
     "explanation": "動作を表す動詞。",
     "difficulty": "basic"
+  },
+  {
+    "id": "japanese-g1-u01-001",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "説明「文を意味が通る範囲でできるだけ短く区切ったまとまり」に最もよく当てはまる用語は？",
+    "options": [
+      "文節",
+      "単語",
+      "動詞",
+      "副詞"
+    ],
+    "answer": 0,
+    "explanation": "文節とは、文を意味が通る範囲でできるだけ短く区切ったまとまり。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-002",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "「小さな／鳥が／空を／飛ぶ。」の「／」で区切ったまとまりは？",
+    "options": [
+      "段落",
+      "文章",
+      "音節",
+      "文節"
+    ],
+    "answer": 3,
+    "explanation": "意味を保つ短いまとまりに区切っている。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-003",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "説明「文法上の意味や働きをもつ言葉の最小の単位」に最もよく当てはまる用語は？",
+    "options": [
+      "形容詞",
+      "助詞",
+      "単語",
+      "名詞"
+    ],
+    "answer": 2,
+    "explanation": "単語とは、文法上の意味や働きをもつ言葉の最小の単位。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-004",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "「鳥が」を「鳥」「が」に分けた。それぞれを文法上何という？",
+    "options": [
+      "場面",
+      "単語",
+      "段落",
+      "主題"
+    ],
+    "answer": 1,
+    "explanation": "「鳥」は名詞、「が」は助詞で、それぞれ単語。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-005",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "説明「事物の名称などを表し主語になれる自立語」に最もよく当てはまる用語は？",
+    "options": [
+      "名詞",
+      "動詞",
+      "形容動詞",
+      "主語"
+    ],
+    "answer": 0,
+    "explanation": "名詞とは、事物の名称などを表し主語になれる自立語。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-006",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "「本を読む。」の「本」の品詞は？",
+    "options": [
+      "動詞",
+      "助詞",
+      "副詞",
+      "名詞"
+    ],
+    "answer": 3,
+    "explanation": "「本」は物の名前を表す。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-007",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "説明「動作や存在を表し言い切りがウ段になる活用する自立語」に最もよく当てはまる用語は？",
+    "options": [
+      "副詞",
+      "述語",
+      "動詞",
+      "形容詞"
+    ],
+    "answer": 2,
+    "explanation": "動詞とは、動作や存在を表し言い切りがウ段になる活用する自立語。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-008",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "「妹が走る。」の「走る」の品詞は？",
+    "options": [
+      "接続詞",
+      "動詞",
+      "形容詞",
+      "名詞"
+    ],
+    "answer": 1,
+    "explanation": "「走る」は動作を表し、「走らない」などと活用する。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-009",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "説明「性質や状態を表し言い切りが「い」になる活用する自立語」に最もよく当てはまる用語は？",
+    "options": [
+      "形容詞",
+      "形容動詞",
+      "助詞",
+      "文節"
+    ],
+    "answer": 0,
+    "explanation": "形容詞とは、性質や状態を表し言い切りが「い」になる活用する自立語。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-010",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "「空が青い。」の「青い」の品詞は？",
+    "options": [
+      "動詞",
+      "助詞",
+      "名詞",
+      "形容詞"
+    ],
+    "answer": 3,
+    "explanation": "「青い」は状態を表し、「青く」などと活用する。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-011",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "説明「性質や状態を表し言い切りが「だ」などになる活用する自立語」に最もよく当てはまる用語は？",
+    "options": [
+      "主語",
+      "単語",
+      "形容動詞",
+      "副詞"
+    ],
+    "answer": 2,
+    "explanation": "形容動詞とは、性質や状態を表し言い切りが「だ」などになる活用する自立語。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-012",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "「町は静かだ。」の「静かだ」の品詞は？",
+    "options": [
+      "名詞",
+      "形容動詞",
+      "動詞",
+      "副詞"
+    ],
+    "answer": 1,
+    "explanation": "「静かだ」は「静かな」「静かに」と活用する。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-013",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "説明「主に用言を修飾し活用しない自立語」に最もよく当てはまる用語は？",
+    "options": [
+      "副詞",
+      "助詞",
+      "述語",
+      "名詞"
+    ],
+    "answer": 0,
+    "explanation": "副詞とは、主に用言を修飾し活用しない自立語。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-014",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "「ゆっくり歩く。」で「歩く」を修飾する語は？",
+    "options": [
+      "歩く",
+      "文末",
+      "主語",
+      "ゆっくり"
+    ],
+    "answer": 3,
+    "explanation": "「ゆっくり」は歩き方を詳しくする副詞。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-015",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "説明「単語に付いて関係や意味を添え活用しない付属語」に最もよく当てはまる用語は？",
+    "options": [
+      "文節",
+      "動詞",
+      "助詞",
+      "主語"
+    ],
+    "answer": 2,
+    "explanation": "助詞とは、単語に付いて関係や意味を添え活用しない付属語。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-016",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "「花が咲く。」の「が」の品詞は？",
+    "options": [
+      "動詞",
+      "助詞",
+      "名詞",
+      "形容詞"
+    ],
+    "answer": 1,
+    "explanation": "「が」は「花」に付き、主語であることを示す。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-017",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "説明「文で「何が・誰が」に当たる働き」に最もよく当てはまる用語は？",
+    "options": [
+      "主語",
+      "述語",
+      "単語",
+      "形容詞"
+    ],
+    "answer": 0,
+    "explanation": "主語とは、文で「何が・誰が」に当たる働き。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-018",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "「弟が庭で遊ぶ。」の主語に当たる文節は？",
+    "options": [
+      "庭で",
+      "遊ぶ",
+      "主語はない",
+      "弟が"
+    ],
+    "answer": 3,
+    "explanation": "誰が遊ぶのかを表すのが「弟が」。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-019",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "説明「主語についてどうする・どんなだ・何だと述べる働き」に最もよく当てはまる用語は？",
+    "options": [
+      "名詞",
+      "形容動詞",
+      "述語",
+      "文節"
+    ],
+    "answer": 2,
+    "explanation": "述語とは、主語についてどうする・どんなだ・何だと述べる働き。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
+  },
+  {
+    "id": "japanese-g1-u01-020",
+    "grade": 1,
+    "subject": "国語",
+    "unit": "文節と品詞",
+    "difficulty": "basic",
+    "question": "「月が明るい。」の述語に当たる文節は？",
+    "options": [
+      "主語はない",
+      "明るい",
+      "月が",
+      "月"
+    ],
+    "answer": 1,
+    "explanation": "主語「月が」の状態を述べている。",
+    "prereq": [
+      "国語|0|語彙と文の基本"
+    ]
   }
 ]

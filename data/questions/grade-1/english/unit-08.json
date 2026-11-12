@@ -378,5 +378,195 @@
     "prereq": [
       "英語|1|一般動詞"
     ]
+  },
+  {
+    "id": "english-g1-u08-021",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "standard",
+    "question": "メモに「Ken, please open the door.」とある。頼まれた人は？",
+    "options": [
+      "Ken",
+      "please",
+      "メモを書いた人と必ず同じ",
+      "本文にはない"
+    ],
+    "answer": 0,
+    "explanation": "呼びかけのKenに依頼している。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-022",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "standard",
+    "question": "Don’t open the door now. Please wait. 相手に求めていることは？",
+    "options": [
+      "今すぐ必ずその動作をする",
+      "その動作ができると自慢する",
+      "昨日の行動を報告する",
+      "今はその動作をせず待つ"
+    ],
+    "answer": 3,
+    "explanation": "Don’tによる禁止とPlease waitによる依頼を合わせて読む。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-023",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "standard",
+    "question": "メモに「Aya, please close the window.」とある。頼まれた人は？",
+    "options": [
+      "メモを書いた人と必ず同じ",
+      "本文にはない",
+      "Aya",
+      "please"
+    ],
+    "answer": 2,
+    "explanation": "呼びかけのAyaに依頼している。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-024",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "standard",
+    "question": "Don’t close the window now. Please wait. 相手に求めていることは？",
+    "options": [
+      "昨日の行動を報告する",
+      "今はその動作をせず待つ",
+      "今すぐ必ずその動作をする",
+      "その動作ができると自慢する"
+    ],
+    "answer": 1,
+    "explanation": "Don’tによる禁止とPlease waitによる依頼を合わせて読む。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-025",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "standard",
+    "question": "メモに「Mina, please use this pen.」とある。頼まれた人は？",
+    "options": [
+      "Mina",
+      "please",
+      "メモを書いた人と必ず同じ",
+      "本文にはない"
+    ],
+    "answer": 0,
+    "explanation": "呼びかけのMinaに依頼している。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-026",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "standard",
+    "question": "Don’t use this pen now. Please wait. 相手に求めていることは？",
+    "options": [
+      "今すぐ必ずその動作をする",
+      "その動作ができると自慢する",
+      "昨日の行動を報告する",
+      "今はその動作をせず待つ"
+    ],
+    "answer": 3,
+    "explanation": "Don’tによる禁止とPlease waitによる依頼を合わせて読む。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-027",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "standard",
+    "question": "メモに「Riku, please read this book.」とある。頼まれた人は？",
+    "options": [
+      "メモを書いた人と必ず同じ",
+      "本文にはない",
+      "Riku",
+      "please"
+    ],
+    "answer": 2,
+    "explanation": "呼びかけのRikuに依頼している。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-028",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "standard",
+    "question": "Don’t read this book now. Please wait. 相手に求めていることは？",
+    "options": [
+      "昨日の行動を報告する",
+      "今はその動作をせず待つ",
+      "今すぐ必ずその動作をする",
+      "その動作ができると自慢する"
+    ],
+    "answer": 1,
+    "explanation": "Don’tによる禁止とPlease waitによる依頼を合わせて読む。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-029",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "standard",
+    "question": "メモに「Emi, please wash your hands.」とある。頼まれた人は？",
+    "options": [
+      "Emi",
+      "please",
+      "メモを書いた人と必ず同じ",
+      "本文にはない"
+    ],
+    "answer": 0,
+    "explanation": "呼びかけのEmiに依頼している。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u08-030",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "命令文",
+    "difficulty": "standard",
+    "question": "Don’t wash your hands now. Please wait. 相手に求めていることは？",
+    "options": [
+      "今すぐ必ずその動作をする",
+      "その動作ができると自慢する",
+      "昨日の行動を報告する",
+      "今はその動作をせず待つ"
+    ],
+    "answer": 3,
+    "explanation": "Don’tによる禁止とPlease waitによる依頼を合わせて読む。",
+    "prereq": [
+      "英語|1|一般動詞"
+    ]
   }
 ]

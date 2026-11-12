@@ -1,0 +1,382 @@
+[
+  {
+    "id": "science-g2-u06-001",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "説明「摩擦などで電荷が偏ってたまる現象」に最もよく当てはまる用語は？",
+    "options": [
+      "静電気",
+      "電子",
+      "異種の電荷",
+      "磁力線"
+    ],
+    "answer": 0,
+    "explanation": "静電気とは、摩擦などで電荷が偏ってたまる現象。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-002",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "こすった下敷きが髪を引く現象に関わるものは？",
+    "options": [
+      "重力の消失",
+      "光合成",
+      "蒸留",
+      "静電気"
+    ],
+    "answer": 3,
+    "explanation": "電荷が偏り物体間にはたらく電気の力が生じる。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-003",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "説明「負の電荷をもつ粒子」に最もよく当てはまる用語は？",
+    "options": [
+      "放電",
+      "電流の磁界",
+      "電子",
+      "同種の電荷"
+    ],
+    "answer": 2,
+    "explanation": "電子とは、負の電荷をもつ粒子。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-004",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "物体がこすられて負に帯電した。主に何が増えた？",
+    "options": [
+      "重力だけ",
+      "電子",
+      "陽子が外から大量移動",
+      "光だけ"
+    ],
+    "answer": 1,
+    "explanation": "電子を余分に受け取ると負に帯電する。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-005",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "説明「正同士または負同士の電荷」に最もよく当てはまる用語は？",
+    "options": [
+      "同種の電荷",
+      "異種の電荷",
+      "磁界",
+      "電磁石"
+    ],
+    "answer": 0,
+    "explanation": "同種の電荷とは、正同士または負同士の電荷。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-006",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "同じ種類の電荷をもつ物体同士は？",
+    "options": [
+      "必ず引き合う",
+      "必ず融合する",
+      "質量が消える",
+      "反発する"
+    ],
+    "answer": 3,
+    "explanation": "同種の電荷はしりぞけ合う。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-007",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "説明「正と負の組合せの電荷」に最もよく当てはまる用語は？",
+    "options": [
+      "磁力線",
+      "電磁誘導",
+      "異種の電荷",
+      "放電"
+    ],
+    "answer": 2,
+    "explanation": "異種の電荷とは、正と負の組合せの電荷。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-008",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "正に帯電した物体と負に帯電した物体は？",
+    "options": [
+      "必ずどちらも消える",
+      "引き合う",
+      "必ず反発する",
+      "必ず無関係"
+    ],
+    "answer": 1,
+    "explanation": "異種の電荷は引き合う。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-009",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "説明「たまった電荷が移動して電流が流れる現象」に最もよく当てはまる用語は？",
+    "options": [
+      "放電",
+      "磁界",
+      "電流の磁界",
+      "静電気"
+    ],
+    "answer": 0,
+    "explanation": "放電とは、たまった電荷が移動して電流が流れる現象。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-010",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "雷は大規模な何の現象？",
+    "options": [
+      "再結晶",
+      "受精",
+      "凝固",
+      "放電"
+    ],
+    "answer": 3,
+    "explanation": "雲と地面などの間で電荷が移動する。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-011",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "説明「磁石や電流による磁力がはたらく空間」に最もよく当てはまる用語は？",
+    "options": [
+      "電磁石",
+      "電子",
+      "磁界",
+      "磁力線"
+    ],
+    "answer": 2,
+    "explanation": "磁界とは、磁石や電流による磁力がはたらく空間。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-012",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "方位磁針のN極が向く向きを何の向きという？",
+    "options": [
+      "熱の向き",
+      "磁界の向き",
+      "必ず電流の向き",
+      "重力の向き"
+    ],
+    "answer": 1,
+    "explanation": "N極が受ける力の向きで磁界を表す。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-013",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "説明「磁界のようすを線で表したもの」に最もよく当てはまる用語は？",
+    "options": [
+      "磁力線",
+      "電流の磁界",
+      "電磁誘導",
+      "同種の電荷"
+    ],
+    "answer": 0,
+    "explanation": "磁力線とは、磁界のようすを線で表したもの。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-014",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "磁石の外側で磁力線はどちらへ向かう？",
+    "options": [
+      "S極からN極",
+      "必ず上から下",
+      "極と無関係",
+      "N極からS極"
+    ],
+    "answer": 3,
+    "explanation": "磁界の向きを線で表す。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-015",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "説明「電流が周囲に作る磁界」に最もよく当てはまる用語は？",
+    "options": [
+      "静電気",
+      "異種の電荷",
+      "電流の磁界",
+      "電磁石"
+    ],
+    "answer": 2,
+    "explanation": "電流の磁界とは、電流が周囲に作る磁界。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-016",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "まっすぐな導線に電流を流す。周囲の磁界は？",
+    "options": [
+      "必ず上向きの面",
+      "導線を中心とする同心円状",
+      "導線と平行な直線だけ",
+      "必ず磁界なし"
+    ],
+    "answer": 1,
+    "explanation": "右ねじの進む向きを電流に合わせた回転方向となる。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-017",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "説明「電流を流したコイルなどによる磁石」に最もよく当てはまる用語は？",
+    "options": [
+      "電磁石",
+      "電磁誘導",
+      "電子",
+      "放電"
+    ],
+    "answer": 0,
+    "explanation": "電磁石とは、電流を流したコイルなどによる磁石。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-018",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "コイルの電流の向きを逆にすると電磁石の極は？",
+    "options": [
+      "必ず同じまま",
+      "極が必ず4個になる",
+      "質量が0になる",
+      "N極とS極が入れ替わる"
+    ],
+    "answer": 3,
+    "explanation": "コイルの作る磁界の向きが逆転する。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-019",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "説明「コイルを貫く磁界の変化で電圧が生じる現象」に最もよく当てはまる用語は？",
+    "options": [
+      "同種の電荷",
+      "磁界",
+      "電磁誘導",
+      "静電気"
+    ],
+    "answer": 2,
+    "explanation": "電磁誘導とは、コイルを貫く磁界の変化で電圧が生じる現象。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  },
+  {
+    "id": "science-g2-u06-020",
+    "grade": 2,
+    "subject": "理科",
+    "unit": "静電気と磁界",
+    "difficulty": "basic",
+    "question": "コイルへ磁石を動かして電流が生じる現象は？",
+    "options": [
+      "受粉",
+      "電磁誘導",
+      "静止した磁石なら常に同じ電流",
+      "単なる融解"
+    ],
+    "answer": 1,
+    "explanation": "磁界の変化によって誘導電流が流れる。",
+    "prereq": [
+      "理科|2|電流と回路"
+    ]
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "science-g1-u07-001",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "説明「固体が液体になる状態変化」に最もよく当てはまる用語は？",
+    "options": [
+      "融解",
+      "凝固",
+      "凝縮",
+      "融点"
+    ],
+    "answer": 0,
+    "explanation": "融解とは、固体が液体になる状態変化。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-002",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "氷を温めて水にする変化は？",
+    "options": [
+      "凝固",
+      "凝縮",
+      "昇華だけ",
+      "融解"
+    ],
+    "answer": 3,
+    "explanation": "固体の氷が液体の水になる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-003",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "説明「液体が固体になる状態変化」に最もよく当てはまる用語は？",
+    "options": [
+      "蒸発",
+      "沸点",
+      "凝固",
+      "気化"
+    ],
+    "answer": 2,
+    "explanation": "凝固とは、液体が固体になる状態変化。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-004",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "水を冷やして氷にする変化は？",
+    "options": [
+      "沸騰",
+      "凝固",
+      "融解",
+      "蒸発"
+    ],
+    "answer": 1,
+    "explanation": "液体から固体への変化。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-005",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "説明「液体が気体になる状態変化」に最もよく当てはまる用語は？",
+    "options": [
+      "気化",
+      "凝縮",
+      "沸騰",
+      "昇華"
+    ],
+    "answer": 0,
+    "explanation": "気化とは、液体が気体になる状態変化。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-006",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "液体の水が水蒸気になる変化をまとめて何という？",
+    "options": [
+      "凝縮",
+      "凝固",
+      "融解",
+      "気化"
+    ],
+    "answer": 3,
+    "explanation": "蒸発と沸騰はいずれも気化。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-007",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "説明「気体が液体になる状態変化」に最もよく当てはまる用語は？",
+    "options": [
+      "融点",
+      "蒸留",
+      "凝縮",
+      "蒸発"
+    ],
+    "answer": 2,
+    "explanation": "凝縮とは、気体が液体になる状態変化。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-008",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "冷たいコップの外側の水滴は主に何からできる？",
+    "options": [
+      "空気中の酸素だけ",
+      "空気中の水蒸気",
+      "コップ内の水がガラスを通過",
+      "ガラスが水に変化"
+    ],
+    "answer": 1,
+    "explanation": "水蒸気が冷やされ凝縮する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-009",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "説明「液体の表面から起こる気化」に最もよく当てはまる用語は？",
+    "options": [
+      "蒸発",
+      "沸騰",
+      "沸点",
+      "融解"
+    ],
+    "answer": 0,
+    "explanation": "蒸発とは、液体の表面から起こる気化。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-010",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "室温で洗濯物が乾く主な変化は？",
+    "options": [
+      "必ず沸騰",
+      "凝固",
+      "融解",
+      "蒸発"
+    ],
+    "answer": 3,
+    "explanation": "沸点未満でも表面から水が気化する。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-011",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "説明「液体の内部からも気化が起こる現象」に最もよく当てはまる用語は？",
+    "options": [
+      "昇華",
+      "凝固",
+      "沸騰",
+      "融点"
+    ],
+    "answer": 2,
+    "explanation": "沸騰とは、液体の内部からも気化が起こる現象。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-012",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "沸騰中の純粋な水の温度は圧力一定で通常どうなる？",
+    "options": [
+      "質量と同じ値になる",
+      "ほぼ一定",
+      "無限に上がる",
+      "必ず0℃になる"
+    ],
+    "answer": 1,
+    "explanation": "加えた熱は主に気化に使われる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-013",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "説明「純粋な物質が融解するときの温度」に最もよく当てはまる用語は？",
+    "options": [
+      "融点",
+      "沸点",
+      "蒸留",
+      "気化"
+    ],
+    "answer": 0,
+    "explanation": "融点とは、純粋な物質が融解するときの温度。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-014",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "氷と水が共存して融けているときの温度は1気圧で約？",
+    "options": [
+      "100℃",
+      "50℃",
+      "−100℃",
+      "0℃"
+    ],
+    "answer": 3,
+    "explanation": "純粋な氷の融点は約0℃。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-015",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "説明「液体が沸騰するときの温度」に最もよく当てはまる用語は？",
+    "options": [
+      "融解",
+      "凝縮",
+      "沸点",
+      "昇華"
+    ],
+    "answer": 2,
+    "explanation": "沸点とは、液体が沸騰するときの温度。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-016",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "純粋な水の沸点は1気圧で約？",
+    "options": [
+      "1000℃",
+      "100℃",
+      "0℃",
+      "10℃"
+    ],
+    "answer": 1,
+    "explanation": "圧力の条件をそろえると沸点は物質に固有。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-017",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "説明「固体と気体が液体を経ず直接変わる状態変化」に最もよく当てはまる用語は？",
+    "options": [
+      "昇華",
+      "蒸留",
+      "凝固",
+      "蒸発"
+    ],
+    "answer": 0,
+    "explanation": "昇華とは、固体と気体が液体を経ず直接変わる状態変化。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-018",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "ドライアイスが直接気体になるのは？",
+    "options": [
+      "融解だけ",
+      "凝固",
+      "溶解だけ",
+      "昇華"
+    ],
+    "answer": 3,
+    "explanation": "固体の二酸化炭素が直接気体になる。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-019",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "説明「液体を沸騰させ生じた気体を冷やして取り出す方法」に最もよく当てはまる用語は？",
+    "options": [
+      "気化",
+      "沸騰",
+      "蒸留",
+      "融解"
+    ],
+    "answer": 2,
+    "explanation": "蒸留とは、液体を沸騰させ生じた気体を冷やして取り出す方法。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  },
+  {
+    "id": "science-g1-u07-020",
+    "grade": 1,
+    "subject": "理科",
+    "unit": "状態変化",
+    "difficulty": "basic",
+    "question": "食塩水から水を取り出す方法は？",
+    "options": [
+      "手で水の粒を選ぶ",
+      "蒸留",
+      "ろ紙だけで食塩を除く",
+      "磁石で水を引く"
+    ],
+    "answer": 1,
+    "explanation": "水を蒸発させて冷やし液体として集める。",
+    "prereq": [
+      "理科|0|小学校の理科"
+    ]
+  }
+]

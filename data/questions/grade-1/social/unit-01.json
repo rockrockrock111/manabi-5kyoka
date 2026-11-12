@@ -36,5 +36,385 @@
     "answer": 1,
     "explanation": "ユーラシア大陸。",
     "difficulty": "basic"
+  },
+  {
+    "id": "social-g1-u01-001",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "説明「赤道を0度として南北の位置を表す角度」に最もよく当てはまる用語は？",
+    "options": [
+      "緯度",
+      "経度",
+      "本初子午線",
+      "海洋"
+    ],
+    "answer": 0,
+    "explanation": "緯度とは、赤道を0度として南北の位置を表す角度。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-002",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "北緯30度の地点は赤道のどちら側？",
+    "options": [
+      "南側",
+      "必ず東側",
+      "必ず西側",
+      "北側"
+    ],
+    "answer": 3,
+    "explanation": "北緯は赤道より北の位置を示す。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-003",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "説明「本初子午線を0度として東西の位置を表す角度」に最もよく当てはまる用語は？",
+    "options": [
+      "時差",
+      "北半球",
+      "経度",
+      "赤道"
+    ],
+    "answer": 2,
+    "explanation": "経度とは、本初子午線を0度として東西の位置を表す角度。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-004",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "東経135度は本初子午線からどちらへ測った位置？",
+    "options": [
+      "南へ135度",
+      "東へ135度",
+      "西へ135度",
+      "北へ135度"
+    ],
+    "answer": 1,
+    "explanation": "経度は東西の角度。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-005",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "説明「緯度0度で地球を南北に分ける基準の線」に最もよく当てはまる用語は？",
+    "options": [
+      "赤道",
+      "本初子午線",
+      "大陸",
+      "南半球"
+    ],
+    "answer": 0,
+    "explanation": "赤道とは、緯度0度で地球を南北に分ける基準の線。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-006",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "赤道に近い地域の緯度の絶対値は？",
+    "options": [
+      "必ず90度",
+      "必ず180度",
+      "測れない",
+      "小さい"
+    ],
+    "answer": 3,
+    "explanation": "赤道が緯度0度。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-007",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "説明「経度0度の基準となる子午線」に最もよく当てはまる用語は？",
+    "options": [
+      "海洋",
+      "地球儀",
+      "本初子午線",
+      "時差"
+    ],
+    "answer": 2,
+    "explanation": "本初子午線とは、経度0度の基準となる子午線。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-008",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "本初子午線が通る都市として知られるのは？",
+    "options": [
+      "カイロ",
+      "ロンドン",
+      "東京",
+      "シドニー"
+    ],
+    "answer": 1,
+    "explanation": "ロンドンの旧グリニッジ天文台を通る線が基準。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-009",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "説明「地域の標準時の違い」に最もよく当てはまる用語は？",
+    "options": [
+      "時差",
+      "大陸",
+      "北半球",
+      "緯度"
+    ],
+    "answer": 0,
+    "explanation": "時差とは、地域の標準時の違い。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-010",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "経度が15度違うと太陽の動きによる時刻の差は約？",
+    "options": [
+      "15時間",
+      "24時間",
+      "1分",
+      "1時間"
+    ],
+    "answer": 3,
+    "explanation": "地球は約24時間で360度回転する。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-011",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "説明「地球上の大きく連続した陸地」に最もよく当てはまる用語は？",
+    "options": [
+      "南半球",
+      "経度",
+      "大陸",
+      "海洋"
+    ],
+    "answer": 2,
+    "explanation": "大陸とは、地球上の大きく連続した陸地。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-012",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "面積が最も大きい大陸は？",
+    "options": [
+      "南アメリカ大陸",
+      "ユーラシア大陸",
+      "南極大陸",
+      "オーストラリア大陸"
+    ],
+    "answer": 1,
+    "explanation": "ヨーロッパとアジアが連続する最大の陸地。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-013",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "説明「地球表面を広く覆う海」に最もよく当てはまる用語は？",
+    "options": [
+      "海洋",
+      "北半球",
+      "地球儀",
+      "赤道"
+    ],
+    "answer": 0,
+    "explanation": "海洋とは、地球表面を広く覆う海。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-014",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "三大洋のうち面積が最大なのは？",
+    "options": [
+      "大西洋",
+      "インド洋",
+      "地中海",
+      "太平洋"
+    ],
+    "answer": 3,
+    "explanation": "太平洋が三大洋の中で最も広い。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-015",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "説明「赤道より北側の半球」に最もよく当てはまる用語は？",
+    "options": [
+      "緯度",
+      "本初子午線",
+      "北半球",
+      "南半球"
+    ],
+    "answer": 2,
+    "explanation": "北半球とは、赤道より北側の半球。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-016",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "日本の大部分が位置する半球は？",
+    "options": [
+      "西半球のみ",
+      "北半球",
+      "南半球",
+      "必ず両極だけ"
+    ],
+    "answer": 1,
+    "explanation": "日本は赤道の北にある。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-017",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "説明「赤道より南側の半球」に最もよく当てはまる用語は？",
+    "options": [
+      "南半球",
+      "地球儀",
+      "経度",
+      "時差"
+    ],
+    "answer": 0,
+    "explanation": "南半球とは、赤道より南側の半球。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-018",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "オーストラリアで日本の夏ごろに迎える季節は？",
+    "options": [
+      "必ず夏",
+      "一年中春",
+      "季節が一切ない",
+      "冬"
+    ],
+    "answer": 3,
+    "explanation": "南北半球では季節がおよそ逆になる。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-019",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "説明「地球を縮めて球体で表した模型」に最もよく当てはまる用語は？",
+    "options": [
+      "赤道",
+      "大陸",
+      "地球儀",
+      "緯度"
+    ],
+    "answer": 2,
+    "explanation": "地球儀とは、地球を縮めて球体で表した模型。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
+  },
+  {
+    "id": "social-g1-u01-020",
+    "grade": 1,
+    "subject": "社会",
+    "unit": "世界の地理",
+    "difficulty": "basic",
+    "question": "世界の距離や方向を形のひずみ少なく捉えるのに役立つものは？",
+    "options": [
+      "年表",
+      "地球儀",
+      "あらゆる平面地図で必ず同じ",
+      "棒グラフだけ"
+    ],
+    "answer": 1,
+    "explanation": "球面上の関係を表せる。",
+    "prereq": [
+      "社会|0|地図と日本の基本"
+    ]
   }
 ]

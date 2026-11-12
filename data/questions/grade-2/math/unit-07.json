@@ -1,0 +1,692 @@
+[
+  {
+    "id": "math-g2-u07-001",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "小さい順のデータ 3, 5, 7, 9, 11, 13, 15 の第3四分位数は？（中央値を除く）",
+    "options": [
+      "13",
+      "14",
+      "12",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "中央値9を除いた上位3個の中央値は13。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "3+10"
+    }
+  },
+  {
+    "id": "math-g2-u07-002",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "第1四分位数4、第3四分位数12のデータの四分位範囲は？",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "四分位範囲＝第3四分位数−第1四分位数＝8。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "12-4"
+    }
+  },
+  {
+    "id": "math-g2-u07-003",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "箱ひげ図で最小値5、最大値25。データの範囲は？",
+    "options": [
+      "19",
+      "22",
+      "20",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "範囲は最大値−最小値。25−5＝20。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "25-5"
+    }
+  },
+  {
+    "id": "math-g2-u07-004",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "小さい順のデータ 6, 8, 10, 12, 14, 16, 18 の第1四分位数は？（中央値を除く）",
+    "options": [
+      "10",
+      "8",
+      "9",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "中央値12を除いた下位3個の中央値は8。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "6+2"
+    }
+  },
+  {
+    "id": "math-g2-u07-005",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "小さい順のデータ 7, 9, 11, 13, 15, 17, 19 の第3四分位数は？（中央値を除く）",
+    "options": [
+      "17",
+      "18",
+      "16",
+      "19"
+    ],
+    "answer": 0,
+    "explanation": "中央値13を除いた上位3個の中央値は17。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "7+10"
+    }
+  },
+  {
+    "id": "math-g2-u07-006",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "第1四分位数8、第3四分位数16のデータの四分位範囲は？",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "四分位範囲＝第3四分位数−第1四分位数＝8。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "16-8"
+    }
+  },
+  {
+    "id": "math-g2-u07-007",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "箱ひげ図で最小値9、最大値29。データの範囲は？",
+    "options": [
+      "19",
+      "22",
+      "20",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "範囲は最大値−最小値。29−9＝20。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "29-9"
+    }
+  },
+  {
+    "id": "math-g2-u07-008",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "小さい順のデータ 10, 12, 14, 16, 18, 20, 22 の第1四分位数は？（中央値を除く）",
+    "options": [
+      "14",
+      "12",
+      "13",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "中央値16を除いた下位3個の中央値は12。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "10+2"
+    }
+  },
+  {
+    "id": "math-g2-u07-009",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "小さい順のデータ 11, 13, 15, 17, 19, 21, 23 の第3四分位数は？（中央値を除く）",
+    "options": [
+      "21",
+      "22",
+      "20",
+      "23"
+    ],
+    "answer": 0,
+    "explanation": "中央値17を除いた上位3個の中央値は21。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "11+10"
+    }
+  },
+  {
+    "id": "math-g2-u07-010",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "第1四分位数12、第3四分位数20のデータの四分位範囲は？",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "四分位範囲＝第3四分位数−第1四分位数＝8。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "20-12"
+    }
+  },
+  {
+    "id": "math-g2-u07-011",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "箱ひげ図で最小値13、最大値33。データの範囲は？",
+    "options": [
+      "19",
+      "22",
+      "20",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "範囲は最大値−最小値。33−13＝20。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "33-13"
+    }
+  },
+  {
+    "id": "math-g2-u07-012",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "小さい順のデータ 14, 16, 18, 20, 22, 24, 26 の第1四分位数は？（中央値を除く）",
+    "options": [
+      "18",
+      "16",
+      "17",
+      "15"
+    ],
+    "answer": 1,
+    "explanation": "中央値20を除いた下位3個の中央値は16。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "14+2"
+    }
+  },
+  {
+    "id": "math-g2-u07-013",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "小さい順のデータ 15, 17, 19, 21, 23, 25, 27 の第3四分位数は？（中央値を除く）",
+    "options": [
+      "25",
+      "26",
+      "24",
+      "27"
+    ],
+    "answer": 0,
+    "explanation": "中央値21を除いた上位3個の中央値は25。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "15+10"
+    }
+  },
+  {
+    "id": "math-g2-u07-014",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "第1四分位数16、第3四分位数24のデータの四分位範囲は？",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "四分位範囲＝第3四分位数−第1四分位数＝8。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "24-16"
+    }
+  },
+  {
+    "id": "math-g2-u07-015",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "箱ひげ図で最小値17、最大値37。データの範囲は？",
+    "options": [
+      "19",
+      "22",
+      "20",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "範囲は最大値−最小値。37−17＝20。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "37-17"
+    }
+  },
+  {
+    "id": "math-g2-u07-016",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "小さい順のデータ 18, 20, 22, 24, 26, 28, 30 の第1四分位数は？（中央値を除く）",
+    "options": [
+      "22",
+      "20",
+      "21",
+      "19"
+    ],
+    "answer": 1,
+    "explanation": "中央値24を除いた下位3個の中央値は20。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "18+2"
+    }
+  },
+  {
+    "id": "math-g2-u07-017",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "小さい順のデータ 19, 21, 23, 25, 27, 29, 31 の第3四分位数は？（中央値を除く）",
+    "options": [
+      "29",
+      "30",
+      "28",
+      "31"
+    ],
+    "answer": 0,
+    "explanation": "中央値25を除いた上位3個の中央値は29。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "19+10"
+    }
+  },
+  {
+    "id": "math-g2-u07-018",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "第1四分位数20、第3四分位数28のデータの四分位範囲は？",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "四分位範囲＝第3四分位数−第1四分位数＝8。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "28-20"
+    }
+  },
+  {
+    "id": "math-g2-u07-019",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "箱ひげ図で最小値21、最大値41。データの範囲は？",
+    "options": [
+      "19",
+      "22",
+      "20",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "範囲は最大値−最小値。41−21＝20。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "41-21"
+    }
+  },
+  {
+    "id": "math-g2-u07-020",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "basic",
+    "question": "小さい順のデータ 22, 24, 26, 28, 30, 32, 34 の第1四分位数は？（中央値を除く）",
+    "options": [
+      "26",
+      "24",
+      "25",
+      "23"
+    ],
+    "answer": 1,
+    "explanation": "中央値28を除いた下位3個の中央値は24。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "22+2"
+    }
+  },
+  {
+    "id": "math-g2-u07-021",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "standard",
+    "question": "A組は第1四分位数23、第3四分位数29。B組は第1四分位数21、第3四分位数32。B組の四分位範囲はA組よりいくつ大きい？",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "A組は6、B組は11。差は11−6＝5。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(32-(23-2))-((23+6)-23)"
+    }
+  },
+  {
+    "id": "math-g2-u07-022",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "standard",
+    "question": "小さい順の8個の値 24, 25, 27, 29, 31, 33, 35, 36 の四分位範囲は？",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "下位4個の中央値は26、上位4個は34。差は8。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "((33+35)/2)-((25+27)/2)"
+    }
+  },
+  {
+    "id": "math-g2-u07-023",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "standard",
+    "question": "A組は第1四分位数25、第3四分位数31。B組は第1四分位数23、第3四分位数34。B組の四分位範囲はA組よりいくつ大きい？",
+    "options": [
+      "4",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "A組は6、B組は11。差は11−6＝5。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(34-(25-2))-((25+6)-25)"
+    }
+  },
+  {
+    "id": "math-g2-u07-024",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "standard",
+    "question": "小さい順の8個の値 26, 27, 29, 31, 33, 35, 37, 38 の四分位範囲は？",
+    "options": [
+      "10",
+      "8",
+      "9",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "下位4個の中央値は28、上位4個は36。差は8。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "((35+37)/2)-((27+29)/2)"
+    }
+  },
+  {
+    "id": "math-g2-u07-025",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "standard",
+    "question": "A組は第1四分位数27、第3四分位数33。B組は第1四分位数25、第3四分位数36。B組の四分位範囲はA組よりいくつ大きい？",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "A組は6、B組は11。差は11−6＝5。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(36-(27-2))-((27+6)-27)"
+    }
+  },
+  {
+    "id": "math-g2-u07-026",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "standard",
+    "question": "A組は第1四分位数28、第3四分位数34。B組は第1四分位数26、第3四分位数37。B組の四分位範囲はA組よりいくつ大きい？",
+    "options": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "A組は6、B組は11。差は11−6＝5。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(37-(28-2))-((28+6)-28)"
+    }
+  },
+  {
+    "id": "math-g2-u07-027",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "standard",
+    "question": "小さい順の8個の値 29, 30, 32, 34, 36, 38, 40, 41 の四分位範囲は？",
+    "options": [
+      "7",
+      "10",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "下位4個の中央値は31、上位4個は39。差は8。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "((38+40)/2)-((30+32)/2)"
+    }
+  },
+  {
+    "id": "math-g2-u07-028",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "standard",
+    "question": "A組は第1四分位数30、第3四分位数36。B組は第1四分位数28、第3四分位数39。B組の四分位範囲はA組よりいくつ大きい？",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "A組は6、B組は11。差は11−6＝5。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(39-(30-2))-((30+6)-30)"
+    }
+  },
+  {
+    "id": "math-g2-u07-029",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "standard",
+    "question": "小さい順の8個の値 31, 32, 34, 36, 38, 40, 42, 43 の四分位範囲は？",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "下位4個の中央値は33、上位4個は41。差は8。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "((40+42)/2)-((32+34)/2)"
+    }
+  },
+  {
+    "id": "math-g2-u07-030",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "データの比較と箱ひげ図",
+    "difficulty": "standard",
+    "question": "A組は第1四分位数32、第3四分位数38。B組は第1四分位数30、第3四分位数41。B組の四分位範囲はA組よりいくつ大きい？",
+    "options": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "A組は6、B組は11。差は11−6＝5。",
+    "prereq": [
+      "数学|1|データの活用"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(41-(32-2))-((32+6)-32)"
+    }
+  }
+]

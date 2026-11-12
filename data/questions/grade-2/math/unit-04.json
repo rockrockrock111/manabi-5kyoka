@@ -36,5 +36,695 @@
     "answer": 0,
     "explanation": "合同では対応する辺・角が等しい。",
     "difficulty": "basic"
+  },
+  {
+    "id": "math-g2-u04-001",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "4角形の内角の和は何度？",
+    "options": [
+      "360",
+      "361",
+      "359",
+      "362"
+    ],
+    "answer": 0,
+    "explanation": "n角形はn−2個の三角形に分けられるので、(4−2)×180＝360°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(4-2)*180"
+    }
+  },
+  {
+    "id": "math-g2-u04-002",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "三角形の2つの内角が5°と40°。残りの角は何度？",
+    "options": [
+      "136",
+      "134",
+      "137",
+      "135"
+    ],
+    "answer": 3,
+    "explanation": "内角の和180°から引き、180−5−40＝135°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-5-40"
+    }
+  },
+  {
+    "id": "math-g2-u04-003",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "平行な2直線に1本の直線が交わり、1つの角が6°。その角と錯角の位置にある角は何度？",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "平行線の錯角は等しいので6°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "6"
+    }
+  },
+  {
+    "id": "math-g2-u04-004",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "二等辺三角形の底角が7°。頂角は何度？",
+    "options": [
+      "168",
+      "166",
+      "167",
+      "165"
+    ],
+    "answer": 1,
+    "explanation": "底角2つは等しいので、180−2×7＝166°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-2*7"
+    }
+  },
+  {
+    "id": "math-g2-u04-005",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "三角形のある頂点の外角が98°、隣り合わない内角の一方が8°。もう一方の内角は何度？",
+    "options": [
+      "90",
+      "91",
+      "89",
+      "92"
+    ],
+    "answer": 0,
+    "explanation": "外角は隣り合わない2内角の和。98−8＝90°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "98-8"
+    }
+  },
+  {
+    "id": "math-g2-u04-006",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "9角形の内角の和は何度？",
+    "options": [
+      "1261",
+      "1259",
+      "1262",
+      "1260"
+    ],
+    "answer": 3,
+    "explanation": "n角形はn−2個の三角形に分けられるので、(9−2)×180＝1260°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(9-2)*180"
+    }
+  },
+  {
+    "id": "math-g2-u04-007",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "三角形の2つの内角が10°と40°。残りの角は何度？",
+    "options": [
+      "129",
+      "132",
+      "130",
+      "131"
+    ],
+    "answer": 2,
+    "explanation": "内角の和180°から引き、180−10−40＝130°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-10-40"
+    }
+  },
+  {
+    "id": "math-g2-u04-008",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "平行な2直線に1本の直線が交わり、1つの角が11°。その角と錯角の位置にある角は何度？",
+    "options": [
+      "13",
+      "11",
+      "12",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "平行線の錯角は等しいので11°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "11"
+    }
+  },
+  {
+    "id": "math-g2-u04-009",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "二等辺三角形の底角が12°。頂角は何度？",
+    "options": [
+      "156",
+      "157",
+      "155",
+      "158"
+    ],
+    "answer": 0,
+    "explanation": "底角2つは等しいので、180−2×12＝156°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-2*12"
+    }
+  },
+  {
+    "id": "math-g2-u04-010",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "三角形のある頂点の外角が103°、隣り合わない内角の一方が13°。もう一方の内角は何度？",
+    "options": [
+      "91",
+      "89",
+      "92",
+      "90"
+    ],
+    "answer": 3,
+    "explanation": "外角は隣り合わない2内角の和。103−13＝90°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "103-13"
+    }
+  },
+  {
+    "id": "math-g2-u04-011",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "14角形の内角の和は何度？",
+    "options": [
+      "2159",
+      "2162",
+      "2160",
+      "2161"
+    ],
+    "answer": 2,
+    "explanation": "n角形はn−2個の三角形に分けられるので、(14−2)×180＝2160°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(14-2)*180"
+    }
+  },
+  {
+    "id": "math-g2-u04-012",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "三角形の2つの内角が15°と40°。残りの角は何度？",
+    "options": [
+      "127",
+      "125",
+      "126",
+      "124"
+    ],
+    "answer": 1,
+    "explanation": "内角の和180°から引き、180−15−40＝125°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-15-40"
+    }
+  },
+  {
+    "id": "math-g2-u04-013",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "平行な2直線に1本の直線が交わり、1つの角が16°。その角と錯角の位置にある角は何度？",
+    "options": [
+      "16",
+      "17",
+      "15",
+      "18"
+    ],
+    "answer": 0,
+    "explanation": "平行線の錯角は等しいので16°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "16"
+    }
+  },
+  {
+    "id": "math-g2-u04-014",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "二等辺三角形の底角が17°。頂角は何度？",
+    "options": [
+      "147",
+      "145",
+      "148",
+      "146"
+    ],
+    "answer": 3,
+    "explanation": "底角2つは等しいので、180−2×17＝146°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-2*17"
+    }
+  },
+  {
+    "id": "math-g2-u04-015",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "三角形のある頂点の外角が108°、隣り合わない内角の一方が18°。もう一方の内角は何度？",
+    "options": [
+      "89",
+      "92",
+      "90",
+      "91"
+    ],
+    "answer": 2,
+    "explanation": "外角は隣り合わない2内角の和。108−18＝90°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "108-18"
+    }
+  },
+  {
+    "id": "math-g2-u04-016",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "19角形の内角の和は何度？",
+    "options": [
+      "3062",
+      "3060",
+      "3061",
+      "3059"
+    ],
+    "answer": 1,
+    "explanation": "n角形はn−2個の三角形に分けられるので、(19−2)×180＝3060°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(19-2)*180"
+    }
+  },
+  {
+    "id": "math-g2-u04-017",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "三角形の2つの内角が20°と40°。残りの角は何度？",
+    "options": [
+      "120",
+      "121",
+      "119",
+      "122"
+    ],
+    "answer": 0,
+    "explanation": "内角の和180°から引き、180−20−40＝120°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-20-40"
+    }
+  },
+  {
+    "id": "math-g2-u04-018",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "平行な2直線に1本の直線が交わり、1つの角が21°。その角と錯角の位置にある角は何度？",
+    "options": [
+      "22",
+      "20",
+      "23",
+      "21"
+    ],
+    "answer": 3,
+    "explanation": "平行線の錯角は等しいので21°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "21"
+    }
+  },
+  {
+    "id": "math-g2-u04-019",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "二等辺三角形の底角が22°。頂角は何度？",
+    "options": [
+      "135",
+      "138",
+      "136",
+      "137"
+    ],
+    "answer": 2,
+    "explanation": "底角2つは等しいので、180−2×22＝136°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-2*22"
+    }
+  },
+  {
+    "id": "math-g2-u04-020",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "basic",
+    "question": "三角形のある頂点の外角が113°、隣り合わない内角の一方が23°。もう一方の内角は何度？",
+    "options": [
+      "92",
+      "90",
+      "91",
+      "89"
+    ],
+    "answer": 1,
+    "explanation": "外角は隣り合わない2内角の和。113−23＝90°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "113-23"
+    }
+  },
+  {
+    "id": "math-g2-u04-021",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "standard",
+    "question": "正24角形の外角1つは何度？（分数可）",
+    "options": [
+      "15",
+      "16",
+      "14",
+      "17"
+    ],
+    "answer": 0,
+    "explanation": "外角の和は360°で全部等しいので、360÷24＝15°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "360/24"
+    }
+  },
+  {
+    "id": "math-g2-u04-022",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "standard",
+    "question": "正25角形の内角1つは何度？（分数可）",
+    "options": [
+      "833/5",
+      "823/5",
+      "838/5",
+      "828/5"
+    ],
+    "answer": 3,
+    "explanation": "内角の和(25−2)×180を25で割り828/5°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(25-2)*180/25"
+    }
+  },
+  {
+    "id": "math-g2-u04-023",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "standard",
+    "question": "二等辺三角形で頂角が底角1つの5倍。底角は何度？",
+    "options": [
+      "173/7",
+      "194/7",
+      "180/7",
+      "187/7"
+    ],
+    "answer": 2,
+    "explanation": "底角をxとすると5x＋2x＝180よりx＝180/7°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180/(5+2)"
+    }
+  },
+  {
+    "id": "math-g2-u04-024",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "standard",
+    "question": "平行線に1本の直線が交わり一方の角が47°。もう一方の交点でその角の同位角に隣接する角は何度？",
+    "options": [
+      "135",
+      "133",
+      "134",
+      "132"
+    ],
+    "answer": 1,
+    "explanation": "同位角は47°で、その隣の角は180°から引いて133°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-(27+20)"
+    }
+  },
+  {
+    "id": "math-g2-u04-025",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "standard",
+    "question": "三角形の外角が108°で、その隣り合わない内角の比が1対2。小さい内角は何度？",
+    "options": [
+      "36",
+      "37",
+      "35",
+      "38"
+    ],
+    "answer": 0,
+    "explanation": "二つの内角の和は外角108°。比1:2なので小さい方は3で割って36°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(28+80)/3"
+    }
+  },
+  {
+    "id": "math-g2-u04-026",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "standard",
+    "question": "正29角形の外角1つは何度？（分数可）",
+    "options": [
+      "389/29",
+      "331/29",
+      "418/29",
+      "360/29"
+    ],
+    "answer": 3,
+    "explanation": "外角の和は360°で全部等しいので、360÷29＝360/29°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "360/29"
+    }
+  },
+  {
+    "id": "math-g2-u04-027",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "standard",
+    "question": "正30角形の内角1つは何度？（分数可）",
+    "options": [
+      "167",
+      "170",
+      "168",
+      "169"
+    ],
+    "answer": 2,
+    "explanation": "内角の和(30−2)×180を30で割り168°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(30-2)*180/30"
+    }
+  },
+  {
+    "id": "math-g2-u04-028",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "standard",
+    "question": "二等辺三角形で頂角が底角1つの10倍。底角は何度？",
+    "options": [
+      "17",
+      "15",
+      "16",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "底角をxとすると10x＋2x＝180よりx＝15°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180/(10+2)"
+    }
+  },
+  {
+    "id": "math-g2-u04-029",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "standard",
+    "question": "平行線に1本の直線が交わり一方の角が52°。もう一方の交点でその角の同位角に隣接する角は何度？",
+    "options": [
+      "128",
+      "129",
+      "127",
+      "130"
+    ],
+    "answer": 0,
+    "explanation": "同位角は52°で、その隣の角は180°から引いて128°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "180-(32+20)"
+    }
+  },
+  {
+    "id": "math-g2-u04-030",
+    "grade": 2,
+    "subject": "数学",
+    "unit": "図形の性質",
+    "difficulty": "standard",
+    "question": "三角形の外角が113°で、その隣り合わない内角の比が1対2。小さい内角は何度？",
+    "options": [
+      "116/3",
+      "110/3",
+      "119/3",
+      "113/3"
+    ],
+    "answer": 3,
+    "explanation": "二つの内角の和は外角113°。比1:2なので小さい方は3で割って113/3°。",
+    "prereq": [
+      "数学|1|平面図形"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(33+80)/3"
+    }
   }
 ]

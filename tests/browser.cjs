@@ -34,6 +34,63 @@ for(const grade of [1,2,3])for(const subject of ['英語','数学','国語','理
  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,`overflow ${grade} ${subject}`);
 }
 console.log('PASS: all 15 grade/subject combinations, answer UI and mobile layout');
+// Every expanded unit is reachable via the grade/subject UI, with the new level filter.
+const previousIds = new Set(Object.keys(JSON.parse(fs.readFileSync(path.join(__dirname,'pre-expansion-hashes.json')))));
+let expandedUnits = 0;
+for (const grade of [1,2]) for (const subject of ['数学','英語','国語','理科','社会']) {
+ await page.locator('[data-page="home"]').click();
+ await page.locator(`[data-grade="${grade}"]`).click();
+ await page.locator(`[data-subject="${subject}"]`).click();
+ for (const unit of catalog.units.filter(u=>u.grade===grade && u.subject===subject)) {
+  await page.locator('#difficultySelect').selectOption('all');
+  await page.locator(`[data-unit="${unit.key}"]`).click();
+  // Existing questions stay at the front; advance through them to a new question.
+  let current;
+  while (true) {
+   const id = await page.evaluate(()=>session.ids[session.index]);
+   current = questions.find(q=>q.id===id);
+   if (!previousIds.has(id)) break;
+   await page.locator(`[data-choice="${current.answer}"]`).click();
+   await page.locator('[data-action="next"]').click();
+  }
+  assert.equal((await page.locator('h1').innerText()).replace(/\s+/g,' ').trim(),current.question.replace(/\s+/g,' ').trim());
+  await page.locator(`[data-choice="${current.answer}"]`).click();
+  assert.equal(await page.evaluate(id=>JSON.parse(localStorage.getItem('manabi-v2-progress')).attempts[id].correct,current.id),1);
+  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,unit.key);
+  await page.locator('[data-page="units"]').click();
+  if (['数学','英語'].includes(subject)) {
+   await page.locator('#difficultySelect').selectOption('standard');
+   await page.locator(`[data-unit="${unit.key}"]`).click();
+   const ids=await page.evaluate(()=>session.ids);
+   assert.ok(ids.length>=10);
+   assert.ok(ids.every(id=>questions.find(q=>q.id===id).difficulty==='standard'));
+   const q=questions.find(q=>q.id===ids[0]);
+   await page.locator(`[data-choice="${q.answer}"]`).click();
+   await page.locator('[data-page="units"]').click();
+  }
+  expandedUnits++;
+ }
+}
+assert.equal(expandedUnits,72);
+await page.locator('#difficultySelect').selectOption('advanced');
+assert.equal(await page.locator('[data-unit]').count(),0);
+assert.match(await page.locator('#app').innerText(),/この難易度は未収録/);
+await page.locator('#difficultySelect').selectOption('all');
+// Fresh daily work follows grade 2 instead of silently selecting elementary/grade 1.
+await page.evaluate(()=>localStorage.clear());
+await page.reload();await page.locator('[data-grade="2"]').click();
+await page.locator('[data-action="daily"]').click();
+const dailyIds=await page.evaluate(()=>session.ids);
+assert.ok(dailyIds.every(id=>questions.find(q=>q.id===id).grade===2));
+for(const id of dailyIds) {
+ const q=questions.find(q=>q.id===id);
+ await page.locator(`[data-choice="${q.answer}"]`).click();
+ await page.locator('[data-action="next"]').click();
+}
+assert.match(await page.locator('#app').innerText(),/5 \/ 5 正解/);
+assert.equal(await page.evaluate(()=>JSON.parse(localStorage.getItem('manabi-v2-progress')).sessions.at(-1).correct),5);
+console.log('PASS: all 72 expanded units, 31 standard sets, new-question grading, unavailable-level labels and grade-two daily history');
+
 // Import exactly the old v2 shape, including a pre-split question ID.
 const old=questions.find(q=>q.id==='q006');
 const fixture={version:2,attempts:{q006:{tries:2,correct:0,last:'2026-01-01'}},review:{q006:{level:0,due:'2026-01-01'}},sessions:[{date:'2026-01-01',mode:'単元学習',count:1,correct:0}],goal:5};

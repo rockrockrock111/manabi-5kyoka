@@ -378,5 +378,195 @@
     "prereq": [
       "英語|1|be動詞"
     ]
+  },
+  {
+    "id": "english-g1-u07-021",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "standard",
+    "question": "Ken is running in the park now. を疑問文にすると？",
+    "options": [
+      "Is Ken running in the park now?",
+      "Does Ken running in the park now?",
+      "Is Ken run in the park now?",
+      "Is Ken to run in the park now?"
+    ],
+    "answer": 0,
+    "explanation": "進行形の疑問文はbe動詞を前に出し、ing形は保つ。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-022",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "standard",
+    "question": "Ken usually studies at home, but is running in the park now. 今しているのは？",
+    "options": [
+      "毎日の習慣しか述べていない",
+      "必ず家で勉強中",
+      "昨日の行動のみ",
+      "running in the park"
+    ],
+    "answer": 3,
+    "explanation": "but以降の現在進行形が今の動作。usuallyの習慣と区別する。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-023",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "standard",
+    "question": "Aya is writing a letter now. を疑問文にすると？",
+    "options": [
+      "Is Aya write a letter now?",
+      "Is Aya to write a letter now?",
+      "Is Aya writing a letter now?",
+      "Does Aya writing a letter now?"
+    ],
+    "answer": 2,
+    "explanation": "進行形の疑問文はbe動詞を前に出し、ing形は保つ。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-024",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "standard",
+    "question": "Aya usually studies at home, but is writing a letter now. 今しているのは？",
+    "options": [
+      "昨日の行動のみ",
+      "writing a letter",
+      "毎日の習慣しか述べていない",
+      "必ず家で勉強中"
+    ],
+    "answer": 1,
+    "explanation": "but以降の現在進行形が今の動作。usuallyの習慣と区別する。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-025",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "standard",
+    "question": "Mina is making a cake now. を疑問文にすると？",
+    "options": [
+      "Is Mina making a cake now?",
+      "Does Mina making a cake now?",
+      "Is Mina make a cake now?",
+      "Is Mina to make a cake now?"
+    ],
+    "answer": 0,
+    "explanation": "進行形の疑問文はbe動詞を前に出し、ing形は保つ。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-026",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "standard",
+    "question": "Mina usually studies at home, but is making a cake now. 今しているのは？",
+    "options": [
+      "毎日の習慣しか述べていない",
+      "必ず家で勉強中",
+      "昨日の行動のみ",
+      "making a cake"
+    ],
+    "answer": 3,
+    "explanation": "but以降の現在進行形が今の動作。usuallyの習慣と区別する。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-027",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "standard",
+    "question": "Riku is swimming in the pool now. を疑問文にすると？",
+    "options": [
+      "Is Riku swim in the pool now?",
+      "Is Riku to swim in the pool now?",
+      "Is Riku swimming in the pool now?",
+      "Does Riku swimming in the pool now?"
+    ],
+    "answer": 2,
+    "explanation": "進行形の疑問文はbe動詞を前に出し、ing形は保つ。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-028",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "standard",
+    "question": "Riku usually studies at home, but is swimming in the pool now. 今しているのは？",
+    "options": [
+      "昨日の行動のみ",
+      "swimming in the pool",
+      "毎日の習慣しか述べていない",
+      "必ず家で勉強中"
+    ],
+    "answer": 1,
+    "explanation": "but以降の現在進行形が今の動作。usuallyの習慣と区別する。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-029",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "standard",
+    "question": "Emi is studying math now. を疑問文にすると？",
+    "options": [
+      "Is Emi studying math now?",
+      "Does Emi studying math now?",
+      "Is Emi study math now?",
+      "Is Emi to study math now?"
+    ],
+    "answer": 0,
+    "explanation": "進行形の疑問文はbe動詞を前に出し、ing形は保つ。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u07-030",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "現在進行形",
+    "difficulty": "standard",
+    "question": "Emi usually studies at home, but is studying math now. 今しているのは？",
+    "options": [
+      "毎日の習慣しか述べていない",
+      "必ず家で勉強中",
+      "昨日の行動のみ",
+      "studying math"
+    ],
+    "answer": 3,
+    "explanation": "but以降の現在進行形が今の動作。usuallyの習慣と区別する。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
   }
 ]

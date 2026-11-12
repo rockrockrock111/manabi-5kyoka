@@ -629,5 +629,235 @@
     "prereq": [
       "数学|0|小学校の計算"
     ]
+  },
+  {
+    "id": "math-g1-u01-026",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "standard",
+    "question": "朝の気温は−4℃。昼に7℃上がり、夜に5℃下がった。夜の気温は？（℃の数値）",
+    "options": [
+      "-1",
+      "-3",
+      "0",
+      "-2"
+    ],
+    "answer": 3,
+    "explanation": "−4＋7−5＝−2℃。変化を符号付きで足す。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-4+7-5"
+    }
+  },
+  {
+    "id": "math-g1-u01-027",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "standard",
+    "question": "(-5)²−4×(-5) の値は？",
+    "options": [
+      "44",
+      "47",
+      "45",
+      "46"
+    ],
+    "answer": 2,
+    "explanation": "括弧付きの負数の2乗は25。負の積を引くので25＋20＝45。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-5)**2-4*(-5)"
+    }
+  },
+  {
+    "id": "math-g1-u01-028",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "standard",
+    "question": "基準点より6m下から8m上がり、その後2m下がった。基準点からの高さは？（mの数値）",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "-1"
+    ],
+    "answer": 1,
+    "explanation": "基準より下を負として、−6＋8−2＝0m。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-6+8-2"
+    }
+  },
+  {
+    "id": "math-g1-u01-029",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "standard",
+    "question": "(-7)×(3−7)＋(-3)² の値は？",
+    "options": [
+      "37",
+      "38",
+      "36",
+      "39"
+    ],
+    "answer": 0,
+    "explanation": "括弧と累乗を先に計算し、−7×(-4)＋9＝37。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-7)*(3-7)+(-3)**2"
+    }
+  },
+  {
+    "id": "math-g1-u01-030",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "standard",
+    "question": "5回の測定値の基準10からの差が−8, 8, −2, 3, 1だった。測定値の平均は？",
+    "options": [
+      "57/5",
+      "47/5",
+      "62/5",
+      "52/5"
+    ],
+    "answer": 3,
+    "explanation": "差の合計は2。平均は10＋2/5＝52/5。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "10+(-8+8-2+3+1)/5"
+    }
+  },
+  {
+    "id": "math-g1-u01-031",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "standard",
+    "question": "朝の気温は−9℃。昼に11℃上がり、夜に4℃下がった。夜の気温は？（℃の数値）",
+    "options": [
+      "-3",
+      "0",
+      "-2",
+      "-1"
+    ],
+    "answer": 2,
+    "explanation": "−9＋11−4＝−2℃。変化を符号付きで足す。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-9+11-4"
+    }
+  },
+  {
+    "id": "math-g1-u01-032",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "standard",
+    "question": "(-10)²−3×(-10) の値は？",
+    "options": [
+      "132",
+      "130",
+      "131",
+      "129"
+    ],
+    "answer": 1,
+    "explanation": "括弧付きの負数の2乗は100。負の積を引くので100＋30＝130。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-10)**2-3*(-10)"
+    }
+  },
+  {
+    "id": "math-g1-u01-033",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "standard",
+    "question": "基準点より11m下から15m上がり、その後2m下がった。基準点からの高さは？（mの数値）",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "基準より下を負として、−11＋15−2＝2m。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "-11+15-2"
+    }
+  },
+  {
+    "id": "math-g1-u01-034",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "standard",
+    "question": "(-12)×(2−12)＋(-2)² の値は？",
+    "options": [
+      "125",
+      "123",
+      "126",
+      "124"
+    ],
+    "answer": 3,
+    "explanation": "括弧と累乗を先に計算し、−12×(-10)＋4＝124。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "(-12)*(2-12)+(-2)**2"
+    }
+  },
+  {
+    "id": "math-g1-u01-035",
+    "grade": 1,
+    "subject": "数学",
+    "unit": "正負の数",
+    "difficulty": "standard",
+    "question": "5回の測定値の基準10からの差が−13, 13, −2, 3, 1だった。測定値の平均は？",
+    "options": [
+      "47/5",
+      "62/5",
+      "52/5",
+      "57/5"
+    ],
+    "answer": 2,
+    "explanation": "差の合計は2。平均は10＋2/5＝52/5。",
+    "prereq": [
+      "数学|0|小学校の計算"
+    ],
+    "verification": {
+      "kind": "arithmetic",
+      "expression": "10+(-13+13-2+3+1)/5"
+    }
   }
 ]

@@ -378,5 +378,195 @@
     "prereq": [
       "英語|1|be動詞"
     ]
+  },
+  {
+    "id": "english-g1-u06-021",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "standard",
+    "question": "Ken can swim fast, but I cannot. できないと述べている人は？",
+    "options": [
+      "I",
+      "Ken",
+      "二人とも",
+      "誰もいない"
+    ],
+    "answer": 0,
+    "explanation": "cannotはできないという意味。後半のIがその主語。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-022",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "standard",
+    "question": "Ken can swim fast. を疑問文にする。正しいものは？",
+    "options": [
+      "Does Ken can swim fast?",
+      "Can Ken to swim fast?",
+      "Is Ken can swim fast?",
+      "Can Ken swim fast?"
+    ],
+    "answer": 3,
+    "explanation": "canを主語の前へ出し、動詞は原形のまま。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-023",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "standard",
+    "question": "Aya can play the piano, but I cannot. できないと述べている人は？",
+    "options": [
+      "二人とも",
+      "誰もいない",
+      "I",
+      "Aya"
+    ],
+    "answer": 2,
+    "explanation": "cannotはできないという意味。後半のIがその主語。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-024",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "standard",
+    "question": "Aya can play the piano. を疑問文にする。正しいものは？",
+    "options": [
+      "Is Aya can play the piano?",
+      "Can Aya play the piano?",
+      "Does Aya can play the piano?",
+      "Can Aya to play the piano?"
+    ],
+    "answer": 1,
+    "explanation": "canを主語の前へ出し、動詞は原形のまま。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-025",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "standard",
+    "question": "Mina can read English books, but I cannot. できないと述べている人は？",
+    "options": [
+      "I",
+      "Mina",
+      "二人とも",
+      "誰もいない"
+    ],
+    "answer": 0,
+    "explanation": "cannotはできないという意味。後半のIがその主語。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-026",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "standard",
+    "question": "Mina can read English books. を疑問文にする。正しいものは？",
+    "options": [
+      "Does Mina can read English books?",
+      "Can Mina to read English books?",
+      "Is Mina can read English books?",
+      "Can Mina read English books?"
+    ],
+    "answer": 3,
+    "explanation": "canを主語の前へ出し、動詞は原形のまま。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-027",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "standard",
+    "question": "Riku can make lunch, but I cannot. できないと述べている人は？",
+    "options": [
+      "二人とも",
+      "誰もいない",
+      "I",
+      "Riku"
+    ],
+    "answer": 2,
+    "explanation": "cannotはできないという意味。後半のIがその主語。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-028",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "standard",
+    "question": "Riku can make lunch. を疑問文にする。正しいものは？",
+    "options": [
+      "Is Riku can make lunch?",
+      "Can Riku make lunch?",
+      "Does Riku can make lunch?",
+      "Can Riku to make lunch?"
+    ],
+    "answer": 1,
+    "explanation": "canを主語の前へ出し、動詞は原形のまま。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-029",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "standard",
+    "question": "Emi can sing this song, but I cannot. できないと述べている人は？",
+    "options": [
+      "I",
+      "Emi",
+      "二人とも",
+      "誰もいない"
+    ],
+    "answer": 0,
+    "explanation": "cannotはできないという意味。後半のIがその主語。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
+  },
+  {
+    "id": "english-g1-u06-030",
+    "grade": 1,
+    "subject": "英語",
+    "unit": "助動詞can",
+    "difficulty": "standard",
+    "question": "Emi can sing this song. を疑問文にする。正しいものは？",
+    "options": [
+      "Does Emi can sing this song?",
+      "Can Emi to sing this song?",
+      "Is Emi can sing this song?",
+      "Can Emi sing this song?"
+    ],
+    "answer": 3,
+    "explanation": "canを主語の前へ出し、動詞は原形のまま。",
+    "prereq": [
+      "英語|1|be動詞"
+    ]
   }
 ]
